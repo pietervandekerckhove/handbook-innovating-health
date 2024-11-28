@@ -215,7 +215,13 @@ TEST FOR UTTERANCES DISCUSSION DOES NOT WORK HERE
         async>
 </script>
 
-
+<script src="https://utteranc.es/client.js"
+        repo="handbook-innovating-health"
+        issue-term="pathname"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
 
 Explore the patient and family dynamics in focus group (Interview Mark)
 
