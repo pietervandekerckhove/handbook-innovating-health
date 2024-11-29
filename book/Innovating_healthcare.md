@@ -1,8 +1,12 @@
 # Innovating and entrepreneuring scalable solutions within health organizations: An introduction for practitioners
 
+Last updated 29.11.2024
+
 ## Outline
 
 ## Preface
+* Aim: This handbook is aimed at care professionals, patients, care organization managers (hospitals, health insurers) people working in startups, people working in health innovation in government or academia or anyone interested and motivated to make an impact with their innovative drive in the health system. This book should empower these people to make a change.
+  
 * Who should read it and why?
 
 (INSERT H5P quiz here with suggestion to read the book, but need to extrac the data on the back-end)
