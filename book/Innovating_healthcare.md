@@ -186,6 +186,10 @@ check Astra Zeneca patient founder
 
 check more initiatives at the Patient Innovation Bootcamp
 
+Check the growing libraries of patient stories: https://www.patientervaringsverhalen.nl/
+
+And check this platform (In Dutch): https://intalk.nl/
+
 
 From a care professional perspective
 
