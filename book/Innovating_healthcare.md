@@ -1,7 +1,5 @@
 # Innovating and entrepreneuring scalable solutions within health organizations: An introduction for practitioners
 
-Last updated 29.11.2024
-
 ## Outline
 
 ## Preface
@@ -88,6 +86,12 @@ Learning goal: understand how differences between socio-technical product servic
 * Canada (Ken Redekop)
 * China (ESHPM contacts, PhD students)
 
+## Create your vision
+
+Example I believe we need to work toward sustainable healthcare and healign environment, through whichp people can practice a healing mindfulness experience
+
+Meditation and mindfullness can be used in healing practice
+
 ## Create you own innovation pathway
 ```{note}
 Learning goal: understand how differences between innovation pathways impact innovation strategies
@@ -123,7 +127,7 @@ case AYA family room UZA: process self-funded, patient-driven innovation
 ```{note}
 Learning goal: be able to apply a strategy for your starting point with strategic advantage
 ```
-* Find your purpose driven mission start: Topic of innovation: Developing a strategic starting point: Megatrends and strategies of the organization (Valeu-based healthcare, cost-efficiency, prodider driven)
+* Find your purpose driven mission start in line with the organization: Topic of innovation: Developing a strategic starting point: Megatrends and strategies of the organization (Valeu-based healthcare, cost-efficiency, prodider driven)
 
 explain your mission to different people in the organizations with different communication strategies
 
@@ -169,6 +173,8 @@ Theoretical criteria, knowledge types and inference types
 
 ### Generative co-design sessions + business development tools to guide strategic decisions regarding revenue streams, the behaviors are integrated in these sessions
 
+Explain process and explain how creative tools work and mindfulness and vision exercises
+
 #### Explore
 
 * Mission driven start
@@ -213,23 +219,6 @@ example patient expert interviews with questions
 <iframe src="https://tudelft.h5p.com/content/1292435448749375067/embed" aria-label="Learning from patient experience" width="1088" height="637" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://tudelft.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
 
 
-TEST FOR UTTERANCES DISCUSSION DOES NOT WORK HERE
-
-<script src="https://utteranc.es/client.js"
-        repo="handbook-innovating-health"
-        issue-term="pathname"
-        theme="github-light"
-        crossorigin="anonymous"
-        async>
-</script>
-
-<script src="https://utteranc.es/client.js"
-        repo="handbook-innovating-health"
-        issue-term="pathname"
-        theme="github-light"
-        crossorigin="anonymous"
-        async>
-</script>
 
 <script src=https://utteranc.es/client.js
         repo="pietervandekerckhove/handbook-innovating-health"
