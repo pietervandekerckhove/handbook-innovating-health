@@ -5,7 +5,7 @@ parts:
   - caption: Contents
     chapters:
       - file: preface.md
-      - file: overview.md
+      - file: innovating-healthcare/overview.md
         sections:
         - file: innovating-healthcare/section1.md
         - file: innovating-healthcare/section2.md
