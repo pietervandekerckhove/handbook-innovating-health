@@ -9,7 +9,7 @@ only_build_toc_files: true
 
 html:
   favicon : "figures/TB_favicon.ico"
-  baseurl :  "https://pietervandekerckhove.github.io/handbook-innovation-health/" 
+  baseurl :  "https://pietervandekerckhove.github.io/handbook-innovating-health/" 
 
 sphinx:
   config:
