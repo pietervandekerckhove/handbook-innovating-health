@@ -9,6 +9,6 @@ parts:
         sections:
         - file: innovating-healthcare/section1.md
         - file: innovating-healthcare/section2.md
-        - file: innovating-healthcare/Innovating-healthcare.md
+        - file: innovating-healthcare/Innovating_healthcare.md
       - file: references.md
     
