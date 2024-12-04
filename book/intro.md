@@ -1,6 +1,6 @@
 (intro)=
-# Welcome to the Template Book
+# Introduction
 
-_Write book intro here. This is the first page the student will see when opening the url._
+"Innovating and entrepreneuring scalable solutions within health organizations: An introduction for practitioners." is a handbook made for practitioners to innovate from within the organization. 
 
-This book can be used as a template for other books. It includes a starter package of the software developed by the TeachBooks initiative.
+* Explain structure of the guide

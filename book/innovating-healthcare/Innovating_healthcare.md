@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream:book/Innovating_healthcare.md
 # Innovating and entrepreneuring scalable solutions within health organizations: An introduction for practitioners
 
 ## Outline
@@ -89,6 +90,9 @@ Learning goal: understand how differences between socio-technical product servic
 * China (ESHPM contacts, PhD students)
 
 ## Create your vision
+=======
+# Create your vision
+>>>>>>> Stashed changes:book/innovating-healthcare/Innovating_healthcare.md
 
 Example I believe we need to work toward sustainable healthcare and healing environment, through whichp people can practice a healing mindfulness experience
 
