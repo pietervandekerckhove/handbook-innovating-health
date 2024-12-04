@@ -5,7 +5,5 @@ parts:
   - caption: Contents
     chapters:
       - file: Innovating_healthcare.md
-      sections:
-      - file: some_content/text_and_code.ipynb
     - file: references.md
     
