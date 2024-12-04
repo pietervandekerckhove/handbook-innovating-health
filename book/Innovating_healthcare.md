@@ -178,18 +178,28 @@ Explain process and explain how creative tools work and mindfulness and vision e
 
 * Mission driven start
 
-Feeling the pain firsthand and wanting to make a change
+It is essential that you build a mission and vision and try to clarify what the general aim would be. 
+
+It could be a great benefit if you have semeone related to your initiative who has the Feeling the pain firsthand and wanting to make a change
 
 
 From a patient perspective:
 
-Check Lennart Zielstra Rezolve Medical
+Check patient expert and founder Lennart Zielstra Rezolve Medical
 
-check Bemyeyes https://www.bemyeyes.com/
+check patient expert and founder Bemyeyes https://www.bemyeyes.com/
 
 check Astra Zeneca patient founder
 
+check patient expert and founder Digizorg Merel Backers https://www.linkedin.com/in/merelbackers/
+
+
+There are also many different patient startup networks:
+
 check more initiatives at the Patient Innovation Bootcamp
+
+
+There are patient stories others can work with:
 
 Check the growing libraries of patient stories: https://www.patientervaringsverhalen.nl/
 
