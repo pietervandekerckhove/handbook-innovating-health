@@ -88,7 +88,7 @@ Learning goal: understand how differences between socio-technical product servic
 
 ## Create your vision
 
-Example I believe we need to work toward sustainable healthcare and healign environment, through whichp people can practice a healing mindfulness experience
+Example I believe we need to work toward sustainable healthcare and healing environment, through whichp people can practice a healing mindfulness experience
 
 Meditation and mindfullness can be used in healing practice
 
