@@ -4,15 +4,6 @@ root: intro.md
 parts:
   - caption: Contents
     chapters:
-<<<<<<< Updated upstream
-    - file: some_content/overview.md
-      sections:
-      - file: some_content/text_and_code.ipynb
-    - file: references.md
-    - file: changelog.md
-    - file: credits.md
-    - file: Innovating_healthcare.md
-=======
       - file: preface.md
       - file: overview.md
         sections:
@@ -20,5 +11,4 @@ parts:
         - file: innovating-healthcare/section2.md
         - file: innovating-healthcare/Innovating-healthcare.md
       - file: references.md
->>>>>>> Stashed changes
     
