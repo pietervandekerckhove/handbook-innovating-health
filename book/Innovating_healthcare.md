@@ -325,7 +325,7 @@ dr. Pieter Vandekerckhove
 
 
 Acknowledgements
-TU Delft support from Julie Kirsch, Tom van Woudenburg and the library 
+TU Delft support from Julie Kirsch, Tom van Woudenberg and the library 
 Strategig support from Walter Greenleaf
 Bettina Maisch
 
