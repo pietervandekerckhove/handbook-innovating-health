@@ -93,7 +93,7 @@ Example I believe we need to work toward sustainable healthcare and healing envi
 
 Meditation and mindfullness can be used in healing practice
 
-Discuss underneath what tips and tricks you use to develop your vision:
+Discuss underneath what tips and tricks you use to develop your vision: (I NEED TO SEPERATE EACH CHAPTER IN A SEPERATE MARKDOWN FILE TO MAKE SEPERATE DISCUSSIONS)
 
 <script src=https://utteranc.es/client.js
         repo="pietervandekerckhove/handbook-innovating-health"
@@ -103,11 +103,17 @@ Discuss underneath what tips and tricks you use to develop your vision:
         async>
 </script>
 
-## Create you own innovation pathway
+## Create your own innovation pathway
 ```{note}
 Learning goal: understand how differences between innovation pathways impact innovation strategies
 ```
-### Innovating scope and layers of complexicity: 
+
+There are standard innovation pathways for drugs and medical devices but a large array of innovaitons does not have an innovation pathway set out: e.g. sofware-driven interventions, called digital therapeutics (See Germany DIGA), or theranostics (See the area of diabetes, see review article) based on technological advancements in biomarkers (nanomedicine) and digital delivery of the drugs or interventions (also virtual with XR applications)
+
+Explain general process
+
+
+### Chosing a scope and aim will determine the innovation pathway: 
 optimalisation, develop new care pathway, revise socio-technological product service system, this will impact feasibility and scope for scalability: and strategy for implementation (Health technology assessment has strict requirements)
 
 * start of the innovation can be at fundamental research but also at a later stage
@@ -127,11 +133,27 @@ consider incoporating ethical values in the design of the problem-solution early
 
 
 
-* draft your innovation pathway
+### Developing your innovation pathway
 
-case from Dutch AYA network (see latest article from Carla, Sophia and I): innovation through national support organizations
+Developing your innovation pathway is like an action-research process where you learn from every step you take. 
 
-case AYA family room UZA: process self-funded, patient-driven innovation
+Some key lessons could be shared here when looking as key aspects in the innovation pathways:
+
+#### Fast-track trough non-for profit hosting your solution
+
+```{tip}
+Use national organizations: case from Dutch AYA network (see latest article from Carla, Sophia and I): innovation through national support organizations
+```
+
+```{tip}
+Try to connect existing solutions and learn from their mistakes in their pathways: today one could couple the existing interventions that can help with diagnostics and couple them with new interventions. For example a foundation developed a succesful serious game in the USA called Re-mission 2 you could try to leverage that game with new technologies to improve wellbeing in personalized XR environments. This would be an innovation pathway bringin exisitng innovations together and working towards a market access strategy that may involve a reimbursement strategy https://hopelab.org/case-study/re-mission/. Re-mission 2 showed benefits in terms of improved adherence to treatment and indicators of cancer-rleated self-efficacy and knowledge in young people with cancer, and it seems that they did not apply for FDA approval. A potential strategy could be to use a middle-growth strategy and work with pharmaceutical companies to leverage support for market access in conjunction with an existing or new treatment.
+```
+
+#### Fast-track through leveraging experts in your network
+
+```{tip}
+case AYA family room UZA: process self-funded, patient-driven innovationU
+```
 
 
 ## Preparing the organization
@@ -300,5 +322,11 @@ Exercise: what could be the beachead strategy for this intitiative? The Unique v
 ## About the author team
 
 dr. Pieter Vandekerckhove
+
+
+Acknowledgements
+TU Delft support from Julie Kirsch, Tom van Woudenburg and the library 
+Strategig support from Walter Greenleaf
+Bettina Maisch
 
 
