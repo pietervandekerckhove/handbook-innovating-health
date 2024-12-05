@@ -93,6 +93,16 @@ Example I believe we need to work toward sustainable healthcare and healing envi
 
 Meditation and mindfullness can be used in healing practice
 
+Discuss underneath what tips and tricks you use to develop your vision:
+
+<script src=https://utteranc.es/client.js
+        repo="pietervandekerckhove/handbook-innovating-health"
+        issue-term="pathname"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
+
 ## Create you own innovation pathway
 ```{note}
 Learning goal: understand how differences between innovation pathways impact innovation strategies
