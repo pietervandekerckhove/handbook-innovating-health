@@ -167,7 +167,7 @@ explain your mission to different people in the organizations with different com
 * Synergize behaviors within the existing organzation: 
 Healthcare organizations are hierarchical administrative organizations with many individual entrepreneurs, who are conditioned to innovate in very specific spaces controlled by laws and medical guidelines
 
-Healthcare orgnizations are not used to radical innovative behaviour
+Healthcare organizations are not used to radical innovative behaviour
 
 Alignment with leadership at different levels in the organization
 
@@ -252,7 +252,7 @@ dr. Joyce van Meurs (combining insights from patient experience, genetic insight
 
 
 
-* differece need and solution driven
+* difference need and solution driven
 
 first problem searching in different layers (behind hte problem)
 
@@ -289,7 +289,9 @@ starting simple validation to more complex validation
 Look for creative places in your organization, like the Create4Care lab at Erasmus MC or Rotterdam Square validation processes, you can use to validate clinical aspects of your innovation
 ```
 
-#### Financial strategies (funding and investors)
+#### Resource management strategies (funding and investors)
+
+Try to understand what kind of money you need to survive and how the financial revenue streams look like. 
 
 Map out the different revenue streams on different levels, care organization, wider network of organizations on a regional and national level: e.g. does the ward have an innovation budget? The hospital? the health insurer? the government?
 
@@ -304,9 +306,21 @@ Integrating a reveneu stream on the patient journey and solution map.
 
 strategy for research funding in first five years (See slides Steve)
 
+##### Financial strategies
+
+Using your money wisely is important. It could be used to build a minimum viable product.
+
 pre-seed funding
+
 larger grants
 
+crowdfunding strategies
+
+Venture capital investments
+
+```{tip}
+When pitching your idea to investors, irrespective of the level, it is important to use the right terminology and show the right numbers. It is a good practice to start from the TAM SAM SOM calculations to show the market size. check out these videos here https://www.coursera.org/learn/open-innovation-entrepreneurship 
+```
 
 #### From wide vision for the unique value proposition to focus on a beachhead market strategy
 
@@ -317,7 +331,9 @@ Look at megatrends and priorities in the health system you want to have a first 
 
 see Gartner videos
 
+```{tip}
 Exercise: what could be the beachead strategy for this intitiative? The Unique value proposition support to manage chronic disease crisis during treatment with a virtual avator who providesa a mindfulness intervetion
+```
 
 ## About the author team
 
