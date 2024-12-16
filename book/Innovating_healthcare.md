@@ -128,6 +128,7 @@ optimalisation, develop new care pathway, revise socio-technological product ser
 
 Front-loading future needs, sustainability concerns, work-staff concerns, 
 
+(check with Jeroen van den Hoven en Stefan Buijsman)
 consider incoporating ethical values in the design of the problem-solution early, e.g. regarding research ethics, but also regarding the use of AI see this book https://www.who.int/publications/i/item/9789240029200 or this free online course https://openwho.org/courses/ethics-ai
 
 
@@ -154,6 +155,7 @@ Try to connect existing solutions and learn from their mistakes in their pathway
 ```{tip}
 case AYA family room UZA: process self-funded, patient-driven innovationU
 ```
+
 
 
 ## Preparing the organization
@@ -299,7 +301,7 @@ Map out the different revenue streams on different levels, care organization, wi
 ```{tip}
 Start assessing and modelling how your innovation can reduce costs, many hospitals are looking to be more efficient within the given budget by the health insurer, look at the case of a circular healthcare initiative that made the business case by showing how they reduced costs to the hospital by reusing medical waste material here on page 91 in the open textbook 'Creating a circular healthcare ecnomomy' : https://open.umn.edu/opentextbooks/textbooks/1507
 ```
-
+check also course circular strategies
 
 
 Integrating a reveneu stream on the patient journey and solution map.
