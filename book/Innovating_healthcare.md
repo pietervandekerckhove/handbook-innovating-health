@@ -53,7 +53,7 @@ This is a handbook made for practitioners to innovate from within the organizati
 * Explain structure of the guide
 
 
-## 1. What is innovating and entrepreneuring in health organizations (hospitals)?
+## What is innovating and entrepreneuring in health organizations (hospitals)?
 ```{note}
 Learning goal: understand that innovation in healthcare organizations requires a strategic entrepreneurial approach
 ```
@@ -67,7 +67,7 @@ Learning goal: understand that innovation in healthcare organizations requires a
 1. from fundamental research organizations (Universities) to clinical pracitce
 
 
-## 1. Innovating in socio-technical product service systems in healthcare on different levels
+## Innovating in socio-technical product service systems in healthcare on different levels
 ```{note}
 Learning goal: understand how differences between socio-technical product service systems on different levels impact health innovation
 ```
@@ -112,6 +112,7 @@ There are standard innovation pathways for drugs and medical devices but a large
 
 Explain general process
 
+Overarching innovation theory to keep in mind is the C-K theory, design theory which helps to explain that you need to move with a group of people from the well known knowledge to the conceptual space to develop a new idea.
 
 ### Chosing a scope and aim will determine the innovation pathway: 
 optimalisation, develop new care pathway, revise socio-technological product service system, this will impact feasibility and scope for scalability: and strategy for implementation (Health technology assessment has strict requirements)
