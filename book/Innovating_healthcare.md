@@ -198,7 +198,8 @@ develop strategy to change mindset from solution driven to problem driven
 
 * structure to support processes needs to be adapted to organization, difficult to find time, finding the right people at the right time is important who are interested in spending extra time in innovation
 
-### Stakeholder asssembly procedure
+
+### Stakeholder assembly procedure
 
 * select stakeholders
 
@@ -206,6 +207,12 @@ C-K process flow from unknown to known
 Theoretical criteria, knowledge types and inference types
 
 * assemble diverse stakeholder team 
+
+### Setting up a team and managing collaborative projects
+
+Try to get everyone on board in a team, develop a team name, assign roles and tasks
+
+You can use free software tools to work collaboratively like Google Docs or Miro
 
 ### Generative co-design sessions + business development tools to guide strategic decisions regarding revenue streams, the behaviors are integrated in these sessions
 
