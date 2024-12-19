@@ -212,7 +212,7 @@ Theoretical criteria, knowledge types and inference types
 
 Try to get everyone on board in a team, develop a team name, assign roles and tasks
 
-You can use free software tools to work collaboratively like Google Docs or Miro
+You can use free software tools to work collaboratively like Google Docs, Notion for tasks or Miro for creative making and prototyping
 
 ### Generative co-design sessions + business development tools to guide strategic decisions regarding revenue streams, the behaviors are integrated in these sessions
 
