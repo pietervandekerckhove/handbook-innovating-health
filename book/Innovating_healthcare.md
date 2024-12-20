@@ -208,6 +208,15 @@ Theoretical criteria, knowledge types and inference types
 
 * assemble diverse stakeholder team 
 
+It is important to recruit people with the appropriate expertise. 
+
+You could look for people coming from patient driven trainings like the Patient Innovation Bootcamp or from Mens Achter de Patient Academy in The Netherlands.
+
+```{admonition} Choose carefully
+:class: warning 
+Include relevant stakeholders early on
+```
+
 ### Setting up a team and managing collaborative projects
 
 Try to get everyone on board in a team, develop a team name, assign roles and tasks
@@ -284,6 +293,9 @@ Explore the patient and family dynamics in focus group (Interview Mark)
 clinical problem validation, understanding care pathways and patient journeys
 
 market problem validation
+
+###### Data analysis
+To properly analyse the data you can use AI or automation tools to transcribe interviews and analyze them. This is what a startup focused on called Qaring (folded). You could also use validated AI research tools to review large bodies of literature like ASReview.
 
 #### Create: prototyping technology and engineering
 
