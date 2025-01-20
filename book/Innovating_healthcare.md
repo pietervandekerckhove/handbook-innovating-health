@@ -4,7 +4,9 @@
 
 
 ## Preface
-* Aim: This handbook is aimed at care professionals, patients, care organization managers (hospitals, health insurers) people working in startups, people working in health innovation in government or academia or anyone interested and motivated to make an impact with their innovative drive in the health system. This book should empower these people to make a change.
+
+
+* Aim: This book should provide an actionable methodology for innovators in the trenches of healthcare organizations. This handbook is aimed at care professionals, patients, care organization managers (hospitals, health insurers) people working in startups, people working in health innovation in government or academia or anyone interested and motivated to make an impact with their innovative drive in the health system. This book should empower these people to make a change.
   
 * Who should read it and why?
 
