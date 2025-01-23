@@ -238,7 +238,7 @@ It is essential that you build a mission and vision and try to clarify what the 
 It could be a great benefit if you have semeone related to your initiative who has the Feeling the pain firsthand and wanting to make a change
 
 
-From a patient perspective:
+**From a patient perspective**:
 
 Check patient expert and founder Lennart Zielstra Rezolve Medical
 
@@ -261,7 +261,15 @@ Check the growing libraries of patient stories: https://www.patientervaringsverh
 And check this platform (In Dutch): https://intalk.nl/
 
 
-From a care professional perspective
+**Could there be opportunities for new initiatives given the current trend in value-based healthcare from a patient perspective?** 
+
+Have a look at this video and what opportunities you can identify?
+
+[![Why is everyone talking about value-based reimbursement? • Health Tech Forward](https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DnrHOTKLdZ3M)](https://www.youtube.com/watch?v=nrHOTKLdZ3M)
+
+
+
+**From a care professional perspective**
 
 dr. Sascha Verbruggen
 
@@ -307,6 +315,10 @@ Validation prototype types: functional, aesthaethic, cost impact
 
 starting simple validation to more complex validation
 1. early in practice validation
+
+Try a feasibility like this Virtual reality application combined with neurofeedback (see Rolbiecki, A. J., Craig, K., Polniak, M., Smith, J., Ghosh, P., & Mehr, D. R. (2023). Virtual reality and neurofeedback for Management of Cancer Symptoms: a feasibility pilot. American Journal of Hospice and Palliative Medicine®, 40(3), 291-298.)
+
+
 2. early HTA And evidence gathering for prototyping evalutation strategy and clinical evalutation strategy
 
 ```{tip}
