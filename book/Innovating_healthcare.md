@@ -267,7 +267,7 @@ Have a look at this video and what opportunities you can identify?
 
 [![Why is everyone talking about value-based reimbursement? • Health Tech Forward](https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DnrHOTKLdZ3M)](https://www.youtube.com/watch?v=nrHOTKLdZ3M)
 
-
+(youtube video URL generator  https://markdown-videos.jorgenkh.no/)
 
 **From a care professional perspective**
 
