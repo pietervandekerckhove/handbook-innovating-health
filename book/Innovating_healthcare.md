@@ -29,11 +29,16 @@ Somehow these integrated innovation pathways and practices dissolved. However, t
     
 1. To develop a human-centered experience: solutions are built to inform patiens through health data, problems with electronic medical records, show however there is no concert as it serves only one stakeholder
 
-2. To improve logisitc, reduce staff there are drone solutiosn to move blood and medical emergency devices, that require a harmony of legislation, technology, operations, infrastructre and care paths.
+2. To improve logistic, reduce staff there are drone solutions to move blood and medical emergency devices, that require a harmony of legislation, technology, operations, infrastructure and care paths.
     https://mavlab.tudelft.nl/fully-autonomous-drones-safely-made-way-for-the-high-priority-drones-above-tu-delft-campus/
 
     https://helicus.com/first-medical-transport-by-passenger-drone-in-eu/
 
+    https://www.tudelft.nl/en/stories/articles/a-new-air-traffic-puzzle-autonomous-drones-in-the-sky
+
+Have a look at this video of an unmanned aircraft coming to the rescue of a person with heart problems. What would the innovation path be for this innovation towards a scalable solution with a sustainable business model?
+
+[![Ambulance drone - Future Health Project](https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dhj6OZj4kB3k)](https://www.youtube.com/watch?v=hj6OZj4kB3k)
 
 
 
@@ -267,7 +272,7 @@ Have a look at this video and what opportunities you can identify?
 
 [![Why is everyone talking about value-based reimbursement? • Health Tech Forward](https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DnrHOTKLdZ3M)](https://www.youtube.com/watch?v=nrHOTKLdZ3M)
 
-(youtube video URL generator  https://markdown-videos.jorgenkh.no/)
+(youtube video incorporated in the book with the URL generator  https://markdown-videos.jorgenkh.no/)
 
 **From a care professional perspective**
 
