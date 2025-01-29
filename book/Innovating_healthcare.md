@@ -183,8 +183,8 @@ Alignment with leadership at different levels in the organization
 
 ### Communication and pitching your idea to different people in the organization
 
-Different people in the organization will have different incentives to focus on innovation and changes next to their core activities. That is why it is crucial to use those 20 seconds or 1 minute ot your maximum advantage. Try to come across in a professional way. Try to practice your pitch with people or sign up with the Toastmasters platform https://www.toastmasters.org/ and join a club and you can even gain free access to an AI tool Yoodli that analyzes your pitch: https://www.toastmasters.org/myhome/welcome-to-yoodli
-
+Different people in the organization will have different incentives to focus on innovation and changes next to their core activities. That is why it is crucial to use those 20 seconds or 1 minute ot your maximum advantage. Try to come across in a professional way. Try to practice your pitch with people or sign up with the Toastmasters platform https://www.toastmasters.org/ and join a club and you can even gain free access to a **generative AI tool Yoodli that analyzes your pitch: https://www.toastmasters.org/myhome/welcome-to-yoodli
+**
 
 ```{tip}
 Get the buy-in from the start: case study AYA Food for Care initiative needed more buy-in from management and a solid business plan
@@ -240,7 +240,7 @@ Explain process and explain how creative tools work and mindfulness and vision e
 
 It is essential that you build a mission and vision and try to clarify what the general aim would be. 
 
-It could be a great benefit if you have semeone related to your initiative who has the Feeling the pain firsthand and wanting to make a change
+It could be a great benefit if you have someone related to your initiative who has the Feeling the pain firsthand and wanting to make a change
 
 
 **From a patient perspective**:
@@ -309,8 +309,21 @@ clinical problem validation, understanding care pathways and patient journeys
 
 market problem validation
 
+
+```{tip}
+Research tools to prepare a qualitative interview: check out the generative AI tool called the Autonomous customer inteviewer made by prof Dries Faems: https://automaticinterviewerpublic-owoskccwim2h9e5nynhsix.streamlit.app/ 
+```
+
+
+
 ###### Data analysis
 To properly analyse the data you can use AI or automation tools to transcribe interviews and analyze them. This is what a startup focused on called Qaring (folded). You could also use validated AI research tools to review large bodies of literature like ASReview.
+
+
+```{tip}
+Research tools to analyse a qualitative interview: check out prof Dries Faems and Niklas Geiss generative AI based cool "Expert & Resaerch Interview Helper": https://niklasg27-interview-helper-interview-helper-v0-4-90hctr.streamlit.app/
+```
+
 
 #### Create: prototyping technology and engineering
 
@@ -379,11 +392,12 @@ Exercise: what could be the beachead strategy for this intitiative? The Unique v
 ## About the author team
 
 dr. Pieter Vandekerckhove
-
+Prof. dr. Bettina Maisch
+Dr. Steven Howard
 
 Acknowledgements
 TU Delft support from Julie Kirsch, Tom van Woudenberg and the library 
 Strategig support from Walter Greenleaf
-Bettina Maisch
+
 
 
