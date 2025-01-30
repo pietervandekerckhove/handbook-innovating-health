@@ -326,7 +326,9 @@ You could also use validated AI research tools to review large bodies of literat
 Research tools to analyse a qualitative interview: check out prof Dries Faems and Niklas Geiss generative AI based cool "Expert & Resaerch Interview Helper": https://niklasg27-interview-helper-interview-helper-v0-4-90hctr.streamlit.app/
 ```
 
-
+Advanced level:
+Try to gather input about the patient journey in a very detailed manner to work out a patient-level cost analysis of the pathway to quantify the paintpoint even better.
+For example, see this paper mapping subfertility pathways by dr. Maura Leusder: Patient-level cost analysis of subfertility pathways in the Dutch healthcare system  https://link.springer.com/article/10.1007/s10198-024-01744-5
 
 
 
@@ -380,6 +382,8 @@ Venture capital investments
 ```{tip}
 When pitching your idea to investors, irrespective of the level, it is important to use the right terminology and show the right numbers. It is a good practice to start from the TAM SAM SOM calculations to show the market size. check out these videos here https://www.coursera.org/learn/open-innovation-entrepreneurship 
 ```
+
+Exercise: try to develop a financial strategy for this succesfully evaluated prototype to help improve the scans for breast cancer patients: https://henryvandevelde.be/nl/awards/25/open-access-breast-couch
 
 #### From wide vision for the unique value proposition to focus on a beachhead market strategy
 
