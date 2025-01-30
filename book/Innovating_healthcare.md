@@ -183,6 +183,9 @@ Alignment with leadership at different levels in the organization
 
 see also the PDF tools from book to develop a team that the right characteristics: Healthcare by Design A User’s Guide to Healthcare Improvement; Barry Katz, Simon Mawer, 0 Future Medical Systems, LLC, Kara Harrington, Rob Lister, Schirin Lucie Richter and Svava Maria Atlad�ttir (book 2025)
 
+https://www.dropbox.com/scl/fi/kf1qftr0dn2qlsheudf4p/Discovery-Design-Worksheets_Future-Medical-Systems.pdf?rlkey=444vtb5yubxg0099oz25m2kdq&e=2&dl=0
+
+
 ```{figure} <book/figures/Healthcare by design Katz 2025>.png/.jpg
     ---
     height/width: <height or width in pixels>
