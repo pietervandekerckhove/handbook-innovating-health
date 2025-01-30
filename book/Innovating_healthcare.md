@@ -186,11 +186,10 @@ see also the PDF tools from book to develop a team that the right characteristic
 ```{figure} <book/figures/Healthcare by design Katz 2025>.png/.jpg
     ---
     height/width: <height or width in pixels>
-    name: <name of the figure>
-    align: left / center / right
-    figclass: left blank or "margin"
+    name: <Healthcare by design Katz 2025>
+    align: center
     ---
-    <Figure caption>
+    <Tool from Healthcare by design Katz 2025>
     ```
 
 
