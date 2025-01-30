@@ -181,6 +181,19 @@ Healthcare organizations are not used to radical innovative behaviour
 
 Alignment with leadership at different levels in the organization
 
+see also the PDF tools from book to develop a team that the right characteristics: Healthcare by Design A User’s Guide to Healthcare Improvement; Barry Katz, Simon Mawer, 0 Future Medical Systems, LLC, Kara Harrington, Rob Lister, Schirin Lucie Richter and Svava Maria Atlad�ttir (book 2025)
+
+```{figure} <book/figures/Healthcare by design Katz 2025>.png/.jpg
+    ---
+    height/width: <height or width in pixels>
+    name: <name of the figure>
+    align: left / center / right
+    figclass: left blank or "margin"
+    ---
+    <Figure caption>
+    ```
+
+
 ### Communication and pitching your idea to different people in the organization
 
 Different people in the organization will have different incentives to focus on innovation and changes next to their core activities. That is why it is crucial to use those 20 seconds or 1 minute ot your maximum advantage. Try to come across in a professional way. Try to practice your pitch with people or sign up with the Toastmasters platform https://www.toastmasters.org/ and join a club and you can even gain free access to a **generative AI tool Yoodli that analyzes your pitch: https://www.toastmasters.org/myhome/welcome-to-yoodli
