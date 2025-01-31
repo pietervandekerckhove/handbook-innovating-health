@@ -280,6 +280,10 @@ Check the growing libraries of patient stories: https://www.patientervaringsverh
 
 And check this platform (In Dutch): https://intalk.nl/
 
+```{tip}
+Try to look for outcomes that matter to patients, tangible and intangible and match that with the outcome that are relevant in the scientific community, for example have a look at the outcomes that are relevant for young adults and adolescents with cancer https://www.mdpi.com/2072-6694/17/3/454
+```
+
 
 **Could there be opportunities for new initiatives given the current trend in value-based healthcare from a patient perspective?** 
 
