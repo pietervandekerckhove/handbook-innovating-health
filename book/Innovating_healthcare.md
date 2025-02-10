@@ -186,14 +186,14 @@ see also the PDF tools from book to develop a team that the right characteristic
 https://www.dropbox.com/scl/fi/kf1qftr0dn2qlsheudf4p/Discovery-Design-Worksheets_Future-Medical-Systems.pdf?rlkey=444vtb5yubxg0099oz25m2kdq&e=2&dl=0
 
 
-```{figure} <book/figures/Healthcare by design Katz 2025>.png/.jpg
-    ---
-    height/width: <height or width in pixels>
-    name: <Healthcare by design Katz 2025>
-    align: center
-    ---
-    <Tool from Healthcare by design Katz 2025>
-    ```
+
+```{figure} ./figures/Healthcare-by-design-Katz-2025.png
+:height: 150px
+:name: figure-example
+
+Discovery Design Mindsets, A Tool for Reflection Individually/Team(Katz et al., 2025, Healthcare by Design tool)
+```
+
 
 
 ### Communication and pitching your idea to different people in the organization
