@@ -187,10 +187,8 @@ https://www.dropbox.com/scl/fi/kf1qftr0dn2qlsheudf4p/Discovery-Design-Worksheets
 
 
 ```{figure} ./figures/Capture.PNG
-    ---
     :height: 150px
     :name: Healthcare-by-design-Katz-2025
-    ---
     This is a screenshot not the Tool from Healthcare by design Katz 2025
 ```
 
