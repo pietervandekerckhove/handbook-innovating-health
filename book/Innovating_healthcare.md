@@ -10,7 +10,7 @@
   
 * Who should read it and why?
 
-(INSERT H5P quiz here with suggestion to read the book, but need to extrac the data on the back-end)
+(**For teaching assistants**: to assess the learning outcomes of the book: INSERT H5P quiz here with suggestion what is the main insights people want to get out of the interactive handbook, we need to be able to extract the data on the back-end + develop structure with llama to input questions and answers from discussion boards and have AI to extract and develop  https://www.llama.com/ key questions and answers for students that we can use in the assessment)
 
 If the next pandemic would break out tomorrow what would you do? We have seen unprecendted formidable actions from people innovating and being entrepreneurial to combat the Covid-19 crisis on all levels in an integrated way. (See the EURAM Symposium conference https://conferences.euram.academy/2025conference/symposia/#toggle-id-6)
 
