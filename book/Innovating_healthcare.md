@@ -100,7 +100,14 @@ Example I believe we need to work toward sustainable healthcare and healing envi
 
 Meditation and mindfullness can be used in healing practice
 
-Discuss underneath what tips and tricks you use to develop your vision: (I NEED TO SEPERATE EACH CHAPTER IN A SEPERATE MARKDOWN FILE TO MAKE SEPERATE DISCUSSIONS)
+Discuss underneath what tips and tricks you use to develop your vision: 
+
+One way to develop your vision about the future of healthcare is to develop a story that is compelling to you and reflect on the underlying ethical and societal values for you.
+
+Ask Lavinia if we can try the exercise of Sci-Fi storyline mapping starting from writing prompts from: Lavinia Marin (TU Delft) & Gitte van Helden (TU Delft)?
+
+
+(I NEED TO SEPERATE EACH CHAPTER IN A SEPERATE MARKDOWN FILE TO MAKE SEPERATE DISCUSSIONS)
 
 <script src=https://utteranc.es/client.js
         repo="pietervandekerckhove/handbook-innovating-health"
