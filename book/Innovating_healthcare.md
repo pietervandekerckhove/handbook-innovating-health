@@ -59,8 +59,31 @@ This is a handbook made for practitioners to innovate from within the organizati
 
 * Explain structure of the guide
 
+## Create your vision
 
-## What is innovating and entrepreneuring in health organizations (hospitals)?
+Example I believe we need to work toward sustainable healthcare and healing environment, through whichp people can practice a healing mindfulness experience
+
+Meditation and mindfullness can be used in healing practice
+
+Discuss underneath what tips and tricks you use to develop your vision: 
+
+One way to develop your vision about the future of healthcare is to develop a story that is compelling to you and reflect on the underlying ethical and societal values for you.
+
+Ask Lavinia if we can try the exercise of Sci-Fi storyline mapping starting from writing prompts from: Lavinia Marin (TU Delft) & Gitte van Helden (TU Delft)?
+
+
+(I NEED TO SEPERATE EACH CHAPTER IN A SEPERATE MARKDOWN FILE TO MAKE SEPERATE DISCUSSIONS)
+
+<script src=https://utteranc.es/client.js
+        repo="pietervandekerckhove/handbook-innovating-health"
+        issue-term="pathname"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
+
+
+## Need to understand the system: What is innovating and entrepreneuring in health organizations (hospitals)?
 ```{note}
 Learning goal: understand that innovation in healthcare organizations requires a strategic entrepreneurial approach
 ```
@@ -94,30 +117,9 @@ Learning goal: understand how differences between socio-technical product servic
 * Canada (Ken Redekop)
 * China (ESHPM contacts, PhD students)
 
-## Create your vision
-
-Example I believe we need to work toward sustainable healthcare and healing environment, through whichp people can practice a healing mindfulness experience
-
-Meditation and mindfullness can be used in healing practice
-
-Discuss underneath what tips and tricks you use to develop your vision: 
-
-One way to develop your vision about the future of healthcare is to develop a story that is compelling to you and reflect on the underlying ethical and societal values for you.
-
-Ask Lavinia if we can try the exercise of Sci-Fi storyline mapping starting from writing prompts from: Lavinia Marin (TU Delft) & Gitte van Helden (TU Delft)?
 
 
-(I NEED TO SEPERATE EACH CHAPTER IN A SEPERATE MARKDOWN FILE TO MAKE SEPERATE DISCUSSIONS)
-
-<script src=https://utteranc.es/client.js
-        repo="pietervandekerckhove/handbook-innovating-health"
-        issue-term="pathname"
-        theme="github-light"
-        crossorigin="anonymous"
-        async>
-</script>
-
-## Create your own innovation pathway
+## Step by step: create your own innovation pathway
 ```{note}
 Learning goal: understand how differences between innovation pathways impact innovation strategies
 ```
