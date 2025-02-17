@@ -316,7 +316,7 @@ dr. Sascha Verbruggen
 
 From a patient and health researcher point of view
 
-dr. Joyce van Meurs (combining insights from patient experience, genetic insights and lab insights)
+dr. Joyce van Meurs (combining insights from genetic insights and lab insights)
 
 
 
@@ -342,6 +342,21 @@ example patient expert interviews with questions
 Explore the patient and family dynamics in focus group (Interview Mark)
 
 clinical problem validation, understanding care pathways and patient journeys
+
+When looking at your diagnosis as a patient decades after the diagnosis happened it is interesting how profound the emotions are and how traumatic the impact can be, even if the cancer is cured.
+
+Here is a video of the comedian Tom Green who shared his experience shortly after diagnosis:
+[![The Tom Green Show - Cancer Special: Part 1](https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DWHD3L4RhiGA)](https://www.youtube.com/watch?v=WHD3L4RhiGA)
+
+[![The Tom Green Show - Cancer Special: Part 2](https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DsJboRvYDgx8)](https://www.youtube.com/watch?v=sJboRvYDgx8)
+
+
+Here is a video of Tom Green who shares his experience decades later:
+Why do you feel the pain challenges for Tom were so difficult to deal with? Can you identify different dimensions? Can you differentiate between what is important in his philosophy of life and what matters to society? 
+
+[![  Tom Green: I didn’t expect to survive testicular cancer](https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D0jso8SJTY_M)](https://www.youtube.com/watch?v=0jso8SJTY_M)
+
+
 
 market problem validation
 
