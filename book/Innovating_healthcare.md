@@ -128,6 +128,14 @@ There are standard innovation pathways for drugs and medical devices but a large
 
 Explain general process
 
+The established pharma and medtech innovation pathway can be found here:
+Read this article as well and identify the key step in Figure 1: https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2820562
+
+Have a look at this video by dr. Frederick Thielen about key issues to consider upfront in this innovation pathway.
+
+[![3 Things About Market Access](https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D8NhuaohK_Qg)](https://www.youtube.com/watch?v=8NhuaohK_Qg)
+
+
 Overarching innovation theory to keep in mind is the C-K theory, design theory which helps to explain that you need to move with a group of people from the well known knowledge to the conceptual space to develop a new idea.
 
 ### Chosing a scope and aim will determine the innovation pathway: 
