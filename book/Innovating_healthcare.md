@@ -333,7 +333,7 @@ example patient expert interviews with questions
 
 <script src=https://utteranc.es/client.js
         repo="pietervandekerckhove/handbook-innovating-health"
-        issue-term="pathname"
+        issue-term="video"
         theme="github-light"
         crossorigin="anonymous"
         async>
