@@ -69,7 +69,8 @@ Discuss underneath what tips and tricks you use to develop your vision:
 
 One way to develop your vision about the future of healthcare is to develop a story that is compelling to you and reflect on the underlying ethical and societal values for you.
 
-Ask Lavinia if we can try the exercise of Sci-Fi storyline mapping starting from writing prompts from: Lavinia Marin (TU Delft) & Gitte van Helden (TU Delft)?
+ATry the exercise of Sci-Fi storyline mapping starting from writing prompts from: Lavinia Marin (TU Delft) & Gitte van Helden (TU Delft) https://edusources.nl/materials/eee79e8a-5456-403d-9e5d-fba2f9686f72/sci-fi-storyline-mapping-starting-from-writing-prompts?tab=0. Use this exercises to make  to think about their vision for healthcare innovation and help them to make larger issues about healthcare innovation including ethical values, and inclusion and equality more explicit.
+
 
 
 (I NEED TO SEPERATE EACH CHAPTER IN A SEPERATE MARKDOWN FILE TO MAKE SEPERATE DISCUSSIONS)
@@ -121,8 +122,9 @@ Learning goal: understand how differences between socio-technical product servic
 
 ## Step by step: create your own innovation pathway
 ```{note}
-Learning goal: understand how differences between innovation pathways impact innovation strategies
+Learning goal: understand how differences between innovation pathways impact innovation strategies and apply front-loading to the innovation pathway
 ```
+ front-loading theory to explain that you must map key steps in the innovation pathway and start with those that you consider to be problematic in the future e.g. Front-loading future needs, sustainability concerns, work-staff concerns, 
 
 There are standard innovation pathways for drugs and medical devices but a large array of innovaitons does not have an innovation pathway set out: e.g. sofware-driven interventions, called digital therapeutics (See Germany DIGA), or theranostics (See the area of diabetes, see review article) based on technological advancements in biomarkers (nanomedicine) and digital delivery of the drugs or interventions (also virtual with XR applications)
 
@@ -135,6 +137,8 @@ Have a look at this video by dr. Frederick Thielen about key issues to consider 
 
 [![3 Things About Market Access](https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D8NhuaohK_Qg)](https://www.youtube.com/watch?v=8NhuaohK_Qg)
 
+
+Apply exercise: try 
 
 Overarching innovation theory to keep in mind is the C-K theory, design theory which helps to explain that you need to move with a group of people from the well known knowledge to the conceptual space to develop a new idea.
 
@@ -149,9 +153,7 @@ optimalisation, develop new care pathway, revise socio-technological product ser
 
 * Hertzlinger: look for strategic partnerships in the health system: Middle growht strategy
 
-* front-loading theory to explain that you must map key steps in the innovation pathway and start with those
 
-Front-loading future needs, sustainability concerns, work-staff concerns, 
 
 (check with Jeroen van den Hoven en Stefan Buijsman)
 consider incoporating ethical values in the design of the problem-solution early, e.g. regarding research ethics, but also regarding the use of AI see this book https://www.who.int/publications/i/item/9789240029200 or this free online course https://openwho.org/courses/ethics-ai
@@ -249,7 +251,11 @@ Theoretical criteria, knowledge types and inference types
 
 It is important to recruit people with the appropriate expertise. 
 
-You could look for people coming from patient driven trainings like the Patient Innovation Bootcamp or from Mens Achter de Patient Academy in The Netherlands.
+You could look for people coming from patient driven trainings like:
+* the Patient Innovation Bootcamp or from Mens Achter de Patient Academy (Patient as a Person Foundation) in The Netherlands https://mensachterdepatient.nl/english/default.aspx 
+* Relevant patient umbrella organizations who have an interest in collaboraive design innovation: e.g. for young adults with cancer https://ayazorgnetwerk.nl/
+* Organizations which focus on getting patients more engaged in the care profess: Patient in Regie (Patient Engagement)
+
 
 ```{admonition} Choose carefully
 :class: warning 
@@ -272,23 +278,20 @@ Explain process and explain how creative tools work and mindfulness and vision e
 
 It is essential that you build a mission and vision and try to clarify what the general aim would be. 
 
-It could be a great benefit if you have someone related to your initiative who has the Feeling the pain firsthand and wanting to make a change
+It could be a great benefit if you have someone related to your initiative who has been feeling the pain firsthand and wants to make a change.
 
 
-**From a patient perspective**:
+**Initiatives driven by a patient perspective case examples**:
 
-Check patient expert and founder Lennart Zielstra Rezolve Medical
-
-check patient expert and founder Bemyeyes https://www.bemyeyes.com/
-
-check Astra Zeneca patient founder
-
-check patient expert and founder Digizorg Merel Backers https://www.linkedin.com/in/merelbackers/
-
+* patient expert and founder Lennart Zielstra Rezolve Medical https://www.rezolvemedical.com/
+* patient expert and founder Bemyeyes https://www.bemyeyes.com/
+* Astra Zeneca patient founder
+* patient expert and founder Digizorg Merel Backers https://www.linkedin.com/in/merelbackers/
+* patient expert and entrepreneur: develop space to manage the data of patients:  https://www.digitaal-dossier.nl/
 
 There are also many different patient startup networks:
 
-check more initiatives at the Patient Innovation Bootcamp
+* Patient Innovation Bootcamp: https://patient-innovation.com/
 
 
 There are patient stories others can work with:
@@ -296,6 +299,8 @@ There are patient stories others can work with:
 Check the growing libraries of patient stories: https://www.patientervaringsverhalen.nl/
 
 And check this platform (In Dutch): https://intalk.nl/
+
+
 
 ```{tip}
 Try to look for outcomes that matter to patients, tangible and intangible and match that with the outcome that are relevant in the scientific community, for example have a look at the outcomes that are relevant for young adults and adolescents with cancer https://www.mdpi.com/2072-6694/17/3/454
@@ -420,15 +425,16 @@ strategy for research funding in first five years (See slides Steve)
 
 ##### Financial strategies
 
-Using your money wisely is important. It could be used to build a minimum viable product.
+Using your resources wisely is important, especially in the beginning as you could invest in developing your idea with more research, building a functional prototype or running a feasibility test. It could be used to build a minimum viable product.
 
-pre-seed funding
+There are different type of funding you can look for:
+* pre-seed funding
+* larger grants
+* crowdfunding strategies
+* Venture capital investments
 
-larger grants
-
-crowdfunding strategies
-
-Venture capital investments
+Strategically it is important to look for organizations that can provide financial support in different ways and who understand your mission about value-based healthcare:
+* https://cbusinez.nl/
 
 ```{tip}
 When pitching your idea to investors, irrespective of the level, it is important to use the right terminology and show the right numbers. It is a good practice to start from the TAM SAM SOM calculations to show the market size. check out these videos here https://www.coursera.org/learn/open-innovation-entrepreneurship 
