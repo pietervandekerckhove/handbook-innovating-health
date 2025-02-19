@@ -61,6 +61,15 @@ This is a handbook made for practitioners to innovate from within the organizati
 
 ## Create your vision
 
+<center>
+  <div style="padding: 10px; background-color: #00BBC8; border-radius: 10px; display: inline-block; font-weight: bold; font-size: 16px; color: #000; position: relative;">
+    <span style="background-color: white; color: #00BBC8; border-radius: 50%; padding: 5px 10px; font-size: 15px; font-weight: bold; margin-right: 8px; display: inline-block;">Learning goal</span>
+    Understand the role of a vision and be able to identify underlying ethical values in a vision
+  </div>
+</center>
+<br>
+
+
 Example I believe we need to work toward sustainable healthcare and healing environment, through whichp people can practice a healing mindfulness experience
 
 Meditation and mindfullness can be used in healing practice
@@ -69,15 +78,12 @@ Discuss underneath what tips and tricks you use to develop your vision:
 
 One way to develop your vision about the future of healthcare is to develop a story that is compelling to you and reflect on the underlying ethical and societal values for you.
 
-ATry the exercise of Sci-Fi storyline mapping starting from writing prompts from: Lavinia Marin (TU Delft) & Gitte van Helden (TU Delft) https://edusources.nl/materials/eee79e8a-5456-403d-9e5d-fba2f9686f72/sci-fi-storyline-mapping-starting-from-writing-prompts?tab=0. Use this exercises to make  to think about their vision for healthcare innovation and help them to make larger issues about healthcare innovation including ethical values, and inclusion and equality more explicit.
+Try the exercise of Sci-Fi storyline mapping starting from writing prompts from: Lavinia Marin (TU Delft) & Gitte van Helden (TU Delft) https://edusources.nl/materials/eee79e8a-5456-403d-9e5d-fba2f9686f72/sci-fi-storyline-mapping-starting-from-writing-prompts?tab=0. Use this exercises to think about your vision for healthcare innovation and larger issues about healthcare innovation and make your ethical values e.g. equality more explicit.
 
-
-
-(I NEED TO SEPERATE EACH CHAPTER IN A SEPERATE MARKDOWN FILE TO MAKE SEPERATE DISCUSSIONS)
 
 <script src=https://utteranc.es/client.js
         repo="pietervandekerckhove/handbook-innovating-health"
-        issue-term="pathname"
+        issue-term="vision discussion"
         theme="github-light"
         crossorigin="anonymous"
         async>
