@@ -96,6 +96,8 @@ Learning goal: understand that innovation in healthcare organizations requires a
 ```
 * many innovations are just lying there without an entrepreneurial strategy behind them so there is no long term impact
 
+Introduction lecture by dr. Sanne Allers (insert video and quiz here)
+
 * Overlap scientific behaviour and entrepreneurial behaviour relevant in health system driven by scientific insights
 
 * transdisicplenary approach from management and strategy, organizational sciences, health sciences, health economics, technology sciences, patient expertise, law and regulations, ethics, Human-centered and strategic design, entrepreneurship
@@ -112,6 +114,9 @@ Learning goal: understand how differences between socio-technical product servic
 
 1. definition
 1. different actors (stakeholers and evolving technology)
+
+insert video from health insurance perspective from prof. Marco Varkevisser
+
 1. Interaction technology people (example electronic medical records)
 2. Social determinants (Ramirez Promiting Health equity figure 2008), see also WHO Open course https://openwho.org/courses/sdh-concepts
 
