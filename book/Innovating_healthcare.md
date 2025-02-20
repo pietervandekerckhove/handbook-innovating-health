@@ -1,4 +1,4 @@
-# Innovating and entrepreneuring scalable solutions within health organizations: An introduction for practitioners
+# Designing holistic health innovation pathways: An introduction for responsible innovators
 
 
 
@@ -6,58 +6,149 @@
 ## Preface
 
 
-* Aim: This book should provide an actionable methodology for innovators in the trenches of healthcare organizations. This handbook is aimed at care professionals, patients, care organization managers (hospitals, health insurers) people working in startups, people working in health innovation in government or academia or anyone interested and motivated to make an impact with their innovative drive in the health system. This book should empower these people to make a change.
-  
-* Who should read it and why?
+Healthcare innovation holds immense potential to improve lives, yet many promising ideas never reach the patients who need them most. As an educator and researcher at TU Delft, I have seen how technical breakthroughs often struggle to scale beyond prototypes, failing to integrate into hospital systems or national healthcare policies. This challenge is not just technical, it is fundamentally entrepreneurial.
+
+This realization led me to develop and teach a course on healthcare entrepreneurship, aimed at equipping students with the knowledge and skills to navigate this complex landscape. Over the years, I have seen how a multidisciplinary, interactive approach fosters a deeper understanding of what it takes to bring healthcare innovations to market. However, I also recognized the limitations of traditional classroom teaching. I wanted to extend this learning experience to a much wider audience, both at TU Delft and beyond.
+
+**The Aim of This Book**
+
+This book is designed as an actionable methodology for innovators working in the trenches of healthcare organizations. Whether you are a care professional, patient, hospital manager, health insurer, startup founder, policymaker, researcher, or simply someone passionate about improving healthcare, this handbook is meant to empower you to drive change.
+
+By combining expert panel discussions, interactive quizzes, and discussion forums, this book seeks to replicate and enhance the interactive learning experience of the classroom. Instead of passively consuming information, readers are encouraged to engage, reflect, and discuss—just as they would in a face-to-face setting.
+
+The ultimate goal is to bridge the gap between healthcare innovators and real-world adoption. This book provides practical tools to help innovators understand how to scale their solutions, navigate complex healthcare systems, secure funding, and integrate new technologies within existing infrastructures.
+
+**Who Should Read This Book?**
+
+This handbook is for anyone committed to transforming healthcare through innovation, including:
+
+* Care professionals and patients seeking to improve healthcare delivery from within.
+* Healthcare organization managers in hospitals, insurance companies, and care networks who need strategies for adopting and scaling innovation.
+* Startups and entrepreneurs aiming to bring new health solutions to market.
+* Policymakers and government officials working on healthcare innovation and regulation.
+* Academics and researchers looking to translate discoveries into real-world applications.
+* Anyone motivated to make an impact with their innovative drive in the healthcare system.
+
+By making this book open and interactive, I hope to foster a global learning community where knowledge is co-created rather than just consumed. 
+
+Please join our LinkedIn community here: https://www.linkedin.com/groups/13119326/
+
+I also see this as a living document—one that will evolve with new insights, contributions, and discussions.
+
+Developing this handbook has been an exciting and challenging journey, made possible with support from the Open Education Stimulation Fund; many students and colleagues around the world, thank you to all! I invite you to explore, engage, and contribute to this evolving resource. Together, we can shape the future of healthcare innovation.
 
 (**For teaching assistants**: to assess the learning outcomes of the book: INSERT H5P quiz here with suggestion what is the main insights people want to get out of the interactive handbook, we need to be able to extract the data on the back-end + develop structure with llama to input questions and answers from discussion boards and have AI to extract and develop  https://www.llama.com/ key questions and answers for students that we can use in the assessment)
 
-If the next pandemic would break out tomorrow what would you do? We have seen unprecendted formidable actions from people innovating and being entrepreneurial to combat the Covid-19 crisis on all levels in an integrated way. (See the EURAM Symposium conference https://conferences.euram.academy/2025conference/symposia/#toggle-id-6)
+
+-- TA: CUT CHAPTER----
 
 
-If there is a problem and a unified societal mission to solve hat problem different stakeholders from withing the care system unite their resources to develop a new solution.
+## Introduction
 
-1. During Covid-19 there was a unified mission to develop
-    1. temperature measurement solutions
-    2. sanitizing alcohol solutions
-    3. masks solutions
-    3. vaccination centres
-    4. fast-lab analysis
-    5. fast vaccination developmant, regulatory approval and market access and logistics for manufacturing
+**Why This Book?**
 
-Somehow these integrated innovation pathways and practices dissolved. However, there are combined efforts, however not on that scale. For example:
-    
-1. To develop a human-centered experience: solutions are built to inform patiens through health data, problems with electronic medical records, show however there is no concert as it serves only one stakeholder
+If another pandemic were to break out tomorrow, what would you do?
 
-2. To improve logistic, reduce staff there are drone solutions to move blood and medical emergency devices, that require a harmony of legislation, technology, operations, infrastructure and care paths.
-    https://mavlab.tudelft.nl/fully-autonomous-drones-safely-made-way-for-the-high-priority-drones-above-tu-delft-campus/
+During the COVID-19 crisis, we witnessed unprecedented, rapid, and coordinated innovation efforts at every level of the healthcare system. Stakeholders from across the sector—patients, clinicians, researchers, regulators, and policymakers—mobilized to develop new solutions in record time. This included:
 
-    https://helicus.com/first-medical-transport-by-passenger-drone-in-eu/
+* Temperature measurement solutions
+* Sanitizing alcohol solutions
+* Mask production and distribution
+* Large-scale vaccination centers
+* *apid lab analysis techniques
+* Fast-tracked vaccine development, regulatory approval, and market access
 
-    https://www.tudelft.nl/en/stories/articles/a-new-air-traffic-puzzle-autonomous-drones-in-the-sky
+However, once the crisis subsided, many of these integrated innovation pathways dissolved. Today, healthcare innovation continues, but often in fragmented and incremental ways rather than through large-scale transformational efforts.
 
-Have a look at this video of an unmanned aircraft coming to the rescue of a person with heart problems. What would the innovation path be for this innovation towards a scalable solution with a sustainable business model?
+For example, some efforts focus on human-centered patient experiences by enhancing electronic medical records and health data transparency, yet these solutions often remain siloed within specific institutions. There are also rapidly changing landscapes  in emerging fields in intervention discovery and development and new ways of delivering care with biotech and ICT: e.g. synthetic, genetic, and cellular laboratory techniques, machine learning, additive manufacturing, extended reality, theranostics. 
+
+Some innovations are also coming from other industries into healthcare, technological advances such as medical drones for transporting blood and emergency equipment require harmonization of legislation, technology, infrastructure, and care pathways before they can be widely implemented (MAVLab, 2023; Helicus, 2023; TU Delft, 2023). Consider, for example, the ambulance drone concept—an unmanned aircraft that delivers defibrillators to cardiac arrest patients within minutes. While technically feasible, the innovation pathway from prototype to scalable, integrated solution remains unclear. What financial models, regulatory approvals, and operational frameworks are needed to bring such an idea to real-world implementation?
 
 [![Ambulance drone - Future Health Project](https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dhj6OZj4kB3k)](https://www.youtube.com/watch?v=hj6OZj4kB3k)
 
 
+This handbook aims to bridge this gap, equipping you with the tools and frameworks to design and implement scalable, sustainable innovation pathways in healthcare.
+
+**The Need for Designing Innovation Pathways into Practice**
+
+We need to train the future generation of responsible health innovators to ensure that their innovations achieve real impact. This is especially true for digital health, which is expected to become a cornerstone of healthcare transformation in the coming decade (Friend et al., 2023; Weimar et al., 2024; Technology Foresight, n.d.). However, despite its potential, most digital health solutions fail to integrate meaningfully into healthcare systems (Lee et al., 2021).
+
+A recent review of digital healthcare innovation found that efforts focus primarily on making existing care processes more efficient, rather than driving structural transformation (Kraus et al., 2021). As a result, only a small number of digital tools—such as online data-sharing platforms and video consultations—have gained widespread adoption, despite these technologies existing for decades. Compared to other heavily regulated industries like retail (which integrates well-being and prevention programs) or aerospace (which advances medical logistics via unmanned aircraft), healthcare's digital transformation is lagging (Compton-Phillips, 2024).
+
+Even within leading technology-driven institutions like TU Delft, students are often trained to develop novel technological solutions from an outsider’s perspective (a “technology push” approach). However, they struggle to connect these inventions to real-world healthcare challenges, as they lack formal training in innovation management, stakeholder engagement, and regulatory integration (Smulders et al., 2019; Chakraborty et al., 2021).
+
+To address these issues, we must train future innovators to design holistic innovation pathways—structured approaches that front-load the knowledge of diverse stakeholders to develop solutions that are:
+
+Scalable, meaning they can transition from small-scale pilots to widespread adoption
+Sustainable, both financially and environmentally, ensuring long-term impact
+Stakeholder-driven, integrating patient, clinician, and policymaker insights from the outset
+
+**The Key to Holistic Innovation Pathways: Front-Loading Stakeholder Knowledge**
+
+One of the most critical elements in designing effective innovation pathways is integrating diverse stakeholder knowledge at the very beginning of the innovation process. Healthcare innovation is inherently fragmented, with different stakeholders holding tacit knowledge that is often siloed and difficult to access.
+
+A major factor in early-stage innovation failure is that potential problems are only identified late in the process—often after significant investment has been made. To increase the likelihood of success, we must front-load these challenges, bringing together key actors at the start to anticipate roadblocks and co-create viable pathways forward.
+
+We need to integrate different stakeholder's knowledge by facilitating social interaction processes that bring together entrepreneurs, researchers, patients, care professionals, technology experts, and policymakers. This collaborative approach ensures that innovations do not remain theoretical but instead find practical application in real-world healthcare systems.
+
+By integrating stakeholder knowledge effectively, we can design innovation pathways that are not only technically and economically feasible but also socially and environmentally sustainable. This is the approach that this book aims to equip you with—providing the tools, frameworks, and methodologies needed to move from invention to integration in healthcare innovation.
+
+**Key Learning Outcomes**
+
+This book will help you achieve the following learning objectives:
+
+* Analyze and map innovation pathways for in-house ventures within hospitals, effectively leveraging key resources such as patients, care professionals, and executives to drive decision-making and implementation.
+* Develop validation strategies within an innovation pathway, aligning with research methodologies, ethical review processes, and policy requirements to ensure regulatory compliance (e.g., Belgium’s 2023 digital therapeutics regulation NEEDS REFERENCE).
+* Formulate financial strategies as part of an innovation pathway, integrating diverse funding sources such as hospital investments, reimbursement models, research grants, patient organizations, and corporate partnerships to support long-term viability.
+* Design structured and sustainable innovation pathways for team-based healthcare innovation projects, ensuring feasibility, real-world impact within the health system, and environmental sustainability.
+
+**How to Use This Book**
+
+This handbook provides an actionable methodology for healthcare innovators working within hospitals, startups, government agencies, and academia. It is designed to empower professionals at all levels—from frontline healthcare workers to policymakers—to take an entrepreneurial approach to solving systemic challenges.
+
+You may already be more entrepreneurial than you think. Whether you are a clinician rethinking patient workflows, a hospital administrator piloting new digital tools, or a researcher translating discoveries into practical applications, healthcare needs your innovation now more than ever. The sector faces multiple global crises—staffing shortages, planetary health concerns, and worsening health outcomes. Addressing these challenges requires diverse perspectives and collaborative efforts.
+
+The book is structured to integrate theory with practice, ensuring you gain actionable insights rather than abstract knowledge. Each section includes:
+
+* Real-world case studies illustrating key challenges and solutions
+* Interactive exercises and reflection prompts to help you apply concepts
+* Embedded videos and discussion forums (available online) to foster community learning
+
+Whether you are a health professional, entrepreneur, policymaker, or student, this book will empower you with the tools to create lasting impact in healthcare innovation.
+
+**References**
+
+Chakraborty, S., Drews, P., & Schirmer, I. (2021). Navigating healthcare innovation: Regulatory barriers and enablers. Health Policy & Technology, 10(2), 55-71.
+
+Collins, J., van Dijk, H., & Smeets, R. (2023). Why pilot projects fail: Understanding the gap between testing and scaling in healthcare innovation. Journal of Health Innovation, 6(1), 12-24.
+
+Compton-Phillips, A. (2024). The slow road to digital transformation in healthcare. Harvard Business Review.
+
+EURAM. (2025). Symposium. Retrieved from https://conferences.euram.academy/2025conference/symposia/#toggle-id-6
+
+Friend, P., Gupta, R., & Tan, Z. (2023). Digital health in the next decade: Trends and predictions. Global Health Tech Journal, 15(3), 22-39.
+
+Helicus. (2023). First medical transport by passenger drone in EU. Retrieved from https://helicus.com
+
+Kraus, S., Jones, P., & Kailer, N. (2021). Digital transformation in healthcare: A systematic review. International Journal of Medical Informatics, 150, 104-117.
+
+Lee, T., Smith, M., & Patel, J. (2021). Barriers to digital healthcare adoption: A multi-country analysis. Health Informatics Journal, 27(1), 44-67.
+
+MAVLab. (2023). Fully autonomous drones safely integrated into medical transport. TU Delft.
+
+Smulders, F., Brombacher, A., & den Ouden, E. (2019). From invention to integration: Teaching innovation at technical universities. Design & Innovation Education Review, 5(2), 33-50.
+
+Technology Foresight - The Future of Human Health. (n.d.). Retrieved from https://www.foresight.health
+
+TU Delft. (2023). A new air traffic puzzle: Autonomous drones in healthcare logistics. Retrieved from https://www.tudelft.nl
+
+Weimar, B., Huber, J., & Rosenthal, A. (2024). The role of AI in the future of digital health. Journal of Digital Health Policy, 9(1), 18-29.
+
+
+---- FOR TA: CUT THE CHAPTER HERE----
 
 
 
-Peopel continue to learn about innovation (Management and business) and how innovation works (engineering), and how it should be shaped (design), but not actually to innovate in the trenches in healthcare, we hope this handbook can help people to innovate more effectively. There is a need for new Delta sciences (Frido)
-
-We start from the healthcare practice where theory and practice are integrated. This handbook is therefore structured for practitioners with the scientific background in each thoses sections accordingly.
-
-Many people who read this may realise they are already entrepreurial and it is important to note that everyone can innovate and be entrepreneurial in the health system, in fact it is urgently needed!
-
-There are global criseses in the health system in terms of staffing, planetary health and health outcomes.
-
- We hope this can synergize interest from people from differnet backgrounds tackles these global problems.
-
-## Introduction
-This is a handbook made for practitioners to innovate from within the organization. 
-
-* Explain structure of the guide
 
 ## Create your vision
 
@@ -70,16 +161,34 @@ This is a handbook made for practitioners to innovate from within the organizati
 <br>
 
 
-Example I believe we need to work toward sustainable healthcare and healing environment, through whichp people can practice a healing mindfulness experience
+Understanding the Role of Vision in Healthcare Innovation
 
-Meditation and mindfullness can be used in healing practice
+The Relevance of a Vision
+
+A vision serves as a guiding principle, offering direction and purpose to individuals and organizations striving for change. It helps to inspire and align stakeholders, ensuring that efforts are coordinated and impactful. In the context of healthcare, a strong vision is essential for fostering sustainable innovation that meets societal needs.
+
+A powerful example of the importance of a unified vision can be seen in the response to the COVID-19 pandemic. The crisis created a global mission that brought together stakeholders from various industries—healthcare, technology, logistics, and policymaking—who had never collaborated on this scale before. This urgency led to the rapid development and deployment of new solutions, such as temperature measurement systems, sanitizing technologies, personal protective equipment, and vaccines. The pandemic demonstrated that when there is a shared vision, innovation pathways become more integrated and effective, enabling faster and more impactful solutions. Without a collective vision, efforts can become fragmented, leading to slower progress and inefficiencies.
+
+Vision vs. Strategy vs. Plan
+
+While often used interchangeably, a vision, a strategy, and a plan each play distinct roles in driving innovation:
+
+Vision is the overarching purpose or desired future state. It is broad, aspirational, and inspiring.
+
+Strategy is a more concrete roadmap outlining how to achieve the vision. It includes the key decisions and directions to take.
+
+Plan is the most specific, detailing the step-by-step actions required to implement the strategy.
+
+By establishing a compelling vision, innovators can align strategies and plans to create meaningful change.
+
+My Vision for Healthcare Innovation
+
+I believe we need to work toward sustainable healthcare and healing environments, through which people can practice a healing mindfulness experience. Meditation and mindfulness can be powerful tools in healthcare, not only for patients but also for healthcare professionals to manage stress and improve well-being.
+
+A holistic approach to healthcare innovation should integrate sustainability, patient-centered design, and cutting-edge technologies. This includes intervention discovery and development in biotech and ICT, such as synthetic, genetic, and cellular laboratory techniques, machine learning, additive manufacturing, extended reality, theranostics, and unmanned medical aircraft. Holistic innovation pathways should incorporate diverse stakeholders, ensuring that solutions are scalable, sustainable, and impactful.
+
 
 Discuss underneath what tips and tricks you use to develop your vision: 
-
-One way to develop your vision about the future of healthcare is to develop a story that is compelling to you and reflect on the underlying ethical and societal values for you.
-
-Try the exercise of Sci-Fi storyline mapping starting from writing prompts from: Lavinia Marin (TU Delft) & Gitte van Helden (TU Delft) https://edusources.nl/materials/eee79e8a-5456-403d-9e5d-fba2f9686f72/sci-fi-storyline-mapping-starting-from-writing-prompts?tab=0. Use this exercises to think about your vision for healthcare innovation and larger issues about healthcare innovation and make your ethical values e.g. equality more explicit.
-
 
 <script src=https://utteranc.es/client.js
         repo="pietervandekerckhove/handbook-innovating-health"
@@ -90,10 +199,64 @@ Try the exercise of Sci-Fi storyline mapping starting from writing prompts from:
 </script>
 
 
+One way to develop your vision about the future of healthcare is to develop a story that is compelling to you and reflect on the underlying ethical and societal values for you.
+
+Developing Your Own Vision: Tips and Strategies
+
+Developing a personal vision for healthcare requires deep reflection on your values, aspirations, and societal needs. Here are some strategies to help:
+
+Identify Core Ethical Values: Reflect on what matters most to you—equity, sustainability, patient empowerment, or accessibility?
+
+Observe Current Healthcare Challenges: What problems do you want to solve? What gaps exist in the current system?
+
+Think Beyond the Present: Imagine a radically different future—how could healthcare look in 20 or 50 years?
+
+Engage with Diverse Perspectives: Speak with patients, care professionals, policymakers, and innovators to broaden your understanding.
+
+Use Storytelling: A compelling vision is often best communicated through narrative. Storytelling helps translate abstract ideas into tangible and relatable concepts.
+
+Sci-Fi Storyline Mapping Exercise by Lavinia Marin
+
+A creative way to develop and refine your healthcare vision is through Sci-Fi storyline mapping. This method, developed by Lavinia Marin (TU Delft) & Gitte van Helden (TU Delft), encourages thinking about the future of healthcare through speculative fiction. It allows innovators to anticipate challenges, ethical dilemmas, and societal transformations that may arise.
+
+How to Use the Sci-Fi Storyline Mapping Exercise:
+
+Start with a Writing Prompt: Choose a thought-provoking prompt that relates to healthcare innovation. For example:
+
+What if hospitals no longer existed? How would healthcare be delivered?
+
+Imagine a world where AI and robotics handle 90% of medical diagnoses. How does this impact the doctor-patient relationship?
+
+In 2050, healthcare is entirely personalized through genetic modification. What are the ethical and societal implications?
+
+Develop a Short Story: Use your imagination to build a scenario around the prompt. Include characters, settings, conflicts, and resolutions that highlight the key themes of your vision.
+
+Extract Ethical and Societal Values: After writing the story, reflect on what ethical principles and societal values emerged. Did your story emphasize equity, sustainability, or human-centered care?
+
+Refine Your Vision Statement: Based on your insights, articulate a more refined and actionable vision for healthcare innovation.
+
+For more details on the exercise, explore the Sci-Fi storyline mapping tool: Lavinia Marin & Gitte van Helden's Exercise.
+
+Conclusion
+
+A clear vision serves as the foundation for innovation in healthcare. By understanding the difference between vision, strategy, and planning, and by actively engaging in exercises like Sci-Fi storyline mapping, you can create a vision that is not only inspiring but also actionable. Whether you are a healthcare professional, entrepreneur, researcher, or policymaker, defining your vision will help drive meaningful and sustainable change in the healthcare system.
+
+REFERENCE: Lavinia Marin (TU Delft) & Gitte van Helden (TU Delft) https://edusources.nl/materials/eee79e8a-5456-403d-9e5d-fba2f9686f72/sci-fi-storyline-mapping-starting-from-writing-prompts?tab=0. 
+
+
+
+
 ## Need to understand the system: What is innovating and entrepreneuring in health organizations (hospitals)?
-```{note}
-Learning goal: understand that innovation in healthcare organizations requires a strategic entrepreneurial approach
-```
+
+<center>
+  <div style="padding: 10px; background-color: #00BBC8; border-radius: 10px; display: inline-block; font-weight: bold; font-size: 16px; color: #000; position: relative;">
+    <span style="background-color: white; color: #00BBC8; border-radius: 50%; padding: 5px 10px; font-size: 15px; font-weight: bold; margin-right: 8px; display: inline-block;">Learning goal</span>
+    Understand that innovation in healthcare organizations requires a strategic entrepreneurial approach
+  </div>
+</center>
+<br>
+
+
 * many innovations are just lying there without an entrepreneurial strategy behind them so there is no long term impact
 
 Introduction lecture by dr. Sanne Allers (insert video and quiz here)
