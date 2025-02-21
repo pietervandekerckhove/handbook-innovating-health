@@ -257,7 +257,7 @@ REFERENCE: Lavinia Marin (TU Delft) & Gitte van Helden (TU Delft) https://edusou
 
 * many innovations are just lying there without an entrepreneurial strategy behind them so there is no long term impact
 
-Introduction lecture by dr. Sanne Allers (insert video and quiz here)
+Introduction lecture by dr. Sanne Allers collegerama recording (TA insert video and quiz here)
 
 * Overlap scientific behaviour and entrepreneurial behaviour relevant in health system driven by scientific insights
 
@@ -338,6 +338,9 @@ consider incoporating ethical values in the design of the problem-solution early
 Developing your innovation pathway is like an action-research process where you learn from every step you take. 
 
 Some key lessons could be shared here when looking as key aspects in the innovation pathways:
+
+TA insert video and quiz here: https://youtu.be/7tn-CMNr180?si=DeAel7TxI4YTV9iY
+
 
 #### Fast-track trough non-for profit hosting your solution
 
@@ -493,7 +496,13 @@ dr. Sascha Verbruggen
 
 From a patient and health researcher point of view
 
-dr. Joyce van Meurs (combining insights from genetic insights and lab insights)
+**From a health research perspective**
+
+iCell fundamental researchers insights in biotech (combining insights from genetic insights and lab insights)
+
+new initiatives in nano-medicine
+
+FOR TA: make quiz for video in h5p: https://youtu.be/fXK5R51lM_8
 
 
 
@@ -504,6 +513,12 @@ dr. Joyce van Meurs (combining insights from genetic insights and lab insights)
 first problem searching in different layers (behind hte problem)
 
 example patient expert interviews with questions
+
+FOR TA: make patient interview in h5p with quiz here: https://youtu.be/4Hu3qbElb9k
+
+https://youtu.be/n2X3OHdbuNg
+
+https://youtu.be/hp1j7Web4Uo
 
 
 <iframe src="https://tudelft.h5p.com/content/1292435448749375067/embed" aria-label="Learning from patient experience" width="1088" height="637" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://tudelft.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
