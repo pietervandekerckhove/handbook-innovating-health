@@ -179,11 +179,17 @@ While often used interchangeably, a vision, a strategy, and a plan each play dis
 
 By establishing a compelling vision, innovators can align strategies and plans to create meaningful change.
 
-**My Vision for Healthcare Innovation**
+**Key elements to consider in your vision**
 
 I believe we need to work toward sustainable healthcare and healing environments, through which people can practice a healing mindfulness experience. Meditation and mindfulness can be powerful tools in healthcare, not only for patients but also for healthcare professionals to manage stress and improve well-being.
 
 A holistic approach to healthcare innovation should integrate sustainability, patient-centered design, and cutting-edge technologies. This includes intervention discovery and development in biotech and ICT, such as synthetic, genetic, and cellular laboratory techniques, machine learning, additive manufacturing, extended reality, theranostics, and unmanned medical aircraft. Holistic innovation pathways should incorporate diverse stakeholders, ensuring that solutions are scalable, sustainable, and impactful.
+
+
+TA add video about dr. Sascha Verbruggen here with quiz in here: https://www.youtube.com/watch?v=_J4gLCg-6aA
+
+
+
 
 
 **Discuss underneath what tips and tricks you use to develop your vision:** 
@@ -217,15 +223,15 @@ Use Storytelling: A compelling vision is often best communicated through narrati
 
 A creative way to develop and refine your healthcare vision is through Sci-Fi storyline mapping. This method, developed by Lavinia Marin (TU Delft) & Gitte van Helden (TU Delft), encourages thinking about the future of healthcare through speculative fiction. It allows innovators to anticipate challenges, ethical dilemmas, and societal transformations that may arise.
 
-How to Use the Sci-Fi Storyline Mapping Exercise:
+**How to Use the Sci-Fi Storyline Mapping Exercise:**
 
 * Start with a Writing Prompt: Choose a thought-provoking prompt that relates to healthcare innovation. For example:
 
-What if hospitals no longer existed? How would healthcare be delivered?
+        What if hospitals no longer existed? How would healthcare be delivered?
 
-Imagine a world where AI and robotics handle 90% of medical diagnoses. How does this impact the doctor-patient relationship?
+        Imagine a world where AI and robotics handle 90% of medical diagnoses. How does this impact the doctor-patient relationship?
 
-In 2050, healthcare is entirely personalized through genetic modification. What are the ethical and societal implications?
+        In 2050, healthcare is entirely personalized through genetic modification. What are the ethical and societal implications?
 
 * Develop a Short Story: Use your imagination to build a scenario around the prompt. Include characters, settings, conflicts, and resolutions that highlight the key themes of your vision.
 
@@ -255,17 +261,64 @@ REFERENCE: Lavinia Marin (TU Delft) & Gitte van Helden (TU Delft) https://edusou
 <br>
 
 
-* many innovations are just lying there without an entrepreneurial strategy behind them so there is no long term impact
+**Definition of Healthcare Technology**
 
-Introduction lecture by dr. Sanne Allers collegerama recording (TA insert video and quiz here)
+Healthcare technology refers to the application of organized knowledge and skills in the form of devices, medicines, vaccines, procedures, and systems developed to solve health problems and improve quality of life. It encompasses a broad spectrum of innovations that facilitate the prevention, diagnosis, treatment, and monitoring of diseases. Healthcare technology integrates advancements from various fields, including biotechnology, information technology, and medical devices, to enhance patient outcomes and streamline healthcare operations.
 
-* Overlap scientific behaviour and entrepreneurial behaviour relevant in health system driven by scientific insights
+**MedTech: A Key Component of Healthcare Innovation**
 
-* transdisicplenary approach from management and strategy, organizational sciences, health sciences, health economics, technology sciences, patient expertise, law and regulations, ethics, Human-centered and strategic design, entrepreneurship
+Medical technology, encompasses a wide range of healthcare products that improve the quality of health services. According to the WHO's "Global Strategy on Digital Health 2020-2025," MedTech is a significant part of digital health, leveraging technology to enhance healthcare delivery systems globally. This includes wearable health monitors, diagnostic imaging systems, robotic surgery, and digital health applications. MedTech plays a crucial role in bridging gaps in healthcare accessibility and improving patient outcomes worldwide. For more details, refer to the WHO document here.
 
-* per defintion this behaviour spans beyond one oragnisation and accross innovation processes
-1. from fundamental research organizations (Universities) to clinical pracitce
+**Technology Trends in Health Technology**
 
+The Politecnico di Milano's Technology Foresight report provides insights into future trends and innovations in healthcare technology. This foresight is critical for anticipating and preparing for upcoming challenges and opportunities in MedTech. Emerging trends include AI-driven diagnostics, precision medicine, telehealth expansion, and the integration of blockchain for secure health data management. These advancements drive efficiency, accessibility, and personalized care, paving the way for transformative changes in the healthcare industry. Explore the report here.
+
+**Why Is Healthcare Innovation So Hard?**
+
+Healthcare innovation is notoriously challenging due to multiple structural, regulatory, and behavioral barriers. As outlined by Herzlinger (2006) in "Why Innovation in Health Care Is So Hard," several factors contribute to this difficulty. 
+
+Please read the article: "Why Innovation in Health Care Is So Hard": In this seminal article, Herzlinger identifies several systemic barriers that make healthcare innovation particularly difficult. She argues that the complexity of healthcare systems, coupled with regulatory constraints, misaligned incentives, and risk-averse stakeholders, creates a challenging environment for new innovations to thrive. The article highlights key factors contributing to these difficulties, such as fragmented healthcare markets, resistance to disruptive change, and the challenge of balancing scientific rigor with market-driven entrepreneurial strategies. Herzlinger emphasizes the need for strategic alignment between policymakers, investors, and healthcare providers to foster an ecosystem conducive to sustainable innovation.
+
+TA add exercise discussion: What key challenges do you think are hardest to tackle?
+
+**Key aspects to take into account**:
+* Lack of Entrepreneurial Strategy: Many promising innovations fail to achieve long-term impact due to the absence of a strategic entrepreneurial approach. Without a clear business model, funding strategy, and implementation plan, innovations remain underutilized.
+
+* Scientific vs. Entrepreneurial Behavior: The healthcare system is predominantly driven by scientific discoveries, which often lack integration with entrepreneurial mindsets necessary for commercialization and widespread adoption.
+
+* Transdisciplinary Complexity: Innovation in healthcare requires expertise spanning multiple disciplines, including:
+
+Management and strategy
+
+Organizational sciences
+
+Health sciences and economics
+
+Technology sciences
+
+Patient expertise
+
+Law and regulations
+
+Ethics
+
+Human-centered and strategic design
+
+Entrepreneurship
+
+* Beyond Organizational Boundaries: Healthcare innovation inherently spans across organizations and multiple stages of the innovation process. It involves collaboration between fundamental research institutions (e.g., universities) and clinical practice, necessitating coordinated efforts for successful implementation.
+
+By adopting a strategic entrepreneurial approach, healthcare organizations can overcome these challenges and drive impactful innovations. This requires fostering interdisciplinary collaboration, developing clear implementation pathways, and aligning technological advancements with patient-centered needs and market viability.
+
+TA ADD: Introduction lecture by dr. Sanne Allers collegerama recording (TA insert video and quiz here)
+
+Bibliography
+* Herzlinger, R. E. (2006). Why innovation in health care is so hard. Harvard Business Review, 84(5), 58.
+* Politecnico di Milano. (n.d.). Technology Foresight: Health. Retrieved from https://www.foresight.polimi.it/health/1/
+* World Health Organization. (2020). Global Strategy on Digital Health 2020-2025. Retrieved from https://www.who.int/publications/i/item/9789240020924
+
+
+---TA CUT CHAPTER HERE---
 
 ## Innovating in socio-technical product service systems in healthcare on different levels
 ```{note}
@@ -282,6 +335,11 @@ insert video from health insurance perspective from prof. Marco Varkevisser
 2. Social determinants (Ramirez Promiting Health equity figure 2008), see also WHO Open course https://openwho.org/courses/sdh-concepts
 
 * European perspective (Bettina Maisch, Ines), national insurances, Medical Device regulation, AI act
+
+See the Dutch perspective here: 
+
+TA please add the h5p video with quiz in here from Robin Toorneman: https://www.youtube.com/watch?v=7QaLOiZxmUo
+
 * USA perspective (Steven Howard), different payment models
 * UK Perspective (Ben Harris), combination public and private
 * Latin America (Fatima Delgado, Jana Schmutzler): caring for indegenous populations
@@ -339,8 +397,9 @@ Developing your innovation pathway is like an action-research process where you 
 
 Some key lessons could be shared here when looking as key aspects in the innovation pathways:
 
-TA insert video and quiz here: https://youtu.be/7tn-CMNr180?si=DeAel7TxI4YTV9iY
+TA insert video and quiz here with h5p, video from panel about patient centered innovation symposium: https://youtu.be/7tn-CMNr180?si=DeAel7TxI4YTV9iY
 
+TA check with speakers and insert video and quiz here with h5p: https://www.youtube.com/watch?v=UmT_Hr26rLI
 
 #### Fast-track trough non-for profit hosting your solution
 
@@ -455,10 +514,15 @@ It is essential that you build a mission and vision and try to clarify what the 
 
 It could be a great benefit if you have someone related to your initiative who has been feeling the pain firsthand and wants to make a change.
 
+TA check collegerama file, insert video with h5p and include quiz from Delft Startup Night: https://collegerama.tudelft.nl/Mediasite/Play/2cf7d52f175b41b0adb8563d86156c821d
+
 
 **Initiatives driven by a patient perspective case examples**:
 
 * patient expert and founder Lennart Zielstra Rezolve Medical https://www.rezolvemedical.com/
+
+TA please add video and quiz here from Lennart Zielstra: https://www.youtube.com/watch?v=Ifs9GGBzsHY
+
 * patient expert and founder Bemyeyes https://www.bemyeyes.com/
 * Astra Zeneca patient founder
 * patient expert and founder Digizorg Merel Backers https://www.linkedin.com/in/merelbackers/
@@ -641,6 +705,21 @@ see Gartner videos
 ```{tip}
 Exercise: what could be the beachead strategy for this intitiative? The Unique value proposition support to manage chronic disease crisis during treatment with a virtual avator who providesa a mindfulness intervetion
 ```
+
+## Writing a convincing report
+
+You may not be familiar with academic essay writing. That's ok you all have a very different background! Here are some tips:
+
+You can watch a few videos about academic writing from TU Delft open education library  
+
+TA: ask permission and include video with exercise underneath:
+https://ocw.tudelft.nl/course-lectures/academic-writing-general-pitfalls-getting-started/
+
+ Try to use this structure as recommended in this document:
+* Introduction with a question or statement
+* You react to the statement as you agree or disagree or you answer your questions and you use scientific references to substantiate your argument
+* you conclude with one sentence about the key message of your essay
+
 
 ## About the author team
 
