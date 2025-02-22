@@ -279,7 +279,15 @@ Healthcare innovation is notoriously challenging due to multiple structural, reg
 
 Please read the article: "Why Innovation in Health Care Is So Hard": In this seminal article, Herzlinger identifies several systemic barriers that make healthcare innovation particularly difficult. She argues that the complexity of healthcare systems, coupled with regulatory constraints, misaligned incentives, and risk-averse stakeholders, creates a challenging environment for new innovations to thrive. The article highlights key factors contributing to these difficulties, such as fragmented healthcare markets, resistance to disruptive change, and the challenge of balancing scientific rigor with market-driven entrepreneurial strategies. Herzlinger emphasizes the need for strategic alignment between policymakers, investors, and healthcare providers to foster an ecosystem conducive to sustainable innovation.
 
-TA add exercise discussion: What key challenges do you think are hardest to tackle?
+TA add exercise discussion: What key challenges do you think are hardest to tackle to innovate in healthcare organizations? How did you overcome them?
+
+<script src=https://utteranc.es/client.js
+        repo="pietervandekerckhove/handbook-innovating-health"
+        issue-term="innovation challenges discussion"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
 
 **Key aspects to take into account**:
 * Lack of Entrepreneurial Strategy: Many promising innovations fail to achieve long-term impact due to the absence of a strategic entrepreneurial approach. Without a clear business model, funding strategy, and implementation plan, innovations remain underutilized.
@@ -288,23 +296,23 @@ TA add exercise discussion: What key challenges do you think are hardest to tack
 
 * Transdisciplinary Complexity: Innovation in healthcare requires expertise spanning multiple disciplines, including:
 
-Management and strategy
+        Management and strategy
 
-Organizational sciences
+        Organizational sciences
 
-Health sciences and economics
+        Health sciences and economics
 
-Technology sciences
+        Technology sciences
 
-Patient expertise
+        Patient expertise
 
-Law and regulations
+        Law and regulations
 
-Ethics
+        Ethics
 
-Human-centered and strategic design
+        Human-centered and strategic design
 
-Entrepreneurship
+        Entrepreneurship
 
 * Beyond Organizational Boundaries: Healthcare innovation inherently spans across organizations and multiple stages of the innovation process. It involves collaboration between fundamental research institutions (e.g., universities) and clinical practice, necessitating coordinated efforts for successful implementation.
 
@@ -312,43 +320,130 @@ By adopting a strategic entrepreneurial approach, healthcare organizations can o
 
 TA ADD: Introduction lecture by dr. Sanne Allers collegerama recording (TA insert video and quiz here)
 
-Bibliography
+
+
+```{admonition} Bibliography
+:class: note 
+
 * Herzlinger, R. E. (2006). Why innovation in health care is so hard. Harvard Business Review, 84(5), 58.
 * Politecnico di Milano. (n.d.). Technology Foresight: Health. Retrieved from https://www.foresight.polimi.it/health/1/
 * World Health Organization. (2020). Global Strategy on Digital Health 2020-2025. Retrieved from https://www.who.int/publications/i/item/9789240020924
+```
+
+
+
+
 
 
 ---TA CUT CHAPTER HERE---
 
 ## Innovating in socio-technical product service systems in healthcare on different levels
-```{note}
-Learning goal: understand how differences between socio-technical product service systems on different levels impact health innovation
-```
-* What are socio-technical produt service systems
 
-1. definition
-1. different actors (stakeholers and evolving technology)
+<center>
+  <div style="padding: 10px; background-color: #00BBC8; border-radius: 10px; display: inline-block; font-weight: bold; font-size: 16px; color: #000; position: relative;">
+    <span style="background-color: white; color: #00BBC8; border-radius: 50%; padding: 5px 10px; font-size: 15px; font-weight: bold; margin-right: 8px; display: inline-block;">Learning goal</span>
+   Learning goal: understand how differences between socio-technical product service systems on different levels impact health innovation
+  </div>
+</center>
+<br>
 
-insert video from health insurance perspective from prof. Marco Varkevisser
+**Definition: Socio-Technical Product Service Systems (STPSS)**
 
-1. Interaction technology people (example electronic medical records)
-2. Social determinants (Ramirez Promiting Health equity figure 2008), see also WHO Open course https://openwho.org/courses/sdh-concepts
+Sociotechnical systems theory, as initially developed by Trist (1981), emphasizes the mutual shaping of social and technical elements within an organization. This approach is particularly pertinent to healthcare, where the interaction between human actors (e.g., healthcare providers, patients) and technical components (e.g., medical devices, health information systems) is complex and dynamic. Appelbaum (1997) further elaborates on the application of STS theory in organizational development, highlighting how it can drive innovation and improvement in healthcare settings.
 
-* European perspective (Bettina Maisch, Ines), national insurances, Medical Device regulation, AI act
+Venturing into systems where value is created for users through different stakeholders and multiple interrelated services and products, such as in healthcare, public services, hospitality, and aerospace, is challenging. These systems are known as Socio-Technical Product Service Systems (STPSS). In STPSS, each stakeholder possesses explicable knowledge about their role and the system's functionality. Explicable knowledge, defined as implicit knowledge that can be made explicit during social interaction (Smulders, Lousberg & Dorst, 2008), forms a chain where products and services are interrelated. According to sociotechnical systems theory (Trist, 1981; Appelbaum, 1997), STPSS involves several individuals who shape a piece of technology or a product, or both, assigned to them within their own workplaces, creating an integrated chain of product-service value deliveries at the system level.
 
-See the Dutch perspective here: 
+To operationalize this term in today's context where technology assumes many complex forms, we have added the product-service systems specification. This helps describe the complex environments in which today’s entrepreneurs operate. Entrepreneurs face significant challenges in developing an integrated new venture idea (NVI) that spans the entire value chain within an STPSS. Integrating the explicable knowledge of diverse stakeholders into an NVI is crucial, yet there has been little emphasis on the social process of knowledge interaction in NVI development.
+
+**Role of Stakeholders and Evolving Technology**
+
+In a socio-technical product service system, there is an interaction between technology and people (e.g., electronic medical records). Understanding the healthcare system, its actors, and their interdependencies is crucial. The open course on patient journey mapping at TU Delft provides foundational knowledge about the sociotechnical context of healthcare systems. Watch the initial videos here. 
+
+TA make videos clear here: https://ocw.tudelft.nl/courses/design-healthcare-using-patient-journey-mapping/?view=lectures&subject=22696
+
+
+These interactions can be visualized by the social determinants (Ramirez, 2008). See also the WHO Open Course here.
+
+TA check link to content here: https://openwho.org/courses/sdh-concepts
+
+**Value Creation in a Socio-Technical Health System**
+
+Value in a socio-technical health system is created through the connection of different products and services. Over the past decades, the vision of value-based healthcare has influenced the health system, as value creation is increasingly discussed. Different methods of creating care, providing value to patients, and rewarding the value created (rather than merely the intervention) have been explored.
+
+**Geographical Differences in Health Systems**
+
+Different countries have varying approaches to health insurance, coverage, and reimbursement for medical interventions:
+
+* European Perspective (Bettina Maisch, Ines): Predominantly public, with national insurance schemes and stringent medical device regulations. Countries like Germany and France have universal health coverage with a mix of public funding and private insurance options for supplemental services. The European Union also has regulations such as the Medical Device Regulation (MDR) and the proposed AI Act, which impact MedTech innovation.
+* Dutch Perspective: A mix of public and private insurance, with mandatory health coverage regulated by the government. Citizens choose from private insurers offering government-regulated packages. The system encourages competition among insurers while ensuring universal coverage. Video by Robin Toorneman.
 
 TA please add the h5p video with quiz in here from Robin Toorneman: https://www.youtube.com/watch?v=7QaLOiZxmUo
 
-* USA perspective (Steven Howard), different payment models
-* UK Perspective (Ben Harris), combination public and private
-* Latin America (Fatima Delgado, Jana Schmutzler): caring for indegenous populations
-* Africa (Ellen)
-* Australia (Jacqueline Kerhahan, Maarten Ijzerman)
-* Canada (Ken Redekop)
-* China (ESHPM contacts, PhD students)
+* USA Perspective (Steven Howard): A mix of public (Medicare, Medicaid) and private insurance, with employer-based and market-driven models dominating. The system is highly fragmented, with significant disparities in access and costs. The Affordable Care Act (ACA) expanded coverage, but many remain uninsured or underinsured, and high healthcare costs remain a major issue.
+
+* UK Perspective (Ben Harris): Publicly funded National Health Service (NHS) with supplementary private healthcare options. The NHS provides universal access, but wait times and resource constraints are ongoing challenges. Private insurance is available for faster access to certain treatments, but most essential healthcare services are state-funded.
+
+* Latin America (Fatima Delgado, Jana Schmutzler): Varies by country; a mix of public and private systems, with efforts to extend coverage to underserved populations. Brazil has a universal public system (SUS), while countries like Mexico operate hybrid models where social security institutions cover formal workers, and private insurance is used for additional coverage. In some regions, challenges in reaching rural and indigenous populations persist.
+
+* Africa (Ellen): Predominantly public healthcare with growing private sector involvement. Many countries rely on donor funding and international aid to strengthen health infrastructure. South Africa has a two-tier system with private healthcare catering to wealthier citizens, while public services face resource constraints. Efforts are underway to implement universal health coverage in some nations.
+
+* Australia (Jacqueline Kerhahan, Maarten Ijzerman): A hybrid model, with Medicare (public) complemented by private insurance options. Government subsidies encourage private sector participation to ease public system burdens. Private health insurance is incentivized through tax benefits, ensuring better access to specialized care.
+
+* Canada (Ken Redekop, Ryan Pulleybank): Publicly funded universal healthcare with some private insurance for supplementary services. Each province administers its own system, with national guidelines ensuring universal access. While essential services are covered, wait times for specialist care can be long, leading some to seek private solutions.
+
+* China (ESHPM contacts, PhD students): A mix of public and private healthcare, with ongoing reforms to improve accessibility and affordability. Public insurance schemes cover most of the population, but out-of-pocket expenses remain high for specialized care. Government efforts focus on expanding healthcare access and integrating AI-driven solutions into medical practice.
+
+**Value-Based Healthcare**
+
+The concept of value-based healthcare is central to modern MedTech innovation. The "Implementing Value-Based Healthcare in Europe: Handbook for Pioneers" offers practical guidance on creating value within health systems. This approach focuses on improving patient outcomes while optimizing costs. Access the handbook here.
+
+TA provide reference: https://eit.europa.eu/library/implementing-value-based-healthcare-europe-handbook-pioneers
+
+Video Introduction
+Watch Prof. Steven Howard’s video introduction on value-based healthcare in Santeon hospitals to understand how these principles are applied in real-world settings. View the video here.
+
+TA Add video and quiz with h5p here: https://www.youtube.com/playlist?list=PLd0hXinKX4s4-UWJtYC-vjQZWb8ghuxs6
 
 
+**Critique and Discussion**
+
+Value-based healthcare is not as easy as it seems to implement. Many organizations have struggled for decades to find the right balance to provide the best value for money. In this session, we discuss key difficulties about the implementation of value-based healthcare based on the article by Reindersma et al. (2024).
+
+Case Study: The Santeon Hospitals
+The Santeon Hospitals in the Netherlands provide a practical example of VBHC in action. By collaborating across a network, these hospitals have implemented VBHC principles to enhance care quality and efficiency. Key elements include:
+
+* Collaborative Learning: Santeon hospitals share data and best practices to continuously improve patient outcomes.
+* Standardized Outcome Measures: They utilize standardized measures to track performance and identify areas for improvement.
+* Patient Involvement: Patients are engaged in their care processes, providing feedback that informs quality improvement initiatives.
+
+However, there are challenges and critiques of VBHC. Implementing standardized outcome measures can be difficult due to variations in patient populations and conditions. Additionally, focusing on cost-effectiveness might sometimes lead to under-provision of necessary but expensive treatments (Porter, 2010).
+
+For further reading: Healthcare Transformers (2022).
+Article: "Collaborating for value - The Santeon Hospitals in the Netherlands." https://www.ichom.org/resource/collaborating-for-value-the-santeon-hospitals-in-the-netherlands/
+
+```{admonition} Bibliography
+:class: note 
+
+Appelbaum, S. H. (1997). Socio-technical systems theory: An intervention strategy for organizational development. Management Decision, 35(6), 452-463.
+
+Healthcare Transformers. (2022). Collaborating for value - The Santeon Hospitals in the Netherlands. Retrieved from https://www.ichom.org/resource/collaborating-for-value-the-santeon-hospitals-in-the-netherlands/
+
+Porter, M. E. (2010). What is value in health care? New England Journal of Medicine, 363(26), 2477-2481.
+
+Ramirez, B. (2008). Social determinants of health: Implications for action. World Health Organization. Retrieved from https://openwho.org/courses/sdh-concepts
+
+Reindersma, M., et al. (2024). The challenges of implementing value-based healthcare: A systematic review. Journal of Health Management, 32(1), 56-73.
+
+Smulders, F., Lousberg, L., & Dorst, K. (2008). Explicable knowledge in product service systems design. Design Studies, 29(4), 368-386.
+
+Trist, E. (1981). The evolution of socio-technical systems: A conceptual framework and an action research program. Occasional Paper, Ontario Quality of Working Life Centre.
+
+TU Delft Open Course. (n.d.). Design healthcare using patient journey mapping. Retrieved from https://ocw.tudelft.nl/courses/design-healthcare-using-patient-journey-mapping/?view=lectures&subject=22696
+```
+
+
+
+---TA cut chapter here--
 
 ## Step by step: create your own innovation pathway
 ```{note}
@@ -491,8 +586,8 @@ You could look for people coming from patient driven trainings like:
 * Organizations which focus on getting patients more engaged in the care profess: Patient in Regie (Patient Engagement)
 
 
-```{admonition} Choose carefully
-:class: warning 
+```{admonition} Be careful!
+:class: note 
 Include relevant stakeholders early on
 ```
 
@@ -706,7 +801,7 @@ see Gartner videos
 Exercise: what could be the beachead strategy for this intitiative? The Unique value proposition support to manage chronic disease crisis during treatment with a virtual avator who providesa a mindfulness intervetion
 ```
 
-## Writing a convincing report
+## Making a convincing poster, presentation or writing a convincing report
 
 You may not be familiar with academic essay writing. That's ok you all have a very different background! Here are some tips:
 
