@@ -1,4 +1,4 @@
-# Designing holistic health innovation pathways: An introduction for responsible innovators
+# Designing sustainable patient-centered innovation pathways: An introduction for responsible innovators
 
 
 
@@ -275,7 +275,7 @@ REFERENCE: Lavinia Marin (TU Delft) & Gitte van Helden (TU Delft) https://edusou
 <br>
 
 
-**Definition of Healthcare Technology**
+**Defining Healthcare Technology**
 
 Healthcare technology refers to the application of organized knowledge and skills in the form of devices, medicines, vaccines, procedures, and systems developed to solve health problems and improve quality of life. It encompasses a broad spectrum of innovations that facilitate the prevention, diagnosis, treatment, and monitoring of diseases. Healthcare technology integrates advancements from various fields, including biotechnology, information technology, and medical devices, to enhance patient outcomes and streamline healthcare operations.
 
@@ -283,7 +283,7 @@ Healthcare technology refers to the application of organized knowledge and skill
 
 Medical technology, encompasses a wide range of healthcare products that improve the quality of health services. According to the WHO's "Global Strategy on Digital Health 2020-2025," MedTech is a significant part of digital health, leveraging technology to enhance healthcare delivery systems globally. This includes wearable health monitors, diagnostic imaging systems, robotic surgery, and digital health applications. MedTech plays a crucial role in bridging gaps in healthcare accessibility and improving patient outcomes worldwide. For more details, refer to the WHO document here.
 
-**Technology Trends in Health Technology**
+**Trends in Health Technology**
 
 The Politecnico di Milano's Technology Foresight report provides insights into future trends and innovations in healthcare technology. This foresight is critical for anticipating and preparing for upcoming challenges and opportunities in MedTech. Emerging trends include AI-driven diagnostics, precision medicine, telehealth expansion, and the integration of blockchain for secure health data management. These advancements drive efficiency, accessibility, and personalized care, paving the way for transformative changes in the healthcare industry. Explore the report here.
 
@@ -372,7 +372,7 @@ To operationalize this term in today's context where technology assumes many com
 
 **Role of Stakeholders and Evolving Technology**
 
-In a socio-technical product service system, there is an interaction between technology and people (e.g., electronic medical records). Understanding the healthcare system, its actors, and their interdependencies is crucial. The open course on patient journey mapping at TU Delft provides foundational knowledge about the sociotechnical context of healthcare systems. Watch the initial videos here. 
+In a socio-technical product service system, there is an interaction between technology and people (e.g., electronic medical records). Understanding the healthcare STPSS, its actors, and their interdependencies is crucial. The open course on patient journey mapping at TU Delft provides foundational knowledge about the sociotechnical context of healthcare systems. Watch the initial videos here. 
 
 TA make videos clear here: https://ocw.tudelft.nl/courses/design-healthcare-using-patient-journey-mapping/?view=lectures&subject=22696
 
@@ -406,6 +406,11 @@ Value in a socio-technical health system is created through the connection of di
 Different countries have varying approaches to health insurance, coverage, and reimbursement for medical interventions:
 
 * European Perspective (Bettina Maisch, Ines): Predominantly public, with national insurance schemes and stringent medical device regulations. Countries like Germany and France have universal health coverage with a mix of public funding and private insurance options for supplemental services. The European Union also has regulations such as the Medical Device Regulation (MDR) and the proposed AI Act, which impact MedTech innovation.
+
+Check this open courseware TU Delft course about EUROPEAN medical device regulation: https://online-learning.tudelft.nl/courses/medical-devices-regulation-in-practice/
+
+(TA Check access to videos)
+
 * Dutch Perspective: A mix of public and private insurance, with mandatory health coverage regulated by the government. Citizens choose from private insurers offering government-regulated packages. The system encourages competition among insurers while ensuring universal coverage. Video by Robin Toorneman.
 
 TA please add the h5p video with quiz in here from Robin Toorneman: https://www.youtube.com/watch?v=7QaLOiZxmUo
@@ -426,9 +431,16 @@ TA please add the h5p video with quiz in here from Robin Toorneman: https://www.
 
 For more information about the key statistics for each country, you can consult, the WHO country profiles (e.g. Belgium https://data.who.int/countries/056 or the WHO global health Observatory https://www.who.int/data/gho)
 
-**Value-Based Healthcare**
+**Surfing the waves in healthcare STPSS: human-centered care and value-Based Healthcare as catalysts for innovation**
 
-The concept of value-based healthcare is central to modern MedTech innovation. The "Implementing Value-Based Healthcare in Europe: Handbook for Pioneers" offers practical guidance on creating value within health systems. This approach focuses on improving patient outcomes while optimizing costs. Access the handbook here.
+**Value-based healthcare**
+
+Value-based healthcare started with the seminal work of Porter (2010), with key principles to improve care: 
+* Patient-Centered Care: VBHC emphasizes treating patients as active participants in their own care, focusing on their specific needs and outcomes.
+* Outcome Measurement: Regular measurement and analysis of health outcomes are critical, ensuring that care interventions are effective.
+* Cost-Effectiveness: VBHC seeks to achieve the best possible outcomes at the lowest possible cost, often involving cost management and efficiency improvements.
+
+Even though it is a convincing framework, it is not as easy as it seems to implement. Yet, it can be an important catalyst for innovation and influence how you can harness this trend in your innovations.The concept of value-based healthcare is central to modern MedTech innovation. The "Implementing Value-Based Healthcare in Europe: Handbook for Pioneers" offers practical guidance on creating value within health systems. This approach focuses on improving patient outcomes while optimizing costs. Access the handbook here.
 
 TA provide reference: https://eit.europa.eu/library/implementing-value-based-healthcare-europe-handbook-pioneers
 
@@ -438,9 +450,9 @@ Watch Prof. Steven Howard’s video introduction on value-based healthcare in Sa
 TA Add video and quiz with h5p here: https://www.youtube.com/playlist?list=PLd0hXinKX4s4-UWJtYC-vjQZWb8ghuxs6
 
 
-**Critique and Discussion**
+**Can value-based healthcare be a catalyst for innovation?**
 
-Value-based healthcare is not as easy as it seems to implement. Many organizations have struggled for decades to find the right balance to provide the best value for money. In this session, we discuss key difficulties about the implementation of value-based healthcare based on the article by Reindersma et al. (2024).
+ Many organizations have struggled for decades to find the right balance to provide the best value for money. In this session, we discuss key difficulties about the implementation of value-based healthcare based on the article by Reindersma et al. (2024) and Van Elten (2023).
 
 Case Study: The Santeon Hospitals
 The Santeon Hospitals in the Netherlands provide a practical example of VBHC in action. By collaborating across a network, these hospitals have implemented VBHC principles to enhance care quality and efficiency. Key elements include:
@@ -449,19 +461,42 @@ The Santeon Hospitals in the Netherlands provide a practical example of VBHC in 
 * Standardized Outcome Measures: They utilize standardized measures to track performance and identify areas for improvement.
 * Patient Involvement: Patients are engaged in their care processes, providing feedback that informs quality improvement initiatives.
 
-However, there are challenges and critiques of VBHC. Implementing standardized outcome measures can be difficult due to variations in patient populations and conditions. Additionally, focusing on cost-effectiveness might sometimes lead to under-provision of necessary but expensive treatments (Porter, 2010).
+However, there are challenges and critiques of VBHC. Implementing standardized outcome measures can be difficult due to variations in patient populations and conditions. Additionally, focusing on cost-effectiveness might sometimes lead to under-provision of necessary but expensive treatments.
 
 For further reading: Healthcare Transformers (2022).
-Article: "Collaborating for value - The Santeon Hospitals in the Netherlands." https://www.ichom.org/resource/collaborating-for-value-the-santeon-hospitals-in-the-netherlands/
+Article: "Collaborating for value - The Santeon Hospitals in the Netherlands." https://www.ichom.org/resource/collaborating-for-value-the-santeon-hospitals-in-the-netherlands/: Okunade, O., Arora, J., Haverhals, A., & Niessen, L. (2017). Collaborating for value: the Santeon Hospitals in the Netherlands. International Consortium for Health Outcomes Measurement: Cambridge, MA, USA. https://www.ichom.org/resource/collaborating-for-value-the-santeon-hospitals-in-the-netherlands/
+
+**Can patient-centered care be a catalyst for innovation?**
+
+Personalized healthcare and precision medicine are related trends to value-based healthcare that may be useful to support innovations. By tailoring treatments to individual patients, personalized healthcare can potentially improve outcomes and efficiency, key goals of VBHC. It involves tailoring medical treatment to the individual characteristics of each patient. These approaches diviate from standard care as it were as they become more individually tailored interventions. Personalized healthcare aims to move away from standardized healthcare with a "one-size-fits-all" model and towards treatments that consider individual variability (Collins & Varmus, 2015). These interventions use genetic, environmental, and lifestyle factors to design more effective and personalized care plans.
+
+Key aspects here are patient-related outcome measures (PROMS) and PREMS. Can you identify the innovations that are used to make the patient-centered a reality in a Danish hospital?
+TA make video ifram: https://www.youtube.com/watch?v=ClIFLrGpYV8
+
+
+These trends are advanced through technological developments in the field of biotech. For example the use of complex multiplex cell cultures, which allows for more precise modeling of human diseases and testing of treatments. These cultures can replicate the interactions between different cell types within the body, providing a more accurate representation of how diseases progress and how treatments work in a real human environment (Pampaloni et al., 2007).
+
+Another example is organ-on-a-chip technology. How do you think this could change the biomedical innovation pathway?
+
+TA make video ifram
+https://www.youtube.com/watch?v=3bCUhrWl4jE
+
+
+
+
 
 ```{admonition} Bibliography
 :class: note 
 
 Appelbaum, S. H. (1997). Socio-technical systems theory: An intervention strategy for organizational development. Management Decision, 35(6), 452-463.
 
+Collins, F. S., & Varmus, H. (2015). A new initiative on precision medicine. The New England Journal of Medicine, 372(9), 793–795. https://doi.org/10.1056/NEJMp1500523
+
 Healthcare Transformers. (2022). Collaborating for value - The Santeon Hospitals in the Netherlands. Retrieved from https://www.ichom.org/resource/collaborating-for-value-the-santeon-hospitals-in-the-netherlands/
 
 Kraus, S., Schiavone, F., Pluzhnikova, A., & Invernizzi, A. C. (2021). Digital transformation in healthcare: Analyzing the current state-of-research. Journal of Business Research, 123, 557-567.
+
+Pampaloni, F., Reynaud, E. G., & Stelzer, E. H. (2007). The third dimension bridges the gap between cell culture and live tissue. Nature Reviews Molecular Cell Biology, 8(10), 839–845. https://doi.org/10.1038/nrm2236
 
 Porter, M. E. (2010). What is value in health care? New England Journal of Medicine, 363(26), 2477-2481.
 
@@ -474,6 +509,8 @@ Smulders, F., Lousberg, L., & Dorst, K. (2008). Explicable knowledge in product 
 Trist, E. (1981). The evolution of socio-technical systems: A conceptual framework and an action research program. Occasional Paper, Ontario Quality of Working Life Centre.
 
 TU Delft Open Course. (n.d.). Design healthcare using patient journey mapping. Retrieved from https://ocw.tudelft.nl/courses/design-healthcare-using-patient-journey-mapping/?view=lectures&subject=22696
+
+Van Elten, H. J., Howard, S. W., De Loo, I., & Schaepkens, F. (2023). Reflections on managing the performance of value-based healthcare: a scoping review. International Journal of Health Policy and Management, 12, 7366.
 ```
 
 
@@ -551,13 +588,13 @@ Front-loading can be operationalized through several strategies:
 
 Regina Herzlinger (2024) identifies three primary strategies to support front-loading in healthcare innovation:
 
-Internal Development – Leveraging in-house expertise and infrastructure to refine innovation early.
+* Internal Development – Leveraging in-house expertise and infrastructure to refine innovation early.
 
-Growth Driver Strategy – Partnering with healthcare institutions and regulatory bodies to ensure alignment with market and policy requirements.
+* Growth Driver Strategy – Partnering with healthcare institutions and regulatory bodies to ensure alignment with market and policy requirements.
 
-External Collaboration – Engaging external stakeholders, such as academic institutions and technology firms, to integrate interdisciplinary knowledge and capabilities.
+* External Collaboration – Engaging external stakeholders, such as academic institutions and technology firms, to integrate interdisciplinary knowledge and capabilities.
 
-Conclusion
+**Conclusion**
 
 Innovation pathways in healthcare are evolving to accommodate new technological and service-driven advancements. Traditional biomedical models provide a foundation but must be expanded to support parallel processes, digital solutions, and ethical considerations. By applying the IDER model, front-loading theory, and Herzlinger’s strategic approaches, innovators can navigate complex pathways more effectively, leading to more successful and impactful healthcare solutions.
 
@@ -622,28 +659,34 @@ consider incoporating ethical values in the design of the problem-solution early
 
 ### Developing your innovation pathway
 
+<center>
+  <div style="padding: 10px; background-color: #00BBC8; border-radius: 10px; display: inline-block; font-weight: bold; font-size: 16px; color: #000; position: relative;">
+    <span style="background-color: white; color: #00BBC8; border-radius: 50%; padding: 5px 10px; font-size: 15px; font-weight: bold; margin-right: 8px; display: inline-block;">Learning goal</span>
+   Be able to develop key steps for an innovation pathway
+  </div>
+</center>
+<br>
+
 Developing your innovation pathway is like an action-research process where you learn from every step you take. 
 
-Some key lessons could be shared here when looking as key aspects in the innovation pathways:
+Some key lessons could be shared here when looking as key aspects in the innovation pathways. What aspects do you identify as important in patient-centered innovation pathways? What aspects should be considered upfront?
 
 TA insert video and quiz here with h5p, video from panel about patient centered innovation symposium: https://youtu.be/7tn-CMNr180?si=DeAel7TxI4YTV9iY
 
 TA check with speakers and insert video and quiz here with h5p: https://www.youtube.com/watch?v=UmT_Hr26rLI
 
-#### Fast-track trough non-for profit hosting your solution
+It is important to assess the roadblocks for existing solutions and learn from their mistakes in their pathways: today one could couple the existing interventions that can help with diagnostics and couple them with new interventions.
 
 ```{tip}
-Use national organizations: case from Dutch AYA network (see latest article from Carla, Sophia and I): innovation through national support organizations
+TA Change to case study format: Use national organizations: case from Dutch AYA network (see latest article from Carla, Sophia and I): innovation through national support organizations (In publication)
 ```
 
 ```{tip}
-Try to connect existing solutions and learn from their mistakes in their pathways: today one could couple the existing interventions that can help with diagnostics and couple them with new interventions. For example a foundation developed a succesful serious game in the USA called Re-mission 2 you could try to leverage that game with new technologies to improve wellbeing in personalized XR environments. This would be an innovation pathway bringin exisitng innovations together and working towards a market access strategy that may involve a reimbursement strategy https://hopelab.org/case-study/re-mission/. Re-mission 2 showed benefits in terms of improved adherence to treatment and indicators of cancer-rleated self-efficacy and knowledge in young people with cancer, and it seems that they did not apply for FDA approval. A potential strategy could be to use a middle-growth strategy and work with pharmaceutical companies to leverage support for market access in conjunction with an existing or new treatment.
+TA Change to exercise format: For example a foundation developed a succesful serious game in the USA called Re-mission 2 you could try to leverage that game with new technologies to improve wellbeing in personalized XR environments. This would be an innovation pathway bringin exisitng innovations together and working towards a market access strategy that may involve a reimbursement strategy https://hopelab.org/case-study/re-mission/. Re-mission 2 showed benefits in terms of improved adherence to treatment and indicators of cancer-rleated self-efficacy and knowledge in young people with cancer, and it seems that they did not apply for FDA approval. A potential strategy could be to use a middle-growth strategy and work with pharmaceutical companies to leverage support for market access in conjunction with an existing or new treatment.
 ```
 
-#### Fast-track through leveraging experts in your network
-
 ```{tip}
-case AYA family room UZA: process self-funded, patient-driven innovationU
+TA CHANGE TO CASE STUDY FORMAT: case AYA family room UZA: process self-funded, patient-driven innovationU
 ```
 
 
