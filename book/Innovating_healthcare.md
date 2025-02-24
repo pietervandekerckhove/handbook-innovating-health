@@ -368,19 +368,7 @@ Venturing into systems where value is created for users through different stakeh
 
 To operationalize this term in today's context where technology assumes many complex forms, we have added the product-service systems specification. This helps describe the complex environments in which today’s entrepreneurs operate. Entrepreneurs face significant challenges in developing an integrated new venture idea (NVI) that spans the entire value chain within an STPSS. Integrating the explicable knowledge of diverse stakeholders into an NVI is crucial, yet there has been little emphasis on the social process of knowledge interaction in NVI development.
 
-The current landscape could be currently categorized into four key actors: patients, health care providers, regulators and third party payers. This value provision pathway could be described by looking at the relationships between these stakeholders. See this figure by Kraus: 
 
-```{figure} ./figures/Kraus-21_Digital-transformation-traditional-Fig1.jpg
-:height: 150px
-:name: figure-example
-
-Stakeholders in a traditional healthcare system (Kraus, S., Schiavone, F., Pluzhnikova, A., & Invernizzi, A. C. (2021). Digital transformation in healthcare: Analyzing the current state-of-research. Journal of Business Research, 123, 557-567.)
-```
-
-
-Kraus, S., Schiavone, F., Pluzhnikova, A., & Invernizzi, A. C. (2021). Digital transformation in healthcare: Analyzing the current state-of-research. Journal of Business Research, 123, 557-567.
-
-However, this landscape is changing. Increasingly new initiatives, like digital healthcare solutions, change the way value is created (Kraus, 2021). For instance,  a solution may not need a physical healthcare provider, the patient could self-manage, validate with an external care professional and treat a certain problem themselves. The system itself is changing as well. For example, remote healthcare solutions operate differently if the institutions are involved in a different way. For instance, new communication software or data infrastucture (5G) could allow each actor to play a different role.
 
 **Role of Stakeholders and Evolving Technology**
 
@@ -396,6 +384,20 @@ Some key factors influencing our haealth for instace are education, income and a
 TA make video clear here: https://www.youtube.com/watch?v=Sm5xF-UYgdg
 
 **Value Creation in a Socio-Technical Health System**
+
+The current landscape could be currently categorized into four key actors: patients, health care providers, regulators and third party payers. This value provision pathway could be described by looking at the relationships between these stakeholders. See this figure by Kraus: 
+
+```{figure} ./figures/Kraus-21_Digital-transformation-traditional-Fig1.jpg
+:height: 150px
+:name: figure-example
+
+Stakeholders in a traditional healthcare system (Kraus, S., Schiavone, F., Pluzhnikova, A., & Invernizzi, A. C. (2021). Digital transformation in healthcare: Analyzing the current state-of-research. Journal of Business Research, 123, 557-567.)
+```
+
+
+Kraus, S., Schiavone, F., Pluzhnikova, A., & Invernizzi, A. C. (2021). Digital transformation in healthcare: Analyzing the current state-of-research. Journal of Business Research, 123, 557-567.
+
+However, this landscape is changing. Increasingly new initiatives, like digital healthcare solutions, change the way value is created (Kraus, 2021). For instance,  a solution may not need a physical healthcare provider, the patient could self-manage, validate with an external care professional and treat a certain problem themselves. The system itself is changing as well. For example, remote healthcare solutions operate differently if the institutions are involved in a different way. For instance, new communication software or data infrastucture (5G) could allow each actor to play a different role.
 
 Value in a socio-technical health system is created through the connection of different products and services. Over the past decades, the vision of value-based healthcare has influenced the health system, as value creation is increasingly discussed. Different methods of creating care, providing value to patients, and rewarding the value created (rather than merely the intervention) have been explored.
 
@@ -422,7 +424,7 @@ TA please add the h5p video with quiz in here from Robin Toorneman: https://www.
 
 * China (ESHPM contacts, PhD students): A mix of public and private healthcare, with ongoing reforms to improve accessibility and affordability. Public insurance schemes cover most of the population, but out-of-pocket expenses remain high for specialized care. Government efforts focus on expanding healthcare access and integrating AI-driven solutions into medical practice.
 
-For more information about the key statistics for each country, you can consult, the WHO country profiles (e.g. Belgium https://data.who.int/countries/056 or the WHO global health Observatory https://www.who.int/data/gho
+For more information about the key statistics for each country, you can consult, the WHO country profiles (e.g. Belgium https://data.who.int/countries/056 or the WHO global health Observatory https://www.who.int/data/gho)
 
 **Value-Based Healthcare**
 
@@ -479,9 +481,102 @@ TU Delft Open Course. (n.d.). Design healthcare using patient journey mapping. R
 ---TA cut chapter here--
 
 ## Step by step: create your own innovation pathway
-```{note}
-Learning goal: understand how differences between innovation pathways impact innovation strategies and apply front-loading to the innovation pathway
+
+
+<center>
+  <div style="padding: 10px; background-color: #00BBC8; border-radius: 10px; display: inline-block; font-weight: bold; font-size: 16px; color: #000; position: relative;">
+    <span style="background-color: white; color: #00BBC8; border-radius: 50%; padding: 5px 10px; font-size: 15px; font-weight: bold; margin-right: 8px; display: inline-block;">Learning goal</span>
+   Understand how differences between innovation pathways impact innovation strategies and be able to apply front-loading theory to the innovation pathway
+  </div>
+</center>
+<br>
+
+TA do formatting: 
+
+Introduction
+
+Innovation pathways in healthcare play a critical role in determining how new medical technologies, treatments, and interventions move from concept to implementation. Understanding these pathways allows innovators to design effective strategies, anticipate challenges, and optimize the development process. This chapter explores the relevance of innovation pathways, outlines the traditional biomedical innovation model, highlights the need for improvements in digital health and service-based innovations, and introduces key theories such as the IDER model and front-loading theory to enhance innovation strategies.
+
+The Traditional Biomedical Innovation Pathway
+
+The dominant biomedical innovation pathway follows a structured, often linear, process that includes fundamental research, preclinical development, clinical trials, regulatory approval, and market introduction. This pathway has been well-established for pharmaceuticals and medical devices, ensuring safety, efficacy, and compliance with strict regulatory standards. Key steps in this process can be seen in the USA health system described with Figure 1 of this JAMA article https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2820562.
+
+```{figure} ./figures/stages_drug_dev-JAMA.png
+:height: 150px
+:name: figure-example
+
+JAMA Netw Open. 2024;7(6):e2415445. doi:10.1001/jamanetworkopen.2024.15445, Legend: Stages of Drug Development, BLA indicates Biologic License Application; FDA, US Food and Drug Administration; IND, Investigational New Drug; NDA, New Drug Application.
 ```
+
+While this pathway has proven effective for traditional medical products, it does not always accommodate the complexities of emerging innovations such as software-driven interventions (e.g., digital therapeutics like Germany's DiGA framework) or theranostics (e.g., diabetes management integrating biomarkers and digital drug delivery). These new categories demand more flexible, iterative innovation models. Ijzerman, Koffijberg, Fenwick, and Krahn (2017) emphasize the importance of early health technology assessment in medical product development, highlighting the need for more adaptive frameworks (PharmacoEconomics, 35(7), 727–740).
+
+**Beyond Pharma and Medtech: The Need for Improved Pathways**
+
+More Complex Product-Service Combinations
+
+Innovation in healthcare now extends beyond pharmaceuticals and medical devices to include complex, service-oriented digital health solutions. Digital therapeutics, artificial intelligence-driven diagnostics, and virtual interventions using extended reality (XR) require pathways that account for evolving regulatory frameworks, interdisciplinary integration, and shifting healthcare dynamics. The traditional model must adapt to support parallel innovation processes that accommodate both technological and socio-economic considerations. Therefore, we need to rethink healthcare innovation models to effectively integrate these complex product-service combinations into routine care.
+
+The Need for New Innovation Theories to Revise This Framework
+
+A stronger theoretical foundation is required to improve innovation processes, especially in terms of translating ideas into care practices. Healthcare innovators must ultimately be able to reshape systems to support the adoption and sustainability of novel solutions. This also applies to the traditional innovation pathway 
+
+Compton-Phillips (2024) emphasizes the importance of care delivery innovation in achieving this transformation. Underneath we will explore a few key theoreties one can use to help understand key dynamics in innovation pathways.  Ultimately it requires integrating service design principles, systems thinking, early health technology assessment, and implementation science. Ultimators can than develop frameworks that better support their healthcare innovations beyond traditional pharmaceutical and medtech pathway.
+
+**The IDER Model: Parallel Processes in Innovation**
+
+The IDER model—Initiation, Design, Engineering, and Realization—proposed by Smulders (2022), challenges the notion of linear innovation pathways. Instead, it presents innovation as a set of interconnected, parallel processes that evolve dynamically. This approach acknowledges that various aspects of innovation (e.g., technological development, regulatory considerations, and market readiness) progress simultaneously rather than sequentially. Understanding this non-linear structure helps innovators navigate complex innovation ecosystems effectively.
+
+**Front-Loading Theory and Its Relevance**
+
+Front-loading theory emphasizes the importance of identifying key challenges early in the innovation process. Mapping potential bottlenecks—such as regulatory hurdles, sustainability concerns, workforce integration, and ethical considerations—at the outset allows for proactive problem-solving. Dolfsma, Eijk, and Mahdi (2022) highlight that investing effort and resources early can mitigate risks and improve overall success rates in medical technology innovation.
+
+Implementing Front-Loading Theory
+
+Front-loading can be operationalized through several strategies:
+
+* Strategic Problem-Solution Co-Evolution – Innovators should iteratively refine both the problem definition and the solution approach in response to emerging insights.
+
+* Circular Pathway Design Thinking – Incorporating continuous feedback loops ensures that innovation pathways remain adaptive and responsive to real-world needs.
+
+* Parallel Process Integration (IDER Model) – Balancing multiple development streams prevents bottlenecks and accelerates time-to-market.
+
+* Ethical and Societal Considerations – Incorporating ethical principles early, as discussed by Jeroen van den Hoven and Stefan Buijsman, ensures that innovations align with societal values and long-term sustainability (see WHO report on AI ethics: WHO AI Ethics Report and OpenWHO course: Ethics and AI).
+
+**Herzlinger's Three Strategies for Operationalizing Front-Loading**
+
+Regina Herzlinger (2024) identifies three primary strategies to support front-loading in healthcare innovation:
+
+Internal Development – Leveraging in-house expertise and infrastructure to refine innovation early.
+
+Growth Driver Strategy – Partnering with healthcare institutions and regulatory bodies to ensure alignment with market and policy requirements.
+
+External Collaboration – Engaging external stakeholders, such as academic institutions and technology firms, to integrate interdisciplinary knowledge and capabilities.
+
+Conclusion
+
+Innovation pathways in healthcare are evolving to accommodate new technological and service-driven advancements. Traditional biomedical models provide a foundation but must be expanded to support parallel processes, digital solutions, and ethical considerations. By applying the IDER model, front-loading theory, and Herzlinger’s strategic approaches, innovators can navigate complex pathways more effectively, leading to more successful and impactful healthcare solutions.
+
+**Bibliography**
+
+Compton-Phillips, A. (2024). Care Delivery Innovation in Action. NEJM Catalyst Innovations in Care Delivery, 5(4).
+
+Dolfsma, W., Eijk, R., & Mahdi, S. (2022). Front-Loading the Front-End of Innovation.
+
+Herzlinger, R. (2024). Strategic Partnerships in Healthcare Innovation.
+
+Ijzerman, M. J., Koffijberg, H., Fenwick, E., & Krahn, M. (2017). Emerging Use of Early Health Technology Assessment in Medical Product Development: A Scoping Review of the Literature. PharmacoEconomics, 35(7), 727–740. https://doi.org/10.1007/S40273-017-0509-1/TABLES/2.
+
+Smulders, F. (2022). The IDER Model: Managing Parallel Processes in Innovation.
+
+WHO (2022). Ethics and AI in Healthcare. WHO Report.
+
+
+
+
+----
+Older Version
+---
+
  front-loading theory to explain that you must map key steps in the innovation pathway and start with those that you consider to be problematic in the future e.g. Front-loading future needs, sustainability concerns, work-staff concerns, 
 
 There are standard innovation pathways for drugs and medical devices but a large array of innovaitons does not have an innovation pathway set out: e.g. sofware-driven interventions, called digital therapeutics (See Germany DIGA), or theranostics (See the area of diabetes, see review article) based on technological advancements in biomarkers (nanomedicine) and digital delivery of the drugs or interventions (also virtual with XR applications)
@@ -490,6 +585,7 @@ Explain general process
 
 The established pharma and medtech innovation pathway can be found here:
 Read this article as well and identify the key step in Figure 1: https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2820562
+
 
 Have a look at this video by dr. Frederick Thielen about key issues to consider upfront in this innovation pathway.
 
