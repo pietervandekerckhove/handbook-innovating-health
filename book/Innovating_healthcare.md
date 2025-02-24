@@ -237,18 +237,18 @@ A creative way to develop and refine your healthcare vision is through Sci-Fi st
 
 * Extract Ethical and Societal Values: After writing the story, reflect on what ethical principles and societal values emerged. Did your story emphasize equity, sustainability, or human-centered care?
 
-Sustainability
-Efficiency
-Compassion
-Solidarity
-Knowledge
-Innovation
-Survival 
-Health
-Well-being
-Resilience 
-Profit
-Beauty 
+        Sustainability
+        Efficiency
+        Compassion
+        Solidarity
+        Knowledge
+        Innovation
+        Survival 
+        Health
+        Well-being
+        Resilience 
+        Profit
+        Beauty 
 
 
 * Refine Your Vision Statement: Based on your insights, articulate a more refined and actionable vision for healthcare innovation.
@@ -368,6 +368,20 @@ Venturing into systems where value is created for users through different stakeh
 
 To operationalize this term in today's context where technology assumes many complex forms, we have added the product-service systems specification. This helps describe the complex environments in which today’s entrepreneurs operate. Entrepreneurs face significant challenges in developing an integrated new venture idea (NVI) that spans the entire value chain within an STPSS. Integrating the explicable knowledge of diverse stakeholders into an NVI is crucial, yet there has been little emphasis on the social process of knowledge interaction in NVI development.
 
+The current landscape could be currently categorized into four key actors: patients, health care providers, regulators and third party payers. This value provision pathway could be described by looking at the relationships between these stakeholders. See this figure by Kraus: 
+
+```{figure} ./figures/Kraus-21_Digital-transformation-traditional-Fig1.jpg
+:height: 150px
+:name: figure-example
+
+Stakeholders in a traditional healthcare system (Kraus, S., Schiavone, F., Pluzhnikova, A., & Invernizzi, A. C. (2021). Digital transformation in healthcare: Analyzing the current state-of-research. Journal of Business Research, 123, 557-567.)
+```
+
+
+Kraus, S., Schiavone, F., Pluzhnikova, A., & Invernizzi, A. C. (2021). Digital transformation in healthcare: Analyzing the current state-of-research. Journal of Business Research, 123, 557-567.
+
+However, this landscape is changing. Increasingly new initiatives, like digital healthcare solutions, change the way value is created (Kraus, 2021). For instance,  a solution may not need a physical healthcare provider, the patient could self-manage, validate with an external care professional and treat a certain problem themselves. The system itself is changing as well. For example, remote healthcare solutions operate differently if the institutions are involved in a different way. For instance, new communication software or data infrastucture (5G) could allow each actor to play a different role.
+
 **Role of Stakeholders and Evolving Technology**
 
 In a socio-technical product service system, there is an interaction between technology and people (e.g., electronic medical records). Understanding the healthcare system, its actors, and their interdependencies is crucial. The open course on patient journey mapping at TU Delft provides foundational knowledge about the sociotechnical context of healthcare systems. Watch the initial videos here. 
@@ -444,6 +458,8 @@ Article: "Collaborating for value - The Santeon Hospitals in the Netherlands." h
 Appelbaum, S. H. (1997). Socio-technical systems theory: An intervention strategy for organizational development. Management Decision, 35(6), 452-463.
 
 Healthcare Transformers. (2022). Collaborating for value - The Santeon Hospitals in the Netherlands. Retrieved from https://www.ichom.org/resource/collaborating-for-value-the-santeon-hospitals-in-the-netherlands/
+
+Kraus, S., Schiavone, F., Pluzhnikova, A., & Invernizzi, A. C. (2021). Digital transformation in healthcare: Analyzing the current state-of-research. Journal of Business Research, 123, 557-567.
 
 Porter, M. E. (2010). What is value in health care? New England Journal of Medicine, 363(26), 2477-2481.
 
