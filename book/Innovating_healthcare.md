@@ -237,6 +237,20 @@ A creative way to develop and refine your healthcare vision is through Sci-Fi st
 
 * Extract Ethical and Societal Values: After writing the story, reflect on what ethical principles and societal values emerged. Did your story emphasize equity, sustainability, or human-centered care?
 
+Sustainability
+Efficiency
+Compassion
+Solidarity
+Knowledge
+Innovation
+Survival 
+Health
+Well-being
+Resilience 
+Profit
+Beauty 
+
+
 * Refine Your Vision Statement: Based on your insights, articulate a more refined and actionable vision for healthcare innovation.
 
 For more details on the exercise, explore the Sci-Fi storyline mapping tool: Lavinia Marin & Gitte van Helden's Exercise.
