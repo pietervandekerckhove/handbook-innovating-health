@@ -189,7 +189,7 @@ A holistic approach to healthcare innovation should integrate sustainability, pa
 TA add video about dr. Sascha Verbruggen here with quiz in here: https://www.youtube.com/watch?v=_J4gLCg-6aA
 
 
-
+If you are interested in learning more about disaster preparedness and infectious diseases you can take a look here at the Open World Health Organization database. Retrieved from https://openwho.org/home
 
 
 **Discuss underneath what tips and tricks you use to develop your vision:** 
@@ -375,9 +375,11 @@ In a socio-technical product service system, there is an interaction between tec
 TA make videos clear here: https://ocw.tudelft.nl/courses/design-healthcare-using-patient-journey-mapping/?view=lectures&subject=22696
 
 
-These interactions can be visualized by the social determinants (Ramirez, 2008). See also the WHO Open Course here.
+These interactions can be visualized by the social determinants (Ramirez, 2008). 
 
-TA check link to content here: https://openwho.org/courses/sdh-concepts
+Some key factors influencing our haealth for instace are education, income and age for instance. And all of the problems people face with their health are increasingly being mitigated by technology. To get a good grasp on the impact of our societies on our health take a look at the TED talk video "How not to be ignorant about the world" by Hans and Ola Rosling. Please follow the quiz questions actively, which are posed in the video, can you do better then the audience?:
+
+TA make video clear here: https://www.youtube.com/watch?v=Sm5xF-UYgdg
 
 **Value Creation in a Socio-Technical Health System**
 
@@ -405,6 +407,8 @@ TA please add the h5p video with quiz in here from Robin Toorneman: https://www.
 * Canada (Ken Redekop, Ryan Pulleybank): Publicly funded universal healthcare with some private insurance for supplementary services. Each province administers its own system, with national guidelines ensuring universal access. While essential services are covered, wait times for specialist care can be long, leading some to seek private solutions.
 
 * China (ESHPM contacts, PhD students): A mix of public and private healthcare, with ongoing reforms to improve accessibility and affordability. Public insurance schemes cover most of the population, but out-of-pocket expenses remain high for specialized care. Government efforts focus on expanding healthcare access and integrating AI-driven solutions into medical practice.
+
+For more information about the key statistics for each country, you can consult, the WHO country profiles (e.g. Belgium https://data.who.int/countries/056 or the WHO global health Observatory https://www.who.int/data/gho
 
 **Value-Based Healthcare**
 
@@ -443,7 +447,7 @@ Healthcare Transformers. (2022). Collaborating for value - The Santeon Hospitals
 
 Porter, M. E. (2010). What is value in health care? New England Journal of Medicine, 363(26), 2477-2481.
 
-Ramirez, B. (2008). Social determinants of health: Implications for action. World Health Organization. Retrieved from https://openwho.org/courses/sdh-concepts
+Ramirez, B. (2008). Social determinants of health
 
 Reindersma, M., et al. (2024). The challenges of implementing value-based healthcare: A systematic review. Journal of Health Management, 32(1), 56-73.
 
