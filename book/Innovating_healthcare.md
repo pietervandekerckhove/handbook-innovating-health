@@ -581,6 +581,11 @@ The dominant biomedical innovation pathway follows a structured, often linear, p
 JAMA Netw Open. 2024;7(6):e2415445. doi:10.1001/jamanetworkopen.2024.15445, Legend: Stages of Drug Development, BLA indicates Biologic License Application; FDA, US Food and Drug Administration; IND, Investigational New Drug; NDA, New Drug Application.
 ```
 
+Here is a video explaining a key challenge for innovators in the innovation pathway adressing cost-effectiveness of your innovation. If you want widespread acces for your pharmaceutical or medical device innovation, in many countries you need to ask approval and show that you are cost-effective. But what is cost-effectiveness? 
+
+Look at this video from dr. Frederick Thielen:
+https://www.youtube.com/watch?v=xMF2ddO9abM
+
 While this pathway has proven effective for traditional medical products, it does not always accommodate the complexities of emerging innovations such as software-driven interventions (e.g., digital therapeutics like Germany's DiGA framework) or theranostics (e.g., diabetes management integrating biomarkers and digital drug delivery). These new categories demand more flexible, iterative innovation models. Ijzerman, Koffijberg, Fenwick, and Krahn (2017) emphasize the importance of early health technology assessment in medical product development, highlighting the need for more adaptive frameworks (PharmacoEconomics, 35(7), 727–740).
 
 **Beyond Pharma and Medtech: The Need for Improved Pathways**
@@ -593,9 +598,11 @@ The Need for New Innovation Theories to Revise This Framework
 
 A stronger theoretical foundation is required to improve innovation processes, especially in terms of translating ideas into care practices. Healthcare innovators must ultimately be able to reshape systems to support the adoption and sustainability of novel solutions. This also applies to the traditional biomedical innovation pathway, whereby the alst part market launch is in reality a black box. Few people really knows, what it takes for a drug to be fully become available to the market of a country. 
 
-Have a look at this video by dr. Frederick Thielen about key issues that are happening in practice to get to a succesfull launch. What things should you consider upfront in this innovation pathway?
+Have a look at this video by dr. Frederick Thielen about key issues that are happening in practice to go beyond the market access launch and get to a succesfull launc where patients actually get a new drug prescribed. What things should you consider upfront in this innovation pathway?
 
 [![3 Things About Market Access](https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D8NhuaohK_Qg)](https://www.youtube.com/watch?v=8NhuaohK_Qg)
+
+During these complex negotiations you need to agree on a price with the payer, be it a health insurer, the government or a hospital, or all of these together. Have a look at this video from prof. Carin Uyl-de Groot: https://www.youtube.com/watch?v=6ZtwscRvEls
 
 
 Compton-Phillips (2024) emphasizes the importance of care delivery innovation in achieving this transformation. Underneath we will explore a few key theoreties one can use to help understand key dynamics in innovation pathways.  Ultimately it requires integrating service design principles, systems thinking, early health technology assessment, and implementation science. Ultimators can than develop frameworks that better support their healthcare innovations beyond traditional pharmaceutical and medtech pathway.
