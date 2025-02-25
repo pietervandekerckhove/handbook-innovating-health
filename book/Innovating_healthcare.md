@@ -116,7 +116,9 @@ The book is structured to integrate theory with practice, ensuring you gain acti
 
 Whether you are a health professional, entrepreneur, policymaker, or student, this book will empower you with the tools to create lasting impact in healthcare innovation.
 
-**References**
+
+```{admonition} Bibliography
+:class: note 
 
 Chakraborty, S., Drews, P., & Schirmer, I. (2021). Navigating healthcare innovation: Regulatory barriers and enablers. Health Policy & Technology, 10(2), 55-71.
 
@@ -143,6 +145,10 @@ Technology Foresight - The Future of Human Health. (n.d.). Retrieved from https:
 TU Delft. (2023). A new air traffic puzzle: Autonomous drones in healthcare logistics. Retrieved from https://www.tudelft.nl
 
 Weimar, B., Huber, J., & Rosenthal, A. (2024). The role of AI in the future of digital health. Journal of Digital Health Policy, 9(1), 18-29.
+
+```
+
+
 
 
 ---- FOR TA: CUT THE CHAPTER HERE----
