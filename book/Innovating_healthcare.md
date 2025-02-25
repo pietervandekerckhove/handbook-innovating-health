@@ -676,21 +676,6 @@ WHO (2022). Ethics and AI in Healthcare. WHO Report.
 Older Version
 ---
 
- front-loading theory to explain that you must map key steps in the innovation pathway and start with those that you consider to be problematic in the future e.g. Front-loading future needs, sustainability concerns, work-staff concerns, 
-
-There are standard innovation pathways for drugs and medical devices but a large array of innovaitons does not have an innovation pathway set out: e.g. sofware-driven interventions, called digital therapeutics (See Germany DIGA), or theranostics (See the area of diabetes, see review article) based on technological advancements in biomarkers (nanomedicine) and digital delivery of the drugs or interventions (also virtual with XR applications)
-
-Explain general process
-
-The established pharma and medtech innovation pathway can be found here:
-Read this article as well and identify the key step in Figure 1: https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2820562
-
-
-Have a look at this video by dr. Frederick Thielen about key issues to consider upfront in this innovation pathway.
-
-[![3 Things About Market Access](https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D8NhuaohK_Qg)](https://www.youtube.com/watch?v=8NhuaohK_Qg)
-
-
 Apply exercise: try 
 
 Overarching innovation theory to keep in mind is the C-K theory, design theory which helps to explain that you need to move with a group of people from the well known knowledge to the conceptual space to develop a new idea.
@@ -708,13 +693,8 @@ optimalisation, develop new care pathway, revise socio-technological product ser
 
 
 
-(check with Jeroen van den Hoven en Stefan Buijsman)
-consider incoporating ethical values in the design of the problem-solution early, e.g. regarding research ethics, but also regarding the use of AI see this book https://www.who.int/publications/i/item/9789240029200 or this free online course https://openwho.org/courses/ethics-ai
 
-
-
-
-### Developing your innovation pathway
+# Developing your innovation pathway
 
 <center>
   <div style="padding: 10px; background-color: #00BBC8; border-radius: 10px; display: inline-block; font-weight: bold; font-size: 16px; color: #000; position: relative;">
@@ -746,15 +726,80 @@ TA Change to exercise format: For example a foundation developed a succesful ser
 TA CHANGE TO CASE STUDY FORMAT: case AYA family room UZA: process self-funded, patient-driven innovationU
 ```
 
+---TA CUT CHAPTER HERE----
+
+# Create Strategic Innovation Advantage in Healthcare Organizations
+
+<center>
+  <div style="padding: 10px; background-color: #00BBC8; border-radius: 10px; display: inline-block; font-weight: bold; font-size: 16px; color: #000; position: relative;">
+    <span style="background-color: white; color: #00BBC8; border-radius: 50%; padding: 5px 10px; font-size: 15px; font-weight: bold; margin-right: 8px; display: inline-block;">Learning goal</span>
+   Develop a strategic approach to fostering innovation in healthcare organizations.
+  </div>
+</center>
+<br>
+
+## Introduction
+Healthcare organizations operate in a system with an endless demand for healthcare services. Unlike other industries, they are not necessarily incentivized to innovate for increased turnover or higher-quality care. Given this context, it is crucial to create dedicated spaces and frameworks that enable innovation while aligning with the broader organizational mission.
+
+## The Need for Innovation in Healthcare
+Many leading institutions have established dedicated innovation spaces to experiment with new ideas outside their usual operational scope. For instance, Mayo Clinic’s Center for Innovation fosters design-driven healthcare improvements ([Yale Insights](https://insights.som.yale.edu/insights/can-design-thinking-reshape-an-esteemed-institution)). Similarly, Kaiser Permanente’s Innovation Consultancy applies human-centered design to improve patient experiences and streamline care delivery. By embedding innovation teams within their operations, they ensure that new ideas are tested and implemented in real-world healthcare settings. However, tensions often arise between care professionals focused on traditional medical practice and those who take a more entrepreneurial or design-oriented approach. Thought leaders such as Tim Brown (IDEO) and Nicholas LaRusso (Mayo Clinic) highlight the importance of bridging science, design, and healthcare through design thinking.
+
+[![Thinking Differently: The Mayo Clinic Center for Innovation's Series of Unexpected Conversations](https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DfW1R_6FJ6TQ%26t%3D2s)](https://www.youtube.com/watch?v=fW1R_6FJ6TQ&t=2s)
+
+## Developing a Strategic Starting Point
+To successfully introduce innovation, organizations need a purpose-driven mission that aligns with broader megatrends and strategies, such as:
+- **Value-Based Healthcare** – Enhancing patient outcomes while managing costs.
+- **Cost Efficiency** – Streamlining healthcare delivery to optimize resource use.
+- **Provider-Driven Innovation** – Encouraging frontline professionals to identify and implement new solutions.
+
+### Effective Communication Strategies
+Explaining the innovation mission to various stakeholders requires tailored communication strategies. Given the complex social dynamics of healthcare, innovators need sufficient resources to facilitate discussions and integrate new ideas into existing frameworks. Research suggests that fostering collaborative communication is key to successful implementation ([Smulders, Lousberg, & Dorst, 2008](https://doi.org/10.1108/17538370810883819)).
+
+## Synergizing Innovation with Organizational Behavior
+Healthcare organizations are often hierarchical, heavily regulated, and accustomed to incremental rather than radical innovation. Given these constraints, successful innovation requires:
+- **Navigating Administrative Structures** – Understanding regulatory and operational boundaries.
+- **Identifying Key Stakeholders** – Engaging leadership, clinicians, and administrative staff at different levels.
+- **Aligning with Leadership** – Securing buy-in from executives and department heads.
+
+## Building an Innovation-Friendly Culture
+Once key individuals are identified, assessing their personalities and motivations is essential for assembling an effective innovation team. Resources such as *Healthcare by Design: A User’s Guide to Healthcare Improvement* (Barry Katz et al., 2025) provide tools for building teams with the right characteristics for healthcare innovation.
 
 
-## Preparing the organization
-```{note}
-Learning goal: be able to apply a strategy for your starting point with strategic advantage
+https://www.dropbox.com/scl/fi/kf1qftr0dn2qlsheudf4p/Discovery-Design-Worksheets_Future-Medical-Systems.pdf?rlkey=444vtb5yubxg0099oz25m2kdq&e=2&dl=0
+
+
+
+```{figure} ./figures/Healthcare-by-design-Katz-2025.png
+:height: 150px
+:name: figure-example
+
+Discovery Design Mindsets, A Tool for Reflection Individually/Team(Katz et al., 2025, Healthcare by Design tool)
 ```
-* Find your purpose driven mission start in line with the organization: Topic of innovation: Developing a strategic starting point: Megatrends and strategies of the organization (Valeu-based healthcare, cost-efficiency, prodider driven)
 
-explain your mission to different people in the organizations with different communication strategies
+
+## Conclusion
+Innovation in healthcare organizations requires a strategic approach that aligns with existing structures, engages key stakeholders, and fosters a culture conducive to change. By leveraging purpose-driven missions, effective communication, and strong leadership, organizations can create sustainable innovation pathways that improve healthcare delivery.
+
+## Bibliography
+- Barry Katz et al. (2025). *Healthcare by Design: A User’s Guide to Healthcare Improvement*.
+- Smulders, F., Lousberg, L., & Dorst, K. (2008). Towards different communication in collaborative design. International Journal of Managing Projects in Business, 1(3), 352–367. https://doi.org/10.1108/17538370810883819
+- Yale Insights. (n.d.). *Can Design Thinking Reshape an Esteemed Institution?* [Yale Insights](https://insights.som.yale.edu/insights/can-design-thinking-reshape-an-esteemed-institution).
+
+
+
+---
+OLDER VERSION
+Healthcare organizations are not necessarily incentivezed to innovate to create more turnover or deliver more quality of care. That is because in the health system, there is an endless demand of health problems needing more healthcare services to solve the problems. Therefore it is important to create the space to innovate in the organization.
+
+ Some institutions have a dedicated space to think and experiment with new ideas outside of the comfort zone, like Mayo clinic's Center for Innovation https://insights.som.yale.edu/insights/can-design-thinking-reshape-an-esteemed-institution
+
+ However, the tension exists between care professionals, and people who think more entrepreneurial and designerly. What do dr. Tim Brown, CEO of IDEO, and Nicholas LaRusso, M.D., Medical Director of the Center for Innovation, think about the similarities and differences about science, design and the importance of design thinking in health care?
+
+[![Thinking Differently: The Mayo Clinic Center for Innovation's Series of Unexpected Conversations](https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DfW1R_6FJ6TQ%26t%3D2s)](https://www.youtube.com/watch?v=fW1R_6FJ6TQ&t=2s)
+
+It is important to find your purpose driven mission start in line with the organization: Topic of innovation: Developing a strategic starting point: Megatrends and strategies of the organization (Valeu-based healthcare, cost-efficiency, prodider driven)
+
+explain your mission to different people in the organizations with different communication strategies. It is important to make sure the communication is clear and possible. This is a complex social process in healthcare where you need enough resources to discuss new ideas. (Smulders, F., Lousberg, L., & Dorst, K. (2008). Towards different communication in collaborative design. International Journal of Managing Projects in Business, 1(3), 352–367. https://doi.org/10.1108/17538370810883819)
 
 * Synergize behaviors within the existing organzation: 
 Healthcare organizations are hierarchical administrative organizations with many individual entrepreneurs, who are conditioned to innovate in very specific spaces controlled by laws and medical guidelines
@@ -763,7 +808,9 @@ Healthcare organizations are not used to radical innovative behaviour
 
 Alignment with leadership at different levels in the organization
 
-see also the PDF tools from book to develop a team that the right characteristics: Healthcare by Design A User’s Guide to Healthcare Improvement; Barry Katz, Simon Mawer, 0 Future Medical Systems, LLC, Kara Harrington, Rob Lister, Schirin Lucie Richter and Svava Maria Atlad�ttir (book 2025)
+Once you have identified different people in the organization, it is important to asses the personalities of the people you are involving.
+
+See also the PDF tools from book to develop a team that the right characteristics: Healthcare by Design A User’s Guide to Healthcare Improvement; Barry Katz, Simon Mawer, 0 Future Medical Systems, LLC, Kara Harrington, Rob Lister, Schirin Lucie Richter and Svava Maria Atlad�ttir (book 2025)
 
 https://www.dropbox.com/scl/fi/kf1qftr0dn2qlsheudf4p/Discovery-Design-Worksheets_Future-Medical-Systems.pdf?rlkey=444vtb5yubxg0099oz25m2kdq&e=2&dl=0
 
