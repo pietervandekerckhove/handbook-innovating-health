@@ -449,9 +449,11 @@ Different countries have varying approaches to health insurance, coverage, and r
 
 * European Perspective (Bettina Maisch, Ines): Predominantly public, with national insurance schemes and stringent medical device regulations. Countries like Germany and France have universal health coverage with a mix of public funding and private insurance options for supplemental services. The European Union also has regulations such as the Medical Device Regulation (MDR) and the proposed AI Act, which impact MedTech innovation.
 
-Check this open courseware TU Delft course about EUROPEAN medical device regulation: https://online-learning.tudelft.nl/courses/medical-devices-regulation-in-practice/
+(TA Check access to videos) Check this open courseware TU Delft course about EUROPEAN medical device regulation: https://online-learning.tudelft.nl/courses/medical-devices-regulation-in-practice/
 
-(TA Check access to videos)
+Read the article by Willemsen et al. (2022) on EUnetHTA relative effectiveness assessments. This article discusses efforts to improve the usability, transparency, and inclusiveness of health technology assessments in Europe. Access the article [here](https://doi.org/10.1017/S0266462322000058).
+
+
 
 * Dutch Perspective: A mix of public and private insurance, with mandatory health coverage regulated by the government. Citizens choose from private insurers offering government-regulated packages. The system encourages competition among insurers while ensuring universal coverage. Video by Robin Toorneman.
 
@@ -481,6 +483,11 @@ Value-based healthcare started with the seminal work of Porter (2010), with key 
 * Patient-Centered Care: VBHC emphasizes treating patients as active participants in their own care, focusing on their specific needs and outcomes.
 * Outcome Measurement: Regular measurement and analysis of health outcomes are critical, ensuring that care interventions are effective.
 * Cost-Effectiveness: VBHC seeks to achieve the best possible outcomes at the lowest possible cost, often involving cost management and efficiency improvements.
+
+See also: Catalyst, N. E. J. M. (2017). What is value-based healthcare?. NEJM Catalyst, 3(1).
+https://catalyst.nejm.org/doi/full/10.1056/cat.17.0558
+TA add reading exercise: Try to identify how each stakeholder has a different perspective on value-based healthcare, which are the aim and means they put forward for value-based healthcare?
+
 
 Even though it is a convincing framework, it is not as easy as it seems to implement. Yet, it can be an important catalyst for innovation and influence how you can harness this trend in your innovations.The concept of value-based healthcare is central to modern MedTech innovation. The "Implementing Value-Based Healthcare in Europe: Handbook for Pioneers" offers practical guidance on creating value within health systems. This approach focuses on improving patient outcomes while optimizing costs. Access the handbook here.
 
@@ -587,12 +594,17 @@ The dominant biomedical innovation pathway follows a structured, often linear, p
 JAMA Netw Open. 2024;7(6):e2415445. doi:10.1001/jamanetworkopen.2024.15445, Legend: Stages of Drug Development, BLA indicates Biologic License Application; FDA, US Food and Drug Administration; IND, Investigational New Drug; NDA, New Drug Application.
 ```
 
-Here is a video explaining a key challenge for innovators in the innovation pathway adressing cost-effectiveness of your innovation. If you want widespread acces for your pharmaceutical or medical device innovation, in many countries you need to ask approval and show that you are cost-effective. But what is cost-effectiveness? 
+In the phase before the marketing stage, one needs to gain access to the market. Every country has its own procedure for this. Have a look at this video by dr. Frederick Thielen about key issues that are happening in practice to go beyond the market access launch and get to a succesfull launc where patients actually get a new drug prescribed. What things should you consider upfront in this innovation pathway?
+
+[![3 Things About Market Access](https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D8NhuaohK_Qg)](https://www.youtube.com/watch?v=8NhuaohK_Qg)
+
+
+A key challenge here is to demonstrate cost-effectiveness of your drug, for example in The Netherlands. But what is cost-effectiveness? 
 
 Look at this video from dr. Frederick Thielen:
 https://www.youtube.com/watch?v=xMF2ddO9abM
 
-While this pathway has proven effective for traditional medical products, it does not always accommodate the complexities of emerging innovations such as software-driven interventions (e.g., digital therapeutics like Germany's DiGA framework) or theranostics (e.g., diabetes management integrating biomarkers and digital drug delivery). These new categories demand more flexible, iterative innovation models. Ijzerman, Koffijberg, Fenwick, and Krahn (2017) emphasize the importance of early health technology assessment in medical product development, highlighting the need for more adaptive frameworks (PharmacoEconomics, 35(7), 727–740).
+While this pathway has proven effective for traditional medical products, it does not always accommodate the complexities of emerging innovations such as software-driven interventions (e.g., digital therapeutics like Germany's DiGA framework (**ADD REF**)) or theranostics (e.g., diabetes management integrating biomarkers and digital drug delivery). These new categories demand more flexible, iterative innovation models. Ijzerman, Koffijberg, Fenwick, and Krahn (2017) emphasize the importance of early health technology assessment in medical product development, highlighting the need for more adaptive frameworks (PharmacoEconomics, 35(7), 727–740).
 
 **Beyond Pharma and Medtech: The Need for Improved Pathways**
 
@@ -603,10 +615,6 @@ Innovation in healthcare now extends beyond pharmaceuticals and medical devices 
 The Need for New Innovation Theories to Revise This Framework
 
 A stronger theoretical foundation is required to improve innovation processes, especially in terms of translating ideas into care practices. Healthcare innovators must ultimately be able to reshape systems to support the adoption and sustainability of novel solutions. This also applies to the traditional biomedical innovation pathway, whereby the alst part market launch is in reality a black box. Few people really knows, what it takes for a drug to be fully become available to the market of a country. 
-
-Have a look at this video by dr. Frederick Thielen about key issues that are happening in practice to go beyond the market access launch and get to a succesfull launc where patients actually get a new drug prescribed. What things should you consider upfront in this innovation pathway?
-
-[![3 Things About Market Access](https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D8NhuaohK_Qg)](https://www.youtube.com/watch?v=8NhuaohK_Qg)
 
 During these complex negotiations you need to agree on a price with the payer, be it a health insurer, the government or a hospital, or all of these together. Have a look at this video from prof. Carin Uyl-de Groot: https://www.youtube.com/watch?v=6ZtwscRvEls
 
