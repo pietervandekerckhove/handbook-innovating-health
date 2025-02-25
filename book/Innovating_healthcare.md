@@ -370,18 +370,54 @@ To operationalize this term in today's context where technology assumes many com
 
 
 
-**Role of Stakeholders and Evolving Technology**
+**Interactions between our health, social determinants, digital determinants, stakeholders and evolving technology**
 
-In a socio-technical product service system, there is an interaction between technology and people (e.g., electronic medical records). Understanding the healthcare STPSS, its actors, and their interdependencies is crucial. The open course on patient journey mapping at TU Delft provides foundational knowledge about the sociotechnical context of healthcare systems. Watch the initial videos here. 
+Regarding our health, a STPSS is complex as there is an interaction with society, our digital environment, the organizations and technologies we are exposed to and which we use. Therefore, there is a complex interaction between people and health technology (e.g., electronic medical records). Understanding the healthcare STPSS, its actors, and their interdependencies is crucial. 
+
+These interactions can be visualized by the social determinants. Some key factors influencing our health for instance are education, income and age (Dahlgren, G., & Whitehead, M. (2021). The Dahlgren-Whitehead model of health determinants: 30 years on and still chasing rainbows. Public health, 199, 20-24.).
+
+```{figure} ./figures/Social determinants Health.jpg
+:height: 150px
+:name: figure-example
+
+Main determinants of health (Dahlgren, G., & Whitehead, M. (2021). The Dahlgren-Whitehead model of health determinants: 30 years on and still chasing rainbows. Public health, 199, 20-24.)
+```
+
+
+To explain how these social determinants influence people's health, you can have a look at the figure below explaining how social determinants influence cardiovascular disease, a disease which has one of the highest impacts globally.
+
+```{figure} ./figures/Hypertension social determinants and CVD.jpg
+:name: figure-example
+
+Conceptual framework on the digital determinants of health. Socioecological and life course approaches of social determinants of health leading to hypertension and cardiovascular disease (CVD). Social determinants of health (SDOHs) encompass socioeconomic, political, and environmental contexts, including neighborhood poverty and poor housing conditions, social policies and built environment, public health policies and legislation, climate change and pollution, and crisis events. These SDOHs contribute to an increased risk of premature CVD and major adverse cardiac events (MACE) through health care system and psychosocial stress pathway, such as sympathetic-adreno-medullar and hypothalamic-pituitary-adrenal axis activation. BP indicates blood pressure; CKD, chronic kidney disease; CRP, C-reactive protein; and UPF, ultra-processed food. (Chaturvedi, A., Zhu, A., Gadela, N. V., Prabhakaran, D., & Jafar, T. H. (2024). Social determinants of health and disparities in hypertension and cardiovascular diseases. Hypertension, 81(3), 387-399.)
+```
+
+To get a good grasp on the impact of our societies on our health take a look at the TED talk video "How not to be ignorant about the world" by Hans and Ola Rosling. Please follow the quiz questions actively, which are posed in the video, can you do better then the audience?:
+
+TA make video clear here: https://www.youtube.com/watch?v=Sm5xF-UYgdg
+
+In addition, all of the problems people face with their health are increasingly being mitigated by technology, that is why recently researchers have highlighted the impact of digital determinants as well. 
+
+```{figure} ./figures/digital determinants.jpg
+:name: figure-example
+
+Conceptual framework on the digital determinants of health (van Kessel, R., Seghers, L. E., Anderson, M., Schutte, N. M., Monti, G., Haig, M., ... & Mossialos, E. (2024). A scoping review and expert consensus on digital determinants of health. Bulletin of the World Health Organization, 103(2), 110.)
+```
+
+
+When innovating, it is important to take this context into account and try to map it out for the relevant innovation. The open course on Design in Healthcare: Using Patient Journey Mapping at TU Delft provides foundational knowledge about the sociotechnical context of healthcare systems. Watch the initial videos here by prof. Richard Goossens. 
 
 TA make videos clear here: https://ocw.tudelft.nl/courses/design-healthcare-using-patient-journey-mapping/?view=lectures&subject=22696
 
+Take a look at this case of these two people. What key aspects can you identify about the context of their health journey?
 
-These interactions can be visualized by the social determinants (Ramirez, 2008). 
+<iframe width="711" height="400" src="https://www.youtube.com/embed/9BUchsMKrOU" title="MED01x_2017_M1_Casemovie-video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Some key factors influencing our haealth for instace are education, income and age for instance. And all of the problems people face with their health are increasingly being mitigated by technology. To get a good grasp on the impact of our societies on our health take a look at the TED talk video "How not to be ignorant about the world" by Hans and Ola Rosling. Please follow the quiz questions actively, which are posed in the video, can you do better then the audience?:
 
-TA make video clear here: https://www.youtube.com/watch?v=Sm5xF-UYgdg
+Now, take a look at the next video, what relations between the patient and the health system did you find as well in the previous video?
+<iframe width="711" height="400" src="https://www.youtube.com/embed/Qb5rebNu1Pg" title="MED01x_2017_M1_Lecture-video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
 
 **Value Creation in a Socio-Technical Health System**
 
@@ -483,7 +519,7 @@ https://www.youtube.com/watch?v=3bCUhrWl4jE
 
 
 
-
+TA Check if bibliography is complete with refs
 
 ```{admonition} Bibliography
 :class: note 
