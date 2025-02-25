@@ -742,7 +742,7 @@ TA CHANGE TO CASE STUDY FORMAT: case AYA family room UZA: process self-funded, p
 Healthcare organizations operate in a system with an endless demand for healthcare services. Unlike other industries, they are not necessarily incentivized to innovate for increased turnover or higher-quality care. Given this context, it is crucial to create dedicated spaces and frameworks that enable innovation while aligning with the broader organizational mission.
 
 ## The Need for Innovation in Healthcare
-Many leading institutions have established dedicated innovation spaces to experiment with new ideas outside their usual operational scope. For instance, Mayo Clinic’s Center for Innovation fosters design-driven healthcare improvements ([Yale Insights](https://insights.som.yale.edu/insights/can-design-thinking-reshape-an-esteemed-institution)). Similarly, Kaiser Permanente’s Innovation Consultancy applies human-centered design to improve patient experiences and streamline care delivery. By embedding innovation teams within their operations, they ensure that new ideas are tested and implemented in real-world healthcare settings. However, tensions often arise between care professionals focused on traditional medical practice and those who take a more entrepreneurial or design-oriented approach. Thought leaders such as Tim Brown (IDEO) and Nicholas LaRusso (Mayo Clinic) highlight the importance of bridging science, design, and healthcare through design thinking.
+Many leading institutions have established dedicated innovation spaces to experiment with new ideas outside their usual operational scope. For instance, Mayo Clinic’s Center for Innovation fosters design-driven healthcare improvements ([Yale Insights](https://insights.som.yale.edu/insights/can-design-thinking-reshape-an-esteemed-institution)). Similarly, Kaiser Permanente applies human-centered design to improve patient experiences and streamline care delivery. By embedding innovation teams within their operations, they ensure that new ideas are tested and implemented in real-world healthcare settings. However, tensions often arise between care professionals focused on traditional medical practice and those who take a more entrepreneurial or design-oriented approach. Thought leaders such as Tim Brown (IDEO) and dr. Nicholas LaRusso (Mayo Clinic) highlight the importance of bridging science, design, and healthcare through design thinking.
 
 [![Thinking Differently: The Mayo Clinic Center for Innovation's Series of Unexpected Conversations](https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DfW1R_6FJ6TQ%26t%3D2s)](https://www.youtube.com/watch?v=fW1R_6FJ6TQ&t=2s)
 
@@ -785,47 +785,9 @@ Innovation in healthcare organizations requires a strategic approach that aligns
 - Smulders, F., Lousberg, L., & Dorst, K. (2008). Towards different communication in collaborative design. International Journal of Managing Projects in Business, 1(3), 352–367. https://doi.org/10.1108/17538370810883819
 - Yale Insights. (n.d.). *Can Design Thinking Reshape an Esteemed Institution?* [Yale Insights](https://insights.som.yale.edu/insights/can-design-thinking-reshape-an-esteemed-institution).
 
+--TA CUT CHAPTER HERE--
 
-
----
-OLDER VERSION
-Healthcare organizations are not necessarily incentivezed to innovate to create more turnover or deliver more quality of care. That is because in the health system, there is an endless demand of health problems needing more healthcare services to solve the problems. Therefore it is important to create the space to innovate in the organization.
-
- Some institutions have a dedicated space to think and experiment with new ideas outside of the comfort zone, like Mayo clinic's Center for Innovation https://insights.som.yale.edu/insights/can-design-thinking-reshape-an-esteemed-institution
-
- However, the tension exists between care professionals, and people who think more entrepreneurial and designerly. What do dr. Tim Brown, CEO of IDEO, and Nicholas LaRusso, M.D., Medical Director of the Center for Innovation, think about the similarities and differences about science, design and the importance of design thinking in health care?
-
-[![Thinking Differently: The Mayo Clinic Center for Innovation's Series of Unexpected Conversations](https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DfW1R_6FJ6TQ%26t%3D2s)](https://www.youtube.com/watch?v=fW1R_6FJ6TQ&t=2s)
-
-It is important to find your purpose driven mission start in line with the organization: Topic of innovation: Developing a strategic starting point: Megatrends and strategies of the organization (Valeu-based healthcare, cost-efficiency, prodider driven)
-
-explain your mission to different people in the organizations with different communication strategies. It is important to make sure the communication is clear and possible. This is a complex social process in healthcare where you need enough resources to discuss new ideas. (Smulders, F., Lousberg, L., & Dorst, K. (2008). Towards different communication in collaborative design. International Journal of Managing Projects in Business, 1(3), 352–367. https://doi.org/10.1108/17538370810883819)
-
-* Synergize behaviors within the existing organzation: 
-Healthcare organizations are hierarchical administrative organizations with many individual entrepreneurs, who are conditioned to innovate in very specific spaces controlled by laws and medical guidelines
-
-Healthcare organizations are not used to radical innovative behaviour
-
-Alignment with leadership at different levels in the organization
-
-Once you have identified different people in the organization, it is important to asses the personalities of the people you are involving.
-
-See also the PDF tools from book to develop a team that the right characteristics: Healthcare by Design A User’s Guide to Healthcare Improvement; Barry Katz, Simon Mawer, 0 Future Medical Systems, LLC, Kara Harrington, Rob Lister, Schirin Lucie Richter and Svava Maria Atlad�ttir (book 2025)
-
-https://www.dropbox.com/scl/fi/kf1qftr0dn2qlsheudf4p/Discovery-Design-Worksheets_Future-Medical-Systems.pdf?rlkey=444vtb5yubxg0099oz25m2kdq&e=2&dl=0
-
-
-
-```{figure} ./figures/Healthcare-by-design-Katz-2025.png
-:height: 150px
-:name: figure-example
-
-Discovery Design Mindsets, A Tool for Reflection Individually/Team(Katz et al., 2025, Healthcare by Design tool)
-```
-
-
-
-### Communication and pitching your idea to different people in the organization
+# Communication and pitching your idea to different people in the organization
 
 Different people in the organization will have different incentives to focus on innovation and changes next to their core activities. That is why it is crucial to use those 20 seconds or 1 minute ot your maximum advantage. Try to come across in a professional way. Try to practice your pitch with people or sign up with the Toastmasters platform https://www.toastmasters.org/ and join a club and you can even gain free access to a **generative AI tool Yoodli that analyzes your pitch: https://www.toastmasters.org/myhome/welcome-to-yoodli
 **
