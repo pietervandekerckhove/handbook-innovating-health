@@ -376,7 +376,7 @@ Regarding our health, a STPSS is complex as there is an interaction with society
 
 These interactions can be visualized by the social determinants. Some key factors influencing our health for instance are education, income and age (Dahlgren, G., & Whitehead, M. (2021). The Dahlgren-Whitehead model of health determinants: 30 years on and still chasing rainbows. Public health, 199, 20-24.).
 
-```{figure} ./figures/Social determinants Health.jpg
+```{figure} ./figures/Social-determinants-Health.jpg
 :height: 150px
 :name: figure-example
 
@@ -386,7 +386,7 @@ Main determinants of health (Dahlgren, G., & Whitehead, M. (2021). The Dahlgren-
 
 To explain how these social determinants influence people's health, you can have a look at the figure below explaining how social determinants influence cardiovascular disease, a disease which has one of the highest impacts globally.
 
-```{figure} ./figures/Hypertension social determinants and CVD.jpg
+```{figure} ./figures/Hypertension-social-determinants-and-CVD.jpg
 :name: figure-example
 
 Conceptual framework on the digital determinants of health. Socioecological and life course approaches of social determinants of health leading to hypertension and cardiovascular disease (CVD). Social determinants of health (SDOHs) encompass socioeconomic, political, and environmental contexts, including neighborhood poverty and poor housing conditions, social policies and built environment, public health policies and legislation, climate change and pollution, and crisis events. These SDOHs contribute to an increased risk of premature CVD and major adverse cardiac events (MACE) through health care system and psychosocial stress pathway, such as sympathetic-adreno-medullar and hypothalamic-pituitary-adrenal axis activation. BP indicates blood pressure; CKD, chronic kidney disease; CRP, C-reactive protein; and UPF, ultra-processed food. (Chaturvedi, A., Zhu, A., Gadela, N. V., Prabhakaran, D., & Jafar, T. H. (2024). Social determinants of health and disparities in hypertension and cardiovascular diseases. Hypertension, 81(3), 387-399.)
@@ -398,7 +398,7 @@ TA make video clear here: https://www.youtube.com/watch?v=Sm5xF-UYgdg
 
 In addition, all of the problems people face with their health are increasingly being mitigated by technology, that is why recently researchers have highlighted the impact of digital determinants as well. 
 
-```{figure} ./figures/digital determinants.jpg
+```{figure} ./figures/digital-determinants.jpg
 :name: figure-example
 
 Conceptual framework on the digital determinants of health (van Kessel, R., Seghers, L. E., Anderson, M., Schutte, N. M., Monti, G., Haig, M., ... & Mossialos, E. (2024). A scoping review and expert consensus on digital determinants of health. Bulletin of the World Health Organization, 103(2), 110.)
