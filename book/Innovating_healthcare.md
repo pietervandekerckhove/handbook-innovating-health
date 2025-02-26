@@ -64,7 +64,12 @@ For example, some efforts focus on human-centered patient experiences by enhanci
 
 Some innovations are also coming from other industries into healthcare, technological advances such as medical drones for transporting blood and emergency equipment require harmonization of legislation, technology, infrastructure, and care pathways before they can be widely implemented (MAVLab, 2023; Helicus, 2023; TU Delft, 2023). Consider, for example, the ambulance drone concept—an unmanned aircraft that delivers defibrillators to cardiac arrest patients within minutes. While technically feasible, the innovation pathway from prototype to scalable, integrated solution remains unclear. What financial models, regulatory approvals, and operational frameworks are needed to bring such an idea to real-world implementation?
 
-[![Ambulance drone - Future Health Project](https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dhj6OZj4kB3k)](https://www.youtube.com/watch?v=hj6OZj4kB3k)
+````{admonition} Watch this video demonstrating an Ambulance Drone (a collaboration between Alec Momont (graduate student TUDelft), Living Tomorrow and University Hospital UZ Ghent). 
+
+```{video} https://www.youtube.com/embed/hj6OZj4kB3k?si=cbF8OpxA9pwwBuY9
+```
+````
+
 
 
 This handbook aims to bridge this gap, equipping you with the tools and frameworks to design and implement scalable, sustainable innovation pathways in healthcare.
@@ -633,9 +638,17 @@ The Need for New Innovation Theories to Revise This Framework
 
 A stronger theoretical foundation is required to improve innovation processes, especially in terms of translating ideas into care practices. Healthcare innovators must ultimately be able to reshape systems to support the adoption and sustainability of novel solutions. This also applies to the traditional biomedical innovation pathway, whereby the alst part market launch is in reality a black box. Few people really knows, what it takes for a drug to be fully become available to the market of a country. 
 
-During these complex negotiations you need to agree on a price with the payer, be it a health insurer, the government or a hospital, or all of these together. Have a look at this video from prof. Carin Uyl-de Groot: 
+During these complex negotiations you need to agree on a price with the payer, be it a health insurer, the government or a hospital, or all of these together. Have a look at this video from prof. Carin Uyl-de Groot:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6ZtwscRvEls?si=nAc2wJQuHHNV6YhY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+````{admonition} Watch this video of prof. Carin Uyl-de Groot. 
+
+What are the key considerations about pricing negotiations one needs to consider upfront?
+```{video} https://www.youtube.com/embed/6ZtwscRvEls?si=nAc2wJQuHHNV6YhY
+```
+````
+
+
 
 Compton-Phillips (2024) emphasizes the importance of care delivery innovation in achieving this transformation. Underneath we will explore a few key theoreties one can use to help understand key dynamics in innovation pathways.  Ultimately it requires integrating service design principles, systems thinking, early health technology assessment, and implementation science. This can than develop frameworks that better support their healthcare innovations beyond traditional pharmaceutical and medtech pathway.
 
@@ -826,7 +839,7 @@ TA CHANGE TO CASE STUDY FORMAT: case AYA family room UZA: process self-funded, p
 Healthcare organizations operate in a system with an endless demand for healthcare services. Unlike other industries, they are not necessarily incentivized to innovate for increased turnover or higher-quality care. Given this context, it is crucial to create dedicated spaces and frameworks that enable innovation while aligning with the broader organizational mission.
 
 ## Orchestrating dedicated fuzzy conceptual spaces in a rigid knowledge organization
-In a healthcare orgnization, many different stakeholders, like care professionals are often implicly being creative. Creativity is situated and a living thing as dr. Milene Goncalves describes (see Cascini, G., Nagai, Y., Georgiev, G. V., Zelaya, J., Becattini, N., Boujut, J. F., ... & Wodehouse, A. (2022). Perspectives on design creativity and innovation research: 10 years later. International Journal of Design Creativity and Innovation, 10(1), 1-30.). For example creativity is situated in care organizations as care professionals often need to look for the best treatment for the patient. Yet, often the problem is not clear and there are multiple possible diagnoses and not one treatment. In a way, it requires them often, albeit very briefly, to be creative and collaborate and share ideas, often in multidiscplenary team meetings. However, to innovate, one needs to enlarge that space and find ways to incorporate that innovative thinking more in the organization. If creativity could exist in Type 1 (quick ideas) and Type 2 (refinement and judgement), Goncalves and Cash propose that it could be better to have more iterations of the quick ideas and come up with better ideas (ADD REF Gonçalves, M., & Cash, P. (2021). The life cycle of creative ideas: Towards a dual-process theory of ideation. Design Studies, 72, 100988.). If one is aware of these tendencies in practice, it can help to develop better ideas.
+In a healthcare organizations, many different stakeholders, like care professionals are often implicly being creative. Creativity is situated and a living thing as dr. Milene Goncalves describes (see Cascini, G., Nagai, Y., Georgiev, G. V., Zelaya, J., Becattini, N., Boujut, J. F., ... & Wodehouse, A. (2022). Perspectives on design creativity and innovation research: 10 years later. International Journal of Design Creativity and Innovation, 10(1), 1-30.). For example creativity is situated in care organizations as care professionals often need to look for the best treatment for the patient. Yet, often the problem is not clear and there are multiple possible diagnoses and not one treatment. In a way, it requires them often, albeit very briefly, to be creative and collaborate and share ideas, often in multidiscplenary team meetings. However, to innovate, one needs to enlarge that space and find ways to incorporate that innovative thinking more in the organization. If creativity could exist in Type 1 (quick ideas) and Type 2 (refinement and judgement), Goncalves and Cash propose that it could be better to have more iterations of the quick ideas and come up with better ideas (ADD REF Gonçalves, M., & Cash, P. (2021). The life cycle of creative ideas: Towards a dual-process theory of ideation. Design Studies, 72, 100988.). If one is aware of these tendencies in practice, it can help to develop better ideas.
 
 Yet, creating that space and time in a safe way in a complex regulated organization is challenging. From a theoretical point of view the organization must make space to think beyond the existing knowledge. That means, moving from a knowledge space to a conceptual space as Hatchuel and Weil have described (REF Hatchuel, A., & Weil, B. (2003). A new approach of innovative Design: an introduction to CK theory. In DS 31: Proceedings of ICED 03, the 14th International Conference on Engineering Design, Stockholm.) 
 
