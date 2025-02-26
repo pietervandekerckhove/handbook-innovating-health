@@ -633,18 +633,36 @@ The Need for New Innovation Theories to Revise This Framework
 
 A stronger theoretical foundation is required to improve innovation processes, especially in terms of translating ideas into care practices. Healthcare innovators must ultimately be able to reshape systems to support the adoption and sustainability of novel solutions. This also applies to the traditional biomedical innovation pathway, whereby the alst part market launch is in reality a black box. Few people really knows, what it takes for a drug to be fully become available to the market of a country. 
 
-During these complex negotiations you need to agree on a price with the payer, be it a health insurer, the government or a hospital, or all of these together. Have a look at this video from prof. Carin Uyl-de Groot: https://www.youtube.com/watch?v=6ZtwscRvEls
+During these complex negotiations you need to agree on a price with the payer, be it a health insurer, the government or a hospital, or all of these together. Have a look at this video from prof. Carin Uyl-de Groot: 
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6ZtwscRvEls?si=nAc2wJQuHHNV6YhY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Compton-Phillips (2024) emphasizes the importance of care delivery innovation in achieving this transformation. Underneath we will explore a few key theoreties one can use to help understand key dynamics in innovation pathways.  Ultimately it requires integrating service design principles, systems thinking, early health technology assessment, and implementation science. Ultimators can than develop frameworks that better support their healthcare innovations beyond traditional pharmaceutical and medtech pathway.
+Compton-Phillips (2024) emphasizes the importance of care delivery innovation in achieving this transformation. Underneath we will explore a few key theoreties one can use to help understand key dynamics in innovation pathways.  Ultimately it requires integrating service design principles, systems thinking, early health technology assessment, and implementation science. This can than develop frameworks that better support their healthcare innovations beyond traditional pharmaceutical and medtech pathway.
 
-**The IDER Model: Parallel Processes in Innovation**
+Underneath, we briefly describe these theoretical building blocks and later we will refer back to these theories to show how we applied them.
 
-The IDER model—Initiation, Design, Engineering, and Realization—proposed by Smulders (2022), challenges the notion of linear innovation pathways. Instead, it presents innovation as a set of interconnected, parallel processes that evolve dynamically. This approach acknowledges that various aspects of innovation (e.g., technological development, regulatory considerations, and market readiness) progress simultaneously rather than sequentially. Understanding this non-linear structure helps innovators navigate complex innovation ecosystems effectively.
+**The dynamic framework: conceptual space and the knowledge space theory (C-K theory)**
 
-**Front-Loading Theory and Its Relevance**
+C-K theory (Concept-Knowledge theory), introduced by Hatchuel and Weil, offers a unified design framework that distinguishes between the space of Concepts (C) and the space of Knowledge (K), modeling innovation as the co-expansion of these spaces. Unlike traditional problem-solving approaches, C-K theory defines design as the generation of new concepts that challenge and extend existing knowledge, rather than merely selecting optimal solutions. The framework identifies four key operators (C→K, K→C, C→C, K→K), forming a “design square” that captures the iterative and dynamic nature of innovation.  
 
-Front-loading theory emphasizes the importance of identifying key challenges early in the innovation process. Mapping potential bottlenecks—such as regulatory hurdles, sustainability concerns, workforce integration, and ethical considerations—at the outset allows for proactive problem-solving. Dolfsma, Eijk, and Mahdi (2022) highlight that investing effort and resources early can mitigate risks and improve overall success rates in medical technology innovation.
+```{figure} ./figures/dynamic-C-K-Theory.png
+:height: 150px
+:name: figure-example
+
+Hatchuel, A., & Weil, B. (2003). A new approach of innovative Design: an introduction to CK theory. In DS 31: Proceedings of ICED 03, the 14th International Conference on Engineering Design, Stockholm.)
+```
+
+In healthcare innovation, C-K theory can help move beyond conventional pharmaceutical and medtech pathways. By structuring the innovation process around the interplay between conceptual exploration and knowledge structuring, this approach supports the development of more adaptive and interdisciplinary healthcare solutions. It enables a deeper understanding of how novel ideas emerge, evolve, and ultimately become actionable innovations, fostering a more systematic yet creative approach to addressing complex challenges in healthcare.
+
+(ADD REF Hatchuel, A., & Weil, B. (2003). A new approach of innovative Design: an introduction to CK theory. In DS 31: Proceedings of ICED 03, the 14th International Conference on Engineering Design, Stockholm.)
+
+**The paralel process: IDER Model: Parallel Processes in Innovation**
+
+The innovation process considered from a C-K perspective can be framed in four paralel processes. The IDER model: Initiation, Design, Engineering, and Realization, proposed by Smulders (2022), challenges the notion of linear innovation pathways. Instead, it presents innovation as a set of interconnected, parallel processes that evolve dynamically. This approach acknowledges that various aspects of innovation (e.g., technological development, regulatory considerations, and market readiness) progress simultaneously rather than sequentially. Understanding this non-linear structure helps innovators navigate complex innovation ecosystems effectively.
+
+**Getting it right from the start: Front-Loading Theory**
+
+In this paralel IDER process, it is important to strategically decide how to begin. Front-loading theory emphasizes the importance of identifying key challenges early in the innovation process. Mapping potential bottlenecks—such as regulatory hurdles, sustainability concerns, workforce integration, and ethical considerations—at the outset allows for proactive problem-solving. Dolfsma, Eijk, and Mahdi (2022) highlight that investing effort and resources early can mitigate risks and improve overall success rates in medical technology innovation.
 
 Implementing Front-Loading Theory
 
@@ -658,7 +676,7 @@ Front-loading can be operationalized through several strategies:
 
 * Ethical and Societal Considerations – Incorporating ethical principles early, as discussed by Jeroen van den Hoven and Stefan Buijsman, ensures that innovations align with societal values and long-term sustainability (see WHO report on AI ethics: WHO AI Ethics Report and OpenWHO course: Ethics and AI).
 
-**Herzlinger's Three Strategies for Operationalizing Front-Loading**
+**Choosing long-term partner organizations: Herzlinger's Three Strategies for Operationalizing Front-Loading**
 
 Regina Herzlinger (2024) identifies three primary strategies to support front-loading in healthcare innovation:
 
@@ -668,9 +686,58 @@ Regina Herzlinger (2024) identifies three primary strategies to support front-lo
 
 * External Collaboration – Engaging external stakeholders, such as academic institutions and technology firms, to integrate interdisciplinary knowledge and capabilities.
 
+**Managing the innovation process with key stakeholders: Generative co-design**
+
+Vandekerckhove et al. (2023) underscores the importance of integrating diverse knowledge of different stakeholder through a generative co-design processes. Generative co-design is one of the most interactive design methods to integrate the deeper conceptual knowledge (C space) of different stakeholders move it to a more explicit idea discussion, whereby the knowledge is made explicit (K space). In design terminology this iterative process between the C and K space would be called a co-evolution process. This method involves stakeholders actively in the design process to ensure that the developed solutions are user-centered and meet real-world needs. Vandekerckhove et al. also discuss how this theoretical framework can help us to decide how a good stakeholder group should be assembled:e.g. the type of stakeholders we involve in the entrepreneurial innovation activities.
+For example: Application Example in Health Innovation for Young Adults with Cancer
+Imagine a design team aiming to develop a new digital health platform for young adults with cancer. Using C-K theory, the process might unfold as follows:
+ 
+1. **Concept Generation (C)**:
+   - The team begins with the concept of a digital platform that addresses the unique psychological and social needs of young adults with cancer, beyond just medical treatment. This is an open-ended idea that requires further exploration.
+2. **Knowledge Exploration (K)**:
+   - The team conducts a literature review and engages with oncologists, psychologists, and cancer patients to gather existing knowledge. They find that young adults with cancer often face isolation, mental health challenges, and a need for peer support (Knowledge).
+ 
+3. **C-to-K Transformation**:
+   - The initial concept is refined based on the gathered knowledge. The team develops a more concrete idea: a mobile app that includes a social networking feature, mental health resources, and personalized content for young adults with cancer. This transformation is informed by their findings about user needs and existing technological capabilities.
+4. **K-to-C Expansion**:
+   - Using their existing knowledge of mobile app development and user interface design, the team generates new concepts. They brainstorm additional features such as virtual support groups, telemedicine integration, and gamified health tracking.
+5. **C-to-C Evolution**:
+   - The team engages in iterative design thinking sessions, where they continuously expand and refine their concepts. For instance, they might explore the idea of incorporating AI-driven personalized content suggestions based on user behavior and preferences.
+6. **K-to-K Integration**:
+   - As they test prototypes with users, they gather new data and insights, which expand their knowledge base. They learn about specific user preferences and challenges, such as the need for anonymity in support groups or the importance of easy navigation for users undergoing treatment.
+ 
+#### Example in Practice
+**Developing a Health App for Young Adults with Cancer**:
+
+**Step 1: Initial Concept (C)**:
+   - The team starts with a broad concept: a supportive digital environment tailored to the needs of young adults with cancer.
+
+**Step 2: Gathering Knowledge (K)**:
+   - Research and interviews reveal that these patients often feel isolated and crave connection with peers who understand their experience.
+
+**Step 3: Refined Concept (C-to-K)**:
+   - Based on this knowledge, the concept evolves into an app with social networking features, access to mental health professionals, and community events.
+
+**Step 4: Generating New Concepts (K-to-C)**:
+   - Leveraging their knowledge of digital health technologies, the team brainstorms additional features like telemedicine consultations and mood-tracking tools.
+
+**Step 5: Iterative Expansion (C-to-C)**:
+   - The team prototypes these features and conducts user testing, continuously refining the app. They might add new features like AI-driven health tips based on user activity.
+
+**Step 6: Knowledge Integration (K-to-K)**:
+   - Feedback from testing informs the next iteration. They discover, for instance, that users prefer video support groups over text-based forums, leading to further refinement and knowledge integration.
+
+By applying C-K theory in this way, the design team can effectively navigate the complexities and uncertainties of creating a health innovation tailored to young adults with cancer, ultimately developing a more impactful and user-centered solution.
+Research by Pieter Vandekerckhove highlights the transformative potential of generative co-design in healthcare, such as improving cardiology consultations through enhanced user experiences during the COVID-19 pandemic (Vandekerckhove et al., 2020). Generative co-design, as elaborated by Vandekerckhove et al. (2020) in their systematic literature review, is a participatory approach that involves users throughout the design process. This methodology ensures that the final product is shaped by the needs and preferences of its users, leading to more effective and user-friendly health interventions.
+
+
+
 **Conclusion**
 
 Innovation pathways in healthcare are evolving to accommodate new technological and service-driven advancements. Traditional biomedical models provide a foundation but must be expanded to support parallel processes, digital solutions, and ethical considerations. By applying the IDER model, front-loading theory, and Herzlinger’s strategic approaches, innovators can navigate complex pathways more effectively, leading to more successful and impactful healthcare solutions.
+
+
+TA check refs
 
 **Bibliography**
 
@@ -758,26 +825,37 @@ TA CHANGE TO CASE STUDY FORMAT: case AYA family room UZA: process self-funded, p
 ## Introduction
 Healthcare organizations operate in a system with an endless demand for healthcare services. Unlike other industries, they are not necessarily incentivized to innovate for increased turnover or higher-quality care. Given this context, it is crucial to create dedicated spaces and frameworks that enable innovation while aligning with the broader organizational mission.
 
-## Creating a conceptual space in the organization
-From a theoretical point of view the organization must make space to think beyond the existing knowledge. 
+## Orchestrating dedicated fuzzy conceptual spaces in a rigid knowledge organization
+In a healthcare orgnization, many different stakeholders, like care professionals are often implicly being creative. Creativity is situated and a living thing as dr. Milene Goncalves describes (see Cascini, G., Nagai, Y., Georgiev, G. V., Zelaya, J., Becattini, N., Boujut, J. F., ... & Wodehouse, A. (2022). Perspectives on design creativity and innovation research: 10 years later. International Journal of Design Creativity and Innovation, 10(1), 1-30.). For example creativity is situated in care organizations as care professionals often need to look for the best treatment for the patient. Yet, often the problem is not clear and there are multiple possible diagnoses and not one treatment. In a way, it requires them often, albeit very briefly, to be creative and collaborate and share ideas, often in multidiscplenary team meetings. However, to innovate, one needs to enlarge that space and find ways to incorporate that innovative thinking more in the organization. If creativity could exist in Type 1 (quick ideas) and Type 2 (refinement and judgement), Goncalves and Cash propose that it could be better to have more iterations of the quick ideas and come up with better ideas (ADD REF Gonçalves, M., & Cash, P. (2021). The life cycle of creative ideas: Towards a dual-process theory of ideation. Design Studies, 72, 100988.). If one is aware of these tendencies in practice, it can help to develop better ideas.
 
-Practically, many leading institutions have established dedicated innovation spaces to experiment with new ideas outside their usual operational scope. For instance, Mayo Clinic’s Center for Innovation fosters design-driven healthcare improvements ([Yale Insights](https://insights.som.yale.edu/insights/can-design-thinking-reshape-an-esteemed-institution)). Similarly, Kaiser Permanente applies human-centered design to improve patient experiences and streamline care delivery. By embedding innovation teams within their operations, they ensure that new ideas are tested and implemented in real-world healthcare settings. However, tensions often arise between care professionals focused on traditional medical practice and those who take a more entrepreneurial or design-oriented approach. Thought leaders such as Tim Brown (IDEO) and dr. Nicholas LaRusso (Mayo Clinic) highlight the importance of bridging science, design, and healthcare through design thinking.
+Yet, creating that space and time in a safe way in a complex regulated organization is challenging. From a theoretical point of view the organization must make space to think beyond the existing knowledge. That means, moving from a knowledge space to a conceptual space as Hatchuel and Weil have described (REF Hatchuel, A., & Weil, B. (2003). A new approach of innovative Design: an introduction to CK theory. In DS 31: Proceedings of ICED 03, the 14th International Conference on Engineering Design, Stockholm.) 
 
-[![Thinking Differently: The Mayo Clinic Center for Innovation's Series of Unexpected Conversations](https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DfW1R_6FJ6TQ%26t%3D2s)](https://www.youtube.com/watch?v=fW1R_6FJ6TQ&t=2s)
+Leading health care organizations have developed an innovation spaces to experiment with new ideas outside their usual operational scope. For instance, Mayo Clinic’s Center for Innovation fosters design-driven healthcare improvements (TA Change APA REF [Yale Insights](https://insights.som.yale.edu/insights/can-design-thinking-reshape-an-esteemed-institution)). Similarly, Kaiser Permanente applies human-centered design to improve patient experiences and streamline care delivery. In the Netherlands, the specialized Rotterdam Eye Hospital also witnessed the changes of using design thinking to understand the human perspective and the personal connection to improve health care experiences (ADD REF Deichmann, D., & Van der Heijde, R. (2017). How design thinking is improving patient-caregiver conversations. Harvard Business Review.).(add also REF Roel van der Heijde https://roelrotterdam.nl/blog/how-design-thinking-is-improving-patient-caregiver-conversations/)
+
+ By embedding innovation teams within their operations, they ensure that new ideas are tested and implemented in real-world healthcare settings. However, tensions often arise between care professionals focused on traditional medical practice and those who take a more entrepreneurial or design-oriented approach. Tim Brown (IDEO) and dr. Nicholas LaRusso (Mayo Clinic) highlight the importance of bridging science, design, and healthcare through design thinking.
 
 
-````{admonition} Watch this video (skip to the part about differences physicians and designers)
-```{video} https://www.youtube.com/watch?v=fW1R_6FJ6TQ&t=2s
-```
-````
 
-````{admonition} Watch this video (skip to the part about design thinking and organizations)
+````{admonition} Watch this video snippet (skip to the part about design thinking and organizations)
 ```{video} https://www.youtube.com/embed/fW1R_6FJ6TQ?si=_piSj_XXjc7rNbEd&amp;start=1679
 ```
 ````
+What are the key challenges discussed in the video for healthcare organizations to use design thinking?
+
+But, how do that on an individual level? It may just be worthwile to have people do a small meditation exercise to become more creative. (see REF Schootstra, E., Deichmann, D., & Dolgova, E. (2017). Can 10 minutes of meditation make you more creative. Harvard Business Review.). For further reading see: Goleman, D., & Davidson, R. J. (2018). Altered traits: Science reveals how meditation changes your mind, brain, and body. Penguin.
+
+What strategies would you use in your organization to create a safe space to innovate?
+
+<script src=https://utteranc.es/client.js
+        repo="pietervandekerckhove/handbook-innovating-health"
+        issue-term="strategies-innovation-space"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
 
 ## Developing a Strategic Starting Point
-To successfully introduce innovation, organizations need a purpose-driven mission that aligns with broader megatrends and strategies, such as:
+To successfully introduce innovation in the organization, it is important to connect to a broader mission. The organizations need a purpose-driven mission that aligns with  trends and strategies that are influenced by other stakeholders, like the government policies, such as:
 - **Value-Based Healthcare** – Enhancing patient outcomes while managing costs.
 - **Cost Efficiency** – Streamlining healthcare delivery to optimize resource use.
 - **Provider-Driven Innovation** – Encouraging frontline professionals to identify and implement new solutions.
@@ -944,6 +1022,18 @@ FOR TA: make quiz for video in h5p: https://youtu.be/fXK5R51lM_8
 
 first problem searching in different layers (behind hte problem)
 
+**The fudamental level of human experience**
+
+It is important to understand how we experience our health and critical events in our life. And there is increasing amount of working being done in the field of human counsiousness to explore what we field as a human being on the experiential level of human awareness. However, the experiential level of human level is only starting to beginning to become integrated in healthcare innovations. 
+
+Watch this TED talk from Yongey Mingyur Rinpoche. What is the experiential level of awareness? How do we connect with it?
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LDVyOnf0t9M?si=uwx7he1M2A-DaamW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+We start to know more and more from a scientific point of view. Watch this TEDx video where prof. Steven Laureys explains some early scientific insights we have to understand how our consiousness works.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6Qqc_wJS6-Q?si=vC-5Ea-ex70z_bam" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 example patient expert interviews with questions
 
 FOR TA: make patient interview in h5p with quiz here: https://youtu.be/4Hu3qbElb9k
@@ -962,6 +1052,8 @@ https://youtu.be/hp1j7Web4Uo
         crossorigin="anonymous"
         async>
 </script>
+
+
 
 Explore the patient and family dynamics in focus group (Interview Mark)
 
