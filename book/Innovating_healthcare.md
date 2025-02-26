@@ -425,6 +425,7 @@ Now, take a look at the next video, what relations between the patient and the h
 
 
 
+
 **Value Creation in a Socio-Technical Health System**
 
 The current landscape could be currently categorized into four key actors: patients, health care providers, regulators and third party payers. This value provision pathway could be described by looking at the relationships between these stakeholders. See this figure by Kraus: 
