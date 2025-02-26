@@ -741,13 +741,15 @@ TA CHANGE TO CASE STUDY FORMAT: case AYA family room UZA: process self-funded, p
 ## Introduction
 Healthcare organizations operate in a system with an endless demand for healthcare services. Unlike other industries, they are not necessarily incentivized to innovate for increased turnover or higher-quality care. Given this context, it is crucial to create dedicated spaces and frameworks that enable innovation while aligning with the broader organizational mission.
 
-## The Need for Innovation in Healthcare
-Many leading institutions have established dedicated innovation spaces to experiment with new ideas outside their usual operational scope. For instance, Mayo Clinic’s Center for Innovation fosters design-driven healthcare improvements ([Yale Insights](https://insights.som.yale.edu/insights/can-design-thinking-reshape-an-esteemed-institution)). Similarly, Kaiser Permanente applies human-centered design to improve patient experiences and streamline care delivery. By embedding innovation teams within their operations, they ensure that new ideas are tested and implemented in real-world healthcare settings. However, tensions often arise between care professionals focused on traditional medical practice and those who take a more entrepreneurial or design-oriented approach. Thought leaders such as Tim Brown (IDEO) and dr. Nicholas LaRusso (Mayo Clinic) highlight the importance of bridging science, design, and healthcare through design thinking.
+## Creating a conceptual space in the organization
+From a theoretical point of view the organization must make space to think beyond the existing knowledge. 
+
+Practically, many leading institutions have established dedicated innovation spaces to experiment with new ideas outside their usual operational scope. For instance, Mayo Clinic’s Center for Innovation fosters design-driven healthcare improvements ([Yale Insights](https://insights.som.yale.edu/insights/can-design-thinking-reshape-an-esteemed-institution)). Similarly, Kaiser Permanente applies human-centered design to improve patient experiences and streamline care delivery. By embedding innovation teams within their operations, they ensure that new ideas are tested and implemented in real-world healthcare settings. However, tensions often arise between care professionals focused on traditional medical practice and those who take a more entrepreneurial or design-oriented approach. Thought leaders such as Tim Brown (IDEO) and dr. Nicholas LaRusso (Mayo Clinic) highlight the importance of bridging science, design, and healthcare through design thinking.
 
 [![Thinking Differently: The Mayo Clinic Center for Innovation's Series of Unexpected Conversations](https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DfW1R_6FJ6TQ%26t%3D2s)](https://www.youtube.com/watch?v=fW1R_6FJ6TQ&t=2s)
 
 
-````{admonition} Watch this video
+````{admonition} Watch this video (skip to the part about differences physicians and designers)
 ```{video} https://www.youtube.com/watch?v=fW1R_6FJ6TQ&t=2s
 ```
 ````
