@@ -477,7 +477,8 @@ Different countries have varying approaches to health insurance, coverage, and r
 
 Read the article by Willemsen et al. (2022) on EUnetHTA relative effectiveness assessments. This article discusses efforts to improve the usability, transparency, and inclusiveness of health technology assessments in Europe. Access the article [here](https://doi.org/10.1017/S0266462322000058).
 
-
+Germany perspective:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rcpj2z3JBEI?si=7MqrHaRdAgZM83Rg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 * Dutch Perspective: A mix of public and private insurance, with mandatory health coverage regulated by the government. Citizens choose from private insurers offering government-regulated packages. The system encourages competition among insurers while ensuring universal coverage. Video by Robin Toorneman.
 
@@ -628,7 +629,13 @@ A key challenge here is to demonstrate cost-effectiveness of your drug, for exam
 Look at this video from dr. Frederick Thielen:
 https://www.youtube.com/watch?v=xMF2ddO9abM
 
-While this pathway has proven effective for traditional medical products, it does not always accommodate the complexities of emerging innovations such as software-driven interventions (e.g., digital therapeutics like Germany's DiGA framework (**ADD REF**)) or theranostics (e.g., diabetes management integrating biomarkers and digital drug delivery). These new categories demand more flexible, iterative innovation models. Ijzerman, Koffijberg, Fenwick, and Krahn (2017) emphasize the importance of early health technology assessment in medical product development, highlighting the need for more adaptive frameworks (PharmacoEconomics, 35(7), 727–740).
+While this pathway has proven effective for traditional medical products, it does not always accommodate the complexities of emerging innovations such as software-driven interventions (e.g., digital therapeutics like Germany's DiGA framework (**ADD REF**)) or theranostics (e.g., diabetes management integrating biomarkers and digital drug delivery). 
+
+In Germany the new digital health assessment framework is an emerging step for digital health innovations.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6RfKOa1MVPQ?si=X7Z0kIN2wfhb7bPr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+These new categories demand more flexible, iterative innovation models. Ijzerman, Koffijberg, Fenwick, and Krahn (2017) emphasize the importance of early health technology assessment in medical product development, highlighting the need for more adaptive frameworks (PharmacoEconomics, 35(7), 727–740).
 
 **Beyond Pharma and Medtech: The Need for Improved Pathways**
 
