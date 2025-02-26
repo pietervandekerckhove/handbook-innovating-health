@@ -70,15 +70,6 @@ Some innovations are also coming from other industries into healthcare, technolo
 ```
 ````
 
-TEST
-````{admonition} TEST
-
-```{video} https://collegerama.tudelft.nl/Mediasite/Play/59f2d16480654c05a318938048a840ed1d
-```
-````
-
-
-
 This handbook aims to bridge this gap, equipping you with the tools and frameworks to design and implement scalable, sustainable innovation pathways in healthcare.
 
 **The Need for Designing Innovation Pathways into Practice**
@@ -380,7 +371,7 @@ TA ADD: Introduction lecture by dr. Sanne Allers collegerama recording (TA inser
 
 **Definition: Socio-Technical Product Service Systems (STPSS)**
 
-Sociotechnical systems theory, as initially developed by Trist (1981), emphasizes the mutual shaping of social and technical elements within an organization. This approach is particularly pertinent to healthcare, where the interaction between human actors (e.g., healthcare providers, patients) and technical components (e.g., medical devices, health information systems) is complex and dynamic. Appelbaum (1997) further elaborates on the application of STS theory in organizational development, highlighting how it can drive innovation and improvement in healthcare settings.
+Socio-technical systems theory, as initially developed by Trist (1981), emphasizes the mutual shaping of social and technical elements within an organization. This approach is particularly pertinent to healthcare, where the interaction between human actors (e.g., healthcare providers, patients) and technical components (e.g., medical devices, health information systems) is complex and dynamic. Appelbaum (1997) further elaborates on the application of STS theory in organizational development, highlighting how it can drive innovation and improvement in healthcare settings.
 
 Venturing into systems where value is created for users through different stakeholders and multiple interrelated services and products, such as in healthcare, public services, hospitality, and aerospace, is challenging. These systems are known as Socio-Technical Product Service Systems (STPSS). In STPSS, each stakeholder possesses explicable knowledge about their role and the system's functionality. Explicable knowledge, defined as implicit knowledge that can be made explicit during social interaction (Smulders, Lousberg & Dorst, 2008), forms a chain where products and services are interrelated. According to sociotechnical systems theory (Trist, 1981; Appelbaum, 1997), STPSS involves several individuals who shape a piece of technology or a product, or both, assigned to them within their own workplaces, creating an integrated chain of product-service value deliveries at the system level.
 
@@ -410,14 +401,18 @@ To explain how these social determinants influence people's health, you can have
 Conceptual framework on the digital determinants of health. Socioecological and life course approaches of social determinants of health leading to hypertension and cardiovascular disease (CVD). Social determinants of health (SDOHs) encompass socioeconomic, political, and environmental contexts, including neighborhood poverty and poor housing conditions, social policies and built environment, public health policies and legislation, climate change and pollution, and crisis events. These SDOHs contribute to an increased risk of premature CVD and major adverse cardiac events (MACE) through health care system and psychosocial stress pathway, such as sympathetic-adreno-medullar and hypothalamic-pituitary-adrenal axis activation. BP indicates blood pressure; CKD, chronic kidney disease; CRP, C-reactive protein; and UPF, ultra-processed food. (Chaturvedi, A., Zhu, A., Gadela, N. V., Prabhakaran, D., & Jafar, T. H. (2024). Social determinants of health and disparities in hypertension and cardiovascular diseases. Hypertension, 81(3), 387-399.)
 ```
 
-To get a good grasp on the impact of our societies on our health take a look at the TED talk video "How not to be ignorant about the world" by Hans and Ola Rosling. Please follow the quiz questions actively, which are posed in the video, can you do better then the audience?:
+To get a good grasp on the impact of our societies on our health take a look at the TED talk video "How not to be ignorant about the world" by Hans and Ola Rosling. 
 
-TA make video clear here: https://www.youtube.com/watch?v=Sm5xF-UYgdg
+````{admonition} Watch this TED talk from Hans and Ola Roslin 
+Please follow the quiz questions actively, which are posed in the video, can you do better then the audience?
 
-````{admonition} Watch this video
-```{video} https://www.youtube.com/watch?v=Sm5xF-UYgdg
+```{video} https://www.youtube.com/embed/Sm5xF-UYgdg?si=7TsbzvG6ApNQ6bW2
 ```
 ````
+
+What surprised you about the societal context of people? Did you know how many years women aged 30 spent in school? How do you think that impacts women's health?
+
+
 
 In addition, all of the problems people face with their health are increasingly being mitigated by technology, that is why recently researchers have highlighted the impact of digital determinants as well. 
 
