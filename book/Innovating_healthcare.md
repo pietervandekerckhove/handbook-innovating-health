@@ -771,26 +771,6 @@ WHO (2022). Ethics and AI in Healthcare. WHO Report.
 
 
 
-----
-Older Version
----
-
-Apply exercise: try 
-
-Overarching innovation theory to keep in mind is the C-K theory, design theory which helps to explain that you need to move with a group of people from the well known knowledge to the conceptual space to develop a new idea.
-
-### Chosing a scope and aim will determine the innovation pathway: 
-optimalisation, develop new care pathway, revise socio-technological product service system, this will impact feasibility and scope for scalability: and strategy for implementation (Health technology assessment has strict requirements)
-
-* start of the innovation can be at fundamental research but also at a later stage
-
-* problem-solution co-evolution theory
-* circular pathways design thinking
-* Frido theory; IDER in paralel processes
-
-* Hertzlinger: look for strategic partnerships in the health system: Middle growht strategy
-
-
 
 
 # Developing your innovation pathway
