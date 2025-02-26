@@ -445,7 +445,18 @@ Stakeholders in a traditional healthcare system (Kraus, S., Schiavone, F., Pluzh
 
 Kraus, S., Schiavone, F., Pluzhnikova, A., & Invernizzi, A. C. (2021). Digital transformation in healthcare: Analyzing the current state-of-research. Journal of Business Research, 123, 557-567.
 
-However, this landscape is changing. Increasingly new initiatives, like digital healthcare solutions, change the way value is created (Kraus, 2021). For instance,  a solution may not need a physical healthcare provider, the patient could self-manage, validate with an external care professional and treat a certain problem themselves. The system itself is changing as well. For example, remote healthcare solutions operate differently if the institutions are involved in a different way. For instance, new communication software or data infrastucture (5G) could allow each actor to play a different role.
+However, this landscape is changing. Increasingly new initiatives, like digital healthcare solutions, change the way value is created (Kraus, 2021). For instance,  a solution may not need a physical healthcare provider, the patient could self-manage, validate with an external care professional and treat a certain problem themselves. The system itself is changing as well. 
+
+Have a look at this image from Kraus et al., which explains how digital technology reshapes the relationships in a digital health system
+
+```{figure} ./figures/Kraus-digital-tech-health-system-potential-application.jpg
+:height: 350px
+:name: figure-example
+
+Digital technology shaping the healthcare system. This figure indicates strenghts, weaknesses and threats in this transformation (Kraus, S., Schiavone, F., Pluzhnikova, A., & Invernizzi, A. C. (2021). Digital transformation in healthcare: Analyzing the current state-of-research. Journal of Business Research, 123, 557-567.)
+```
+
+Further, remote healthcare solutions operate differently if the institutions are involved in a different way. For instance, new communication software or data infrastucture (5G) could allow each actor to play a different role.
 
 Value in a socio-technical health system is created through the connection of different products and services. Over the past decades, the vision of value-based healthcare has influenced the health system, as value creation is increasingly discussed. Different methods of creating care, providing value to patients, and rewarding the value created (rather than merely the intervention) have been explored.
 
@@ -760,6 +771,10 @@ Practically, many leading institutions have established dedicated innovation spa
 ```
 ````
 
+````{admonition} Watch this video (skip to the part about differences physicians and designers)
+```{video} https://www.youtube.com/embed/fW1R_6FJ6TQ?si=_piSj_XXjc7rNbEd
+```
+````
 
 ## Developing a Strategic Starting Point
 To successfully introduce innovation, organizations need a purpose-driven mission that aligns with broader megatrends and strategies, such as:
