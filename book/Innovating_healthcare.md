@@ -383,7 +383,7 @@ Regarding our health, a STPSS is complex as there is an interaction with society
 These interactions can be visualized by the social determinants. Some key factors influencing our health for instance are education, income and age (Dahlgren, G., & Whitehead, M. (2021). The Dahlgren-Whitehead model of health determinants: 30 years on and still chasing rainbows. Public health, 199, 20-24.).
 
 ```{figure} ./figures/Social-determinants-Health.jpg
-:height: 150px
+:height: 250px
 :name: figure-example
 
 Main determinants of health (Dahlgren, G., & Whitehead, M. (2021). The Dahlgren-Whitehead model of health determinants: 30 years on and still chasing rainbows. Public health, 199, 20-24.)
@@ -401,6 +401,11 @@ Conceptual framework on the digital determinants of health. Socioecological and 
 To get a good grasp on the impact of our societies on our health take a look at the TED talk video "How not to be ignorant about the world" by Hans and Ola Rosling. Please follow the quiz questions actively, which are posed in the video, can you do better then the audience?:
 
 TA make video clear here: https://www.youtube.com/watch?v=Sm5xF-UYgdg
+
+````{admonition} Watch this video
+```{video} https://www.youtube.com/watch?v=Sm5xF-UYgdg
+```
+````
 
 In addition, all of the problems people face with their health are increasingly being mitigated by technology, that is why recently researchers have highlighted the impact of digital determinants as well. 
 
