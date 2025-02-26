@@ -772,7 +772,7 @@ Practically, many leading institutions have established dedicated innovation spa
 ````
 
 ````{admonition} Watch this video (skip to the part about differences physicians and designers)
-```{video} https://www.youtube.com/embed/fW1R_6FJ6TQ?si=_piSj_XXjc7rNbEd
+```{video} https://www.youtube.com/embed/fW1R_6FJ6TQ?si=_piSj_XXjc7rNbEd&amp;start=1679
 ```
 ````
 
