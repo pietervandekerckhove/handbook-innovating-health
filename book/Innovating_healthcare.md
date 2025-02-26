@@ -746,6 +746,13 @@ Many leading institutions have established dedicated innovation spaces to experi
 
 [![Thinking Differently: The Mayo Clinic Center for Innovation's Series of Unexpected Conversations](https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DfW1R_6FJ6TQ%26t%3D2s)](https://www.youtube.com/watch?v=fW1R_6FJ6TQ&t=2s)
 
+
+````{admonition} Watch this video
+```{video} https://www.youtube.com/watch?v=fW1R_6FJ6TQ&t=2s
+```
+````
+
+
 ## Developing a Strategic Starting Point
 To successfully introduce innovation, organizations need a purpose-driven mission that aligns with broader megatrends and strategies, such as:
 - **Value-Based Healthcare** – Enhancing patient outcomes while managing costs.
