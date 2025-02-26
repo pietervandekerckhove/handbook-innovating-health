@@ -771,7 +771,7 @@ Practically, many leading institutions have established dedicated innovation spa
 ```
 ````
 
-````{admonition} Watch this video (skip to the part about differences physicians and designers)
+````{admonition} Watch this video (skip to the part about design thinking and organizations)
 ```{video} https://www.youtube.com/embed/fW1R_6FJ6TQ?si=_piSj_XXjc7rNbEd&amp;start=1679
 ```
 ````
