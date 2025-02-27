@@ -291,13 +291,10 @@ According to the WHO's "Global Strategy on Digital Health 2020-2025," digital he
 
 
 ````{admonition} Watch this video by prof. Dominik Böhler about digital health
-```{video} https://www.youtube.com/watch?v=yGuWxu9XWoUlist=PLyXAaocQQ2XbCFh50vrIwm82aPfzBJBvp&index=13
+```{video} https://www.youtube.com/embed/yGuWxu9XWoU?si=PnrLWPiVWxxGymeI
 ```
 ````
 
-https://www.youtube.com/watch?v=yGuWxu9XWoU
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yGuWxu9XWoU?si=PnrLWPiVWxxGymeI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 
@@ -485,7 +482,7 @@ Different countries have varying approaches to health insurance, coverage, and r
  Have a look at this video which describes how intentions of the implementation of new financial disease related group (DRG) structures in Germany has reduced the amount of hospitals, but not always in the right places. In addition, there is an increased focus on outpatient care, which is observed in other countries as well. Further, like many countries across the world, large investments are made in digital health.
 
 ````{admonition} Video by dr. Christian Bayer about megatrends in the German healthcare system
-```{video} ttps://www.youtube.com/watch?v=vUQUL3o5j2c&list=PLyXAaocQQ2XbCFh50vrIwm82aPfzBJBvp&index=8
+```{video} https://www.youtube.com/embed/vUQUL3o5j2c?si=p-a4lsQa1qOClgWR
 ```
 ````
 
@@ -652,8 +649,8 @@ While this pathway has proven effective for traditional medical products, it doe
 
 In Germany the new digital health assessment framework is an emerging step for digital health innovations.
 
-````{admonition} video example
-```{video} https://www.youtube.com/watch?v=6RfKOa1MVPQ&list=PLyXAaocQQ2XbCFh50vrIwm82aPfzBJBvp&index=10
+````{admonition} Watch this video from Monika Rimmele to learn more about the German assessment framework on digital health prescription innovations
+```{video} https://www.youtube.com/embed/6RfKOa1MVPQ?si=oN8rM_BHfC-63tJU
 ```
 ````
 
@@ -870,6 +867,8 @@ Leading health care organizations have developed an innovation spaces to experim
 What are the key challenges discussed in the video for healthcare organizations to use design thinking?
 
 But, how do that on an individual level? It may just be worthwile to have people do a small meditation exercise to become more creative. (see REF Schootstra, E., Deichmann, D., & Dolgova, E. (2017). Can 10 minutes of meditation make you more creative. Harvard Business Review.). For further reading see: Goleman, D., & Davidson, R. J. (2018). Altered traits: Science reveals how meditation changes your mind, brain, and body. Penguin.
+
+For further reading about the advantages of mediation on creativity and awareness, see Goleman, D., & Davidson, R. J. (2018). Altered traits: Science reveals how meditation changes your mind, brain, and body. Penguin.
 
 What strategies would you use in your organization to create a safe space to innovate?
 
