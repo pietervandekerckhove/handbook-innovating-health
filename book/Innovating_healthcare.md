@@ -286,11 +286,21 @@ REFERENCE: Lavinia Marin (TU Delft) & Gitte van Helden (TU Delft) https://edusou
 
 **Defining Healthcare Technology**
 
-Healthcare technology refers to the application of organized knowledge and skills in the form of devices, medicines, vaccines, procedures, and systems developed to solve health problems and improve quality of life. It encompasses a broad spectrum of innovations that facilitate the prevention, diagnosis, treatment, and monitoring of diseases. Healthcare technology integrates advancements from various fields, including biotechnology, information technology, and medical devices, to enhance patient outcomes and streamline healthcare operations.
+Healthcare technology refers a range of product-service systems. For example: devices, medicines, vaccines, procedures, and systems developed to solve health problems and improve quality of life. It encompasses a broad spectrum of innovations that facilitate the prevention, diagnosis, treatment, and monitoring of diseases. Healthcare technology integrates advancements from various fields, including biotechnology, information technology, and medical devices, to enhance patient outcomes and streamline healthcare operations.
 
-**MedTech: A Key Component of Healthcare Innovation**
+According to the WHO's "Global Strategy on Digital Health 2020-2025," digital health, leverages technology to enhance healthcare delivery systems globally. This includes wearable health monitors, diagnostic imaging systems, robotic surgery, and digital health applications. 
 
-Medical technology, encompasses a wide range of healthcare products that improve the quality of health services. According to the WHO's "Global Strategy on Digital Health 2020-2025," MedTech is a significant part of digital health, leveraging technology to enhance healthcare delivery systems globally. This includes wearable health monitors, diagnostic imaging systems, robotic surgery, and digital health applications. MedTech plays a crucial role in bridging gaps in healthcare accessibility and improving patient outcomes worldwide. For more details, refer to the WHO document here.
+````{admonition} video example
+```{video} https://www.youtube.com/watch?v=yGuWxu9XWoUlist=PLyXAaocQQ2XbCFh50vrIwm82aPfzBJBvp&index=13
+```
+````
+
+https://www.youtube.com/watch?v=yGuWxu9XWoU
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yGuWxu9XWoU?si=PnrLWPiVWxxGymeI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+
 
 **Trends in Health Technology**
 
