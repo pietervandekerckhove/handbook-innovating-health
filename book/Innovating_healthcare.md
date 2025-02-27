@@ -286,11 +286,11 @@ REFERENCE: Lavinia Marin (TU Delft) & Gitte van Helden (TU Delft) https://edusou
 
 **Defining Healthcare Technology**
 
-Healthcare technology refers a range of product-service systems. For example: devices, medicines, vaccines, procedures, and systems developed to solve health problems and improve quality of life. It encompasses a broad spectrum of innovations that facilitate the prevention, diagnosis, treatment, and monitoring of diseases. Healthcare technology integrates advancements from various fields, including biotechnology, information technology, and medical devices, to enhance patient outcomes and streamline healthcare operations.
+According to the WHO's "Global Strategy on Digital Health 2020-2025," digital health, leverages technology to enhance healthcare delivery systems globally. This includes wearable health monitors, diagnostic imaging systems, robotic surgery, and digital health applications. (ADD REF https://www.who.int/publications/i/item/9789240020924)This includes a broad range of product-service systems. For example: devices, medicines, vaccines, procedures, and systems developed to solve health problems and improve quality of life. These technologies facilitate the prevention, diagnosis, treatment, and monitoring of diseases. Healthcare technology integrates advancements from various fields, including biotechnology, information technology, and medical devices, to enhance patient outcomes and streamline healthcare operations.
 
-According to the WHO's "Global Strategy on Digital Health 2020-2025," digital health, leverages technology to enhance healthcare delivery systems globally. This includes wearable health monitors, diagnostic imaging systems, robotic surgery, and digital health applications. 
 
-````{admonition} video example
+
+````{admonition} Watch this video by prof. Dominik Böhler about digital health
 ```{video} https://www.youtube.com/watch?v=yGuWxu9XWoUlist=PLyXAaocQQ2XbCFh50vrIwm82aPfzBJBvp&index=13
 ```
 ````
@@ -477,9 +477,18 @@ Further, remote healthcare solutions operate differently if the institutions are
 
 Value in a socio-technical health system is created through the connection of different products and services. Over the past decades, the vision of value-based healthcare has influenced the health system, as value creation is increasingly discussed. Different methods of creating care, providing value to patients, and rewarding the value created (rather than merely the intervention) have been explored.
 
+
 **Geographical Differences in Health Systems**
 
-Different countries have varying approaches to health insurance, coverage, and reimbursement for medical interventions:
+Different countries have varying approaches to health insurance, coverage, and reimbursement for medical interventions. 
+
+ Have a look at this video which describes how intentions of the implementation of new financial disease related group (DRG) structures in Germany has reduced the amount of hospitals, but not always in the right places. In addition, there is an increased focus on outpatient care, which is observed in other countries as well. Further, like many countries across the world, large investments are made in digital health.
+
+````{admonition} Video by dr. Christian Bayer about megatrends in the German healthcare system
+```{video} ttps://www.youtube.com/watch?v=vUQUL3o5j2c&list=PLyXAaocQQ2XbCFh50vrIwm82aPfzBJBvp&index=8
+```
+````
+
 
 * European Perspective (Bettina Maisch, Ines): Predominantly public, with national insurance schemes and stringent medical device regulations. Countries like Germany and France have universal health coverage with a mix of public funding and private insurance options for supplemental services. The European Union also has regulations such as the Medical Device Regulation (MDR) and the proposed AI Act, which impact MedTech innovation.
 
