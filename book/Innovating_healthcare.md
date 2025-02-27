@@ -291,7 +291,7 @@ According to the WHO's "Global Strategy on Digital Health 2020-2025," digital he
 
 
 ````{admonition} Watch this video by prof. Dominik Böhler about digital health
-```{video} https://www.youtube.com/embed/yGuWxu9XWoU?si=PnrLWPiVWxxGymeI
+```{video} https://www.youtube.com/watch?v=yGuWxu9XWoUlist=PLyXAaocQQ2XbCFh50vrIwm82aPfzBJBvp&index=13
 ```
 ````
 
