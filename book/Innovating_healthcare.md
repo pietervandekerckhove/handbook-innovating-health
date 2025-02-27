@@ -632,7 +632,13 @@ https://www.youtube.com/watch?v=xMF2ddO9abM
 While this pathway has proven effective for traditional medical products, it does not always accommodate the complexities of emerging innovations such as software-driven interventions (e.g., digital therapeutics like Germany's DiGA framework (**ADD REF**)) or theranostics (e.g., diabetes management integrating biomarkers and digital drug delivery). 
 
 In Germany the new digital health assessment framework is an emerging step for digital health innovations.
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6RfKOa1MVPQ?si=X7Z0kIN2wfhb7bPr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+````{admonition} video example
+```{video} https://www.youtube.com/watch?v=6RfKOa1MVPQ&list=PLyXAaocQQ2XbCFh50vrIwm82aPfzBJBvp&index=10
+```
+````
+
+
 
 
 These new categories demand more flexible, iterative innovation models. Ijzerman, Koffijberg, Fenwick, and Krahn (2017) emphasize the importance of early health technology assessment in medical product development, highlighting the need for more adaptive frameworks (PharmacoEconomics, 35(7), 727–740).
