@@ -1,4 +1,4 @@
-# Designing sustainable patient-centered innovation pathways: An introduction for responsible innovators
+# Designing sustainable patient-centered innovation pathways: An introduction for responsible innovators on their expedition
 
 
 
@@ -866,7 +866,15 @@ In a healthcare organizations, many different stakeholders, like care profession
 
 Yet, creating that space and time in a safe way in a complex regulated organization is challenging. From a theoretical point of view the organization must make space to think beyond the existing knowledge. That means, moving from a knowledge space to a conceptual space as Hatchuel and Weil have described (REF Hatchuel, A., & Weil, B. (2003). A new approach of innovative Design: an introduction to CK theory. In DS 31: Proceedings of ICED 03, the 14th International Conference on Engineering Design, Stockholm.) 
 
-Leading health care organizations have developed an innovation spaces to experiment with new ideas outside their usual operational scope. For instance, Mayo Clinic’s Center for Innovation fosters design-driven healthcare improvements (TA Change APA REF [Yale Insights](https://insights.som.yale.edu/insights/can-design-thinking-reshape-an-esteemed-institution)). Similarly, Kaiser Permanente applies human-centered design to improve patient experiences and streamline care delivery. In the Netherlands, the specialized Rotterdam Eye Hospital also witnessed the changes of using design thinking to understand the human perspective and the personal connection to improve health care experiences (ADD REF Deichmann, D., & Van der Heijde, R. (2017). How design thinking is improving patient-caregiver conversations. Harvard Business Review.).(add also REF Roel van der Heijde https://roelrotterdam.nl/blog/how-design-thinking-is-improving-patient-caregiver-conversations/)
+Leading health care organizations have developed an innovation spaces to experiment with new ideas outside their usual operational scope. For instance, Mayo Clinic’s Center for Innovation fosters design-driven healthcare improvements (TA Change APA REF [Yale Insights](https://insights.som.yale.edu/insights/can-design-thinking-reshape-an-esteemed-institution)). Erasmus Medical Centre has a special unit Create4Care where you can walk-in and prototype your idea and they also are growing their hospital based incubater and validation program. (ADD KEY REF). The Munich University Hospital uses a simulation space:
+
+````{admonition} Watch the video by dr. Marc Lazarovici
+```{video} https://youtu.be/KdoySkQ7kBM?si=ARoDiaqBltaxsgrt
+```
+````
+
+
+Some hospitals also apply these design thinking principles actively, Kaiser Permanente applies human-centered design to improve patient experiences and streamline care deliverythe specialized Rotterdam Eye Hospital also witnessed the changes of using design thinking to understand the human perspective and the personal connection to improve health care experiences (ADD REF Deichmann, D., & Van der Heijde, R. (2017). How design thinking is improving patient-caregiver conversations. Harvard Business Review.).(add also REF Roel van der Heijde https://roelrotterdam.nl/blog/how-design-thinking-is-improving-patient-caregiver-conversations/)
 
  By embedding innovation teams within their operations, they ensure that new ideas are tested and implemented in real-world healthcare settings. However, tensions often arise between care professionals focused on traditional medical practice and those who take a more entrepreneurial or design-oriented approach. Tim Brown (IDEO) and dr. Nicholas LaRusso (Mayo Clinic) highlight the importance of bridging science, design, and healthcare through design thinking.
 
