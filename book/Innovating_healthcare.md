@@ -613,7 +613,7 @@ Van Elten, H. J., Howard, S. W., De Loo, I., & Schaepkens, F. (2023). Reflection
 
 ---TA cut chapter here--
 
-## Step by step: create your own innovation pathway
+# Create your own innovation pathway
 
 
 <center>
@@ -626,11 +626,11 @@ Van Elten, H. J., Howard, S. W., De Loo, I., & Schaepkens, F. (2023). Reflection
 
 TA do formatting: 
 
-Introduction
+## Introduction
 
 Innovation pathways in healthcare play a critical role in determining how new medical technologies, treatments, and interventions move from concept to implementation. Understanding these pathways allows innovators to design effective strategies, anticipate challenges, and optimize the development process. This chapter explores the relevance of innovation pathways, outlines the traditional biomedical innovation model, highlights the need for improvements in digital health and service-based innovations, and introduces key theories such as the IDER model and front-loading theory to enhance innovation strategies.
 
-The Traditional Biomedical Innovation Pathway
+## The Traditional Biomedical Innovation Pathway
 
 The dominant biomedical innovation pathway follows a structured, often linear, process that includes fundamental research, preclinical development, clinical trials, regulatory approval, and market introduction. This pathway has been well-established for pharmaceuticals and medical devices, ensuring safety, efficacy, and compliance with strict regulatory standards. Key steps in this process can be seen in the USA health system described with Figure 1 of this JAMA article https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2820562.
 
@@ -665,7 +665,7 @@ In Germany the new digital health assessment framework is an emerging step for d
 
 These new categories demand more flexible, iterative innovation models. Ijzerman, Koffijberg, Fenwick, and Krahn (2017) emphasize the importance of early health technology assessment in medical product development, highlighting the need for more adaptive frameworks (PharmacoEconomics, 35(7), 727–740).
 
-**Beyond Pharma and Medtech: The Need for Improved Pathways**
+## Beyond Pharma and Medtech: The Need for Improved Pathways
 
 More Complex Product-Service Combinations
 
@@ -691,7 +691,7 @@ Compton-Phillips (2024) emphasizes the importance of care delivery innovation in
 
 Underneath, we briefly describe these theoretical building blocks and later we will refer back to these theories to show how we applied them.
 
-**The dynamic framework: conceptual space and the knowledge space theory (C-K theory)**
+## The dynamic framework: conceptual space and the knowledge space theory (C-K theory)
 
 C-K theory (Concept-Knowledge theory), introduced by Hatchuel and Weil, offers a unified design framework that distinguishes between the space of Concepts (C) and the space of Knowledge (K), modeling innovation as the co-expansion of these spaces. Unlike traditional problem-solving approaches, C-K theory defines design as the generation of new concepts that challenge and extend existing knowledge, rather than merely selecting optimal solutions. The framework identifies four key operators (C→K, K→C, C→C, K→K), forming a “design square” that captures the iterative and dynamic nature of innovation.  
 
@@ -706,13 +706,13 @@ In healthcare innovation, C-K theory can help move beyond conventional pharmaceu
 
 (ADD REF Hatchuel, A., & Weil, B. (2003). A new approach of innovative Design: an introduction to CK theory. In DS 31: Proceedings of ICED 03, the 14th International Conference on Engineering Design, Stockholm.)
 
-**The paralel process: IDER Model: Parallel Processes in Innovation**
+## The paralel process: IDER Model: Parallel Processes in Innovation
 
 The innovation process considered from a C-K perspective can be framed in four paralel processes. The IDER model: Initiation, Design, Engineering, and Realization, proposed by Smulders (2022), challenges the notion of linear innovation pathways. Instead, it presents innovation as a set of interconnected, parallel processes that evolve dynamically. This approach acknowledges that various aspects of innovation (e.g., technological development, regulatory considerations, and market readiness) progress simultaneously rather than sequentially. Understanding this non-linear structure helps innovators navigate complex innovation ecosystems effectively.
 
 (ADD FIGURE HERE)
 
-**Getting it right from the start: Front-Loading Theory**
+## Getting it right from the start: Front-Loading Theory
 
 In this paralel IDER process, it is important to strategically decide how to begin. Front-loading theory emphasizes the importance of identifying key challenges early in the innovation process. Mapping potential bottlenecks—such as regulatory hurdles, sustainability concerns, workforce integration, and ethical considerations—at the outset allows for proactive problem-solving. Dolfsma, Eijk, and Mahdi (2022) highlight that investing effort and resources early can mitigate risks and improve overall success rates in medical technology innovation.
 
@@ -728,9 +728,9 @@ Front-loading can be operationalized through several strategies:
 
 * Ethical and Societal Considerations – Incorporating ethical principles early, as discussed by Jeroen van den Hoven and Stefan Buijsman, ensures that innovations align with societal values and long-term sustainability (see WHO report on AI ethics: WHO AI Ethics Report and OpenWHO course: Ethics and AI).
 
-**Choosing long-term partner organizations: Herzlinger's Three Strategies for Operationalizing Front-Loading**
+## Choosing long-term partner organizations: Herzlinger's Three Strategies
 
-Regina Herzlinger (2024) identifies three primary strategies to support front-loading in healthcare innovation:
+Regina Herzlinger (2024) identifies three primary strategies to support  healthcare innovation:
 
 * Internal Development – Leveraging in-house expertise and infrastructure to refine innovation early.
 
@@ -738,7 +738,7 @@ Regina Herzlinger (2024) identifies three primary strategies to support front-lo
 
 * External Collaboration – Engaging external stakeholders, such as academic institutions and technology firms, to integrate interdisciplinary knowledge and capabilities.
 
-**Managing the innovation process with key stakeholders: Generative co-design**
+## Managing the innovation process within the organization with key stakeholders: Generative co-design
 
 Collaborative design follows a general desing thinking process:
 
@@ -788,14 +788,14 @@ Research by Pieter Vandekerckhove highlights the transformative potential of gen
 
 
 
-**Conclusion**
+## Conclusion
 
 Innovation pathways in healthcare are evolving to accommodate new technological and service-driven advancements. Traditional biomedical models provide a foundation but must be expanded to support parallel processes, digital solutions, and ethical considerations. By applying the IDER model, front-loading theory, and Herzlinger’s strategic approaches, innovators can navigate complex pathways more effectively, leading to more successful and impactful healthcare solutions.
 
 
 TA check refs
 
-**Bibliography**
+## Bibliography
 
 Compton-Phillips, A. (2024). Care Delivery Innovation in Action. NEJM Catalyst Innovations in Care Delivery, 5(4).
 
@@ -898,8 +898,6 @@ To successfully introduce innovation in the organization, it is important to con
 - **Cost Efficiency** – Streamlining healthcare delivery to optimize resource use.
 - **Provider-Driven Innovation** – Encouraging frontline professionals to identify and implement new solutions.
 
-### Effective Communication Strategies
-Explaining the innovation mission to various stakeholders requires tailored communication strategies. Given the complex social dynamics of healthcare, innovators need sufficient resources to facilitate discussions and integrate new ideas into existing frameworks. Research suggests that fostering collaborative communication is key to successful implementation ([Smulders, Lousberg, & Dorst, 2008](https://doi.org/10.1108/17538370810883819)).
 
 ## Synergizing Innovation with Organizational Behavior
 Healthcare organizations are often hierarchical, heavily regulated, and accustomed to incremental rather than radical innovation. Given these constraints, successful innovation requires:
@@ -925,6 +923,8 @@ Discovery Design Mindsets, A Tool for Reflection Individually/Team(Katz et al., 
 ```
 
 ## Communication and pitching your idea to different people in the organization
+
+Explaining the innovation mission to various stakeholders requires tailored communication strategies. Given the complex social dynamics of healthcare, innovators need sufficient resources to facilitate discussions and integrate new ideas into existing frameworks. Research suggests that fostering collaborative communication is key to successful implementation ([Smulders, Lousberg, & Dorst, 2008](https://doi.org/10.1108/17538370810883819)).
 
 Different people in the organization will have different incentives to focus on innovation and changes next to their core activities. That is why it is crucial to use those 20 seconds or 1 minute ot your maximum advantage. Try to come across in a professional way. Try to practice your pitch with people or sign up with the Toastmasters platform https://www.toastmasters.org/ and join a club and you can even gain free access to a **generative AI tool Yoodli that analyzes your pitch: https://www.toastmasters.org/myhome/welcome-to-yoodli
 **
