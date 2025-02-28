@@ -1187,7 +1187,7 @@ Integrating a reveneu stream on the patient journey and solution map.
 
 strategy for research funding in first five years (See slides Steve)
 
-There are different type of funding you can look for:
+There are different type of funding of investors you can look for:
 * pre-seed funding
 * larger grants
 * crowdfunding strategies
@@ -1195,6 +1195,15 @@ There are different type of funding you can look for:
 
 Strategically it is important to look for organizations that can provide financial support in different ways and who understand your mission about value-based healthcare:
 * https://cbusinez.nl/
+
+
+
+````{admonition} Watch the key lessons from being an investor here from prof. Michael Friebe
+```{video} https://youtu.be/BVfklzimEmc?si=lB6HIvB70bkVdwnD
+```
+````
+
+
 
 ## A focused financial strategy: identifying a beachead market
 
