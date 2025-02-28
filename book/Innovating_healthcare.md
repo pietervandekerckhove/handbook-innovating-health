@@ -1203,7 +1203,14 @@ Strategically it is important to look for organizations that can provide financi
 ```
 ````
 
+Another strategy you could take is to protect your idea with intellectual property.
 
+
+
+````{admonition} Watch the video here by Roland Pültz
+```{video} https://youtu.be/a6l3qxr3XKQ?si=JP9SYCfu0zN3_FD-
+```
+````
 
 ## A focused financial strategy: identifying a beachead market
 
