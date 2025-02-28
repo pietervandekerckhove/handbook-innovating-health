@@ -869,7 +869,7 @@ Yet, creating that space and time in a safe way in a complex regulated organizat
 Leading health care organizations have developed an innovation spaces to experiment with new ideas outside their usual operational scope. For instance, Mayo Clinic’s Center for Innovation fosters design-driven healthcare improvements (TA Change APA REF [Yale Insights](https://insights.som.yale.edu/insights/can-design-thinking-reshape-an-esteemed-institution)). Erasmus Medical Centre has a special unit Create4Care where you can walk-in and prototype your idea and they also are growing their hospital based incubater and validation program. (ADD KEY REF). The Munich University Hospital uses a simulation space:
 
 ````{admonition} Watch the video by dr. Marc Lazarovici
-```{video} https://youtu.be/KdoySkQ7kBM?si=ARoDiaqBltaxsgrt
+```{video} https://www.youtube.com/embed/KdoySkQ7kBM?si=xZmJD_ExsyjBL0e4
 ```
 ````
 
@@ -1199,7 +1199,7 @@ Strategically it is important to look for organizations that can provide financi
 
 
 ````{admonition} Watch the key lessons from being an investor here from prof. Michael Friebe
-```{video} https://youtu.be/BVfklzimEmc?si=lB6HIvB70bkVdwnD
+```{video} https://www.youtube.com/embed/BVfklzimEmc?si=DCoyObkjxQK-awrW" title=
 ```
 ````
 
@@ -1208,7 +1208,7 @@ Another strategy you could take is to protect your idea with intellectual proper
 
 
 ````{admonition} Watch the video here by Roland Pültz
-```{video} https://youtu.be/a6l3qxr3XKQ?si=JP9SYCfu0zN3_FD-
+```{video} https://www.youtube.com/embed/a6l3qxr3XKQ?si=PNumm2a968KX2DUG
 ```
 ````
 
