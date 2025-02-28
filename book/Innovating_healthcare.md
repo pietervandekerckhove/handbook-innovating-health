@@ -37,7 +37,7 @@ I also see this as a living document—one that will evolve with new insights, c
 
 Developing this handbook has been an exciting and challenging journey, made possible with support from the Open Education Stimulation Fund; many students and colleagues around the world, thank you to all! I invite you to explore, engage, and contribute to this evolving resource. Together, we can shape the future of healthcare innovation.
 
-(**For teaching assistants**: to assess the learning outcomes of the book: INSERT H5P quiz here with suggestion what is the main insights people want to get out of the interactive handbook, we need to be able to extract the data on the back-end + develop structure with llama to input questions and answers from discussion boards and have AI to extract and develop  https://www.llama.com/ key questions and answers for students that we can use in the assessment)
+(**For teaching assistants**: to assess the learning outcomes of the book: quiz here with suggestion what is the main insights people want to get out of the interactive handbook, we need to be able to extract the data on the back-end)
 
 
 -- TA: CUT CHAPTER----
@@ -301,7 +301,7 @@ According to the WHO's "Global Strategy on Digital Health 2020-2025," digital he
 
 **Trends in Health Technology**
 
-The Politecnico di Milano's Technology Foresight report provides insights into future trends and innovations in healthcare technology. This foresight is critical for anticipating and preparing for upcoming challenges and opportunities in MedTech. Emerging trends include AI-driven diagnostics, precision medicine, telehealth expansion, and the integration of blockchain for secure health data management. These advancements drive efficiency, accessibility, and personalized care, paving the way for transformative changes in the healthcare industry. Explore the report here.
+The Politecnico di Milano's Technology Foresight report https://www.foresight.polimi.it/health/1/ provides insights into future trends and innovations in healthcare technology. This foresight is critical for anticipating and preparing for upcoming challenges and opportunities in MedTech. Emerging trends include AI-driven diagnostics, precision medicine, telehealth expansion, and the integration of blockchain for secure health data management. These advancements drive efficiency, accessibility, and personalized care, paving the way for transformative changes in the healthcare industry. 
 
 **Why Is Healthcare Innovation So Hard?**
 
@@ -895,8 +895,10 @@ Healthcare organizations are often hierarchical, heavily regulated, and accustom
 - **Identifying Key Stakeholders** – Engaging leadership, clinicians, and administrative staff at different levels.
 - **Aligning with Leadership** – Securing buy-in from executives and department heads.
 
-## Building an Innovation-Friendly Culture
-Once key individuals are identified, assessing their personalities and motivations is essential for assembling an effective innovation team. Resources such as *Healthcare by Design: A User’s Guide to Healthcare Improvement* (Barry Katz et al., 2025) provide tools for building teams with the right characteristics for healthcare innovation.
+## Look for change leaders to champion your quest
+Once key individuals are identified, assessing their personalities and motivations is essential to identify early partners or leaders of cha
+
+nge in the organizaiton (see NEJM Catalyst ref on leading by example). Resources such as *Healthcare by Design: A User’s Guide to Healthcare Improvement* (Barry Katz et al., 2025) provide tools looking for like-minded people with the right characteristics for healthcare innovation.
 
 
 https://www.dropbox.com/scl/fi/kf1qftr0dn2qlsheudf4p/Discovery-Design-Worksheets_Future-Medical-Systems.pdf?rlkey=444vtb5yubxg0099oz25m2kdq&e=2&dl=0
@@ -910,18 +912,7 @@ https://www.dropbox.com/scl/fi/kf1qftr0dn2qlsheudf4p/Discovery-Design-Worksheets
 Discovery Design Mindsets, A Tool for Reflection Individually/Team(Katz et al., 2025, Healthcare by Design tool)
 ```
 
-
-## Conclusion
-Innovation in healthcare organizations requires a strategic approach that aligns with existing structures, engages key stakeholders, and fosters a culture conducive to change. By leveraging purpose-driven missions, effective communication, and strong leadership, organizations can create sustainable innovation pathways that improve healthcare delivery.
-
-## Bibliography
-- Barry Katz et al. (2025). *Healthcare by Design: A User’s Guide to Healthcare Improvement*.
-- Smulders, F., Lousberg, L., & Dorst, K. (2008). Towards different communication in collaborative design. International Journal of Managing Projects in Business, 1(3), 352–367. https://doi.org/10.1108/17538370810883819
-- Yale Insights. (n.d.). *Can Design Thinking Reshape an Esteemed Institution?* [Yale Insights](https://insights.som.yale.edu/insights/can-design-thinking-reshape-an-esteemed-institution).
-
---TA CUT CHAPTER HERE--
-
-# Communication and pitching your idea to different people in the organization
+## Communication and pitching your idea to different people in the organization
 
 Different people in the organization will have different incentives to focus on innovation and changes next to their core activities. That is why it is crucial to use those 20 seconds or 1 minute ot your maximum advantage. Try to come across in a professional way. Try to practice your pitch with people or sign up with the Toastmasters platform https://www.toastmasters.org/ and join a club and you can even gain free access to a **generative AI tool Yoodli that analyzes your pitch: https://www.toastmasters.org/myhome/welcome-to-yoodli
 **
@@ -934,11 +925,18 @@ case from design? box Maaike chronic diseaese management?
 
 case from digital health video consultation article
 
+## Conclusion
+Innovation in healthcare organizations requires a strategic approach that aligns with existing structures, engages key stakeholders, and fosters a culture conducive to change. By leveraging purpose-driven missions, effective communication, and strong leadership, organizations can create sustainable innovation pathways that improve healthcare delivery.
+
+## Bibliography
+- Barry Katz et al. (2025). *Healthcare by Design: A User’s Guide to Healthcare Improvement*.
+- Smulders, F., Lousberg, L., & Dorst, K. (2008). Towards different communication in collaborative design. International Journal of Managing Projects in Business, 1(3), 352–367. https://doi.org/10.1108/17538370810883819
+- Yale Insights. (n.d.). *Can Design Thinking Reshape an Esteemed Institution?* [Yale Insights](https://insights.som.yale.edu/insights/can-design-thinking-reshape-an-esteemed-institution).
+
 --TA CUT CHAPTER HERE--
 
 
-
-### Setting up an innovation team in a healthcare organization
+# Setting up an innovation team in a healthcare organization and innovating with generative co-design
 
 Aim: understand and apply a stakeholder assembly procedure
 
@@ -1143,7 +1141,7 @@ Look for creative places in your organization, like the Create4Care lab at Erasm
 --- CUT CHAPTER HERE---
 
 
-# Resource management strategies (funding and investors)
+# Resource management strategies in the health system (financial management, types of funding and investors)
 
 Aim: understand and apply revenue streams strategies to your innovation
 
@@ -1162,10 +1160,6 @@ Integrating a reveneu stream on the patient journey and solution map.
 
 strategy for research funding in first five years (See slides Steve)
 
-## Financial strategies
-
-Using your resources wisely is important, especially in the beginning as you could invest in developing your idea with more research, building a functional prototype or running a feasibility test. It could be used to build a minimum viable product.
-
 There are different type of funding you can look for:
 * pre-seed funding
 * larger grants
@@ -1175,15 +1169,32 @@ There are different type of funding you can look for:
 Strategically it is important to look for organizations that can provide financial support in different ways and who understand your mission about value-based healthcare:
 * https://cbusinez.nl/
 
+## A focused financial strategy: identifying a beachead market
+
+Using your resources wisely is important, especially in the beginning as you could invest in developing your idea with more research, building a functional prototype or running a feasibility test. It could be used to build a minimum viable product.
+
+From wide vision for the unique value proposition to focus on a beachhead market strategy
+
+After you have the wide vision try to bring focus on the first entry point of your value proposition where the interests of all stakeholders align. For instance, you may have developed a fantastic scalable idea, but now you need to look into how to make it very small and actionable to focus all your efforts to get a first cashflow: a beachead market strategy
+
+
+### TAM SAM SOM
+Calculating your adressable beachhead market can be done in three steps
+
+```{tip}
+Exercise: what could be the beachead strategy for this intitiative? The Unique value proposition support to manage chronic disease crisis during treatment with a virtual avator who providesa a mindfulness intervetion
+```
+
 ```{tip}
 When pitching your idea to investors, irrespective of the level, it is important to use the right terminology and show the right numbers. It is a good practice to start from the TAM SAM SOM calculations to show the market size. check out these videos here https://www.coursera.org/learn/open-innovation-entrepreneurship 
 ```
 
 Exercise: try to develop a financial strategy for this succesfully evaluated prototype to help improve the scans for breast cancer patients: https://henryvandevelde.be/nl/awards/25/open-access-breast-couch
 
+
 --- CUT CHAPTER HERE---
 
-# Sustainable integration: Integrating innovation behavior
+# Beyond implementation: sustainable integration with innovation behavior
 ```{note}
 Learning goal: be able to apply a strategy to embed your innovation process
 Aim: Integrate your innovation into the organization and develop a plan with key innovation pathway steps
@@ -1194,20 +1205,11 @@ develop strategy to change mindset from solution driven to problem driven
 
 * structure to support processes needs to be adapted to organization, difficult to find time, finding the right people at the right time is important who are interested in spending extra time in innovation
 
-## From wide vision for the unique value proposition to focus on a beachhead market strategy
+--- CUT CHAPTER HERE---
 
-After you have the wide vision try to bring focus on the first entry point of your value proposition where the interests of all stakeholders align. For instance, you may have developed a fantastic scalable idea, but now you need to look into how to make it very small and actionable to focus all your efforts to get a first cashflow: a beachead market strategy
+# Communicate your learnings: Making a convincing poster, presentation or writing a convincing report
 
-
-Look at megatrends and priorities in the health system you want to have a first impact in: see report Poli-technico Milano
-
-see Gartner videos
-
-```{tip}
-Exercise: what could be the beachead strategy for this intitiative? The Unique value proposition support to manage chronic disease crisis during treatment with a virtual avator who providesa a mindfulness intervetion
-```
-
-# Making a convincing poster, presentation or writing a convincing report
+(see CSBB MINOR materials)
 
 You may not be familiar with academic essay writing. That's ok you all have a very different background! Here are some tips:
 
@@ -1221,16 +1223,22 @@ https://ocw.tudelft.nl/course-lectures/academic-writing-general-pitfalls-getting
 * You react to the statement as you agree or disagree or you answer your questions and you use scientific references to substantiate your argument
 * you conclude with one sentence about the key message of your essay
 
+--- CUT CHAPTER HERE---
 
 ## About the author team
 
-dr. Pieter Vandekerckhove
-Prof. dr. Bettina Maisch
-Dr. Steven Howard
+* dr. Pieter Vandekerckhove
+* Prof. dr. Bettina Maisch
+* Dr. Steven Howard
+* Prof. Frido Smulders
+* dr. Christophe Van Neste
 
 Acknowledgements
-TU Delft support from Julie Kirsch, Tom van Woudenberg and the library 
-Strategig support from Walter Greenleaf
+* TU Delft support from Julie Kirsch, Tom van Woudenberg, Noopur Singh,
+Marcell Várkonyi, Joost Groot Kormelink, Robert Lanzafame, Jacqueline, Michielen-van de Riet, Michiel Munnik 
+* TU Delft library 
+* Strategic support from dr. Walter Greenleaf
 
 
 
+a
