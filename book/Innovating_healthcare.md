@@ -934,19 +934,14 @@ case from design? box Maaike chronic diseaese management?
 
 case from digital health video consultation article
 
-
-## Integrating innovation behavior
-```{note}
-Learning goal: be able to apply a strategy to embed your innovation process
-```
-* key innovating behaviors in steps: problem, solution prototyping, validation, but in practice more complex with co-evolution cycles
-
-develop strategy to change mindset from solution driven to problem driven
-
-* structure to support processes needs to be adapted to organization, difficult to find time, finding the right people at the right time is important who are interested in spending extra time in innovation
+--TA CUT CHAPTER HERE--
 
 
-### Stakeholder assembly procedure
+
+### Setting up an innovation team in a healthcare organization
+
+Aim: understand and apply a stakeholder assembly procedure
+
 
 * select stakeholders
 
@@ -968,17 +963,19 @@ You could look for people coming from patient driven trainings like:
 Include relevant stakeholders early on
 ```
 
-### Setting up a team and managing collaborative projects
+## Managing collaborative projects
 
 Try to get everyone on board in a team, develop a team name, assign roles and tasks
 
 You can use free software tools to work collaboratively like Google Docs, Notion for tasks or Miro for creative making and prototyping
 
-### Generative co-design sessions + business development tools to guide strategic decisions regarding revenue streams, the behaviors are integrated in these sessions
+### Creating a prototype and testing
+
+Aim: undersatnd and apply Generative co-design sessions + business development tools to guide strategic decisions regarding revenue streams, the behaviors are integrated in these sessions
 
 Explain process and explain how creative tools work and mindfulness and vision exercises
 
-#### Explore
+### Explore
 
 * Mission driven start
 
@@ -1143,7 +1140,12 @@ Try a feasibility like this Virtual reality application combined with neurofeedb
 Look for creative places in your organization, like the Create4Care lab at Erasmus MC or Rotterdam Square validation processes, you can use to validate clinical aspects of your innovation
 ```
 
-#### Resource management strategies (funding and investors)
+--- CUT CHAPTER HERE---
+
+
+# Resource management strategies (funding and investors)
+
+Aim: understand and apply revenue streams strategies to your innovation
 
 Try to understand what kind of money you need to survive and how the financial revenue streams look like. 
 
@@ -1160,7 +1162,7 @@ Integrating a reveneu stream on the patient journey and solution map.
 
 strategy for research funding in first five years (See slides Steve)
 
-##### Financial strategies
+## Financial strategies
 
 Using your resources wisely is important, especially in the beginning as you could invest in developing your idea with more research, building a functional prototype or running a feasibility test. It could be used to build a minimum viable product.
 
@@ -1179,7 +1181,20 @@ When pitching your idea to investors, irrespective of the level, it is important
 
 Exercise: try to develop a financial strategy for this succesfully evaluated prototype to help improve the scans for breast cancer patients: https://henryvandevelde.be/nl/awards/25/open-access-breast-couch
 
-#### From wide vision for the unique value proposition to focus on a beachhead market strategy
+--- CUT CHAPTER HERE---
+
+# Sustainable integration: Integrating innovation behavior
+```{note}
+Learning goal: be able to apply a strategy to embed your innovation process
+Aim: Integrate your innovation into the organization and develop a plan with key innovation pathway steps
+```
+* key innovating behaviors in steps: problem, solution prototyping, validation, but in practice more complex with co-evolution cycles
+
+develop strategy to change mindset from solution driven to problem driven
+
+* structure to support processes needs to be adapted to organization, difficult to find time, finding the right people at the right time is important who are interested in spending extra time in innovation
+
+## From wide vision for the unique value proposition to focus on a beachhead market strategy
 
 After you have the wide vision try to bring focus on the first entry point of your value proposition where the interests of all stakeholders align. For instance, you may have developed a fantastic scalable idea, but now you need to look into how to make it very small and actionable to focus all your efforts to get a first cashflow: a beachead market strategy
 
@@ -1192,7 +1207,7 @@ see Gartner videos
 Exercise: what could be the beachead strategy for this intitiative? The Unique value proposition support to manage chronic disease crisis during treatment with a virtual avator who providesa a mindfulness intervetion
 ```
 
-## Making a convincing poster, presentation or writing a convincing report
+# Making a convincing poster, presentation or writing a convincing report
 
 You may not be familiar with academic essay writing. That's ok you all have a very different background! Here are some tips:
 
