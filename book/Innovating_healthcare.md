@@ -326,6 +326,8 @@ TA add exercise discussion: What key challenges do you think are hardest to tack
 
 * Transdisciplinary Complexity: Innovation in healthcare requires expertise spanning multiple disciplines, including:
 
+        Philosophy
+        
         Management and strategy
 
         Organizational sciences
@@ -337,6 +339,10 @@ TA add exercise discussion: What key challenges do you think are hardest to tack
         Patient expertise
 
         Law and regulations
+
+        Psychology
+
+        Creativity
 
         Ethics
 
@@ -704,6 +710,8 @@ In healthcare innovation, C-K theory can help move beyond conventional pharmaceu
 
 The innovation process considered from a C-K perspective can be framed in four paralel processes. The IDER model: Initiation, Design, Engineering, and Realization, proposed by Smulders (2022), challenges the notion of linear innovation pathways. Instead, it presents innovation as a set of interconnected, parallel processes that evolve dynamically. This approach acknowledges that various aspects of innovation (e.g., technological development, regulatory considerations, and market readiness) progress simultaneously rather than sequentially. Understanding this non-linear structure helps innovators navigate complex innovation ecosystems effectively.
 
+(ADD FIGURE HERE)
+
 **Getting it right from the start: Front-Loading Theory**
 
 In this paralel IDER process, it is important to strategically decide how to begin. Front-loading theory emphasizes the importance of identifying key challenges early in the innovation process. Mapping potential bottlenecks—such as regulatory hurdles, sustainability concerns, workforce integration, and ethical considerations—at the outset allows for proactive problem-solving. Dolfsma, Eijk, and Mahdi (2022) highlight that investing effort and resources early can mitigate risks and improve overall success rates in medical technology innovation.
@@ -714,7 +722,7 @@ Front-loading can be operationalized through several strategies:
 
 * Strategic Problem-Solution Co-Evolution – Innovators should iteratively refine both the problem definition and the solution approach in response to emerging insights.
 
-* Circular Pathway Design Thinking – Incorporating continuous feedback loops ensures that innovation pathways remain adaptive and responsive to real-world needs.
+* Circular Pathway – Incorporating continuous feedback loops ensures that innovation pathways remain adaptive and responsive to real-world needs.
 
 * Parallel Process Integration (IDER Model) – Balancing multiple development streams prevents bottlenecks and accelerates time-to-market.
 
@@ -731,6 +739,10 @@ Regina Herzlinger (2024) identifies three primary strategies to support front-lo
 * External Collaboration – Engaging external stakeholders, such as academic institutions and technology firms, to integrate interdisciplinary knowledge and capabilities.
 
 **Managing the innovation process with key stakeholders: Generative co-design**
+
+Collaborative design follows a general desing thinking process:
+
+(ADD FIGURE HERE)
 
 Vandekerckhove et al. (2023) underscores the importance of integrating diverse knowledge of different stakeholder through a generative co-design processes. Generative co-design is one of the most interactive design methods to integrate the deeper conceptual knowledge (C space) of different stakeholders move it to a more explicit idea discussion, whereby the knowledge is made explicit (K space). In design terminology this iterative process between the C and K space would be called a co-evolution process. This method involves stakeholders actively in the design process to ensure that the developed solutions are user-centered and meet real-world needs. Vandekerckhove et al. also discuss how this theoretical framework can help us to decide how a good stakeholder group should be assembled:e.g. the type of stakeholders we involve in the entrepreneurial innovation activities.
 For example: Application Example in Health Innovation for Young Adults with Cancer
@@ -967,13 +979,16 @@ Try to get everyone on board in a team, develop a team name, assign roles and ta
 
 You can use free software tools to work collaboratively like Google Docs, Notion for tasks or Miro for creative making and prototyping
 
-### Creating a prototype and testing
+--TA CUT CHAPTER HERE--
+
+
+# Exploring, creating and testing
 
 Aim: undersatnd and apply Generative co-design sessions + business development tools to guide strategic decisions regarding revenue streams, the behaviors are integrated in these sessions
 
 Explain process and explain how creative tools work and mindfulness and vision exercises
 
-### Explore
+## Explore
 
 * Mission driven start
 
@@ -1104,7 +1119,7 @@ Research tools to prepare a qualitative interview: check out the generative AI t
 
 
 
-###### Data analysis
+### Data analysis
 To properly analyse the data you can use generative AI or automation tools to transcribe interviews and analyze them. This is what a startup focused on called Qaring (folded). 
 
 You could also use validated AI research tools to review large bodies of literature like ASReview https://asreview.nl/. Here are some open exercises https://github.com/asreview/asreview-academy?tab=readme-ov-file#open-teaching-materials
@@ -1120,7 +1135,11 @@ For example, see this paper mapping subfertility pathways by dr. Maura Leusder: 
 
 
 
-#### Create: prototyping technology and engineering
+## Create: prototyping technology and engineering
+
+Different types of prototypes
+
+## Testing with strategic hypotheses
 
 need for research approach with hypothesise to validate assumptions with prototype
 
@@ -1223,7 +1242,7 @@ https://ocw.tudelft.nl/course-lectures/academic-writing-general-pitfalls-getting
 * You react to the statement as you agree or disagree or you answer your questions and you use scientific references to substantiate your argument
 * you conclude with one sentence about the key message of your essay
 
---- CUT CHAPTER HERE---
+--- TA CUT CHAPTER HERE---
 
 ## About the author team
 
@@ -1233,12 +1252,13 @@ https://ocw.tudelft.nl/course-lectures/academic-writing-general-pitfalls-getting
 * Prof. Frido Smulders
 * dr. Christophe Van Neste
 
-Acknowledgements
+Acknowledgements: A huge thank you to:
 * TU Delft support from Julie Kirsch, Tom van Woudenberg, Noopur Singh,
 Marcell Várkonyi, Joost Groot Kormelink, Robert Lanzafame, Jacqueline, Michielen-van de Riet, Michiel Munnik 
 * TU Delft library 
 * Strategic support from dr. Walter Greenleaf
 
+This book has been supported by the TU Delft Open Education Grant
 
 
-a
+
