@@ -283,8 +283,14 @@ REFERENCE: Lavinia Marin (TU Delft) & Gitte van Helden (TU Delft) https://edusou
 </center>
 <br>
 
+### Defining Innovation
 
-**Defining Healthcare Technology**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/i8ed99QsfVE?si=TjaWt5ojtomXrKSF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+
+
+### Defining Healthcare Technology
 
 According to the WHO's "Global Strategy on Digital Health 2020-2025," digital health, leverages technology to enhance healthcare delivery systems globally. This includes wearable health monitors, diagnostic imaging systems, robotic surgery, and digital health applications. (ADD REF https://www.who.int/publications/i/item/9789240020924)This includes a broad range of product-service systems. For example: devices, medicines, vaccines, procedures, and systems developed to solve health problems and improve quality of life. These technologies facilitate the prevention, diagnosis, treatment, and monitoring of diseases. Healthcare technology integrates advancements from various fields, including biotechnology, information technology, and medical devices, to enhance patient outcomes and streamline healthcare operations.
 
