@@ -73,7 +73,7 @@ https://www.dropbox.com/scl/fi/kf1qftr0dn2qlsheudf4p/Discovery-Design-Worksheets
 
 
 
-```{figure} ./figures/Healthcare-by-design-Katz-2025.png
+```{figure} ../figures/Healthcare-by-design-Katz-2025.png
 :height: 150px
 :name: figure-example
 
