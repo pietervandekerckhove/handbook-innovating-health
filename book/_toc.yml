@@ -1,9 +1,19 @@
 format: jb-book
-root: intro.md
+root: chapters/01_preface.md
 
 parts:
   - caption: Contents
     chapters:
-      - file: Innovating_healthcare.md
-      - file: references.md
-    
+      - file: chapters/02_introduction.md
+      - file: chapters/03_creating_vision.md
+      - file: chapters/04_healthcare_innovation.md
+      - file: chapters/05_innovation_pathway.md
+      - file: chapters/06_create_innovation.md
+      - file: chapters/07_setting_up_team.md
+      - file: chapters/08_exploring_testing.md
+      - file: chapters/09_resource_management.md
+      - file: chapters/10_embedding_innovation.md
+      - file: chapters/11_communicating_innovation.md
+      - file: chapters/authors.md
+      - file: chapters/references.md
+      - file: chapters/credits.md
