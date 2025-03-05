@@ -17,3 +17,4 @@ parts:
       - file: chapters/12_communicating_innovation.md
       - file: chapters/authors.md
       - file: chapters/references.md
+      - file: chapters/credits.md
