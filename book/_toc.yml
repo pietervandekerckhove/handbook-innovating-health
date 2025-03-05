@@ -1,10 +1,9 @@
 format: jb-book
-root: intro.md
+root: chapters/01_preface.md
 
 parts:
   - caption: Contents
     chapters:
-      - file: chapters/01_preface.md
       - file: chapters/02_introduction.md
       - file: chapters/03_creating_vision.md
       - file: chapters/04_healthcare_innovation.md
