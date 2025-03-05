@@ -6,13 +6,14 @@ parts:
     chapters:
       - file: book/chapters/02_introduction.md
       - file: book/chapters/03_creating_vision.md
-      - file: book/chapters/04_healthcare_innovation.md
-      - file: book/chapters/05_innovation_pathway.md
-      - file: book/chapters/06_create_innovation.md
-      - file: book/chapters/07_setting_up_team.md
-      - file: book/chapters/08_exploring_testing.md
-      - file: book/chapters/09_resource_management.md
-      - file: book/chapters/10_embedding_innovation.md
-      - file: book/chapters/11_communicating_innovation.md
+      - file: book/chapters/04_innovating_health_organization.md
+      - file: book/chapters/05_healthcare_innovation.md
+      - file: book/chapters/06_innovation_pathway.md
+      - file: book/chapters/07_create_innovation.md
+      - file: book/chapters/08_setting_up_team.md
+      - file: book/chapters/09_exploring_testing.md
+      - file: book/chapters/10_resource_management.md
+      - file: book/chapters/11_embedding_innovation.md
+      - file: book/chapters/12_communicating_innovation.md
       - file: book/chapters/authors.md
       - file: book/chapters/references.md

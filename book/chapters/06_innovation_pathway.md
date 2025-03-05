@@ -19,7 +19,7 @@ Innovation pathways in healthcare play a critical role in determining how new me
 
 The dominant biomedical innovation pathway follows a structured, often linear, process that includes fundamental research, preclinical development, clinical trials, regulatory approval, and market introduction. This pathway has been well-established for pharmaceuticals and medical devices, ensuring safety, efficacy, and compliance with strict regulatory standards. Key steps in this process can be seen in the USA health system described with Figure 1 of this JAMA article https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2820562.
 
-```{figure} ./figures/stages_drug_dev-JAMA.png
+```{figure} ../figures/stages_drug_dev-JAMA.png
 :height: 150px
 :name: figure-example
 
@@ -80,7 +80,7 @@ Underneath, we briefly describe these theoretical building blocks and later we w
 
 C-K theory (Concept-Knowledge theory), introduced by Hatchuel and Weil, offers a unified design framework that distinguishes between the space of Concepts (C) and the space of Knowledge (K), modeling innovation as the co-expansion of these spaces. Unlike traditional problem-solving approaches, C-K theory defines design as the generation of new concepts that challenge and extend existing knowledge, rather than merely selecting optimal solutions. The framework identifies four key operators (C→K, K→C, C→C, K→K), forming a “design square” that captures the iterative and dynamic nature of innovation.  
 
-```{figure} ./figures/dynamic-C-K-Theory.png
+```{figure} ../figures/dynamic-C-K-Theory.png
 :height: 150px
 :name: figure-example
 
