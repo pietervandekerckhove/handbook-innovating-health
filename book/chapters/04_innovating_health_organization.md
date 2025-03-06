@@ -35,16 +35,15 @@ According to the WHO's "Global Strategy on Digital Health 2020-2025," digital he
 
 The Politecnico di Milano's Technology Foresight report https://www.foresight.polimi.it/health/1/ provides insights into future trends and innovations in healthcare technology. This foresight is critical for anticipating and preparing for upcoming challenges and opportunities in MedTech. Emerging trends include AI-driven diagnostics, precision medicine, telehealth expansion, and the integration of blockchain for secure health data management. These advancements drive efficiency, accessibility, and personalized care, paving the way for transformative changes in the healthcare industry. 
 
-**Why Is Healthcare Innovation So Hard?**
+**Strategic alignment of incentives upfront**
 
 Healthcare innovation is notoriously challenging due to multiple structural, regulatory, and behavioral barriers. As outlined by Herzlinger (2006) in "Why Innovation in Health Care Is So Hard," several factors contribute to this difficulty. 
 
 Please read the article: "Why Innovation in Health Care Is So Hard": In this seminal article, Herzlinger identifies several systemic barriers that make healthcare innovation particularly difficult. She argues that the complexity of healthcare systems, coupled with regulatory constraints, misaligned incentives, and risk-averse stakeholders, creates a challenging environment for new innovations to thrive. The article highlights key factors contributing to these difficulties, such as fragmented healthcare markets, resistance to disruptive change, and the challenge of balancing scientific rigor with market-driven entrepreneurial strategies. Herzlinger emphasizes the need for strategic alignment between policymakers, investors, and healthcare providers to foster an ecosystem conducive to sustainable innovation.
 
-````{admonition} Important
-``` Therefore the question rises: How to align incentives, deal with risk-averse stakeholders upfront? In a health system many stakeholders have a misalignment between the financial incentives and the need to innovate targeting patient outcoems of interest. For example, when you are innovating to improve the wellbeing of patients, you cannot do that in the standard health system, because there is no reimbursement or incentive to innovate interventions going beyond the biomedical interventions of patient outcomes. Finding a sustainable business model in this area is an important challenge for all digital wellbeing tools.
+```{admonition} Important
+Therefore the question rises: How to align incentives, deal with risk-averse stakeholders upfront? In a health system many stakeholders have a misalignment between the financial incentives and the need to innovate targeting patient outcoems of interest. For example, when you are innovating to improve the wellbeing of patients, you cannot do that in the standard health system, because there is no reimbursement or incentive to innovate interventions going beyond the biomedical interventions of patient outcomes. Finding a sustainable business model in this area is an important challenge for all digital wellbeing tools.
 ```
-````
 
 
 

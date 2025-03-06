@@ -1,8 +1,10 @@
-# Exploring, creating and testing
+# The basic innovation cycle: Observe and explore, create and prototype and robustisize and test
 
 Aim: undersatnd and apply Generative co-design sessions + business development tools to guide strategic decisions regarding revenue streams, the behaviors are integrated in these sessions
 
-Explain process and explain how creative tools work and mindfulness and vision exercises
+In the innovation process there is a basic cycle that we can follow:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/onpG_Vsq8sM?si=QrPKzURv6AId2Ebe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Explore
 
