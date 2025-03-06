@@ -1,4 +1,4 @@
-# Innovating patient-centered care by front-loading the relevant actions and stakeholders: An introduction 
+# Innovating patient-centered care by front-loading stakeholders in sustainable innovation pathways: An introduction 
 
 
 
@@ -9,7 +9,7 @@ Healthcare innovation holds immense potential to improve lives, yet many promisi
 
 This realization led me to develop and teach a course on healthcare entrepreneurship, aimed at equipping students with the knowledge and skills to navigate this complex landscape. Over the years, I have seen how a multidisciplinary, interactive approach fosters a deeper understanding of what it takes to bring healthcare innovations to market. However, I also recognized the limitations of traditional classroom teaching. I wanted to extend this learning experience to a much wider audience, both at TU Delft and beyond.
 
-**The Aim of This Book**
+**The Aim of This interactive handbook**
 
 This book is designed as an actionable methodology for innovators working in the trenches of healthcare organizations. Whether you are a care professional, patient, hospital manager, health insurer, startup founder, policymaker, researcher, or simply someone passionate about improving healthcare, this handbook is meant to empower you to drive change.
 
@@ -17,7 +17,7 @@ By combining expert panel discussions, interactive quizzes, and discussion forum
 
 The ultimate goal is to bridge the gap between healthcare innovators and real-world adoption. This book provides practical tools to help innovators understand how to scale their solutions, navigate complex healthcare systems, secure funding, and integrate new technologies within existing infrastructures.
 
-**Who Should Read This Book?**
+**Who Should Read This interactive handbook?**
 
 This handbook is for anyone committed to transforming healthcare through innovation, including:
 

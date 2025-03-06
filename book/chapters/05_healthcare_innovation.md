@@ -1,4 +1,4 @@
-# How stakeholders create value in the socio-technical product service system of healthcare
+# 4. How stakeholders create value through innovations in a socio-technical product service system of healthcare
 
 <center>
   <div style="padding: 10px; background-color: #00BBC8; border-radius: 10px; display: inline-block; font-weight: bold; font-size: 16px; color: #000; position: relative;">
@@ -8,17 +8,31 @@
 </center>
 <br>
 
-**Definition: Socio-Technical Product Service Systems (STPSS)**
+## Innovating with people, technology and organizations: Socio-Technical Product Service Systems (STPSS):
 
 Socio-technical systems theory, as initially developed by Trist (1981), emphasizes the mutual shaping of social and technical elements within an organization. This approach is particularly pertinent to healthcare, where the interaction between human actors (e.g., healthcare providers, patients) and technical components (e.g., medical devices, health information systems) is complex and dynamic. Appelbaum (1997) further elaborates on the application of STS theory in organizational development, highlighting how it can drive innovation and improvement in healthcare settings.
 
-Venturing into systems where value is created for users through different stakeholders and multiple interrelated services and products, such as in healthcare, public services, hospitality, and aerospace, is challenging. These systems are known as Socio-Technical Product Service Systems (STPSS). In STPSS, each stakeholder possesses explicable knowledge about their role and the system's functionality. Explicable knowledge, defined as implicit knowledge that can be made explicit during social interaction (Smulders, Lousberg & Dorst, 2008), forms a chain where products and services are interrelated. According to sociotechnical systems theory (Trist, 1981; Appelbaum, 1997), STPSS involves several individuals who shape a piece of technology or a product, or both, assigned to them within their own workplaces, creating an integrated chain of product-service value deliveries at the system level.
+A working definition of innovation by prof. Frido Smulders is:
 
-To operationalize this term in today's context where technology assumes many complex forms, we have added the product-service systems specification. This helps describe the complex environments in which today’s entrepreneurs operate. Entrepreneurs face significant challenges in developing an integrated new venture idea (NVI) that spans the entire value chain within an STPSS. Integrating the explicable knowledge of diverse stakeholders into an NVI is crucial, yet there has been little emphasis on the social process of knowledge interaction in NVI development.
+```{admonition} Definition
+"Innovation is introducing smoething new, into an existing context. This context, to accept the innovation, will undergo some changes."
+```
+
+Generally, there are three key actors: people, technology and organizations:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fgiZD_NgXTw?si=O-4tgg_45TvCmJxh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Venturing into systems where value is created for users through different stakeholders and multiple interrelated services and products, such as in healthcare, public services, hospitality, and aerospace, is challenging. These systems are known as Socio-Technical Product Service Systems (STPSS). To operationalize this term in today's context where technology assumes many complex forms, we have added the product-service systems specification. This helps describe the complex environments in which today’s entrepreneurs operate. 
+
+In STPSS, each stakeholder can create value in the health system. The value is created through the interaction of these stakeholders in a social process.
+
+Each stakeholder possesses explicable knowledge about their role and the system's functionality. Explicable knowledge, defined as implicit knowledge that can be made explicit during social interaction (Smulders, Lousberg & Dorst, 2008), forms a chain where products and services are interrelated. According to sociotechnical systems theory (Trist, 1981; Appelbaum, 1997), STPSS involves several individuals who shape a piece of technology or a product, or both, assigned to them within their own workplaces, creating an integrated chain of product-service value deliveries at the system level.
+
+Entrepreneurs face significant challenges in developing an integrated new venture idea (NVI) that spans the entire value chain within an STPSS. Integrating the explicable knowledge of diverse stakeholders into an NVI is crucial, yet there has been little emphasis on the social process of knowledge interaction in NVI development.
 
 
 
-**Interactions between our health, social determinants, digital determinants, stakeholders and evolving technology**
+## The health value you create: interaction between social determinants, digital determinants, stakeholders and evolving technology
 
 Regarding our health, a STPSS is complex as there is an interaction with society, our digital environment, the organizations and technologies we are exposed to and which we use. Therefore, there is a complex interaction between people and health technology (e.g., electronic medical records). Understanding the healthcare STPSS, its actors, and their interdependencies is crucial. 
 
@@ -77,9 +91,13 @@ Now, take a look at the next video, what relations between the patient and the h
 
 
 
-**Value Creation in a Socio-Technical Health System**
+## Value Creation on different levels
 
-The current landscape could be currently categorized into four key actors: patients, health care providers, regulators and third party payers. This value provision pathway could be described by looking at the relationships between these stakeholders. See this figure by Kraus: 
+1. One could innovate to create value with a product in an existing system (e.g. in a hospital ward)
+2. One could innovate to change the health services more broadly (e.g. in a hospital)
+3. One could innovate to change the entire health system, this would typically be a disruptive innovation (e.g. a new class of treatments or a new type of remote care delivery, or theranostics)
+
+Regarding the last level of innovation, the innovation changes the health system. Let's explore this by looking at how the system is traditionally represented: the healthcare landscape could be categorized into four key actors: patients, health care providers, regulators and third party payers. This value provision pathway could be described by looking at the relationships between these stakeholders. See this figure by Kraus: 
 
 ```{figure} ../figures/Kraus-21_Digital-transformation-traditional-Fig1.jpg
 :height: 150px
@@ -107,7 +125,7 @@ Further, remote healthcare solutions operate differently if the institutions are
 Value in a socio-technical health system is created through the connection of different products and services. Over the past decades, the vision of value-based healthcare has influenced the health system, as value creation is increasingly discussed. Different methods of creating care, providing value to patients, and rewarding the value created (rather than merely the intervention) have been explored.
 
 
-**Geographical Differences in Health Systems**
+## Different value creation in Health Systems
 
 Different countries have varying approaches to health insurance, coverage, and reimbursement for medical interventions. 
 

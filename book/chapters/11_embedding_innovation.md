@@ -1,4 +1,4 @@
-# Beyond implementation: sustainable integration with innovation behavior
+# 10. Beyond implementation: sustainable integration with innovation behavior
 ```{note}
 Learning goal: be able to apply a strategy to embed your innovation process
 Aim: Integrate your innovation into the organization and develop a plan with key innovation pathway steps

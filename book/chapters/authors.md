@@ -1,4 +1,4 @@
-## About the author team
+# About the author team
 
 * dr. Pieter Vandekerckhove
 * Prof. dr. Bettina Maisch
@@ -6,7 +6,7 @@
 * Prof. Frido Smulders
 * dr. Christophe Van Neste
 
-Acknowledgements: A huge thank you to:
+## Acknowledgements: A huge thank you to:
 * TU Delft support from Julie Kirsch, Tom van Woudenberg, Noopur Singh,
 Marcell Várkonyi, Joost Groot Kormelink, Robert Lanzafame, Jacqueline, Michielen-van de Riet, Michiel Munnik 
 * TU Delft library 

@@ -1,4 +1,4 @@
-# Setting up an innovation team in a healthcare organization and innovating with generative co-design
+# 7. Setting up an innovation team in a healthcare organization and innovating with generative co-design
 
 Aim: understand and apply a stakeholder assembly procedure
 

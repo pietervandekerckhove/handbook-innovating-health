@@ -1,4 +1,4 @@
-# Communicate your learnings: Making a convincing poster, presentation or writing a convincing report
+# 11. Communicate your learnings: Making a convincing poster, presentation or writing a convincing report
 
 (see CSBB MINOR materials)
 

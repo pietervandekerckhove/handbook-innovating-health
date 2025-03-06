@@ -1,4 +1,4 @@
-# Create your own innovation pathway
+# 5. Create your own innovation pathway
 
 
 <center>
@@ -8,8 +8,6 @@
   </div>
 </center>
 <br>
-
-TA do formatting: 
 
 ## Introduction
 
@@ -76,9 +74,12 @@ Compton-Phillips (2024) emphasizes the importance of care delivery innovation in
 
 Underneath, we briefly describe these theoretical building blocks and later we will refer back to these theories to show how we applied them.
 
-## The dynamic framework: conceptual space and the knowledge space theory (C-K theory)
+## Innovating is moving between the knowledge space and the conceptual space (C-K theory)
 
 C-K theory (Concept-Knowledge theory), introduced by Hatchuel and Weil, offers a unified design framework that distinguishes between the space of Concepts (C) and the space of Knowledge (K), modeling innovation as the co-expansion of these spaces. Unlike traditional problem-solving approaches, C-K theory defines design as the generation of new concepts that challenge and extend existing knowledge, rather than merely selecting optimal solutions. The framework identifies four key operators (C→K, K→C, C→C, K→K), forming a “design square” that captures the iterative and dynamic nature of innovation.  
+
+(ADD REF Hatchuel, A., & Weil, B. (2003). A new approach of innovative Design: an introduction to CK theory. In DS 31: Proceedings of ICED 03, the 14th International Conference on Engineering Design, Stockholm.)
+
 
 ```{figure} ../figures/dynamic-C-K-Theory.png
 :height: 150px
@@ -87,9 +88,17 @@ C-K theory (Concept-Knowledge theory), introduced by Hatchuel and Weil, offers a
 Hatchuel, A., & Weil, B. (2003). A new approach of innovative Design: an introduction to CK theory. In DS 31: Proceedings of ICED 03, the 14th International Conference on Engineering Design, Stockholm.)
 ```
 
-In healthcare innovation, C-K theory can help move beyond conventional pharmaceutical and medtech pathways. By structuring the innovation process around the interplay between conceptual exploration and knowledge structuring, this approach supports the development of more adaptive and interdisciplinary healthcare solutions. It enables a deeper understanding of how novel ideas emerge, evolve, and ultimately become actionable innovations, fostering a more systematic yet creative approach to addressing complex challenges in healthcare.
+In healthcare innovation, C-K theory can help move beyond conventional pharmaceutical and medtech pathways. By structuring the innovation process around the interplay between conceptual exploration and knowledge structuring in an organization, this approach supports the development of more adaptive and interdisciplinary healthcare solutions. 
 
-(ADD REF Hatchuel, A., & Weil, B. (2003). A new approach of innovative Design: an introduction to CK theory. In DS 31: Proceedings of ICED 03, the 14th International Conference on Engineering Design, Stockholm.)
+Looking at the innovation process in the healthcare organization, one could say that the operational space, is similar to the K space as it involves low uncertainty and it is decideable. However, there is also an innovation space, where things are much less certain. Have a look at the video of prof. Frido Smulders:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VNdYJFC5-jA?si=fpWWgVrcfdeEHVDF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+
+
+Building on the C-K theory, how the different levels of value creation (see previous chapter) in the health system have different levels of innovation behaviour with different timeframes:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7iWguYoJAkk?si=T7VypAAwGohda5uW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## The paralel process: IDER Model: Parallel Processes in Innovation
 

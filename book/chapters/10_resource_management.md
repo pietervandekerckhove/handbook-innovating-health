@@ -1,4 +1,4 @@
-# Resource management strategies in the health system (financial management, types of funding and investors)
+# 9. Resource management strategies in the health system (financial management, types of funding and investors)
 
 Aim: understand and apply revenue streams strategies to your innovation
 
