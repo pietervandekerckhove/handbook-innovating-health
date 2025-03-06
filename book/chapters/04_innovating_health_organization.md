@@ -1,4 +1,4 @@
-# Need to understand the system: What is innovating and entrepreneuring in health organizations (hospitals)?
+# What is innovating and entrepreneuring on an individual level in health organizations?
 
 <center>
   <div style="padding: 10px; background-color: #00BBC8; border-radius: 10px; display: inline-block; font-weight: bold; font-size: 16px; color: #000; position: relative;">
@@ -14,6 +14,7 @@
 
 
 
+### Key entrepreneurial behaviors
 
 ### Defining Healthcare Technology
 
