@@ -41,6 +41,13 @@ Healthcare innovation is notoriously challenging due to multiple structural, reg
 
 Please read the article: "Why Innovation in Health Care Is So Hard": In this seminal article, Herzlinger identifies several systemic barriers that make healthcare innovation particularly difficult. She argues that the complexity of healthcare systems, coupled with regulatory constraints, misaligned incentives, and risk-averse stakeholders, creates a challenging environment for new innovations to thrive. The article highlights key factors contributing to these difficulties, such as fragmented healthcare markets, resistance to disruptive change, and the challenge of balancing scientific rigor with market-driven entrepreneurial strategies. Herzlinger emphasizes the need for strategic alignment between policymakers, investors, and healthcare providers to foster an ecosystem conducive to sustainable innovation.
 
+````{admonition} Important
+``` Therefore the question rises: How to align incentives, deal with risk-averse stakeholders upfront? In a health system many stakeholders have a misalignment between the financial incentives and the need to innovate targeting patient outcoems of interest. For example, when you are innovating to improve the wellbeing of patients, you cannot do that in the standard health system, because there is no reimbursement or incentive to innovate interventions going beyond the biomedical interventions of patient outcomes. Finding a sustainable business model in this area is an important challenge for all digital wellbeing tools.
+```
+````
+
+
+
 TA add exercise discussion: What key challenges do you think are hardest to tackle to innovate in healthcare organizations? How did you overcome them?
 
 <script src=https://utteranc.es/client.js
