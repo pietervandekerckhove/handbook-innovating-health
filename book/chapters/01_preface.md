@@ -1,5 +1,4 @@
-# Designing sustainable patient-centered innovation pathways: An introduction for responsible innovators on their expedition
-
+# Innovating patient-centered care by front-loading the relevant actions and stakeholders: An introduction 
 
 
 
