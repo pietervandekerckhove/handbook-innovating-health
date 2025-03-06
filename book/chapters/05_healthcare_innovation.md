@@ -1,4 +1,4 @@
-# Stakeholders and their relationships in socio-technical product service systems in healthcare
+# How stakeholders create value in the socio-technical product service system of healthcare
 
 <center>
   <div style="padding: 10px; background-color: #00BBC8; border-radius: 10px; display: inline-block; font-weight: bold; font-size: 16px; color: #000; position: relative;">
