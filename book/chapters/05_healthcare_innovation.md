@@ -148,7 +148,15 @@ Germany perspective:
 
 * Dutch Perspective: A mix of public and private insurance, with mandatory health coverage regulated by the government. Citizens choose from private insurers offering government-regulated packages. The system encourages competition among insurers while ensuring universal coverage. Video by Robin Toorneman.
 
-TA please add the h5p video with quiz in here from Robin Toorneman: https://www.youtube.com/watch?v=7QaLOiZxmUo
+
+🔴TA please add the h5p video with quiz in here from Robin Toorneman:🔴
+
+````{admonition} 🔴Add an appropriate title for this video🔴
+
+```{video} https://www.youtube.com/embed/watch?v=7QaLOiZxmUo
+
+```
+````
 
 * USA Perspective (Steven Howard): A mix of public (Medicare, Medicaid) and private insurance, with employer-based and market-driven models dominating. The system is highly fragmented, with significant disparities in access and costs. The Affordable Care Act (ACA) expanded coverage, but many remain uninsured or underinsured, and high healthcare costs remain a major issue.
 
@@ -187,7 +195,14 @@ TA provide reference: https://eit.europa.eu/library/implementing-value-based-hea
 Video Introduction
 Watch Prof. Steven Howard’s video introduction on value-based healthcare in Santeon hospitals to understand how these principles are applied in real-world settings. View the video here.
 
-TA Add video and quiz with h5p here: https://www.youtube.com/playlist?list=PLd0hXinKX4s4-UWJtYC-vjQZWb8ghuxs6
+🔴TA Add video and quiz with h5p here:🔴
+
+````{admonition} 🔴Add an appropriate title for this video🔴
+
+```{video} https://www.youtube.com/embed/playlist?list=PLd0hXinKX4s4-UWJtYC-vjQZWb8ghuxs6
+
+```
+````
 
 
 **Can value-based healthcare be a catalyst for innovation?**
@@ -211,7 +226,9 @@ Article: "Collaborating for value - The Santeon Hospitals in the Netherlands." h
 Personalized healthcare and precision medicine are related trends to value-based healthcare that may be useful to support innovations. By tailoring treatments to individual patients, personalized healthcare can potentially improve outcomes and efficiency, key goals of VBHC. It involves tailoring medical treatment to the individual characteristics of each patient. These approaches diviate from standard care as it were as they become more individually tailored interventions. Personalized healthcare aims to move away from standardized healthcare with a "one-size-fits-all" model and towards treatments that consider individual variability (Collins & Varmus, 2015). These interventions use genetic, environmental, and lifestyle factors to design more effective and personalized care plans.
 
 Key aspects here are patient-related outcome measures (PROMS) and PREMS. Can you identify the innovations that are used to make the patient-centered a reality in a Danish hospital?
-TA make video ifram: https://www.youtube.com/watch?v=ClIFLrGpYV8
+TA make video ifram: 
+🔴Check if correct🔴
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=ClIFLrGpYV8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 These trends are advanced through technological developments in the field of biotech. For example the use of complex multiplex cell cultures, which allows for more precise modeling of human diseases and testing of treatments. These cultures can replicate the interactions between different cell types within the body, providing a more accurate representation of how diseases progress and how treatments work in a real human environment (Pampaloni et al., 2007).
@@ -219,7 +236,9 @@ These trends are advanced through technological developments in the field of bio
 Another example is organ-on-a-chip technology. How do you think this could change the biomedical innovation pathway?
 
 TA make video ifram
-https://www.youtube.com/watch?v=3bCUhrWl4jE
+🔴Check if correct🔴
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=3bCUhrWl4jE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 
 
 

@@ -224,7 +224,16 @@ Some key lessons could be shared here when looking as key aspects in the innovat
 
 TA insert video and quiz here with h5p, video from panel about patient centered innovation symposium: https://youtu.be/7tn-CMNr180?si=DeAel7TxI4YTV9iY
 
-TA check with speakers and insert video and quiz here with h5p: https://www.youtube.com/watch?v=UmT_Hr26rLI
+
+
+🔴TA check with speakers and insert video and quiz here with h5p:🔴
+
+````{admonition} 🔴Add an appropriate title for this video🔴
+
+```{video} https://www.youtube.com/watch?v=UmT_Hr26rLI
+
+```
+````
 
 It is important to assess the roadblocks for existing solutions and learn from their mistakes in their pathways: today one could couple the existing interventions that can help with diagnostics and couple them with new interventions.
 
