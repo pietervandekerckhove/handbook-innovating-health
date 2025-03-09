@@ -34,7 +34,16 @@ I believe we need to work toward sustainable healthcare and healing environments
 A holistic approach to healthcare innovation should integrate sustainability, patient-centered design, and cutting-edge technologies. This includes intervention discovery and development in biotech and ICT, such as synthetic, genetic, and cellular laboratory techniques, machine learning, additive manufacturing, extended reality, theranostics, and unmanned medical aircraft. Holistic innovation pathways should incorporate diverse stakeholders, ensuring that solutions are scalable, sustainable, and impactful.
 
 
-TA add video about dr. Sascha Verbruggen here with quiz in here: https://www.youtube.com/watch?v=_J4gLCg-6aA
+
+TA add video about dr. Sascha Verbruggen here with quiz in here:
+````{admonition} Watch this video on TU Delft's latest innovation in healthcare technology.
+
+```{video} https://www.youtube.com/embed/_J4gLCg-6aA
+
+```
+````
+
+
 
 
 If you are interested in learning more about disaster preparedness and infectious diseases you can take a look here at the Open World Health Organization database. Retrieved from https://openwho.org/home
