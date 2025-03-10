@@ -228,7 +228,7 @@ Some key lessons could be shared here when looking as key aspects in the innovat
 
 ````{admonition} 🔴Add an appropriate title for this video🔴
 
-```{video} https://youtu.be/7tn-CMNr180?si=DeAel7TxI4YTV9iY
+```{video} https://www.youtube.com/watch?v=7tn-CMNr180&ab_channel=TUDelft%7CNewMediaCentre
 
 ```
 ````
