@@ -8,3 +8,5 @@ Aim: Integrate your innovation into the organization and develop a plan with key
 develop strategy to change mindset from solution driven to problem driven
 
 * structure to support processes needs to be adapted to organization, difficult to find time, finding the right people at the right time is important who are interested in spending extra time in innovation
+
+* Exercise Naomi to develop multi-stakehodler assessment exercise (ronde tafel Zorg innovatie) voor implementatie, business model vragen, evidence ontwikkelingsstrategie, registratie (Naomi checks what I can use from her exercise) (Naomi can bijwerken)
