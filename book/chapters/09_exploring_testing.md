@@ -21,7 +21,15 @@ TA check collegerama file, insert video with h5p and include quiz from Delft Sta
 
 * patient expert and founder Lennart Zielstra Rezolve Medical https://www.rezolvemedical.com/
 
-TA please add video and quiz here from Lennart Zielstra: https://www.youtube.com/watch?v=Ifs9GGBzsHY
+
+🔴TA please add video and quiz here from Lennart Zielstra:🔴
+
+````{admonition} 🔴Add an appropriate title for this video🔴
+
+```{video} https://www.youtube.com/watch?v=Ifs9GGBzsHY
+
+```
+````
 
 * patient expert and founder Bemyeyes https://www.bemyeyes.com/
 * Astra Zeneca patient founder
@@ -66,8 +74,15 @@ iCell fundamental researchers insights in biotech (combining insights from genet
 
 new initiatives in nano-medicine
 
-FOR TA: make quiz for video in h5p: https://youtu.be/fXK5R51lM_8
 
+🔴FOR TA: make quiz for video in h5p: 🔴
+
+````{admonition} 🔴Add an appropriate title for this video🔴
+
+```{video} https://youtu.be/fXK5R51lM_8
+
+```
+````
 
 
 
@@ -90,7 +105,17 @@ We start to know more and more from a scientific point of view. Watch this TEDx 
 
 example patient expert interviews with questions
 
-FOR TA: make patient interview in h5p with quiz here: https://youtu.be/4Hu3qbElb9k
+
+🔴FOR TA: make patient interview in h5p with quiz here🔴
+
+````{admonition} 🔴Add an appropriate title for this video🔴
+
+```{video} https://youtu.be/4Hu3qbElb9k
+
+```
+````
+
+
 
 https://youtu.be/n2X3OHdbuNg
 

@@ -222,7 +222,16 @@ Developing your innovation pathway is like an action-research process where you 
 
 Some key lessons could be shared here when looking as key aspects in the innovation pathways. What aspects do you identify as important in patient-centered innovation pathways? What aspects should be considered upfront?
 
-TA insert video and quiz here with h5p, video from panel about patient centered innovation symposium: https://youtu.be/7tn-CMNr180?si=DeAel7TxI4YTV9iY
+
+
+🔴TA insert video and quiz here with h5p, video from panel about patient centered innovation symposium: 🔴
+
+````{admonition} 🔴Add an appropriate title for this video🔴
+
+```{video} https://youtu.be/7tn-CMNr180?si=DeAel7TxI4YTV9iY
+
+```
+````
 
 
 
