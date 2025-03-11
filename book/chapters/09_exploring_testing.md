@@ -4,7 +4,11 @@ Aim: undersatnd and apply Generative co-design sessions + business development t
 
 In the innovation process there is a basic cycle that we can follow:
 
+````{admonition} 🔴Add an appropriate title for this video🔴
+```{raw} html
 <iframe width="560" height="315" src="https://www.youtube.com/embed/onpG_Vsq8sM?si=QrPKzURv6AId2Ebe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+```
+````
 
 ## Explore
 
@@ -21,15 +25,13 @@ TA check collegerama file, insert video with h5p and include quiz from Delft Sta
 
 * patient expert and founder Lennart Zielstra Rezolve Medical https://www.rezolvemedical.com/
 
-<!-- 
-🔴TA please add video and quiz here from Lennart Zielstra:🔴
 
 ````{admonition} 🔴Add an appropriate title for this video🔴
 
 ```{video} https://www.youtube.com/watch?v=Ifs9GGBzsHY
 
 ```
-```` -->
+````
 
 * patient expert and founder Bemyeyes https://www.bemyeyes.com/
 * Astra Zeneca patient founder
@@ -97,32 +99,54 @@ It is important to understand how we experience our health and critical events i
 
 Watch this TED talk from Yongey Mingyur Rinpoche. What is the experiential level of awareness? How do we connect with it?
 
+````{admonition} 🔴Add an appropriate title for this video🔴
+```{raw} html
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LDVyOnf0t9M?si=uwx7he1M2A-DaamW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+```
+````
+
+
 
 We start to know more and more from a scientific point of view. Watch this TEDx video where prof. Steven Laureys explains some early scientific insights we have to understand how our consiousness works.
 
+````{admonition} 🔴Add an appropriate title for this video🔴
+```{raw} html
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6Qqc_wJS6-Q?si=vC-5Ea-ex70z_bam" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+```
+````
+
 
 example patient expert interviews with questions
 
 
-<!-- 🔴FOR TA: make patient interview in h5p with quiz here🔴
+🔴FOR TA: make patient interview in h5p with quiz here🔴
 
 ````{admonition} 🔴Add an appropriate title for this video🔴
 
 ```{video} https://youtu.be/4Hu3qbElb9k
 
 ```
-```` -->
+````
 
 
+````{admonition} 🔴Add an appropriate title for this video🔴
+```{video} https://youtu.be/n2X3OHdbuNg
+```
+````
 
-https://youtu.be/n2X3OHdbuNg
 
-https://youtu.be/hp1j7Web4Uo
+````{admonition} 🔴Add an appropriate title for this video🔴
+```{video} https://youtu.be/hp1j7Web4Uo
+```
+````
 
 
+````{admonition} 🔴Add an appropriate title for this video🔴
+```{raw} html
 <iframe src="https://tudelft.h5p.com/content/1292435448749375067/embed" aria-label="Learning from patient experience" width="1088" height="637" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://tudelft.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
+```
+````
+
 
 <script src=https://utteranc.es/client.js
         repo="pietervandekerckhove/handbook-innovating-health"
