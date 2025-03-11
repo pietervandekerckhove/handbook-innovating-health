@@ -242,15 +242,18 @@ Article: "Collaborating for value - The Santeon Hospitals in the Netherlands." h
 Personalized healthcare and precision medicine are related trends to value-based healthcare that may be useful to support innovations. By tailoring treatments to individual patients, personalized healthcare can potentially improve outcomes and efficiency, key goals of VBHC. It involves tailoring medical treatment to the individual characteristics of each patient. These approaches diviate from standard care as it were as they become more individually tailored interventions. Personalized healthcare aims to move away from standardized healthcare with a "one-size-fits-all" model and towards treatments that consider individual variability (Collins & Varmus, 2015). These interventions use genetic, environmental, and lifestyle factors to design more effective and personalized care plans.
 
 Key aspects here are patient-related outcome measures (PROMS) and PREMS. Can you identify the innovations that are used to make the patient-centered a reality in a Danish hospital?
-TA make video ifram: 
 
-````{admonition} 🔴Add an appropriate title for this video🔴
+<!-- ````{admonition} 🔴Add an appropriate title for this video🔴
 ```{raw} html
 <iframe width="560" height="315" src="https://www.youtube.com/watch?v=ClIFLrGpYV8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 ```
+```` -->
+
+````{admonition} 🔴Add an appropriate title for this video🔴
+```{raw} html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ClIFLrGpYV8?si=o_ATBsN3eAZBN2uq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+```
 ````
-
-
 
 These trends are advanced through technological developments in the field of biotech. For example the use of complex multiplex cell cultures, which allows for more precise modeling of human diseases and testing of treatments. These cultures can replicate the interactions between different cell types within the body, providing a more accurate representation of how diseases progress and how treatments work in a real human environment (Pampaloni et al., 2007).
 
@@ -258,7 +261,7 @@ Another example is organ-on-a-chip technology. How do you think this could chang
 
 ````{admonition} 🔴Add an appropriate title for this video🔴
 ```{raw} html
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=3bCUhrWl4jE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3bCUhrWl4jE?si=hUWi9RaNl9S6ylep" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 ```
 ````
 
