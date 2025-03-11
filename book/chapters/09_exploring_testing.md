@@ -58,7 +58,15 @@ Try to look for outcomes that matter to patients, tangible and intangible and ma
 
 Have a look at this video and what opportunities you can identify?
 
-[![Why is everyone talking about value-based reimbursement? • Health Tech Forward](https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DnrHOTKLdZ3M)](https://www.youtube.com/watch?v=nrHOTKLdZ3M)
+````{admonition} Why is everyone talking about value-based reimbursement? • Health Tech Forward
+```{raw} html
+<a href="https://www.youtube.com/watch?v=nrHOTKLdZ3M" target="_blank">
+    <img src="https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DnrHOTKLdZ3M" alt="Why is Everyone Talking About Value-Based Reimbursement?">
+</a>
+```
+````
+
+
 
 (youtube video incorporated in the book with the URL generator  https://markdown-videos.jorgenkh.no/)
 
@@ -161,16 +169,30 @@ clinical problem validation, understanding care pathways and patient journeys
 When looking at your diagnosis as a patient decades after the diagnosis happened it is interesting how profound the emotions are and how traumatic the impact can be, even if the cancer is cured.
 
 Here is a video of the comedian Tom Green who shared his experience shortly after diagnosis:
-[![The Tom Green Show - Cancer Special: Part 1](https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DWHD3L4RhiGA)](https://www.youtube.com/watch?v=WHD3L4RhiGA)
 
-[![The Tom Green Show - Cancer Special: Part 2](https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DsJboRvYDgx8)](https://www.youtube.com/watch?v=sJboRvYDgx8)
+````{admonition} The Tom Green Show - Cancer Special
+```{raw} html
+<a href="https://www.youtube.com/watch?v=WHD3L4RhiGA" target="_blank">
+    <img src="https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DWHD3L4RhiGA" alt="The Tom Green Show - Cancer Special: Part 1">
+</a>
+<br><br>
+<a href="https://www.youtube.com/watch?v=sJboRvYDgx8" target="_blank">
+    <img src="https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DsJboRvYDgx8" alt="The Tom Green Show - Cancer Special: Part 2">
+</a>
+```
+````
 
 
 Here is a video of Tom Green who shares his experience decades later:
 Why do you feel the pain challenges for Tom were so difficult to deal with? Can you identify different dimensions? Can you differentiate between what is important in his philosophy of life and what matters to society? 
 
-[![  Tom Green: I didn’t expect to survive testicular cancer](https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D0jso8SJTY_M)](https://www.youtube.com/watch?v=0jso8SJTY_M)
-
+````{admonition} Tom Green: I Didn’t Expect to Survive Testicular Cancer
+```{raw} html
+<a href="https://www.youtube.com/watch?v=0jso8SJTY_M" target="_blank">
+    <img src="https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D0jso8SJTY_M" alt="Tom Green: I Didn’t Expect to Survive Testicular Cancer">
+</a>
+```
+````
 
 
 market problem validation

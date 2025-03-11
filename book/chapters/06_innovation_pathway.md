@@ -28,7 +28,9 @@ In the phase before the marketing stage, one needs to gain access to the market.
 
 ````{admonition} 3 Things About Market Access
 ```{raw} html
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8NhuaohK_Qg?si=Bdrz2uxQgp9bnGP_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<a href="https://www.youtube.com/watch?v=8NhuaohK_Qg" target="_blank">
+    <img src="https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D8NhuaohK_Qg" alt="3 Things About Market Access">
+</a>
 ```
 ````
 
