@@ -12,11 +12,9 @@
 <!-- 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/i8ed99QsfVE?si=TjaWt5ojtomXrKSF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> -->
 
-````{admonition} Watch this video demonstrating an Ambulance Drone (a collaboration between Alec Momont (graduate student TUDelft), Living Tomorrow and University Hospital UZ Ghent). 
+{admonition} Watch this video demonstrating an Ambulance Drone (a collaboration between Alec Momont (graduate student TUDelft), Living Tomorrow and University Hospital UZ Ghent). 
 
-```<iframe width="560" height="315" src="https://www.youtube.com/embed/i8ed99QsfVE?si=TjaWt5ojtomXrKSF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-```
-````
+<iframe width="560" height="315" src="https://www.youtube.com/embed/i8ed99QsfVE?si=TjaWt5ojtomXrKSF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 ### Key entrepreneurial behaviors
