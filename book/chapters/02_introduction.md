@@ -1,6 +1,6 @@
 # 1. Introduction
 
-**Why This Book?**
+## Why This Book?
 
 If another pandemic were to break out tomorrow, what actionable steps could we take to innovate quickly?
 
@@ -27,7 +27,17 @@ Some innovations are also coming from other industries into healthcare, technolo
 
 This handbook aims to bridge this gap, equipping you with the tools and frameworks to design and implement scalable, sustainable innovation pathways in healthcare.
 
-**The Need for a guide for the expedition of innovators in the trenches on an individual level**
+## The expedition of innovators in the trenches on an individual level
+
+Healthcare entrepreneurship is generally an emerging field in research and education. Mostly, 
+
+```{figure} ../figures/Entrepreneurial-behaviors-Bettina-Wiljeana-Pieter.png
+:height: 250px
+:name: figure-example
+
+Different Streams in entrepreneurial behavior (Wiljeana Glover, Bettina Maisch, Pieter Vandekerckhove)
+```
+
 
 We need to train the future generation of responsible health innovators to ensure that their innovations achieve real impact. This is especially true for digital health, which is expected to become a cornerstone of healthcare transformation in the coming decade (Friend et al., 2023; Weimar et al., 2024; Technology Foresight, n.d.). However, despite its potential, most digital health solutions fail to integrate meaningfully into healthcare systems (Lee et al., 2021).
 
