@@ -27,9 +27,7 @@ TA check collegerama file, insert video with h5p and include quiz from Delft Sta
 
 
 ````{admonition} 🔴Add an appropriate title for this video🔴
-
 ```{video} https://www.youtube.com/watch?v=Ifs9GGBzsHY
-
 ```
 ````
 
@@ -121,10 +119,8 @@ example patient expert interviews with questions
 
 🔴FOR TA: make patient interview in h5p with quiz here🔴
 
-````{admonition} 🔴Add an appropriate title for this video🔴
-
+<!-- ````{admonition} 🔴Add an appropriate title for this video🔴
 ```{video} https://youtu.be/4Hu3qbElb9k
-
 ```
 ````
 
@@ -138,7 +134,7 @@ example patient expert interviews with questions
 ````{admonition} 🔴Add an appropriate title for this video🔴
 ```{video} https://youtu.be/hp1j7Web4Uo
 ```
-````
+```` -->
 
 
 ````{admonition} 🔴Add an appropriate title for this video🔴
