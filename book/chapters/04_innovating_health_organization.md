@@ -8,16 +8,28 @@
 </center>
 <br>
 
-### Defining Innovation
+## Introduction
+
+## Defining Innovation
 ````{admonition} 🔴Add an appropriate title for this video🔴
 ```{raw} html
 <iframe width="560" height="315" src="https://www.youtube.com/embed/i8ed99QsfVE?si=TjaWt5ojtomXrKSF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 ```
 ````
 
-### Key entrepreneurial behaviors
+## Key entrepreneurial behaviors in healthcare
+Different stakeholders in the healthsystem can be entrepreneurial and many of them already show entrepreneurial behavior. On an individual level care professionals are constantly collaborating to improve the health of people and they are doing that in an entrepreneurial way.
 
-### Defining Healthcare Technology
+Fundamentally it is about the mindset of people looking for the problem of people (in a preventive or curative setting) and wanting to do something about that. This is a very fuzzy concept to define, but you can notice when care professionals are going beyond their comfort zone to look for the best treatment there is for patients. 
+
+It is about skills te collaborate and facilitate or lead a change in an existing setting. 
+
+(INSERT DIAGRAM) similar to convivial toolbox
+* abstract on a mindset level
+* on a product-system level
+* on an implementation level
+
+## Defining Healthcare Technology
 
 According to the WHO's "Global Strategy on Digital Health 2020-2025," digital health, leverages technology to enhance healthcare delivery systems globally. This includes wearable health monitors, diagnostic imaging systems, robotic surgery, and digital health applications. (ADD REF https://www.who.int/publications/i/item/9789240020924)This includes a broad range of product-service systems. For example: devices, medicines, vaccines, procedures, and systems developed to solve health problems and improve quality of life. These technologies facilitate the prevention, diagnosis, treatment, and monitoring of diseases. Healthcare technology integrates advancements from various fields, including biotechnology, information technology, and medical devices, to enhance patient outcomes and streamline healthcare operations.
 
@@ -33,7 +45,7 @@ According to the WHO's "Global Strategy on Digital Health 2020-2025," digital he
 
 The Politecnico di Milano's Technology Foresight report https://www.foresight.polimi.it/health/1/ provides insights into future trends and innovations in healthcare technology. This foresight is critical for anticipating and preparing for upcoming challenges and opportunities in MedTech. Emerging trends include AI-driven diagnostics, precision medicine, telehealth expansion, and the integration of blockchain for secure health data management. These advancements drive efficiency, accessibility, and personalized care, paving the way for transformative changes in the healthcare industry. 
 
-**Strategic alignment of incentives upfront**
+**Strategic alignment of stakeholder incentives upfront**
 
 Healthcare innovation is notoriously challenging due to multiple structural, regulatory, and behavioral barriers. As outlined by Herzlinger (2006) in "Why Innovation in Health Care Is So Hard," several factors contribute to this difficulty. 
 

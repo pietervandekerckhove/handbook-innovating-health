@@ -1,4 +1,4 @@
-# 8. The basic innovation cycle: Observe and explore, create and prototype and robustisize and test
+# 8. The basic innovation cycle: Observe & explore, create & prototype and robustinize & test
 
 Aim: undersatnd and apply Generative co-design sessions + business development tools to guide strategic decisions regarding revenue streams, the behaviors are integrated in these sessions
 
@@ -146,8 +146,17 @@ We start to know more and more from a scientific point of view. Watch this TEDx 
 
 
 ````{admonition} 🔴Add an appropriate title for this video🔴
-```{raw} html
-<iframe src="https://tudelft.h5p.com/content/1292435448749375067/embed" aria-label="Learning from patient experience" width="1088" height="637" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://tudelft.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
+```{raw} html````{admonition} Patient exploration 
+
+```{video} <iframe src="https://tudelft.h5p.com/content/1292435448749375067/embed" aria-label="Learning from patient experience" width="1088" height="637" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://tudelft.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
+```
+````
+
+````{admonition} Patient exploration 
+
+```{video} https://tudelft.h5p.com/content/1292435448749375067/embed
+```
+````
 ```
 ````
 
