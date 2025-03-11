@@ -1,4 +1,4 @@
-# 8. The basic innovation cycle: Observe and explore, create and prototype and robustisize and test
+# 8. The basic innovation cycle: Observe & explore, create & prototype and robustinize & test
 
 Aim: undersatnd and apply Generative co-design sessions + business development tools to guide strategic decisions regarding revenue streams, the behaviors are integrated in these sessions
 
@@ -102,7 +102,11 @@ https://youtu.be/hp1j7Web4Uo
 ```
 ````
 
+````{admonition} Patient exploration 
 
+```{video} https://tudelft.h5p.com/content/1292435448749375067/embed
+```
+````
 
 <script src=https://utteranc.es/client.js
         repo="pietervandekerckhove/handbook-innovating-health"
