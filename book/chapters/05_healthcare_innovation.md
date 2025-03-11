@@ -169,8 +169,6 @@ Germany perspective:
 * Dutch Perspective: A mix of public and private insurance, with mandatory health coverage regulated by the government. Citizens choose from private insurers offering government-regulated packages. The system encourages competition among insurers while ensuring universal coverage. Video by Robin Toorneman.
 
 
-🔴TA please add the h5p video with quiz in here from Robin Toorneman:🔴
-
 ````{admonition} 🔴Add an appropriate title for this video🔴
 
 ```{video} https://www.youtube.com/embed/watch?v=7QaLOiZxmUo
@@ -214,8 +212,6 @@ TA provide reference: https://eit.europa.eu/library/implementing-value-based-hea
 
 Video Introduction
 Watch Prof. Steven Howard’s video introduction on value-based healthcare in Santeon hospitals to understand how these principles are applied in real-world settings. View the video here.
-
-🔴TA Add video and quiz with h5p here:🔴
 
 ````{admonition} 🔴Add an appropriate title for this video🔴
 
