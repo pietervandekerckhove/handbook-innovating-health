@@ -75,12 +75,12 @@ iCell fundamental researchers insights in biotech (combining insights from genet
 new initiatives in nano-medicine
 
 
+
+<!-- This video is not available to the public --> 
+
 <!-- 🔴FOR TA: make quiz for video in h5p: 🔴
-
 ````{admonition} 🔴Add an appropriate title for this video🔴
-
 ```{video} https://youtu.be/fXK5R51lM_8
-
 ```
 ```` -->
 
@@ -114,24 +114,24 @@ We start to know more and more from a scientific point of view. Watch this TEDx 
 ````
 
 
-example patient expert interviews with questions
-
-
 🔴FOR TA: make patient interview in h5p with quiz here🔴
 
-<!-- ````{admonition} 🔴Add an appropriate title for this video🔴
-```{video} https://youtu.be/4Hu3qbElb9k
+
+````{admonition} 🔴Add an appropriate title for this video🔴
+```{raw} html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4Hu3qbElb9k?si=X5W5r1dwKongoC6R" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 ```
 ````
 
-
-````{admonition} 🔴Add an appropriate title for this video🔴
+<!-- This video is not available to the public>
+<!-- ````{admonition} 🔴Add an appropriate title for this video🔴
 ```{video} https://youtu.be/n2X3OHdbuNg
 ```
-````
+```` -->
 
 
-````{admonition} 🔴Add an appropriate title for this video🔴
+<!-- This video is not available to the public>
+<!-- ````{admonition} 🔴Add an appropriate title for this video🔴
 ```{video} https://youtu.be/hp1j7Web4Uo
 ```
 ```` -->

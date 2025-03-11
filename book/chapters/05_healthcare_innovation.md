@@ -243,12 +243,6 @@ Personalized healthcare and precision medicine are related trends to value-based
 
 Key aspects here are patient-related outcome measures (PROMS) and PREMS. Can you identify the innovations that are used to make the patient-centered a reality in a Danish hospital?
 
-<!-- ````{admonition} 🔴Add an appropriate title for this video🔴
-```{raw} html
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=ClIFLrGpYV8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-```
-```` -->
-
 ````{admonition} 🔴Add an appropriate title for this video🔴
 ```{raw} html
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ClIFLrGpYV8?si=o_ATBsN3eAZBN2uq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
