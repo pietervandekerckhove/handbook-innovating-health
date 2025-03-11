@@ -29,7 +29,12 @@ This handbook aims to bridge this gap, equipping you with the tools and framewor
 
 ## The expedition of innovators in the trenches on an individual level
 
-Healthcare entrepreneurship is generally an emerging field in research and education. Mostly, 
+Healthcare entrepreneurship is generally an emerging field in research and education. Mostly, it is discussed in the field of management of entrepreneurship as a context in which the regular entrepreneurship happens.
+
+Healthcare entrepreneurship is different:
+1. It is a field where, in contrast to other fields, there is a constant demand of people and a constant flow of needs.
+2. It is different from a normal economic system which has managed market principles through regulation
+3. There is not one payer or one client, but multiple people involved 
 
 ```{figure} ../figures/Entrepreneurial-behaviors-Bettina-Wiljeana-Pieter.png
 :height: 250px
