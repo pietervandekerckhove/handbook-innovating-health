@@ -1,4 +1,4 @@
-# 5. Create your own innovation pathway
+# 5. Create your own strategic pathway
 
 
 <center>
@@ -11,9 +11,9 @@
 
 ## Introduction
 
-Innovation pathways in healthcare play a critical role in determining how new medical technologies, treatments, and interventions move from concept to implementation. Understanding these pathways allows innovators to design effective strategies, anticipate challenges, and optimize the development process. This chapter explores the relevance of innovation pathways, outlines the traditional biomedical innovation model, highlights the need for improvements in digital health and service-based innovations, and introduces key theories such as the IDER model and front-loading theory to enhance innovation strategies.
+Pathways to improve the health system play a critical role to move from concept to implementation. Understanding these pathways allows innovators to design effective strategies, anticipate challenges, and optimize the development process. This chapter explores the relevance of innovation pathways, outlines the traditional biomedical innovation model, highlights the need for improvements in digital health and service-based innovations, and introduces key theories such as the IDER model and front-loading theory to enhance innovation strategies.
 
-## The Traditional Biomedical Innovation Pathway
+## A macro perspective: the traditional Biomedical Innovation Pathway 
 
 The dominant biomedical innovation pathway follows a structured, often linear, process that includes fundamental research, preclinical development, clinical trials, regulatory approval, and market introduction. This pathway has been well-established for pharmaceuticals and medical devices, ensuring safety, efficacy, and compliance with strict regulatory standards. Key steps in this process can be seen in the USA health system described with Figure 1 of this JAMA article https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2820562.
 
@@ -44,30 +44,7 @@ Look at this video from dr. Frederick Thielen:
 ```
 ````
 
-
-While this pathway has proven effective for traditional medical products, it does not always accommodate the complexities of emerging innovations such as software-driven interventions (e.g., digital therapeutics like Germany's DiGA framework (**ADD REF**)) or theranostics (e.g., diabetes management integrating biomarkers and digital drug delivery). 
-
-In Germany the new digital health assessment framework is an emerging step for digital health innovations.
-
-````{admonition} Watch this video from Monika Rimmele to learn more about the German assessment framework on digital health prescription innovations
-```{video} https://www.youtube.com/embed/6RfKOa1MVPQ?si=oN8rM_BHfC-63tJU
-```
-````
-
-
-
-
-These new categories demand more flexible, iterative innovation models. Ijzerman, Koffijberg, Fenwick, and Krahn (2017) emphasize the importance of early health technology assessment in medical product development, highlighting the need for more adaptive frameworks (PharmacoEconomics, 35(7), 727–740).
-
-## Beyond Pharma and Medtech: The Need for Improved Pathways
-
-More Complex Product-Service Combinations
-
-Innovation in healthcare now extends beyond pharmaceuticals and medical devices to include complex, service-oriented digital health solutions. Digital therapeutics, artificial intelligence-driven diagnostics, and virtual interventions using extended reality (XR) require pathways that account for evolving regulatory frameworks, interdisciplinary integration, and shifting healthcare dynamics. The traditional model must adapt to support parallel innovation processes that accommodate both technological and socio-economic considerations. Therefore, we need to rethink healthcare innovation models to effectively integrate these complex product-service combinations into routine care.
-
-The Need for New Innovation Theories to Revise This Framework
-
-A stronger theoretical foundation is required to improve innovation processes, especially in terms of translating ideas into care practices. Healthcare innovators must ultimately be able to reshape systems to support the adoption and sustainability of novel solutions. This also applies to the traditional biomedical innovation pathway, whereby the alst part market launch is in reality a black box. Few people really knows, what it takes for a drug to be fully become available to the market of a country. 
+Some parts of this pathway are in fact still a black box on more detailed level. Few people really know, what it takes for a drug to be fully become available to the market of a country. 
 
 During these complex negotiations you need to agree on a price with the payer, be it a health insurer, the government or a hospital, or all of these together. Have a look at this video from prof. Carin Uyl-de Groot:
 
@@ -80,14 +57,126 @@ What are the key considerations about pricing negotiations one needs to consider
 ````
 
 
+While this pathway has describes key steps on the macro level for traditional medical products, it does not always accommodate the complexities of emerging innovations such as software-driven interventions (e.g., digital therapeutics like Germany's DiGA framework (**ADD REF**)) or theranostics (e.g., diabetes management integrating biomarkers and digital drug delivery). 
 
-Compton-Phillips (2024) emphasizes the importance of care delivery innovation in achieving this transformation. Underneath we will explore a few key theoreties one can use to help understand key dynamics in innovation pathways.  Ultimately it requires integrating service design principles, systems thinking, early health technology assessment, and implementation science. This can than develop frameworks that better support their healthcare innovations beyond traditional pharmaceutical and medtech pathway.
+In Germany the new digital health assessment framework is an emerging step for digital health innovations.
+
+````{admonition} Watch this video from Monika Rimmele to learn more about the German assessment framework on digital health prescription innovations
+```{video} https://www.youtube.com/embed/6RfKOa1MVPQ?si=oN8rM_BHfC-63tJU
+```
+````
+
+These new categories demand more flexible, iterative innovation models. Ijzerman, Koffijberg, Fenwick, and Krahn (2017) emphasize the importance of early health technology assessment in medical product development, highlighting the need for more adaptive frameworks (PharmacoEconomics, 35(7), 727–740).
+
+Next, we want to examine this pathway on a micro level at the level of individual behaviors to see how these look like.
+
+## Micro level pathways: STPSS innovation pathways on an individual level
+
+### Complex Product-Service Combinations
+
+Innovation in healthcare now extends beyond pharmaceuticals and medical devices to include complex, service-oriented digital health solutions. Digital therapeutics, artificial intelligence-driven diagnostics, and virtual interventions using extended reality (XR) require pathways that account for evolving regulatory frameworks, interdisciplinary integration, and shifting healthcare dynamics. The traditional model must adapt to support parallel innovation processes that accommodate both technological and socio-economic considerations. Therefore, we need to rethink healthcare innovation models to effectively integrate these complex product-service combinations into routine care.
+
+### Theories for the individual entrepreneurial level
+
+A stronger theoretical foundation is required examine innovation processes on an individual level, especially in terms of translating ideas into care practices. Healthcare innovators must ultimately be able to reshape systems to support the adoption and sustainability of novel solutions. 
+
+
+Compton-Phillips (2024) emphasizes the importance of care delivery innovation from care professionals in achieving this transformation. Underneath we will explore a few key theories one can use to help understand key dynamics in innovation pathways.  Ultimately it requires integrating service design principles, systems thinking, early health technology assessment, and implementation science. This can than develop frameworks that better support their healthcare innovations beyond traditional pharmaceutical and medtech pathway.
 
 Underneath, we briefly describe these theoretical building blocks and later we will refer back to these theories to show how we applied them.
 
-## Innovating is moving between the knowledge space and the conceptual space (C-K theory)
+## A strategy to manage stakeholders in the innovation pathway
 
-C-K theory (Concept-Knowledge theory), introduced by Hatchuel and Weil, offers a unified design framework that distinguishes between the space of Concepts (C) and the space of Knowledge (K), modeling innovation as the co-expansion of these spaces. Unlike traditional problem-solving approaches, C-K theory defines design as the generation of new concepts that challenge and extend existing knowledge, rather than merely selecting optimal solutions. The framework identifies four key operators (C→K, K→C, C→C, K→K), forming a “design square” that captures the iterative and dynamic nature of innovation.  
+Often in entrepreneurship and design methods it is mentioned to map the relevant stakeholders. This is just the first step that is part of a stakeholder strategy for a sustainable innovation pathway. It is not only about knowing who is involved in your new idea, but also what knowledge you may need to prevent problems downstream in the innovation process.
+
+### Why from the start? Front-Loading theory
+
+ Front-loading theory emphasizes the importance of identifying key challenges early in the innovation process. Mapping potential bottlenecks—such as regulatory hurdles, sustainability concerns, workforce integration, and ethical considerations—at the outset allows for proactive problem-solving. Dolfsma, Eijk, and Mahdi (2022) highlight that investing effort and resources early can mitigate risks and improve overall success rates in medical technology innovation. This would result in key strategic choices that need to be made about the time to involve stakeholders, the choice of stakeholders and the way they are managed.
+
+### When to involve stakeholders? 
+
+#### A continuous and iterative strategy: 
+Circular innovation process: Problem-Solution Co-Evolution process (REF) (see also basic innovation cycle): Innovators should iteratively refine both the problem definition and the solution approach in response to emerging insights. Therefore it is important to be adaptive and be able to involve stakeholders on a continuous basis depending on the need of your innovation.
+
+#### Depending on the innovation phase and aim: IDER Model: 
+Balancing the involvement of stakeholders with knowledge of upcoming bottlenecs from multiple development streams. The IDER model: Initiation, Design, Engineering, and Realization, proposed by Smulders (2022), challenges the notion of linear innovation pathways. Instead, it presents innovation as a set of interconnected, parallel processes that evolve dynamically. This approach acknowledges that various aspects of innovation (e.g., technological development, regulatory considerations, and market readiness) progress simultaneously rather than sequentially. Understanding this non-linear structure helps innovators navigate complex innovation ecosystems effectively.
+
+(ADD FIGURE HERE)
+
+   
+For example: ethical and societal Considerations may seem like a problem for market access, in the Realisation stage, but it is relevant to address early on in the Initiation phase – Incorporating ethical principles early is important to get people to want to use a new technology and governments to invest in ti, as discussed by Jeroen van den Hoven and Stefan Buijsman, ensures that innovations align with societal values and long-term sustainability (see WHO report on AI ethics: WHO AI Ethics Report and OpenWHO course: Ethics and AI).
+
+
+### Which stakeholders with what expertise and background?  
+
+#### A stakeholder recruitment and assembly strategy 
+The stakeholder group assembly procedure amounts to the operationalization of the Sanders and Stappers [10] hypothesis that stakeholders with more diverse knowledge and ways of thinking could improve the GCD process. To involve stakeholders who meet these requirements in a GCD process, a procedure containing 3 steps was followed: snowball sampling, interviews, and assemblage of stakeholders (Figure 1).
+
+First, to recruit people, one needs to identify those who are committed to addressing the problem at hand. It can be useful to sample stakeholders through relevant organizations, associations, or events [25,29]. This should help ensure their commitment to solving problems, as these people have directly or indirectly been exposed to the problems and are logically more motivated to develop a solution.
+
+Second, individual interviews can be conducted to qualitatively assess the diversity of knowledge and ways of thinking of the potential members. To operationalize the term “knowledge,” we define 3 types of knowledge (Textbox 1) based on the work of Batens [30-32]. One key form of knowledge that is also defined in GCD research is the deeper-lying tacit knowledge [10], which we measure here as contextual certainties. In addition, there are methodological instructions and relevant statements. Each of these 3 types of knowledge was assessed during an interview on a scale of 0 to 3 (Table 1). Stakeholders with extensive knowledge regarding the relevant statements and contextual certainties will be given the maximum score (3); stakeholders who are uncertain are given a score of 2 and those who seemed to have little knowledge, or did not provide relevant information in the interview, were awarded lower scores (1 and 0, respectively).
+
+To operationalize the other component, “thinking,” we define 4 types of inferences, namely, induction, deduction, abduction-1, and abduction-2 (Textbox 1), as categorized initially by Peirce [33,37,38]. In particular, abduction-2 inferencing is expected to play an important role in the design process [33,38] and is typically attributed to how designers think. Previous experience with these types of inferences can be assessed during an interview by counting the number of times an inference is used (Table 1). Abduction-1 can be scored as the number of methodological instructions formulated as concrete solutions (eg, having an overview of one’s energy capacity after cancer treatment to continue work). Abduction-2 can be scored by looking at the use of generative heuristics as analogies or metaphors.
+
+```{figure} ../figures/stakeholder-procedure.png
+:height: 150px
+:name: figure-example
+
+Stakeholder assembly procedure Vandekerckhove, P., Timmermans, J., de Bont, A., & de Mul, M. (2023). Diversity in stakeholder groups in generative co-design for digital health: assembly procedure and preliminary assessment. JMIR Human Factors, 10, e38350.
+```
+
+
+
+**Working definitions of knowledge and inference types used for assessment.** 
+
+```{figure} ../figures/Working-def-knowledge-stakeholders.png
+:height: 150px
+:name: figure-example
+
+Stakeholder assembly procedure Vandekerckhove, P., Timmermans, J., de Bont, A., & de Mul, M. (2023). Diversity in stakeholder groups in generative co-design for digital health: assembly procedure and preliminary assessment. JMIR Human Factors, 10, e38350.
+```
+
+
+**Table 1. Criteria used for stakeholder selection.**
+
+Assessment aims and criteria	Example interview questions and assessment
+Assess knowledge diversity and depth
+
+Professional background	What is your job?
+Relevant statements	What, in your view, is the core of the problem about cancer and work? (0-3 score)
+Contextual certainties	Why is this an important problem? (0-3 score)
+Assess inference experience
+
+Induction	How did you come upon this problem, through direct or indirect experience? (0-3 score)
+
+Deduction	Have you previously tested solutions regarding work and cancer? (0-3 score)
+
+Abduction-1 (methodological instructions)	What inspiring solutions arise in your mind to address the work and cancer challenge? (count number of occurrences)
+
+Abduction-2	Abduction-1 with generative heuristics as analogies or metaphors (count number of occurrences)
+Assess communication abilities
+
+Self- assessment	Choice between 3 suggested answers: “OK, but sometimes challenging,” “good,” or “very good”
+In addition, communication skills can be assessed to determine whether potential stakeholders can effectively communicate their ideas to others in a group. For instance, we can assess whether a patient has the appropriate content expert background with various relevant statements that they feel confident to share during a GCD process with other stakeholders by asking the respondent for a self-evaluation.
+
+Third, after conducting the interviews and scoring the responses, a diverse stakeholder group can be assembled based on 3 criteria. One can start by combining people from different professional backgrounds. Next, one can ensure that those stakeholders with the highest knowledge scores are included as they have more knowledge. In other words, if there are 2 stakeholders with the same professional background, the one with the highest score is included. Finally, the diversity of inferencing experience can be assessed. Here, one should ensure that a stakeholder group covers all inference types. Once one is satisfied that the stakeholder group covers all inference types, one can seek out the stakeholders with the greatest inference experience. For instance, if there are 2 stakeholders with abduction-2 experience, the one with the most experience (highest score) can be selected.
+
+#### Choosing stakeholders based on their organization type: 
+
+Herzlinger's Three Strategies, Herzlinger (2024) :
+   - Internal Development – Leveraging in-house expertise and infrastructure to refine innovation early.
+   - Growth Driver Strategy – Partnering with healthcare institutions and regulatory bodies to ensure alignment with market and policy requirements.
+   - External Collaboration – Engaging external stakeholders, such as academic institutions and technology firms, to integrate interdisciplinary knowledge and capabilities.
+
+
+### How to manage stakeholders along the innovation process? 
+
+
+#### Managing uncertainty and decidability: C-K theory (Concept-Knowledge theory)  
+
+This can be used to understand the importance of the mindset of stakeholders and which process the need to go through to develop a new idea in an organization. 
+
+C-K theory introduced by Hatchuel and Weil, offers a unified design framework that distinguishes between the space of Concepts (C) and the space of Knowledge (K), modeling innovation as the co-expansion of these spaces. Unlike traditional problem-solving approaches, C-K theory defines design as the generation of new concepts that challenge and extend existing knowledge, rather than merely selecting optimal solutions. The framework identifies four key operators (C→K, K→C, C→C, K→K), forming a “design square” that captures the iterative and dynamic nature of innovation.  
 
 (ADD REF Hatchuel, A., & Weil, B. (2003). A new approach of innovative Design: an introduction to CK theory. In DS 31: Proceedings of ICED 03, the 14th International Conference on Engineering Design, Stockholm.)
 
@@ -119,46 +208,11 @@ Building on the C-K theory, how the different levels of value creation (see prev
 ````
 
 
+#### Generative co-design sessions
 
-## The paralel process: IDER Model: Parallel Processes in Innovation
-
-The innovation process considered from a C-K perspective can be framed in four paralel processes. The IDER model: Initiation, Design, Engineering, and Realization, proposed by Smulders (2022), challenges the notion of linear innovation pathways. Instead, it presents innovation as a set of interconnected, parallel processes that evolve dynamically. This approach acknowledges that various aspects of innovation (e.g., technological development, regulatory considerations, and market readiness) progress simultaneously rather than sequentially. Understanding this non-linear structure helps innovators navigate complex innovation ecosystems effectively.
-
-(ADD FIGURE HERE)
-
-## Getting it right from the start: Front-Loading Theory
-
-In this paralel IDER process, it is important to strategically decide how to begin. Front-loading theory emphasizes the importance of identifying key challenges early in the innovation process. Mapping potential bottlenecks—such as regulatory hurdles, sustainability concerns, workforce integration, and ethical considerations—at the outset allows for proactive problem-solving. Dolfsma, Eijk, and Mahdi (2022) highlight that investing effort and resources early can mitigate risks and improve overall success rates in medical technology innovation.
-
-Implementing Front-Loading Theory
-
-Front-loading can be operationalized through several strategies:
-
-* Strategic Problem-Solution Co-Evolution – Innovators should iteratively refine both the problem definition and the solution approach in response to emerging insights.
-
-* Circular Pathway – Incorporating continuous feedback loops ensures that innovation pathways remain adaptive and responsive to real-world needs.
-
-* Parallel Process Integration (IDER Model) – Balancing multiple development streams prevents bottlenecks and accelerates time-to-market.
-
-* Ethical and Societal Considerations – Incorporating ethical principles early, as discussed by Jeroen van den Hoven and Stefan Buijsman, ensures that innovations align with societal values and long-term sustainability (see WHO report on AI ethics: WHO AI Ethics Report and OpenWHO course: Ethics and AI).
-
-## Choosing long-term partner organizations: Herzlinger's Three Strategies
-
-Regina Herzlinger (2024) identifies three primary strategies to support  healthcare innovation:
-
-* Internal Development – Leveraging in-house expertise and infrastructure to refine innovation early.
-
-* Growth Driver Strategy – Partnering with healthcare institutions and regulatory bodies to ensure alignment with market and policy requirements.
-
-* External Collaboration – Engaging external stakeholders, such as academic institutions and technology firms, to integrate interdisciplinary knowledge and capabilities.
-
-## Managing the innovation process within the organization with key stakeholders: Generative co-design
-
-Collaborative design follows a general desing thinking process:
-
-(ADD FIGURE HERE)
 
 Vandekerckhove et al. (2023) underscores the importance of integrating diverse knowledge of different stakeholder through a generative co-design processes. Generative co-design is one of the most interactive design methods to integrate the deeper conceptual knowledge (C space) of different stakeholders move it to a more explicit idea discussion, whereby the knowledge is made explicit (K space). In design terminology this iterative process between the C and K space would be called a co-evolution process. This method involves stakeholders actively in the design process to ensure that the developed solutions are user-centered and meet real-world needs. Vandekerckhove et al. also discuss how this theoretical framework can help us to decide how a good stakeholder group should be assembled:e.g. the type of stakeholders we involve in the entrepreneurial innovation activities.
+
 For example: Application Example in Health Innovation for Young Adults with Cancer
 Imagine a design team aiming to develop a new digital health platform for young adults with cancer. Using C-K theory, the process might unfold as follows:
  

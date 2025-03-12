@@ -1,7 +1,7 @@
 # 1. Introduction
 
 
-## Why is healthcare entrepreneurship different?
+## Why is healthcare entrepreneurship different from other types of entrepreneurship?
 
 
 ### Key Differences in Healthcare Entrepreneurship:
@@ -12,11 +12,24 @@
 ### Contrast with Traditional Views:
 - **Entrepreneurship**: Traditional entrepreneurship often focuses on market-driven demand and competition. In healthcare, the focus shifts to patient-centered care and addressing the constant flow of needs, requiring a more empathetic and service-oriented approach.
 - **Management**: Management theories in other fields typically emphasize efficiency and profitability. In healthcare, management must balance these goals with regulatory compliance and ethical considerations, making it a more complex and sensitive endeavor.
-- **Innovation**: Innovation in traditional industries often revolves around technological advancements and market trends. In healthcare, innovation must prioritize patient outcomes and safety, often requiring collaboration with medical professionals and adherence to strict regulatory standards.
+- **Innovation**: Innovation in traditional industries often revolves around technological advancements and market trends. In healthcare, innovation must prioritize patient outcomes and safety, often requiring collaboration with medical professionals and adherence to strict regulatory standards. For instance, in a retail market, often the newest and best solution and technologies can be pushed on the market, and the risk is lower compared to a healthcare context, that people will still buy it. In a healthcare setting, the government may decide that only certain providers can prescribe that intervention due to budget impact reasons (see CAR-T innovations).
 
 
 Given the unique challenges and dynamics of healthcare entrepreneurship, developing innovation pathways requires a distinct strategy that diverges from standard views. The constant demand for healthcare services necessitates continuous innovation to meet evolving patient needs and improve outcomes. Unlike traditional industries, healthcare must navigate a complex regulatory environment, ensuring compliance while fostering innovation. Additionally, the involvement of multiple stakeholders—patients, providers, insurers, and regulators—demands a collaborative approach to innovation, prioritizing patient safety and ethical considerations. Therefore, healthcare entrepreneurship must adopt a strategy that integrates empathy, regulatory knowledge, and stakeholder collaboration to effectively develop and implement innovative solutions that address the multifaceted needs of the healthcare ecosystem.
 
+
+### Healthcare entrepreneurship as an emerging field
+Healthcare entrepreneurship is emerging as a field. Before it was often discussed in the field of management and entrepreneurship as a context in which the management and entrepreneurship theories are applied. Often this happens on the macro and meso level across a health system or on a meso level across organizations. In this book we are focusing on the behaviors of healthcare entrepreneurship, and specifically on an individual level within healthcare organizations.
+
+Entrepreneurial behavior in healthcare is also implicitly present in the fields of healthcare management, (technical) medicine, biomedical-engineering, and life sciences. However, these fields are looking at the objects, clinical procedures, patient outcomes and outputs of the innovations, but not the underlying behavior, collaborations and innovation processes that resulted in these outputs and outcomes.  
+
+
+```{figure} ../figures/Entrepreneurial-behaviors-Bettina-Wiljeana-Pieter.png
+:height: 250px
+:name: figure-example
+
+Different Streams in entrepreneurial behavior (Wiljeana Glover, Bettina Maisch, Pieter Vandekerckhove)
+```
 
 ## Why This Book?
 
@@ -41,22 +54,13 @@ Some innovations are also coming from other industries into healthcare, technolo
 ```
 ````
 
-This handbook aims to bridge this gap, equipping you with the tools and frameworks to design and implement scalable, sustainable innovation pathways in healthcare.
+This handbook aims to bridge this gap between these fragments of knowledge and best practices, equipping you with the tools and frameworks to design and implement scalable, sustainable innovation pathways in healthcare.
+
+Ultimately the impact of helping entrepreneurial people on an individual level become more entrepreneurial may have a ripple effect in the healthcare organizations. A recent study found that 
 
 ## The expedition of health innovators in the trenches - an individual lens on innovation pathways
 
-Healthcare entrepreneurship is generally an emerging field in research and education. Mostly, it is discussed in the field of management and entrepreneurship as a context in which the management and entrepreneurship theories are applied. Often this happens on the macro and meso level across a health system or on a meso level across organizations. Here we are focusing on the innovation at an individual level within healthcare organizations.
-
-It is also implicitly present in the fields of healthcare management, (technical) medicine, biomedical-engineering, and life sciences. However, these fields are looking at the objects, clinical procedures, patient outcomes and outputs of the innovations, but not the underlying behavior, collaborations and innovation processes that resulted in these outputs and outcomes.  
-
-
-```{figure} ../figures/Entrepreneurial-behaviors-Bettina-Wiljeana-Pieter.png
-:height: 250px
-:name: figure-example
-
-Different Streams in entrepreneurial behavior (Wiljeana Glover, Bettina Maisch, Pieter Vandekerckhove)
-```
-
+Healthcare entrepreneurship on an individual level is generally an emerging field in research and education. Yet, it could have great consequences if people with entrepreneurial ambitions learn how to become more entrepreneurial. This may have a ripple effect in the healthcare organizations. A recent study found that people with an entrepreneurial ambition increase the rate of entrepreneurship among their peers (ADD REF Hacamo, I., & Kleiner, K. (2024). No experience necessary: the peer effects of intended entrepreneurs. Review of Finance, 28(4), 1311-1344.).
 
 We need to train the future generation of responsible health innovators to ensure that they learn from these strategic innovation pathways so that their innovations achieve real impact. This is especially true for digital health, which is expected to become a cornerstone of healthcare transformation in the coming decade (Friend et al., 2023; Weimar et al., 2024; Technology Foresight, n.d.). However, despite its potential, most digital health solutions fail to integrate meaningfully into healthcare systems (Lee et al., 2021).
 
@@ -66,9 +70,11 @@ Even within leading technology-driven institutions like TU Delft, students are o
 
 To address these issues, we must train future innovators to design holistic innovation pathways—structured approaches that front-load the knowledge of diverse stakeholders to develop solutions that are:
 
-Scalable, meaning they can transition from small-scale pilots to widespread adoption
-Sustainable, both financially and environmentally, ensuring long-term impact
-Stakeholder-driven, integrating patient, clinician, and policymaker insights from the outset
+* Scalable, meaning they can transition from small-scale pilots to widespread adoption
+* Sustainable, both financially and environmentally, ensuring long-term impact
+* Stakeholder-driven, integrating patient, clinician, and policymaker insights from the outset
+
+
 
 **The Key to Holistic Innovation Pathways: Front-Loading Stakeholder Knowledge**
 

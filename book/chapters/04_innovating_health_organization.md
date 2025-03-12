@@ -11,7 +11,7 @@
 ## Introduction
 
 ## Defining Innovation
-````{admonition} 🔴Add an appropriate title for this video🔴
+````{admonition} Watch the video of Prof. Frido Smulders: Can you define three key elements about the definition of innovation that are relevant for the health setting?
 ```{raw} html
 <iframe width="560" height="315" src="https://www.youtube.com/embed/i8ed99QsfVE?si=TjaWt5ojtomXrKSF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 ```
