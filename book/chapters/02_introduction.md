@@ -20,7 +20,7 @@ Given the unique challenges and dynamics of healthcare entrepreneurship, develop
 
 ## Why This Book?
 
-The knowledge about strategies and management approaches to develop innovations in healthcare is scattered across different stakeholders. Therefore there is need for a comprehensive book to summarize and bring these insights together. A prime example of the power of such a strategic knowledge became apparant during the COVID-19 crisis. We witnessed unprecedented, rapid, and coordinated innovation efforts at every level of the healthcare system. Stakeholders from across the sector—patients, clinicians, researchers, regulators, and policymakers—mobilized to develop new solutions in record time. This included:
+On an individual stakeholder level, the knowledge about strategies and management approaches to develop innovations in healthcare is scattered across different stakeholders. Therefore there is need for a comprehensive book to summarize and bring these insights together. A prime example of the power of such a strategic knowledge became apparant during the COVID-19 crisis. We witnessed unprecedented, rapid, and coordinated innovation efforts at every level of the healthcare system. Stakeholders from across the sector—patients, clinicians, researchers, regulators, and policymakers—mobilized to develop new solutions in record time. This included:
 
 * Temperature measurement solutions
 * Sanitizing alcohol solutions
@@ -45,9 +45,9 @@ This handbook aims to bridge this gap, equipping you with the tools and framewor
 
 ## The expedition of health innovators in the trenches - an individual lens
 
-Healthcare entrepreneurship is generally an emerging field in research and education. Mostly, it is discussed in the field of management and entrepreneurship as a context in which the management and entrepreneurship theories are applied. Often at this happens on the macro and meso level across organizations or regions. Here we are focusing on the innovation at an individual level within healthcare organizations.
+Healthcare entrepreneurship is generally an emerging field in research and education. Mostly, it is discussed in the field of management and entrepreneurship as a context in which the management and entrepreneurship theories are applied. Often this happens on the macro and meso level across a health system or on a meso level across organizations. Here we are focusing on the innovation at an individual level within healthcare organizations.
 
-It is also implicitly present in the fields of healthcare management, (technical) medicine, biomedical-engineering, and life sciences. However, these fields are looking at the objects, clinical procedures, patient outcomes and outputs of the innovations, but not the underlying behavior, collaborationas and innovation processes that resulted in these outputs and outcomes.  
+It is also implicitly present in the fields of healthcare management, (technical) medicine, biomedical-engineering, and life sciences. However, these fields are looking at the objects, clinical procedures, patient outcomes and outputs of the innovations, but not the underlying behavior, collaborations and innovation processes that resulted in these outputs and outcomes.  
 
 
 ```{figure} ../figures/Entrepreneurial-behaviors-Bettina-Wiljeana-Pieter.png
