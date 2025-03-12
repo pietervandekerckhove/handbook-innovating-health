@@ -26,7 +26,7 @@ The knowledge about strategies and management approaches to develop innovations 
 * Sanitizing alcohol solutions
 * Mask production and distribution
 * Large-scale vaccination centers
-* *apid lab analysis techniques
+* High Throughput Rapid lab analysis techniques
 * Fast-tracked vaccine development, regulatory approval, and market access
 
 However, once the crisis subsided, many of these integrated innovation pathways dissolved. Today, healthcare innovation continues, but often in fragmented and incremental ways rather than through large-scale transformational efforts.
@@ -46,6 +46,8 @@ This handbook aims to bridge this gap, equipping you with the tools and framewor
 ## The expedition of health innovators in the trenches - an individual lens
 
 Healthcare entrepreneurship is generally an emerging field in research and education. Mostly, it is discussed in the field of management and entrepreneurship as a context in which the management and entrepreneurship theories are applied. Often at this happens on the macro and meso level across organizations or regions. Here we are focusing on the innovation at an individual level within healthcare organizations.
+
+It is also implicitly present in the fields of healthcare management, (technical) medicine, biomedical-engineering, and life sciences. However, these fields are looking at the objects, clinical procedures, patient outcomes and outputs of the innovations, but not the underlying behavior, collaborationas and innovation processes that resulted in these outputs and outcomes.  
 
 
 ```{figure} ../figures/Entrepreneurial-behaviors-Bettina-Wiljeana-Pieter.png
