@@ -43,7 +43,7 @@ Some innovations are also coming from other industries into healthcare, technolo
 
 This handbook aims to bridge this gap, equipping you with the tools and frameworks to design and implement scalable, sustainable innovation pathways in healthcare.
 
-## The expedition of health innovators in the trenches - an individual lens
+## The expedition of health innovators in the trenches - an individual lens on innovation pathways
 
 Healthcare entrepreneurship is generally an emerging field in research and education. Mostly, it is discussed in the field of management and entrepreneurship as a context in which the management and entrepreneurship theories are applied. Often this happens on the macro and meso level across a health system or on a meso level across organizations. Here we are focusing on the innovation at an individual level within healthcare organizations.
 
@@ -58,7 +58,7 @@ Different Streams in entrepreneurial behavior (Wiljeana Glover, Bettina Maisch, 
 ```
 
 
-We need to train the future generation of responsible health innovators to ensure that their innovations achieve real impact. This is especially true for digital health, which is expected to become a cornerstone of healthcare transformation in the coming decade (Friend et al., 2023; Weimar et al., 2024; Technology Foresight, n.d.). However, despite its potential, most digital health solutions fail to integrate meaningfully into healthcare systems (Lee et al., 2021).
+We need to train the future generation of responsible health innovators to ensure that they learn from these strategic innovation pathways so that their innovations achieve real impact. This is especially true for digital health, which is expected to become a cornerstone of healthcare transformation in the coming decade (Friend et al., 2023; Weimar et al., 2024; Technology Foresight, n.d.). However, despite its potential, most digital health solutions fail to integrate meaningfully into healthcare systems (Lee et al., 2021).
 
 A recent review of digital healthcare innovation found that efforts focus primarily on making existing care processes more efficient, rather than driving structural transformation (Kraus et al., 2021). As a result, only a small number of digital tools—such as online data-sharing platforms and video consultations—have gained widespread adoption, despite these technologies existing for decades. Compared to other heavily regulated industries like retail (which integrates well-being and prevention programs) or aerospace (which advances medical logistics via unmanned aircraft), healthcare's digital transformation is lagging (Compton-Phillips, 2024).
 
