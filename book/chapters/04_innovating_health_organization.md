@@ -18,16 +18,38 @@
 ````
 
 ## Key entrepreneurial behaviors in healthcare
-Different stakeholders in the healthsystem can be entrepreneurial and many of them already show entrepreneurial behavior. On an individual level care professionals are constantly collaborating to improve the health of people and they are doing that in an entrepreneurial way.
+Different stakeholders in the health system can be entrepreneurial and many of them already show entrepreneurial behavior. On an individual level care professionals are constantly collaborating to improve the health of people and they are doing that in an entrepreneurial way.
 
-Fundamentally it is about the mindset of people looking for the problem of people (in a preventive or curative setting) and wanting to do something about that. This is a very fuzzy concept to define, but you can notice when care professionals are going beyond their comfort zone to look for the best treatment there is for patients. 
+Fundamentally it is about the mindset of people looking for the problem of people (in a preventive or curative setting) and wanting to do something about that. This is a very fuzzy concept to define, but you can notice when care professionals are going beyond their comfort zone to look for the best treatment there is for patients they are connecting ideas, people and the organization and move that to a new context, which changes and incorporates that change. 
 
-It is about skills te collaborate and facilitate or lead a change in an existing setting. 
+More abstractly, in line with the Entrecomp framework https://joint-research-centre.ec.europa.eu/entrecomp-entrepreneurship-competence-framework/competence-areas-and-learning-progress_en
 
-(INSERT DIAGRAM) similar to convivial toolbox
+
+```{figure} ../figures/entrecomp.png
+:height: 250px
+:name: figure-example
+
+Entrecomp areas and learning progress (European Commission)
+```
+
+Specifying these Entrecomp (into action behaviors) in a health setting, they can be specified as follows:
+* skills te collaborate and facilitate or lead a change in an existing setting: this is essential in healthcare across very diverse sectors people will need to collaborate very closely
+* learning through experience: this is not just learning through simple tests, but often one needs to learn how to set up an evidence stategy to develop clinical trials
+* coping with ambiguity and risk: this is a double-faced challenge as the project itself is uncertain, but also the 
+
+```{figure} ../figures/Behaviors-ent-healthcare.png
+
+Key healthcare entrepreneurship behaviors (Pieter Vandekerckhove)
+```
+
+
+
+The mindset and the specific behaviours can manifest differently across the general innovation process:
 * abstract on a mindset level
 * on a product-system level
 * on an implementation level
+
+Therefore it becomes key to learn how to use these behaviors in the innovation process steps to make an impact with an idea to improve the care process.
 
 ## Defining Healthcare Technology
 
