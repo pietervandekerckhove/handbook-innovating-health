@@ -20,7 +20,11 @@ A working definition of innovation by prof. Frido Smulders is:
 
 Generally, there are three key actors: people, technology and organizations:
 
+````{admonition} 🔴Add an appropriate title for this video🔴
+```{raw} html
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fgiZD_NgXTw?si=O-4tgg_45TvCmJxh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+```
+````
 
 Venturing into systems where value is created for users through different stakeholders and multiple interrelated services and products, such as in healthcare, public services, hospitality, and aerospace, is challenging. These systems are known as Socio-Technical Product Service Systems (STPSS). To operationalize this term in today's context where technology assumes many complex forms, we have added the product-service systems specification. This helps describe the complex environments in which today’s entrepreneurs operate. 
 
@@ -56,6 +60,7 @@ Conceptual framework on the digital determinants of health. Socioecological and 
 
 To get a good grasp on the impact of our societies on our health take a look at the TED talk video "How not to be ignorant about the world" by Hans and Ola Rosling. 
 
+
 ````{admonition} Watch this TED talk from Hans and Ola Roslin 
 Please follow the quiz questions actively, which are posed in the video, can you do better then the audience?
 
@@ -82,13 +87,20 @@ TA make videos clear here: https://ocw.tudelft.nl/courses/design-healthcare-usin
 
 Take a look at this case of these two people. What key aspects can you identify about the context of their health journey?
 
+````{admonition} 🔴Add an appropriate title for this video🔴
+```{raw} html
 <iframe width="711" height="400" src="https://www.youtube.com/embed/9BUchsMKrOU" title="MED01x_2017_M1_Casemovie-video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+```
+````
 
 
 Now, take a look at the next video, what relations between the patient and the health system did you find as well in the previous video?
+
+````{admonition} 🔴Add an appropriate title for this video🔴
+```{raw} html
 <iframe width="711" height="400" src="https://www.youtube.com/embed/Qb5rebNu1Pg" title="MED01x_2017_M1_Lecture-video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-
+```
+````
 
 
 ## Value Creation on different levels
@@ -144,11 +156,25 @@ Different countries have varying approaches to health insurance, coverage, and r
 Read the article by Willemsen et al. (2022) on EUnetHTA relative effectiveness assessments. This article discusses efforts to improve the usability, transparency, and inclusiveness of health technology assessments in Europe. Access the article [here](https://doi.org/10.1017/S0266462322000058).
 
 Germany perspective:
+
+
+````{admonition} 🔴Add an appropriate title for this video🔴
+```{raw} html
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rcpj2z3JBEI?si=7MqrHaRdAgZM83Rg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+```
+````
+
+
 
 * Dutch Perspective: A mix of public and private insurance, with mandatory health coverage regulated by the government. Citizens choose from private insurers offering government-regulated packages. The system encourages competition among insurers while ensuring universal coverage. Video by Robin Toorneman.
 
-TA please add the h5p video with quiz in here from Robin Toorneman: https://www.youtube.com/watch?v=7QaLOiZxmUo
+
+````{admonition} 🔴Add an appropriate title for this video🔴
+
+```{video} https://www.youtube.com/embed/watch?v=7QaLOiZxmUo
+
+```
+````
 
 * USA Perspective (Steven Howard): A mix of public (Medicare, Medicaid) and private insurance, with employer-based and market-driven models dominating. The system is highly fragmented, with significant disparities in access and costs. The Affordable Care Act (ACA) expanded coverage, but many remain uninsured or underinsured, and high healthcare costs remain a major issue.
 
@@ -187,7 +213,12 @@ TA provide reference: https://eit.europa.eu/library/implementing-value-based-hea
 Video Introduction
 Watch Prof. Steven Howard’s video introduction on value-based healthcare in Santeon hospitals to understand how these principles are applied in real-world settings. View the video here.
 
-TA Add video and quiz with h5p here: https://www.youtube.com/playlist?list=PLd0hXinKX4s4-UWJtYC-vjQZWb8ghuxs6
+````{admonition} 🔴Add an appropriate title for this video🔴
+
+```{video} https://www.youtube.com/embed/playlist?list=PLd0hXinKX4s4-UWJtYC-vjQZWb8ghuxs6
+
+```
+````
 
 
 **Can value-based healthcare be a catalyst for innovation?**
@@ -211,17 +242,22 @@ Article: "Collaborating for value - The Santeon Hospitals in the Netherlands." h
 Personalized healthcare and precision medicine are related trends to value-based healthcare that may be useful to support innovations. By tailoring treatments to individual patients, personalized healthcare can potentially improve outcomes and efficiency, key goals of VBHC. It involves tailoring medical treatment to the individual characteristics of each patient. These approaches diviate from standard care as it were as they become more individually tailored interventions. Personalized healthcare aims to move away from standardized healthcare with a "one-size-fits-all" model and towards treatments that consider individual variability (Collins & Varmus, 2015). These interventions use genetic, environmental, and lifestyle factors to design more effective and personalized care plans.
 
 Key aspects here are patient-related outcome measures (PROMS) and PREMS. Can you identify the innovations that are used to make the patient-centered a reality in a Danish hospital?
-TA make video ifram: https://www.youtube.com/watch?v=ClIFLrGpYV8
 
+````{admonition} 🔴Add an appropriate title for this video🔴
+```{raw} html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ClIFLrGpYV8?si=o_ATBsN3eAZBN2uq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+```
+````
 
 These trends are advanced through technological developments in the field of biotech. For example the use of complex multiplex cell cultures, which allows for more precise modeling of human diseases and testing of treatments. These cultures can replicate the interactions between different cell types within the body, providing a more accurate representation of how diseases progress and how treatments work in a real human environment (Pampaloni et al., 2007).
 
 Another example is organ-on-a-chip technology. How do you think this could change the biomedical innovation pathway?
 
-TA make video ifram
-https://www.youtube.com/watch?v=3bCUhrWl4jE
-
-
+````{admonition} 🔴Add an appropriate title for this video🔴
+```{raw} html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3bCUhrWl4jE?si=hUWi9RaNl9S6ylep" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+```
+````
 
 TA Check if bibliography is complete with refs
 

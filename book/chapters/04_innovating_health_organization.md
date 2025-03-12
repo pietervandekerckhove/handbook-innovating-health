@@ -11,10 +11,11 @@
 ## Introduction
 
 ## Defining Innovation
-
+````{admonition} 🔴Add an appropriate title for this video🔴
+```{raw} html
 <iframe width="560" height="315" src="https://www.youtube.com/embed/i8ed99QsfVE?si=TjaWt5ojtomXrKSF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-
+```
+````
 
 ## Key entrepreneurial behaviors in healthcare
 Different stakeholders in the healthsystem can be entrepreneurial and many of them already show entrepreneurial behavior. On an individual level care professionals are constantly collaborating to improve the health of people and they are doing that in an entrepreneurial way.
@@ -38,9 +39,6 @@ According to the WHO's "Global Strategy on Digital Health 2020-2025," digital he
 ```{video} https://www.youtube.com/watch?v=yGuWxu9XWoU
 ```
 ````
-
-
-
 
 
 **Trends in Health Technology**
