@@ -1,6 +1,6 @@
-# Innovating patient-centered care by front-loading stakeholders in sustainable innovation pathways: An introduction 
+# Strategic pathways for patient-centered care: An introduction 
 
-
+## Front-loading stakeholders for sustainable innovation
 
 ## Preface
 
