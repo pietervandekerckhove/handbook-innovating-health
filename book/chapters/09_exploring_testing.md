@@ -4,7 +4,11 @@ Aim: undersatnd and apply Generative co-design sessions + business development t
 
 In the innovation process there is a basic cycle that we can follow:
 
+````{admonition} 🔴Add an appropriate title for this video🔴
+```{raw} html
 <iframe width="560" height="315" src="https://www.youtube.com/embed/onpG_Vsq8sM?si=QrPKzURv6AId2Ebe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+```
+````
 
 ## Explore
 
@@ -21,7 +25,11 @@ TA check collegerama file, insert video with h5p and include quiz from Delft Sta
 
 * patient expert and founder Lennart Zielstra Rezolve Medical https://www.rezolvemedical.com/
 
-TA please add video and quiz here from Lennart Zielstra: https://www.youtube.com/watch?v=Ifs9GGBzsHY
+
+````{admonition} 🔴Add an appropriate title for this video🔴
+```{video} https://www.youtube.com/watch?v=Ifs9GGBzsHY
+```
+````
 
 * patient expert and founder Bemyeyes https://www.bemyeyes.com/
 * Astra Zeneca patient founder
@@ -50,7 +58,15 @@ Try to look for outcomes that matter to patients, tangible and intangible and ma
 
 Have a look at this video and what opportunities you can identify?
 
-[![Why is everyone talking about value-based reimbursement? • Health Tech Forward](https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DnrHOTKLdZ3M)](https://www.youtube.com/watch?v=nrHOTKLdZ3M)
+````{admonition} Why is everyone talking about value-based reimbursement? • Health Tech Forward
+```{raw} html
+<a href="https://www.youtube.com/watch?v=nrHOTKLdZ3M" target="_blank">
+    <img src="https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DnrHOTKLdZ3M" alt="Why is Everyone Talking About Value-Based Reimbursement?">
+</a>
+```
+````
+
+
 
 (youtube video incorporated in the book with the URL generator  https://markdown-videos.jorgenkh.no/)
 
@@ -66,8 +82,15 @@ iCell fundamental researchers insights in biotech (combining insights from genet
 
 new initiatives in nano-medicine
 
-FOR TA: make quiz for video in h5p: https://youtu.be/fXK5R51lM_8
 
+
+<!-- This video is not available to the public --> 
+
+<!-- 🔴FOR TA: make quiz for video in h5p: 🔴
+````{admonition} 🔴Add an appropriate title for this video🔴
+```{video} https://youtu.be/fXK5R51lM_8
+```
+```` -->
 
 
 
@@ -82,31 +105,51 @@ It is important to understand how we experience our health and critical events i
 
 Watch this TED talk from Yongey Mingyur Rinpoche. What is the experiential level of awareness? How do we connect with it?
 
+````{admonition} 🔴Add an appropriate title for this video🔴
+```{raw} html
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LDVyOnf0t9M?si=uwx7he1M2A-DaamW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+```
+````
+
+
 
 We start to know more and more from a scientific point of view. Watch this TEDx video where prof. Steven Laureys explains some early scientific insights we have to understand how our consiousness works.
 
+````{admonition} 🔴Add an appropriate title for this video🔴
+```{raw} html
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6Qqc_wJS6-Q?si=vC-5Ea-ex70z_bam" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-example patient expert interviews with questions
-
-FOR TA: make patient interview in h5p with quiz here: https://youtu.be/4Hu3qbElb9k
-
-https://youtu.be/n2X3OHdbuNg
-
-https://youtu.be/hp1j7Web4Uo
-
-````{admonition} Patient exploration 
-
-```{video} <iframe src="https://tudelft.h5p.com/content/1292435448749375067/embed" aria-label="Learning from patient experience" width="1088" height="637" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://tudelft.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
 ```
 ````
+
+
+🔴FOR TA: make patient interview in h5p with quiz here🔴
+
+
+````{admonition} 🔴Add an appropriate title for this video🔴
+```{raw} html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4Hu3qbElb9k?si=X5W5r1dwKongoC6R" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+```
+````
+
+<!-- This video is not available to the public>
+<!-- ````{admonition} 🔴Add an appropriate title for this video🔴
+```{video} https://youtu.be/n2X3OHdbuNg
+```
+```` -->
+
+
+<!-- This video is not available to the public>
+<!-- ````{admonition} 🔴Add an appropriate title for this video🔴
+```{video} https://youtu.be/hp1j7Web4Uo
+```
+```` -->
 
 ````{admonition} Patient exploration 
 
 ```{video} https://tudelft.h5p.com/content/1292435448749375067/embed
 ```
 ````
+
 
 <script src=https://utteranc.es/client.js
         repo="pietervandekerckhove/handbook-innovating-health"
@@ -125,16 +168,30 @@ clinical problem validation, understanding care pathways and patient journeys
 When looking at your diagnosis as a patient decades after the diagnosis happened it is interesting how profound the emotions are and how traumatic the impact can be, even if the cancer is cured.
 
 Here is a video of the comedian Tom Green who shared his experience shortly after diagnosis:
-[![The Tom Green Show - Cancer Special: Part 1](https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DWHD3L4RhiGA)](https://www.youtube.com/watch?v=WHD3L4RhiGA)
 
-[![The Tom Green Show - Cancer Special: Part 2](https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DsJboRvYDgx8)](https://www.youtube.com/watch?v=sJboRvYDgx8)
+````{admonition} The Tom Green Show - Cancer Special
+```{raw} html
+<a href="https://www.youtube.com/watch?v=WHD3L4RhiGA" target="_blank">
+    <img src="https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DWHD3L4RhiGA" alt="The Tom Green Show - Cancer Special: Part 1">
+</a>
+<br><br>
+<a href="https://www.youtube.com/watch?v=sJboRvYDgx8" target="_blank">
+    <img src="https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DsJboRvYDgx8" alt="The Tom Green Show - Cancer Special: Part 2">
+</a>
+```
+````
 
 
 Here is a video of Tom Green who shares his experience decades later:
 Why do you feel the pain challenges for Tom were so difficult to deal with? Can you identify different dimensions? Can you differentiate between what is important in his philosophy of life and what matters to society? 
 
-[![  Tom Green: I didn’t expect to survive testicular cancer](https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D0jso8SJTY_M)](https://www.youtube.com/watch?v=0jso8SJTY_M)
-
+````{admonition} Tom Green: I Didn’t Expect to Survive Testicular Cancer
+```{raw} html
+<a href="https://www.youtube.com/watch?v=0jso8SJTY_M" target="_blank">
+    <img src="https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D0jso8SJTY_M" alt="Tom Green: I Didn’t Expect to Survive Testicular Cancer">
+</a>
+```
+````
 
 
 market problem validation

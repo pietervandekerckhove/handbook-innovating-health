@@ -26,13 +26,24 @@ JAMA Netw Open. 2024;7(6):e2415445. doi:10.1001/jamanetworkopen.2024.15445, Lege
 
 In the phase before the marketing stage, one needs to gain access to the market. Every country has its own procedure for this. Have a look at this video by dr. Frederick Thielen about key issues that are happening in practice to go beyond the market access launch and get to a succesfull launc where patients actually get a new drug prescribed. What things should you consider upfront in this innovation pathway?
 
-[![3 Things About Market Access](https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D8NhuaohK_Qg)](https://www.youtube.com/watch?v=8NhuaohK_Qg)
+````{admonition} 3 Things About Market Access
+```{raw} html
+<a href="https://www.youtube.com/watch?v=8NhuaohK_Qg" target="_blank">
+    <img src="https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D8NhuaohK_Qg" alt="3 Things About Market Access">
+</a>
+```
+````
 
 
 A key challenge here is to demonstrate cost-effectiveness of your drug, for example in The Netherlands. But what is cost-effectiveness? 
 
 Look at this video from dr. Frederick Thielen:
-https://www.youtube.com/watch?v=xMF2ddO9abM
+
+````{admonition} 🔴Add an appropriate title for this video🔴
+```{video} https://www.youtube.com/watch?v=xMF2ddO9abM
+```
+````
+
 
 While this pathway has proven effective for traditional medical products, it does not always accommodate the complexities of emerging innovations such as software-driven interventions (e.g., digital therapeutics like Germany's DiGA framework (**ADD REF**)) or theranostics (e.g., diabetes management integrating biomarkers and digital drug delivery). 
 
@@ -91,14 +102,23 @@ Hatchuel, A., & Weil, B. (2003). A new approach of innovative Design: an introdu
 In healthcare innovation, C-K theory can help move beyond conventional pharmaceutical and medtech pathways. By structuring the innovation process around the interplay between conceptual exploration and knowledge structuring in an organization, this approach supports the development of more adaptive and interdisciplinary healthcare solutions. 
 
 Looking at the innovation process in the healthcare organization, one could say that the operational space, is similar to the K space as it involves low uncertainty and it is decideable. However, there is also an innovation space, where things are much less certain. Have a look at the video of prof. Frido Smulders:
+
+````{admonition} 🔴Add an appropriate title for this video🔴
+```{raw} html
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VNdYJFC5-jA?si=fpWWgVrcfdeEHVDF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-
+```
+````
 
 
 Building on the C-K theory, how the different levels of value creation (see previous chapter) in the health system have different levels of innovation behaviour with different timeframes:
 
+````{admonition} 🔴Add an appropriate title for this video🔴
+```{raw} html
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7iWguYoJAkk?si=T7VypAAwGohda5uW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+```
+````
+
+
 
 ## The paralel process: IDER Model: Parallel Processes in Innovation
 
@@ -222,9 +242,21 @@ Developing your innovation pathway is like an action-research process where you 
 
 Some key lessons could be shared here when looking as key aspects in the innovation pathways. What aspects do you identify as important in patient-centered innovation pathways? What aspects should be considered upfront?
 
-TA insert video and quiz here with h5p, video from panel about patient centered innovation symposium: https://youtu.be/7tn-CMNr180?si=DeAel7TxI4YTV9iY
 
-TA check with speakers and insert video and quiz here with h5p: https://www.youtube.com/watch?v=UmT_Hr26rLI
+````{admonition} 🔴Add an appropriate title for this video🔴
+
+```{video} https://www.youtube.com/watch?v=7tn-CMNr180&ab_channel=TUDelft%7CNewMediaCentre
+
+```
+````
+
+
+````{admonition} 🔴Add an appropriate title for this video🔴
+
+```{video} https://www.youtube.com/watch?v=UmT_Hr26rLI
+
+```
+````
 
 It is important to assess the roadblocks for existing solutions and learn from their mistakes in their pathways: today one could couple the existing interventions that can help with diagnostics and couple them with new interventions.
 
