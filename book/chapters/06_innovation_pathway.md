@@ -27,7 +27,7 @@ JAMA Netw Open. 2024;7(6):e2415445. doi:10.1001/jamanetworkopen.2024.15445, Lege
 In the phase before the marketing stage, one needs to gain access to the market. Every country has its own procedure for this. Have a look at this video by dr. Frederick Thielen about key issues that are happening in practice to go beyond the market access launch and get to a succesfull launc where patients actually get a new drug prescribed. What things should you consider upfront in this innovation pathway?
 
 ````{admonition} 3 Things About Market Access (dr. Frederick Thielen)
-```https://www.youtube.com/watch?v=8NhuaohK_Qg
+```{video} https://www.youtube.com/watch?v=8NhuaohK_Qg
 ```
 ````
 
@@ -36,7 +36,7 @@ A key challenge here is to demonstrate cost-effectiveness of your drug, for exam
 
 Look at this video from dr. Frederick Thielen:
 
-````{admonition} 🔴Add an appropriate title for this video🔴
+````{admonition} 3 Things about cost-effectiveness (Dr. Frederick Thielen)
 ```{video} https://www.youtube.com/watch?v=xMF2ddO9abM
 ```
 ````
