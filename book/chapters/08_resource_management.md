@@ -71,3 +71,7 @@ When pitching your idea to investors, irrespective of the level, it is important
 ```
 
 Exercise: try to develop a financial strategy for this succesfully evaluated prototype to help improve the scans for breast cancer patients: https://henryvandevelde.be/nl/awards/25/open-access-breast-couch
+
+
+```{admonition} Bibliography
+:class: note 

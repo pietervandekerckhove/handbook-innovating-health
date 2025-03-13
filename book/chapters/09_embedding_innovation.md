@@ -19,3 +19,7 @@ develop strategy to change mindset from solution driven to problem driven
 You can use advisors, develop your own board of advisors or use the support from organizations like Health Innovation Netherlands which offers as service to understand the perspective and give you strategic advice for further development: see Round Table service https://www.healthinnovation.nl/round-table-service/subsidy-programs
 
 * Exercise Naomi to develop multi-stakehodler assessment exercise voor implementatie, business model vragen, evidence ontwikkelingsstrategie, registratie (Naomi checks what I can use from her exercise) (Naomi can bijwerken)
+
+
+```{admonition} Bibliography
+:class: note 
