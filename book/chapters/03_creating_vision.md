@@ -107,6 +107,11 @@ A creative way to develop and refine your healthcare vision is through Sci-Fi st
 
 For more details on the exercise, explore the Sci-Fi storyline mapping tool: Lavinia Marin & Gitte van Helden's Exercise.
 
+```{admonition} Team Project assignment (see chapter 7)
+:class: note 
+Developing a vision is a key part of your team project assignment.After assembling a team and setting up a project management structure you will need develop the vision for your project.
+```
+
 **Conclusion**
 
 A clear vision serves as the foundation for innovation in healthcare. By understanding the difference between vision, strategy, and planning, and by actively engaging in exercises like Sci-Fi storyline mapping, you can create a vision that is not only inspiring but also actionable. Whether you are a healthcare professional, entrepreneur, researcher, or policymaker, defining your vision will help drive meaningful and sustainable change in the healthcare system.

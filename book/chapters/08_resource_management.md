@@ -1,4 +1,4 @@
-# 8. Resource management strategies in the health system (financial management, types of funding and investors)
+# 7. Resource management strategies in the health system (financial management, types of funding and investors)
 
 
 <center>

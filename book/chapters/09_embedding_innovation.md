@@ -1,8 +1,13 @@
-# 9. Beyond implementation: sustainable integration with innovation behavior
-```{note}
-Learning goal: be able to apply a strategy to embed your innovation process
-Aim: Integrate your innovation into the organization and develop a plan with key innovation pathway steps
-```
+# 8. Realization: Sustainable integration in the STPSS context with innovation behavior:
+<center>
+  <div style="padding: 10px; background-color: #00BBC8; border-radius: 10px; display: inline-block; font-weight: bold; font-size: 16px; color: #000; position: relative;">
+    <span style="background-color: white; color: #00BBC8; border-radius: 50%; padding: 5px 10px; font-size: 15px; font-weight: bold; margin-right: 8px; display: inline-block;">Learning goal</span>
+   Be able to apply a strategy to embed your innovation process and integrate your innovation into the organization and develop a plan with key innovation pathway steps
+  </div>
+</center>
+<br>
+
+
 * key innovating behaviors in steps: problem, solution prototyping, validation, but in practice more complex with co-evolution cycles
 
 develop strategy to change mindset from solution driven to problem driven
