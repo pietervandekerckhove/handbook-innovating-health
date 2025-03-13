@@ -98,7 +98,11 @@ case from digital health video consultation article
 ## Conclusion
 Innovation in healthcare organizations requires a strategic approach that aligns with existing structures, engages key stakeholders, and fosters a culture conducive to change. By leveraging purpose-driven missions, effective communication, and strong leadership, organizations can create sustainable innovation pathways that improve healthcare delivery.
 
-## Bibliography
-- Barry Katz et al. (2025). *Healthcare by Design: A User’s Guide to Healthcare Improvement*.
-- Smulders, F., Lousberg, L., & Dorst, K. (2008). Towards different communication in collaborative design. International Journal of Managing Projects in Business, 1(3), 352–367. https://doi.org/10.1108/17538370810883819
-- Yale Insights. (n.d.). *Can Design Thinking Reshape an Esteemed Institution?* [Yale Insights](https://insights.som.yale.edu/insights/can-design-thinking-reshape-an-esteemed-institution).
+```{admonition} Bibliography
+:class: note 
+
+* Katz, B., Mawer, S., Future Medical Systems LLC, Harrington, K., Lister, R., Richter, S. L., & Atladóttir, S. M. (2025). *Healthcare by design: A user’s guide to healthcare improvement*. Rotman-UTP Publishing.
+
+* Smulders, F., Lousberg, L., & Dorst, K. (2008). Towards different communication in collaborative design. International Journal of Managing Projects in Business, 1(3), 352–367. https://doi.org/10.1108/17538370810883819
+
+* LaRusso, N. (2011, June 6). Can design thinking reshape an esteemed institution? Yale Insights. https://insights.som.yale.edu/insights/can-design-thinking-reshape-an-esteemed-institution

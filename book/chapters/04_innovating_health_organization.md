@@ -154,6 +154,8 @@ TA ADD: Introduction lecture by dr. Sanne Allers collegerama recording (TA inser
 ```{admonition} Bibliography
 :class: note 
 
-* Herzlinger, R. E. (2006). Why innovation in health care is so hard. Harvard Business Review, 84(5), 58.
-* Politecnico di Milano. (n.d.). Technology Foresight: Health. Retrieved from https://www.foresight.polimi.it/health/1/
-* World Health Organization. (2020). Global Strategy on Digital Health 2020-2025. Retrieved from https://www.who.int/publications/i/item/9789240020924
+* Herzlinger, R. E. (2006). Why innovation in health care is so hard. Harvard Business Review,  
+
+* Politecnico di Milano. (n.d.). *Technology foresight: Health*. https://www.foresight.polimi.it/health/1/
+
+* World Health Organization. (2020). Global Strategy on Digital Health 2020-2025. Retrieved from https://www.World Health Organization. (2020). *Global strategy on digital health 2020-2025*. https://www.who.int/publications/i/item/9789240020924

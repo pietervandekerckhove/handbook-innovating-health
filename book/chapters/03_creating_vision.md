@@ -116,4 +116,8 @@ Developing a vision is a key part of your team project assignment.After assembli
 
 A clear vision serves as the foundation for innovation in healthcare. By understanding the difference between vision, strategy, and planning, and by actively engaging in exercises like Sci-Fi storyline mapping, you can create a vision that is not only inspiring but also actionable. Whether you are a healthcare professional, entrepreneur, researcher, or policymaker, defining your vision will help drive meaningful and sustainable change in the healthcare system.
 
-REFERENCE: Lavinia Marin (TU Delft) & Gitte van Helden (TU Delft) https://edusources.nl/materials/eee79e8a-5456-403d-9e5d-fba2f9686f72/sci-fi-storyline-mapping-starting-from-writing-prompts?tab=0. 
+
+```{admonition} Bibliography
+:class: note 
+
+* Marin, L., & van Helden, G. (2025). *Sci-fi storyline mapping: Starting from writing prompts*. Edusources. https://edusources.nl/materials/eee79e8a-5456-403d-9e5d-fba2f9686f72/sci-fi-storyline-mapping-starting-from-writing-prompts?tab=0

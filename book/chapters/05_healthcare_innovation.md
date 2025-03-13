@@ -294,27 +294,27 @@ TA Check if bibliography is complete with refs
 ```{admonition} Bibliography
 :class: note 
 
-Appelbaum, S. H. (1997). Socio-technical systems theory: An intervention strategy for organizational development. Management Decision, 35(6), 452-463.
+* Appelbaum, S. H. (1997). Socio-technical systems theory: An intervention strategy for organizational development. Management Decision, 35(6), 452-463.
 
-Collins, F. S., & Varmus, H. (2015). A new initiative on precision medicine. The New England Journal of Medicine, 372(9), 793–795. https://doi.org/10.1056/NEJMp1500523
+* Collins, F. S., & Varmus, H. (2015). A new initiative on precision medicine. The New England Journal of Medicine, 372(9), 793–795. https://doi.org/10.1056/NEJMp1500523
 
-Healthcare Transformers. (2022). Collaborating for value - The Santeon Hospitals in the Netherlands. Retrieved from https://www.ichom.org/resource/collaborating-for-value-the-santeon-hospitals-in-the-netherlands/
+* Healthcare Transformers. (2022). *Collaborating for value - The Santeon Hospitals in the Netherlands*. https://www.ichom.org/resource/collaborating-for-value-the-santeon-hospitals-in-the-netherlands/
 
-Kraus, S., Schiavone, F., Pluzhnikova, A., & Invernizzi, A. C. (2021). Digital transformation in healthcare: Analyzing the current state-of-research. Journal of Business Research, 123, 557-567.
+* Kraus, S., Schiavone, F., Pluzhnikova, A., & Invernizzi, A. C. (2021). Digital transformation in healthcare: Analyzing the current state-of-research. Journal of Business Research, 123, 557-567.
 
-Pampaloni, F., Reynaud, E. G., & Stelzer, E. H. (2007). The third dimension bridges the gap between cell culture and live tissue. Nature Reviews Molecular Cell Biology, 8(10), 839–845. https://doi.org/10.1038/nrm2236
+* Pampaloni, F., Reynaud, E. G., & Stelzer, E. H. (2007). The third dimension bridges the gap between cell culture and live tissue. Nature Reviews Molecular Cell Biology, 8(10), 839–845. https://doi.org/10.1038/nrm2236
 
-Porter, M. E. (2010). What is value in health care? New England Journal of Medicine, 363(26), 2477-2481.
+* Porter, M. E. (2010). What is value in health care? New England Journal of Medicine, 363(26), 2477-2481.
 
-Ramirez, B. (2008). Social determinants of health
+<!-- Ramirez, B. (2008). Social determinants of health -->
 
-Reindersma, M., et al. (2024). The challenges of implementing value-based healthcare: A systematic review. Journal of Health Management, 32(1), 56-73.
+<!-- Reindersma, M., et al. (2024). The challenges of implementing value-based healthcare: A systematic review. Journal of Health Management, 32(1), 56-73. -->
 
-Smulders, F., Lousberg, L., & Dorst, K. (2008). Explicable knowledge in product service systems design. Design Studies, 29(4), 368-386.
+* Smulders, F., Lousberg, L., & Dorst, K. (2008). Explicable knowledge in product service systems design. Design Studies, 29(4), 368-386.
 
-Trist, E. (1981). The evolution of socio-technical systems: A conceptual framework and an action research program. Occasional Paper, Ontario Quality of Working Life Centre.
+* Trist, E. (1981). The evolution of socio-technical systems: A conceptual framework and an action research program. Occasional Paper, Ontario Quality of Working Life Centre.
 
-TU Delft Open Course. (n.d.). Design healthcare using patient journey mapping. Retrieved from https://ocw.tudelft.nl/courses/design-healthcare-using-patient-journey-mapping/?view=lectures&subject=22696
+* TU Delft Open Course. (n.d.). *Design healthcare using patient journey mapping*. https://ocw.tudelft.nl/courses/design-healthcare-using-patient-journey-mapping/?view=lectures&subject=22696
 
-Van Elten, H. J., Howard, S. W., De Loo, I., & Schaepkens, F. (2023). Reflections on managing the performance of value-based healthcare: a scoping review. International Journal of Health Policy and Management, 12, 7366.
+* Van Elten, H. J., Howard, S. W., De Loo, I., & Schaepkens, F. (2023). Reflections on managing the performance of value-based healthcare: a scoping review. International Journal of Health Policy and Management, 12, 7366.
 ```

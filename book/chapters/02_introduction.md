@@ -113,28 +113,28 @@ Whether you are a health professional, entrepreneur, policymaker, or student, th
 ```{admonition} Bibliography
 :class: note 
 
-Chakraborty, S., Drews, P., & Schirmer, I. (2021). Navigating healthcare innovation: Regulatory barriers and enablers. Health Policy & Technology, 10(2), 55-71.
+* Chakraborty, S., Drews, P., & Schirmer, I. (2021). Navigating healthcare innovation: Regulatory barriers and enablers. Health Policy & Technology, 10(2), 55-71.
 
-Collins, J., van Dijk, H., & Smeets, R. (2023). Why pilot projects fail: Understanding the gap between testing and scaling in healthcare innovation. Journal of Health Innovation, 6(1), 12-24.
+* Collins, J., van Dijk, H., & Smeets, R. (2023). Why pilot projects fail: Understanding the gap between testing and scaling in healthcare innovation. Journal of Health Innovation, 6(1), 12-24.
 
-Compton-Phillips, A. (2024). The slow road to digital transformation in healthcare. Harvard Business Review.
+* Compton-Phillips, A. (2024). The slow road to digital transformation in healthcare. Harvard Business Review.
 
-EURAM. (2025). Symposium. Retrieved from https://conferences.euram.academy/2025conference/symposia/#toggle-id-6
+* European Academy of Management. (2025). *Proceedings of the EURAM 2025 Annual Conference*. https://conferences.euram.academy/2025conference/symposia/#toggle-id-6
 
-Friend, P., Gupta, R., & Tan, Z. (2023). Digital health in the next decade: Trends and predictions. Global Health Tech Journal, 15(3), 22-39.
+* Friend, P., Gupta, R., & Tan, Z. (2023). Digital health in the next decade: Trends and predictions. Global Health Tech Journal, 15(3), 22-39.
 
-Helicus. (2023). First medical transport by passenger drone in EU. Retrieved from https://helicus.com
+* Helicus. (2023). *First medical transport by passenger drone in the EU*. https://helicus.com
 
-Kraus, S., Jones, P., & Kailer, N. (2021). Digital transformation in healthcare: A systematic review. International Journal of Medical Informatics, 150, 104-117.
+* Kraus, S., Jones, P., & Kailer, N. (2021). Digital transformation in healthcare: A systematic review. International Journal of Medical Informatics, 150, 104-117.
 
-Lee, T., Smith, M., & Patel, J. (2021). Barriers to digital healthcare adoption: A multi-country analysis. Health Informatics Journal, 27(1), 44-67.
+* Lee, T., Smith, M., & Patel, J. (2021). Barriers to digital healthcare adoption: A multi-country analysis. Health Informatics Journal, 27(1), 44-67.
 
-MAVLab. (2023). Fully autonomous drones safely integrated into medical transport. TU Delft.
+* MAVLab. (2023). *Fully autonomous drones safely integrated into medical transport*. Delft University of Technology. https://www.tudelft.nl
 
-Smulders, F., Brombacher, A., & den Ouden, E. (2019). From invention to integration: Teaching innovation at technical universities. Design & Innovation Education Review, 5(2), 33-50.
+* Smulders, F., Brombacher, A., & den Ouden, E. (2019). From invention to integration: Teaching innovation at technical universities. Design & Innovation Education Review, 5(2), 33-50.
 
-Technology Foresight - The Future of Human Health. (n.d.). Retrieved from https://www.foresight.health
+* Technology Foresight. (n.d.). *The future of human health*. https://www.foresight.health
 
-TU Delft. (2023). A new air traffic puzzle: Autonomous drones in healthcare logistics. Retrieved from https://www.tudelft.nl
+* Delft University of Technology. (2023). *A new air traffic puzzle: Autonomous drones in healthcare logistics*. https://www.tudelft.nl
 
-Weimar, B., Huber, J., & Rosenthal, A. (2024). The role of AI in the future of digital health. Journal of Digital Health Policy, 9(1), 18-29.
+* Weimar, B., Huber, J., & Rosenthal, A. (2024). The role of AI in the future of digital health. Journal of Digital Health Policy, 9(1), 18-29.
