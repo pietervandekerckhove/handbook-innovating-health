@@ -3,7 +3,7 @@
 <center>
   <div style="padding: 10px; background-color: #00BBC8; border-radius: 10px; display: inline-block; font-weight: bold; font-size: 16px; color: #000; position: relative;">
     <span style="background-color: white; color: #00BBC8; border-radius: 50%; padding: 5px 10px; font-size: 15px; font-weight: bold; margin-right: 8px; display: inline-block;">Learning goal</span>
-    Understand that innovation in healthcare organizations requires a strategic entrepreneurial approach
+    Develop a strategy to innovate on an individual in healthcare organizations 
   </div>
 </center>
 <br>
@@ -134,7 +134,10 @@ By adopting a strategic entrepreneurial approach, healthcare organizations can o
 
 TA ADD: Introduction lecture by dr. Sanne Allers collegerama recording (TA insert video and quiz here)
 
-
+```{admonition} Team Project assignment (see project chapter 9)
+:class: important 
+Assessing good skills of the team to get started is important. Developing a good focus on the solution and being aware of the key technology trends is essential in the explore phase
+```
 
 ```{admonition} Bibliography
 :class: note 
