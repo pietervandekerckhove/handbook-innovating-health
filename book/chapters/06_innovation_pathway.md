@@ -261,7 +261,7 @@ Third, after conducting the interviews and scoring the responses, a diverse stak
 
 #### Managing uncertainty and decidability: C-K theory (Concept-Knowledge theory)  
 
-This can be used to understand the importance of the mindset of stakeholders and which process the need to go through to develop a new idea in an organization. 
+This can be used to understand the importance of the mindset of stakeholders and which process the need to go through to develop a new idea in an organization. The theory also explains why it is important to involve certain stakeholders as experts from a knowledge domain and stakeholders with expertise in the conceptual domain.
 
 C-K theory introduced by Hatchuel and Weil, offers a unified design framework that distinguishes between the space of Concepts (C) and the space of Knowledge (K), modeling innovation as the co-expansion of these spaces. Unlike traditional problem-solving approaches, C-K theory defines design as the generation of new concepts that challenge and extend existing knowledge, rather than merely selecting optimal solutions. The framework identifies four key operators (C→K, K→C, C→C, K→K), forming a “design square” that captures the iterative and dynamic nature of innovation.  
 
@@ -275,7 +275,36 @@ C-K theory introduced by Hatchuel and Weil, offers a unified design framework th
 Hatchuel, A., & Weil, B. (2003). A new approach of innovative Design: an introduction to CK theory. In DS 31: Proceedings of ICED 03, the 14th International Conference on Engineering Design, Stockholm.)
 ```
 
-In healthcare innovation, C-K theory can help move beyond conventional pharmaceutical and medtech pathways. By structuring the innovation process around the interplay between conceptual exploration and knowledge structuring in an organization, this approach supports the development of more adaptive and interdisciplinary healthcare solutions. 
+The C-K theory helps one to move a team from a knowledge space domains, which are clear and decided into the uncertain and undecided conceptual domain. 
+
+
+```{figure} ../figures/conceptual-knowledge-Frido1.jpg
+:height: 150px
+:name: figure-example
+
+Frido Smulders, Figure A, https://www.tudelft.nl/en/innovation-impact/pioneering-tech/articles/innovation-is-about-behaviour-not-technology?utm_medium=email&utm_source=pt_newsletter_feb&utm_campaign=always_on#&gid=1&pid=1
+```
+
+
+
+
+
+This disjunction (see figure above) is challenging, but essential in healthcare organizations. The key challenges are:
+1. There is an imense amount of knowledge, due to the vast amount of knowledge about certain diseases available
+2. The relevant knowledge for a particular patient is scattered across many different stakeholders working in healthcare organizations. Often this knowledge is tacit. It requires people to drop their disciplenary knowledge (drop your tools theory) and rise above their domains to integrate the new solution into a new business operations structure. The generatice co-design sessions can help to make this knowledge more explicit (see below)
+
+Conceptually, a team can move from the knowledge space to the C space and back. Note that the knowledge will have to be adapted in the new k-space to become a fully integrated solution (Figure below). 
+
+```{figure} ../figures/drop-your-tools-frido.jpg
+:height: 150px
+:name: figure-example
+
+Frido Smulders, https://www.tudelft.nl/en/innovation-impact/pioneering-tech/articles/innovation-is-about-behaviour-not-technology?utm_medium=email&utm_source=pt_newsletter_feb&utm_campaign=always_on#&gid=1&pid=1
+```
+
+
+
+More generally, in healthcare innovation, C-K theory can help move beyond conventional pharmaceutical and medtech pathways. By structuring the innovation process around the interplay between conceptual exploration and knowledge structuring in an organization, this approach supports the development of more adaptive and interdisciplinary healthcare solutions. 
 
 Looking at the innovation process in the healthcare organization, one could say that the operational space, is similar to the K space as it involves low uncertainty and it is decideable. However, there is also an innovation space, where things are much less certain. This changes according to the type of innovation process:
 1. Steady state innovation
@@ -347,6 +376,49 @@ By applying C-K theory in this way, the design team can effectively navigate the
 Research by Pieter Vandekerckhove highlights the transformative potential of generative co-design in healthcare, such as improving cardiology consultations through enhanced user experiences during the COVID-19 pandemic (Vandekerckhove et al., 2020). Generative co-design, as elaborated by Vandekerckhove et al. (2020) in their systematic literature review, is a participatory approach that involves users throughout the design process. This methodology ensures that the final product is shaped by the needs and preferences of its users, leading to more effective and user-friendly health interventions.
 
 
+## Key insights from practitioners to take into account upfront
+
+
+
+Developing your innovation pathway is like an action-research process where you learn from every step you take. 
+
+Some key lessons could be shared here when looking as key aspects in the innovation pathways. What aspects do you identify as important in patient-centered innovation pathways? What aspects should be considered upfront?
+
+
+````{admonition} In this video Pieter Vandekerckhove discusses with a patient expert and founder of startup and a representative of the Dutch regulatory body about the challenges in innovation pathways. What are three main insights you would need to take into account upfront from their perspective?
+
+```{video} https://www.youtube.com/watch?v=7tn-CMNr180&ab_channel=TUDelft%7CNewMediaCentre
+
+```
+````
+
+
+````{admonition} In 2020, this panel discussion was recorded with experts discussing the development of digital health. After watching, consider the following questions:
+1. What unique aspects of developing medical technology does Christian Mercado highlight?
+2. What challenges in eHealth development does Christian suggest tackling?
+3. According to Jacob J. Visser, what is a key pitfall in developing medical technology?
+4. What first step does Eiji Onchi recommend?
+5. Why does Andrew Tollinton find it easy to focus on developing a preconceived solution?
+```{video} https://www.youtube.com/watch?v=UmT_Hr26rLI
+
+```
+````
+
+It is important to assess the roadblocks for existing solutions and learn from their mistakes in their pathways: today one could couple the existing interventions that can help with diagnostics and couple them with new interventions.
+
+```{tip}
+TA Change to case study format: Use national organizations: case from Dutch AYA network (see latest article from Carla, Sophia and I): innovation through national support organizations (In publication)
+```
+
+```{tip}
+TA Change to exercise format: For example a foundation developed a succesful serious game in the USA called Re-mission 2 you could try to leverage that game with new technologies to improve wellbeing in personalized XR environments. This would be an innovation pathway bringin exisitng innovations together and working towards a market access strategy that may involve a reimbursement strategy https://hopelab.org/case-study/re-mission/. Re-mission 2 showed benefits in terms of improved adherence to treatment and indicators of cancer-rleated self-efficacy and knowledge in young people with cancer, and it seems that they did not apply for FDA approval. A potential strategy could be to use a middle-growth strategy and work with pharmaceutical companies to leverage support for market access in conjunction with an existing or new treatment.
+```
+
+```{tip}
+TA CHANGE TO CASE STUDY FORMAT: case AYA family room UZA: process self-funded, patient-driven innovationU
+```
+
+
 
 ## Conclusion
 
@@ -374,46 +446,3 @@ WHO (2022). Ethics and AI in Healthcare. WHO Report.
 
 
 
-# Developing your innovation pathway
-
-<center>
-  <div style="padding: 10px; background-color: #00BBC8; border-radius: 10px; display: inline-block; font-weight: bold; font-size: 16px; color: #000; position: relative;">
-    <span style="background-color: white; color: #00BBC8; border-radius: 50%; padding: 5px 10px; font-size: 15px; font-weight: bold; margin-right: 8px; display: inline-block;">Learning goal</span>
-   Be able to develop key steps for an innovation pathway
-  </div>
-</center>
-<br>
-
-Developing your innovation pathway is like an action-research process where you learn from every step you take. 
-
-Some key lessons could be shared here when looking as key aspects in the innovation pathways. What aspects do you identify as important in patient-centered innovation pathways? What aspects should be considered upfront?
-
-
-````{admonition} 🔴Add an appropriate title for this video🔴
-
-```{video} https://www.youtube.com/watch?v=7tn-CMNr180&ab_channel=TUDelft%7CNewMediaCentre
-
-```
-````
-
-
-````{admonition} 🔴Add an appropriate title for this video🔴
-
-```{video} https://www.youtube.com/watch?v=UmT_Hr26rLI
-
-```
-````
-
-It is important to assess the roadblocks for existing solutions and learn from their mistakes in their pathways: today one could couple the existing interventions that can help with diagnostics and couple them with new interventions.
-
-```{tip}
-TA Change to case study format: Use national organizations: case from Dutch AYA network (see latest article from Carla, Sophia and I): innovation through national support organizations (In publication)
-```
-
-```{tip}
-TA Change to exercise format: For example a foundation developed a succesful serious game in the USA called Re-mission 2 you could try to leverage that game with new technologies to improve wellbeing in personalized XR environments. This would be an innovation pathway bringin exisitng innovations together and working towards a market access strategy that may involve a reimbursement strategy https://hopelab.org/case-study/re-mission/. Re-mission 2 showed benefits in terms of improved adherence to treatment and indicators of cancer-rleated self-efficacy and knowledge in young people with cancer, and it seems that they did not apply for FDA approval. A potential strategy could be to use a middle-growth strategy and work with pharmaceutical companies to leverage support for market access in conjunction with an existing or new treatment.
-```
-
-```{tip}
-TA CHANGE TO CASE STUDY FORMAT: case AYA family room UZA: process self-funded, patient-driven innovationU
-```
