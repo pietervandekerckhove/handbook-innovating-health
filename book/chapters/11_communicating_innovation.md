@@ -1,7 +1,7 @@
-# 11. Communicate your learnings: Making a convincing poster, presentation or writing a convincing report
+# 10. Communicate your ideas and applying for grants
 
-Introduction
-It is very important to communicate the stage of your idea clearly, your unique value proposition and the outcomes you would like to achieve. This would have to be translated so that people can understand how it fits in the outcome of their team and organizations.
+## Introduction
+It is very important to communicate the stage of your idea clearly (funding bodies would typically call that Technology readiness levels (TRL)), your unique value proposition and the outcomes you would like to achieve. This would have to be translated so that people can understand how it fits in the outcome of their team and organizations. Here it is always important to understand the role of your intellectual property strategy and it is worthwhile to think about how you will balance that in comparison with scientific open communication about your findings. 
 
 Strategic
 
@@ -24,4 +24,6 @@ Tips for a grant proposal:
 * assemble a writing team and meet regularly to develop your grant proposal
 * align your proposal with the criteria of the funding body: e.g. for EU grants, it is important to take into account the larger EU Competitive theme into account: https://commission.europa.eu/topics/eu-competitiveness_en
 
+## Exercise write a grant proposal to test your prototype
 
+## Exercise write a short scientific communciation in the formate of a scientific article to communicate your evidence
