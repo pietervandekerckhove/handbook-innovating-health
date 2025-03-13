@@ -98,7 +98,12 @@ Circular innovation process: Problem-Solution Co-Evolution process (REF) (see al
 #### Depending on the innovation phase and aim: IDER Model: 
 Balancing the involvement of stakeholders with knowledge of upcoming bottlenecs from multiple development streams. The IDER model: Initiation, Design, Engineering, and Realization, proposed by Smulders (2022), challenges the notion of linear innovation pathways. Instead, it presents innovation as a set of interconnected, parallel processes that evolve dynamically. This approach acknowledges that various aspects of innovation (e.g., technological development, regulatory considerations, and market readiness) progress simultaneously rather than sequentially. Understanding this non-linear structure helps innovators navigate complex innovation ecosystems effectively.
 
-(ADD FIGURE HERE)
+```{figure} ../figures/IDER-Frido.png
+:height: 150px
+:name: figure-example
+
+Smulders, F. (2022). The IDER Model: Managing Parallel Processes in Innovation.
+```
 
    
 For example: ethical and societal Considerations may seem like a problem for market access, in the Realisation stage, but it is relevant to address early on in the Initiation phase – Incorporating ethical principles early is important to get people to want to use a new technology and governments to invest in ti, as discussed by Jeroen van den Hoven and Stefan Buijsman, ensures that innovations align with societal values and long-term sustainability (see WHO report on AI ethics: WHO AI Ethics Report and OpenWHO course: Ethics and AI).
