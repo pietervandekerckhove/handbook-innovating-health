@@ -110,9 +110,36 @@ For example: ethical and societal Considerations may seem like a problem for mar
 ### Which stakeholders with what expertise and background?  
 
 #### A stakeholder recruitment and assembly strategy 
+(TA ADD REFS in APA from Stakeholder assembly procedure Vandekerckhove, P., Timmermans, J., de Bont, A., & de Mul, M. (2023). Diversity in stakeholder groups in generative co-design for digital health: assembly procedure and preliminary assessment. JMIR Human Factors, 10, e38350.)
+
 The stakeholder group assembly procedure amounts to the operationalization of the Sanders and Stappers [10] hypothesis that stakeholders with more diverse knowledge and ways of thinking could improve the GCD process. To involve stakeholders who meet these requirements in a GCD process, a procedure containing 3 steps was followed: snowball sampling, interviews, and assemblage of stakeholders (Figure 1).
 
+##### 1. Snowball sampling
+
 First, to recruit people, one needs to identify those who are committed to addressing the problem at hand. It can be useful to sample stakeholders through relevant organizations, associations, or events [25,29]. This should help ensure their commitment to solving problems, as these people have directly or indirectly been exposed to the problems and are logically more motivated to develop a solution.
+
+###### Choosing stakeholders based on your innovation strategy: 
+
+Herzlinger's Three Strategies, Herzlinger (2024) :
+   - Internal Development – Leveraging in-house expertise and infrastructure to refine innovation early.
+   - Growth Driver Strategy – Partnering with healthcare institutions and regulatory bodies to ensure alignment with market and policy requirements.
+   - External Collaboration – Engaging external stakeholders, such as academic institutions and technology firms, to integrate interdisciplinary knowledge and capabilities.
+
+##### Where to find patients?
+* Through your own network and social media
+* Through care professionals
+* the Patient Innovation Bootcamp or from Mens Achter de Patient Academy (Patient as a Person Foundation) in The Netherlands https://mensachterdepatient.nl/english/default.aspx 
+* Relevant patient umbrella organizations who have an interest in collaboraive design innovation: e.g. for young adults with cancer https://ayazorgnetwerk.nl/
+* Organizations which focus on getting patients more engaged in the care profess: Patient in Regie (Patient Engagement)
+
+
+```{admonition} Manage the time for recruitment
+:class: note 
+Include relevant stakeholders early on is crucial but highly depends on your network, so use your own network of the network of key patner organizations. This can take a lot of time so make sure you mitigate the risk of not finding your preferred stakeholder and having alternatives on stand-by.
+```
+
+
+##### 2. Interviews
 
 Second, individual interviews can be conducted to qualitatively assess the diversity of knowledge and ways of thinking of the potential members. To operationalize the term “knowledge,” we define 3 types of knowledge (Textbox 1) based on the work of Batens [30-32]. One key form of knowledge that is also defined in GCD research is the deeper-lying tacit knowledge [10], which we measure here as contextual certainties. In addition, there are methodological instructions and relevant statements. Each of these 3 types of knowledge was assessed during an interview on a scale of 0 to 3 (Table 1). Stakeholders with extensive knowledge regarding the relevant statements and contextual certainties will be given the maximum score (3); stakeholders who are uncertain are given a score of 2 and those who seemed to have little knowledge, or did not provide relevant information in the interview, were awarded lower scores (1 and 0, respectively).
 
@@ -127,7 +154,7 @@ Stakeholder assembly procedure Vandekerckhove, P., Timmermans, J., de Bont, A., 
 
 
 
-**Working definitions of knowledge and inference types used for assessment.** 
+###### Working definitions of knowledge and inference types used for assessment. 
 
 ```{figure} ../figures/Working-def-knowledge-stakeholders.png
 :height: 150px
@@ -137,36 +164,99 @@ Stakeholder assembly procedure Vandekerckhove, P., Timmermans, J., de Bont, A., 
 ```
 
 
-**Table 1. Criteria used for stakeholder selection.**
+###### Table 1. Criteria used for stakeholder selection.
 
-Assessment aims and criteria	Example interview questions and assessment
-Assess knowledge diversity and depth
+<table-wrap position="float" id="table1">
+<label>Table 1</label>
+<caption>
+<p>Criteria used for stakeholder selection.</p>
+</caption>
+<table width="1000" cellpadding="5" cellspacing="0" border="1" rules="groups" frame="hsides">
+<col width="30"/>
+<col width="310"/>
+<col width="0"/>
+<col width="660"/>
+<thead>
+<tr valign="top">
+<td colspan="3">Assessment aims and criteria</td>
+<td>Example interview questions and assessment</td>
+</tr>
+</thead>
+<tbody>
+<tr valign="top">
+<td colspan="4">
+<bold>Assess knowledge diversity and depth</bold>
+</td>
+</tr>
+<tr valign="top">
+<td rowspan="3">
+<break/>
+</td>
+<td>Professional background</td>
+<td colspan="2">What is your job?</td>
+</tr>
+<tr valign="top">
+<td>Relevant statements</td>
+<td colspan="2">What, in your view, is the core of the problem about cancer and work? (0-3 score)</td>
+</tr>
+<tr valign="top">
+<td>Contextual certainties</td>
+<td colspan="2">Why is this an important problem? (0-3 score)</td>
+</tr>
+<tr valign="top">
+<td colspan="4">
+<bold>Assess inference experience</bold>
+</td>
+</tr>
+<tr valign="top">
+<td>
+<break/>
+</td>
+<td>Induction</td>
+<td colspan="2">How did you come upon this problem, through direct or indirect experience? (0-3 score)</td>
+</tr>
+<tr valign="top">
+<td>
+<break/>
+</td>
+<td>Deduction</td>
+<td colspan="2">Have you previously tested solutions regarding work and cancer? (0-3 score)</td>
+</tr>
+<tr valign="top">
+<td>
+<break/>
+</td>
+<td>Abduction-1 (methodological instructions)</td>
+<td colspan="2">What inspiring solutions arise in your mind to address the work and cancer challenge? (count number of occurrences)</td>
+</tr>
+<tr valign="top">
+<td>
+<break/>
+</td>
+<td>Abduction-2</td>
+<td colspan="2">Abduction-1 with generative heuristics as analogies or metaphors (count number of occurrences)</td>
+</tr>
+<tr valign="top">
+<td colspan="4">
+<bold>Assess communication abilities</bold>
+</td>
+</tr>
+<tr valign="top">
+<td>
+<break/>
+</td>
+<td>Self- assessment</td>
+<td colspan="2">Choice between 3 suggested answers: “OK, but sometimes challenging,” “good,” or “very good”</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
 
-Professional background	What is your job?
-Relevant statements	What, in your view, is the core of the problem about cancer and work? (0-3 score)
-Contextual certainties	Why is this an important problem? (0-3 score)
-Assess inference experience
-
-Induction	How did you come upon this problem, through direct or indirect experience? (0-3 score)
-
-Deduction	Have you previously tested solutions regarding work and cancer? (0-3 score)
-
-Abduction-1 (methodological instructions)	What inspiring solutions arise in your mind to address the work and cancer challenge? (count number of occurrences)
-
-Abduction-2	Abduction-1 with generative heuristics as analogies or metaphors (count number of occurrences)
-Assess communication abilities
-
-Self- assessment	Choice between 3 suggested answers: “OK, but sometimes challenging,” “good,” or “very good”
 In addition, communication skills can be assessed to determine whether potential stakeholders can effectively communicate their ideas to others in a group. For instance, we can assess whether a patient has the appropriate content expert background with various relevant statements that they feel confident to share during a GCD process with other stakeholders by asking the respondent for a self-evaluation.
 
+##### 3. Assembly procedure
+
 Third, after conducting the interviews and scoring the responses, a diverse stakeholder group can be assembled based on 3 criteria. One can start by combining people from different professional backgrounds. Next, one can ensure that those stakeholders with the highest knowledge scores are included as they have more knowledge. In other words, if there are 2 stakeholders with the same professional background, the one with the highest score is included. Finally, the diversity of inferencing experience can be assessed. Here, one should ensure that a stakeholder group covers all inference types. Once one is satisfied that the stakeholder group covers all inference types, one can seek out the stakeholders with the greatest inference experience. For instance, if there are 2 stakeholders with abduction-2 experience, the one with the most experience (highest score) can be selected.
-
-#### Choosing stakeholders based on their organization type: 
-
-Herzlinger's Three Strategies, Herzlinger (2024) :
-   - Internal Development – Leveraging in-house expertise and infrastructure to refine innovation early.
-   - Growth Driver Strategy – Partnering with healthcare institutions and regulatory bodies to ensure alignment with market and policy requirements.
-   - External Collaboration – Engaging external stakeholders, such as academic institutions and technology firms, to integrate interdisciplinary knowledge and capabilities.
 
 
 ### How to manage stakeholders along the innovation process? 
