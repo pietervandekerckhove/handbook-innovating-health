@@ -306,11 +306,11 @@ TA Check if bibliography is complete with refs
 
 * Porter, M. E. (2010). What is value in health care? New England Journal of Medicine, 363(26), 2477-2481.
 
-Need to check if book or journal
-<!-- Ramirez, B. (2008). Social determinants of health -->
+🔴 Need to check if book or journal
+* Ramirez, B. (2008). Social determinants of health
 
-et al is not allowed in references so I tried to add them, but I can't find this journal online
-<!-- Reindersma, M., et al. (2024). The challenges of implementing value-based healthcare: A systematic review. Journal of Health Management, 32(1), 56-73. -->
+🔴 et al is not allowed in references so I tried to add them, but I can't find this journal online
+* Reindersma, M., et al. (2024). The challenges of implementing value-based healthcare: A systematic review. Journal of Health Management, 32(1), 56-73.
 
 * Smulders, F., Lousberg, L., & Dorst, K. (2008). Explicable knowledge in product service systems design. Design Studies, 29(4), 368-386.
 

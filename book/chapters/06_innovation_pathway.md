@@ -442,22 +442,21 @@ Master/Graduate level:
 ```{admonition} Bibliography
 :class: note 
 
-
 Compton-Phillips, A. (2024). Care Delivery Innovation in Action. NEJM Catalyst Innovations in Care Delivery, 5(4).
 
-Need to check if book or journal
-<!-- Dolfsma, W., Eijk, R., & Mahdi, S. (2022). Front-Loading the Front-End of Innovation. -->
+🔴Need to check if book or journal
+* Dolfsma, W., Eijk, R., & Mahdi, S. (2022). Front-Loading the Front-End of Innovation.
 
-Need to check if book or journal
-<!-- Herzlinger, R. (2024). Strategic Partnerships in Healthcare Innovation. -->
+🔴Need to check if book or journal
+* Herzlinger, R. (2024). Strategic Partnerships in Healthcare Innovation.
 
-Ijzerman, M. J., Koffijberg, H., Fenwick, E., & Krahn, M. (2017). Emerging Use of Early Health Technology Assessment in Medical Product Development: A Scoping Review of the Literature. PharmacoEconomics, 35(7), 727–740. https://doi.org/10.1007/S40273-017-0509-1/TABLES/2.
+* Ijzerman, M. J., Koffijberg, H., Fenwick, E., & Krahn, M. (2017). Emerging Use of Early Health Technology Assessment in Medical Product Development: A Scoping Review of the Literature. PharmacoEconomics, 35(7), 727–740. https://doi.org/10.1007/S40273-017-0509-1/TABLES/2.
 
-Need to check if book or journal
-<!-- Smulders, F. (2022). The IDER Model: Managing Parallel Processes in Innovation. -->
+🔴Need to check if book or journal
+* Smulders, F. (2022). The IDER Model: Managing Parallel Processes in Innovation.
 
-Need a title, organization name, and URL, but can't find this report online
-<!-- WHO (2022). Ethics and AI in Healthcare. WHO Report. -->
+🔴Need a title, organization name, and URL, but can't find this report online
+* WHO (2022). Ethics and AI in Healthcare. WHO Report.
 
 
 
