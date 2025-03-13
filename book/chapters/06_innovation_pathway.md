@@ -4,7 +4,7 @@
 <center>
   <div style="padding: 10px; background-color: #00BBC8; border-radius: 10px; display: inline-block; font-weight: bold; font-size: 16px; color: #000; position: relative;">
     <span style="background-color: white; color: #00BBC8; border-radius: 50%; padding: 5px 10px; font-size: 15px; font-weight: bold; margin-right: 8px; display: inline-block;">Learning goal</span>
-   Understand how differences between innovation pathways impact innovation strategies and be able to apply front-loading theory to the innovation pathway
+   Be able to map out a stakeholder involvement strategy addressing why, when, who and how you can involve stakeholders in the innovation pathway in your project
   </div>
 </center>
 <br>
