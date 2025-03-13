@@ -33,9 +33,11 @@ Entrecomp areas and learning progress (European Commission)
 ```
 
 Specifying these Entrecomp (into action behaviors) in a health setting, they can be specified as follows:
-* skills te collaborate and facilitate or lead a change in an existing setting: this is essential in healthcare across very diverse sectors people will need to collaborate very closely
-* learning through experience: this is not just learning through simple tests, but often one needs to learn how to set up an evidence stategy to develop clinical trials
-* coping with ambiguity and risk: this is a double-faced challenge as the project itself is uncertain, but also the 
+* Skills to collaborate and facilitate or lead a change in an existing setting: this is essential in healthcare across very diverse sectors people will need to collaborate very closely
+* Learning through experience: this is not just learning through simple tests, but often one needs to learn how to set up an evidence stategy to develop clinical trials
+* Coping with ambiguity and risk: this is a double-faced challenge as the project itself is uncertain from an entrepreneurial perspective, but also the healthcare organization is an environment where the health and sometimes even the lives are at stake of people, so it is also a very risky environment to operate in.
+* Planning upfront is essential and more important than in other fields, in healthcare entrepreneurship it can take many years before you actually are able to offer your solution to the end-user, like patients. This is a significant risk for your reveneu streams. That is why in healthcare entrepreneurship one could argue there are two valleys of death. One long period before your product is commercially viable, safe and effective. Another long period my pass before you gain access to the markets of health systems in particular countries. In total for new pharmaceutical products it can take up to 20 years.
+* Taking the initiative in healthcare entrepreneurship by itself is not enough. There are many people in healthcare organizations like hospitals, but also from the government and in the industry who are putting enormous efforts in trying to implement new solutions to improve the health system. In healthcare entrepreneurship this requires a unique collaboration between different payers and users to align priorities in the first place, otherwise the problem you are tackling may never be perceived as being a priority in that health system at that time.
 
 ```{figure} ../figures/Behaviors-ent-healthcare.png
 
@@ -44,10 +46,15 @@ Key healthcare entrepreneurship behaviors (Pieter Vandekerckhove)
 
 
 
-The mindset and the specific behaviours can manifest differently across the general innovation process:
-* abstract on a mindset level
-* on a product-system level
-* on an implementation level
+The mindset and the specific behaviours can manifest differently across the general innovation process depending on the phase and the aim:
+* In the beginning abstract on a mindset level
+* More focused to develop a product-service solution
+* More focused to integrate it in the existing STPSS
+
+```{figure} ../figures/ent-behaviors-phase.png
+Healthcare entrepreneurship behaviors becoming more focused per phase across the innovation process (Pieter Vandekerckhove)
+```
+
 
 Therefore it becomes key to learn how to use these behaviors in the innovation process steps to make an impact with an idea to improve the care process.
 

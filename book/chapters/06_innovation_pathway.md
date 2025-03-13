@@ -26,11 +26,8 @@ JAMA Netw Open. 2024;7(6):e2415445. doi:10.1001/jamanetworkopen.2024.15445, Lege
 
 In the phase before the marketing stage, one needs to gain access to the market. Every country has its own procedure for this. Have a look at this video by dr. Frederick Thielen about key issues that are happening in practice to go beyond the market access launch and get to a succesfull launc where patients actually get a new drug prescribed. What things should you consider upfront in this innovation pathway?
 
-````{admonition} 3 Things About Market Access
-```{raw} html
-<a href="https://www.youtube.com/watch?v=8NhuaohK_Qg" target="_blank">
-    <img src="https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D8NhuaohK_Qg" alt="3 Things About Market Access">
-</a>
+````{admonition} 3 Things About Market Access (dr. Frederick Thielen)
+```https://www.youtube.com/watch?v=8NhuaohK_Qg
 ```
 ````
 
