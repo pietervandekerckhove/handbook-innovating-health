@@ -69,6 +69,13 @@ According to the WHO's "Global Strategy on Digital Health 2020-2025," digital he
 ```
 ````
 
+
+**Trends in Health Technology**
+
+The Politecnico di Milano's Technology Foresight report https://www.foresight.polimi.it/health/1/ provides insights into future trends and innovations in healthcare technology. This foresight is critical for anticipating and preparing for upcoming challenges and opportunities in MedTech. Emerging trends include AI-driven diagnostics, precision medicine, telehealth expansion, and the integration of blockchain for secure health data management. These advancements drive efficiency, accessibility, and personalized care, paving the way for transformative changes in the healthcare industry. 
+
+see also Ref book VRx https://www.amazon.de/-/en/VRx-Virtual-Therapeutics-Revolutionize-Medicine/dp/1541699769
+
 ```{admonition} Trends in The Netherlands
 :class: tip
 To know more about the trends of digital technology use in the Dutch Health System you can retreive the annual report here: https://www.rivm.nl/digitalezorg/publicaties
@@ -78,11 +85,6 @@ https://www.rivm.nl/publicaties/e-healthmonitor-2023-stand-van-zaken-digitale-zo
 ```
 
 
-**Trends in Health Technology**
-
-The Politecnico di Milano's Technology Foresight report https://www.foresight.polimi.it/health/1/ provides insights into future trends and innovations in healthcare technology. This foresight is critical for anticipating and preparing for upcoming challenges and opportunities in MedTech. Emerging trends include AI-driven diagnostics, precision medicine, telehealth expansion, and the integration of blockchain for secure health data management. These advancements drive efficiency, accessibility, and personalized care, paving the way for transformative changes in the healthcare industry. 
-
-see also Ref book VRx https://www.amazon.de/-/en/VRx-Virtual-Therapeutics-Revolutionize-Medicine/dp/1541699769
 
 **Strategic alignment of stakeholder incentives upfront**
 
