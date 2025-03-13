@@ -1,6 +1,14 @@
-# 9. Resource management strategies in the health system (financial management, types of funding and investors)
+# 8. Resource management strategies in the health system (financial management, types of funding and investors)
 
-Aim: understand and apply revenue streams strategies to your innovation
+
+<center>
+  <div style="padding: 10px; background-color: #00BBC8; border-radius: 10px; display: inline-block; font-weight: bold; font-size: 16px; color: #000; position: relative;">
+    <span style="background-color: white; color: #00BBC8; border-radius: 50%; padding: 5px 10px; font-size: 15px; font-weight: bold; margin-right: 8px; display: inline-block;">Learning goal</span>
+   Apply revenue streams strategies to your innovation
+  </div>
+</center>
+<br>
+
 
 Try to understand what kind of money you need to survive and how the financial revenue streams look like. 
 
@@ -17,9 +25,9 @@ Integrating a reveneu stream on the patient journey and solution map.
 
 strategy for research funding in first five years (See slides Steve)
 
-There are different type of funding of investors you can look for:
-* pre-seed funding
-* larger grants
+There are different type of funding you can look for:
+* pre-seed funding: see for example funding to improve and develop the idea towards a prototype (see K voucher funding)
+* larger public funding grants (EU): see the strategic themes on an EU level
 * crowdfunding strategies
 * Venture capital investments
 
