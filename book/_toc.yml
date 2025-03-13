@@ -10,11 +10,9 @@ parts:
       - file: chapters/05_healthcare_innovation.md
       - file: chapters/06_innovation_pathway.md
       - file: chapters/07_create_innovation.md
-      - file: chapters/08_setting_up_team.md
-      - file: chapters/09_exploring_testing.md
-      - file: chapters/10_resource_management.md
-      - file: chapters/11_embedding_innovation.md
-      - file: chapters/12_communicating_innovation.md
+      - file: chapters/08_resource_management.md
+      - file: chapters/09_embedding_innovation.md
+      - file: chapters/10_basic_inno_team_project.md
       - file: chapters/authors.md
       - file: chapters/references.md
-      - file: chapters/credits.md
+      - file: credits.md
