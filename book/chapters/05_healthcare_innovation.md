@@ -8,6 +8,13 @@
 </center>
 <br>
 
+## Introduction
+Welcome to this chapter on understanding how differences between socio-technical product service systems at various levels impact the health innovation pathway. In today's rapidly evolving healthcare landscape, it is crucial to recognize the interplay between technology, services, and societal factors. This chapter aims to equip you with the knowledge to navigate these complexities and drive meaningful innovations in health.
+
+Throughout this chapter, you will explore the nuances of socio-technical systems and their influence on health innovation. We will delve into case studies, theoretical frameworks, and practical examples to illustrate these concepts. Additionally, you will have access to engaging videos and quizzes designed to reinforce your learning and provide a deeper understanding of the material.
+
+By the end of this chapter, you will be prepared to apply your newfound knowledge in a team project assignment. This collaborative exercise will challenge you to analyze real-world scenarios, propose innovative solutions, and demonstrate your ability to integrate socio-technical perspectives into health innovation pathways.
+
 ## Innovating with technology, organizations and people (TOP): Socio-Technical Product Service Systems (STPSS):
 
 Socio-technical systems theory, as initially developed by Trist (1981), emphasizes the mutual shaping of social and technical elements within an organization. This approach is particularly pertinent to healthcare, where the interaction between human actors (e.g., healthcare providers, patients) and technical components (e.g., medical devices, health information systems) is complex and dynamic. Appelbaum (1997) further elaborates on the application of STS theory in organizational development, highlighting how it can drive innovation and improvement in healthcare settings.
@@ -248,7 +255,7 @@ Personalized healthcare and precision medicine are related trends to value-based
 
 Key aspects here are patient-related outcome measures (PROMS) and PREMS. Can you identify the innovations that are used to make the patient-centered a reality in a Danish hospital?
 
-````{admonition} 🔴Add an appropriate title for this video🔴
+````{admonition} Watch this video from the European Commission about SmartHealth. What is the key change for the patient in their care pathway?
 ```{raw} html
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ClIFLrGpYV8?si=o_ATBsN3eAZBN2uq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 ```
@@ -258,11 +265,19 @@ These trends are advanced through technological developments in the field of bio
 
 Another example is organ-on-a-chip technology. How do you think this could change the biomedical innovation pathway and make treatments more personalized for patients?
 
-````{admonition} 🔴Add an appropriate title for this video🔴
+````{admonition} Watch this video from the European Commission about organ-on-a-chip technology. Multiple organs on a chip could eventually become a digital twin of a human body. How could this change personalized care and patient pathways?
 ```{raw} html
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3bCUhrWl4jE?si=hUWi9RaNl9S6ylep" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 ```
 ````
+
+## Conclusion
+In conclusion, this chapter has provided you with a comprehensive understanding of how differences between socio-technical product service systems at various levels impact the health innovation pathway. You have explored key concepts, engaged with interactive content, and examined practical examples that highlight the importance of integrating technology, services, and societal factors in health innovation.
+
+As you move forward, remember that the knowledge gained here is not just theoretical but highly applicable to real-world challenges. The videos and quizzes have reinforced your learning, and the team project assignment will allow you to put theory into practice. Collaborating with your peers, you will analyze complex scenarios, propose innovative solutions, and demonstrate your ability to navigate the socio-technical landscape of health innovation.
+
+We hope this chapter has inspired you to think critically and creatively about the future of health innovation. Your journey doesn't end here; it is just the beginning of your exploration into the dynamic and impactful world of socio-technical systems in healthcare.
+
 
 ```{admonition} Team Project assignment (see project chapter 9)
 :class: important 
