@@ -256,13 +256,20 @@ Key aspects here are patient-related outcome measures (PROMS) and PREMS. Can you
 
 These trends are advanced through technological developments in the field of biotech. For example the use of complex multiplex cell cultures, which allows for more precise modeling of human diseases and testing of treatments. These cultures can replicate the interactions between different cell types within the body, providing a more accurate representation of how diseases progress and how treatments work in a real human environment (Pampaloni et al., 2007).
 
-Another example is organ-on-a-chip technology. How do you think this could change the biomedical innovation pathway?
+Another example is organ-on-a-chip technology. How do you think this could change the biomedical innovation pathway and make treatments more personalized for patients?
 
 ````{admonition} 🔴Add an appropriate title for this video🔴
 ```{raw} html
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3bCUhrWl4jE?si=hUWi9RaNl9S6ylep" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 ```
 ````
+
+```{admonition} Team Project assignment (see project chapter 9)
+:class: important 
+* Identify the key contest
+* identify how value is created in the health system
+* Apply your knowledge about the STPSS when exploring the problem and mapping out a patient journey
+```
 
 TA Check if bibliography is complete with refs
 
