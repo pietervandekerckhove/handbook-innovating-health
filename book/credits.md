@@ -22,4 +22,13 @@ This book is created using open source tools: it is a JupyterBook that is writte
 (editor)=
 ## About the Editors
 
+* dr. Pieter Vandekerckhove
+
 ### Acknowledgements
+ A huge thank you to:
+* TU Delft support from Julie Kirsch, Tom van Woudenberg, Noopur Singh,
+Marcell Várkonyi, Joost Groot Kormelink, Robert Lanzafame, Jacqueline, Michielen-van de Riet, Michiel Munnik 
+* TU Delft library 
+* Strategic support from dr. Walter Greenleaf
+
+This book has been supported by the TU Delft Open Education Grant
