@@ -63,10 +63,19 @@ Therefore it becomes key to learn how to use these behaviors in the innovation p
 According to the WHO's "Global Strategy on Digital Health 2020-2025," digital health, leverages technology to enhance healthcare delivery systems globally. This includes wearable health monitors, diagnostic imaging systems, robotic surgery, and digital health applications. (ADD REF https://www.who.int/publications/i/item/9789240020924)This includes a broad range of product-service systems. For example: devices, medicines, vaccines, procedures, and systems developed to solve health problems and improve quality of life. These technologies facilitate the prevention, diagnosis, treatment, and monitoring of diseases. Healthcare technology integrates advancements from various fields, including biotechnology, information technology, and medical devices, to enhance patient outcomes and streamline healthcare operations.
 
 
+
 ````{admonition} Watch this video by prof. Dominik Böhler about digital health
 ```{video} https://www.youtube.com/watch?v=yGuWxu9XWoU
 ```
 ````
+
+```{admonition} Trends in The Netherlands
+:class: tip
+To know more about the trends of digital technology use in the Dutch Health System you can retreive the annual report here: https://www.rivm.nl/digitalezorg/publicaties
+
+This is the report of 2023
+https://www.rivm.nl/publicaties/e-healthmonitor-2023-stand-van-zaken-digitale-zorg
+```
 
 
 **Trends in Health Technology**
@@ -136,7 +145,8 @@ TA ADD: Introduction lecture by dr. Sanne Allers collegerama recording (TA inser
 
 ```{admonition} Team Project assignment (see project chapter 9)
 :class: important 
-Assessing good skills of the team to get started is important. Developing a good focus on the solution and being aware of the key technology trends is essential in the explore phase
+* Apply these strategies to assess the knowledge and skills of the team to get started
+* Explore relevant problem and solution technology trends in problem-solution spaces
 ```
 
 ```{admonition} Bibliography

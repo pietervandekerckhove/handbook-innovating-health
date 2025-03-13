@@ -92,7 +92,7 @@ TA make videos clear here: https://ocw.tudelft.nl/courses/design-healthcare-usin
 
 Take a look at this case of these two people. What key aspects can you identify about the context of their health journey?
 
-````{admonition} 🔴Add an appropriate title for this video🔴
+````{admonition} TU Delft Open Course Video: Patient Journeys
 ```{raw} html
 <iframe width="711" height="400" src="https://www.youtube.com/embed/9BUchsMKrOU" title="MED01x_2017_M1_Casemovie-video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 ```
@@ -101,7 +101,7 @@ Take a look at this case of these two people. What key aspects can you identify 
 
 Now, take a look at the next video, what relations between the patient and the health system did you find as well in the previous video?
 
-````{admonition} 🔴Add an appropriate title for this video🔴
+````{admonition} TU Delft Open Course Video: Patient Journeys; prof. Richard Goossens
 ```{raw} html
 <iframe width="711" height="400" src="https://www.youtube.com/embed/Qb5rebNu1Pg" title="MED01x_2017_M1_Lecture-video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 ```
@@ -218,7 +218,7 @@ TA provide reference: https://eit.europa.eu/library/implementing-value-based-hea
 Video Introduction
 Watch Prof. Steven Howard’s video introduction on value-based healthcare in Santeon hospitals to understand how these principles are applied in real-world settings. View the video here.
 
-````{admonition} 🔴Add an appropriate title for this video🔴
+````{admonition} Watch this video of Prof. Steven Howard
 
 ```{video} https://www.youtube.com/embed/playlist?list=PLd0hXinKX4s4-UWJtYC-vjQZWb8ghuxs6
 
@@ -266,9 +266,12 @@ Another example is organ-on-a-chip technology. How do you think this could chang
 
 ```{admonition} Team Project assignment (see project chapter 9)
 :class: important 
-* Identify the key contest
-* identify how value is created in the health system
-* Apply your knowledge about the STPSS when exploring the problem and mapping out a patient journey
+* Identify the key context of the STPSS dynamics with people, organizations and technology
+* Identify how value is created in the health system
+* Apply your knowledge about the STPSS when exploring the problem-solutions and mapping out a patient journey
+
+Master/Graduate level: 
+* Discuss and report in each phase whether you can use the trend of value-based healthcare or patient-centered care can be a catalyst for your innovation
 ```
 
 TA Check if bibliography is complete with refs
