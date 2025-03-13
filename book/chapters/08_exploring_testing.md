@@ -1,16 +1,35 @@
-# 8. The basic innovation cycle: Observe & explore, create & prototype and robustinize & test
+# 7. The basic innovation cycle: Observe & explore, create & prototype, robustinize, experiment & contextualize
 
-Aim: undersatnd and apply Generative co-design sessions + business development tools to guide strategic decisions regarding revenue streams, the behaviors are integrated in these sessions
+<center>
+  <div style="padding: 10px; background-color: #00BBC8; border-radius: 10px; display: inline-block; font-weight: bold; font-size: 16px; color: #000; position: relative;">
+    <span style="background-color: white; color: #00BBC8; border-radius: 50%; padding: 5px 10px; font-size: 15px; font-weight: bold; margin-right: 8px; display: inline-block;">Learning goal</span>
+   Apply generative co-design sessions + business development tools to guide strategic decisions across the basic innovation cycle with a team challenge.
+  </div>
+</center>
+<br>
 
+
+## Introduction
+
+## The basic innovation cycle
 In the innovation process there is a basic cycle that we can follow:
 
-````{admonition} 🔴Add an appropriate title for this video🔴
+````{admonition} Prof. Frido Smulders explains the basic innovation cycle. Can you name the four key iterative steps and the aim of each step?
 ```{raw} html
 <iframe width="560" height="315" src="https://www.youtube.com/embed/onpG_Vsq8sM?si=QrPKzURv6AId2Ebe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 ```
 ````
+## Innovation project team exercise
 
-## Explore
+### Project management
+Assemble a team
+
+Try to get everyone on board in a team, develop a team name, assign roles and tasks
+
+You can use free software tools to work collaboratively like Google Docs, Notion for tasks or Miro for creative making and prototyping
+
+
+### Explore
 
 * Mission driven start
 
