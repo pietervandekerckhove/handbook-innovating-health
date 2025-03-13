@@ -277,9 +277,14 @@ Hatchuel, A., & Weil, B. (2003). A new approach of innovative Design: an introdu
 
 In healthcare innovation, C-K theory can help move beyond conventional pharmaceutical and medtech pathways. By structuring the innovation process around the interplay between conceptual exploration and knowledge structuring in an organization, this approach supports the development of more adaptive and interdisciplinary healthcare solutions. 
 
-Looking at the innovation process in the healthcare organization, one could say that the operational space, is similar to the K space as it involves low uncertainty and it is decideable. However, there is also an innovation space, where things are much less certain. Have a look at the video of prof. Frido Smulders:
+Looking at the innovation process in the healthcare organization, one could say that the operational space, is similar to the K space as it involves low uncertainty and it is decideable. However, there is also an innovation space, where things are much less certain. This changes according to the type of innovation process:
+1. Steady state innovation
+2. Sustaining innovation
+3. Entrepreneurial innovation
 
-````{admonition} 🔴Add an appropriate title for this video🔴
+ Have a look at the video of prof. Frido Smulders:
+
+````{admonition} How to manage the stakeholders from the operational space (K space) to the innovation space (C space) back to the operational space with the new solution (new K space)? (prof. Frido Smulders) What are the differences between steady state innovation, sustaining innovation and entrepreneurial innovation?
 ```{raw} html
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VNdYJFC5-jA?si=fpWWgVrcfdeEHVDF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 ```
@@ -288,7 +293,7 @@ Looking at the innovation process in the healthcare organization, one could say 
 
 Building on the C-K theory, how the different levels of value creation (see previous chapter) in the health system have different levels of innovation behaviour with different timeframes:
 
-````{admonition} 🔴Add an appropriate title for this video🔴
+````{admonition} How does the undecidability and uncertainty change along the innovation pathway? (Prof. Frido Smulders)
 ```{raw} html
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7iWguYoJAkk?si=T7VypAAwGohda5uW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 ```

@@ -8,7 +8,7 @@
 </center>
 <br>
 
-## Innovating with people, technology and organizations: Socio-Technical Product Service Systems (STPSS):
+## Innovating with technology, organizations and people (TOP): Socio-Technical Product Service Systems (STPSS):
 
 Socio-technical systems theory, as initially developed by Trist (1981), emphasizes the mutual shaping of social and technical elements within an organization. This approach is particularly pertinent to healthcare, where the interaction between human actors (e.g., healthcare providers, patients) and technical components (e.g., medical devices, health information systems) is complex and dynamic. Appelbaum (1997) further elaborates on the application of STS theory in organizational development, highlighting how it can drive innovation and improvement in healthcare settings.
 
@@ -18,9 +18,9 @@ A working definition of innovation by prof. Frido Smulders is:
 "Innovation is introducing smoething new, into an existing context. This context, to accept the innovation, will undergo some changes."
 ```
 
-Generally, there are three key actors: people, technology and organizations:
+**Generally, there are three key actors: people, technology and organizations:**
 
-````{admonition} 🔴Add an appropriate title for this video🔴
+````{admonition} Prof. Frido Smulders explains the relevance of people, technology and organizations in the innovation pathway. What went wrong in the example of the aircraft? Do you have a similar example in healthcare innovation? Do you remember the PIP scandal with breast implants for women? Martindale, V., & Menache, A. (2013). The PIP scandal: an analysis of the process of quality control that failed to safeguard women from the health risks. Journal of the Royal Society of Medicine, 106(5), 173-177.
 ```{raw} html
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fgiZD_NgXTw?si=O-4tgg_45TvCmJxh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 ```
@@ -29,6 +29,11 @@ Generally, there are three key actors: people, technology and organizations:
 Venturing into systems where value is created for users through different stakeholders and multiple interrelated services and products, such as in healthcare, public services, hospitality, and aerospace, is challenging. These systems are known as Socio-Technical Product Service Systems (STPSS). To operationalize this term in today's context where technology assumes many complex forms, we have added the product-service systems specification. This helps describe the complex environments in which today’s entrepreneurs operate. 
 
 In STPSS, each stakeholder can create value in the health system. The value is created through the interaction of these stakeholders in a social process.
+
+````{admonition} Prof. Frido Smulders explains how the interaction between people, organizations and technology influences the innovation process. What are the three aspects you should consider early on in an innovation process.
+```{video} https://www.youtube.com/watch?v=yqY1lQSozSc
+```
+````
 
 Each stakeholder possesses explicable knowledge about their role and the system's functionality. Explicable knowledge, defined as implicit knowledge that can be made explicit during social interaction (Smulders, Lousberg & Dorst, 2008), forms a chain where products and services are interrelated. According to sociotechnical systems theory (Trist, 1981; Appelbaum, 1997), STPSS involves several individuals who shape a piece of technology or a product, or both, assigned to them within their own workplaces, creating an integrated chain of product-service value deliveries at the system level.
 
