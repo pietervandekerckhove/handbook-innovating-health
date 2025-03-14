@@ -5,14 +5,13 @@ parts:
   - caption: Contents
     chapters:
       - file: chapters/02_introduction.md
-      - file: chapters/03_creating_vision.md
-      - file: chapters/04_innovating_health_organization.md
-      - file: chapters/05_innovation_pathway.md
+      - file: chapters/03_innovating_definitions.md
+      - file: chapters/04_stakeholders.md
+      - file: chapters/05_new_creating_vision.md
       - file: chapters/06_value_in_healthsystem.md
-      - file: chapters/07_create_innovation.md
-      - file: chapters/08_resource_management.md
-      - file: chapters/09_embedding_innovation.md
-      - file: chapters/10_team_project.md
+      - file: chapters/07_resource_management.md
+      - file: chapters/08_embedding_innovation.md
+      - file: chapters/09_team_project.md
       - file: chapters/authors.md
       - file: chapters/references.md
       - file: credits.md

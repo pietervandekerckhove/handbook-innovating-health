@@ -430,9 +430,9 @@ TA CHANGE TO CASE STUDY FORMAT: case AYA family room UZA: process self-funded, p
 Innovation pathways in healthcare are evolving to accommodate new technological and service-driven advancements. Traditional biomedical models provide a foundation but must be expanded to support parallel processes, digital solutions, and ethical considerations. By applying the IDER model, front-loading theory, and Herzlinger’s strategic approaches, innovators can navigate complex pathways more effectively, leading to more successful and impactful healthcare solutions.
 
 
-```{admonition} Team Project assignment (see project chapter 9)
+```{admonition} Team Project assignment (see project chapter 9): stakeholder team assembly + stakeholder involvement
 :class: important 
-* Assemble a team with the stakeholder team assembly procedure
+* Assemble a team with the stakeholder team assembly procedure to start your project
 
 Master/Graduate level: 
 * identify the key issues you foresee that are necessary to front-load early in the innovation pathway and justify your selection of stakeholders accordingly
