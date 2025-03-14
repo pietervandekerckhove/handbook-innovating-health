@@ -190,7 +190,7 @@ It could be a great benefit if you have someone related to your initiative who h
 ```{video} https://collegerama.tudelft.nl/Mediasite/Play/2cf7d52f175b41b0adb8563d86156c821d
 ```
 ````
-
+<!--
 ### Bottom up health needs exploration
 #### Startups
 * patient expert and founder Lennart Zielstra Rezolve Medical https://www.rezolvemedical.com/
@@ -243,7 +243,7 @@ Have a look at this video and what opportunities you can identify?
 </a>
 ```
 ````
-<!--
+
 
 ## Develop and rephrase the needs statement
 Develop a need statement in the format of: A way to address (problem) in (specific population) in order to (achieve a desired outcome). Afterwards rephrase it in the format of a hypothesis
