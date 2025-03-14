@@ -1,4 +1,4 @@
-# 2. What is innovating and entrepreneuring on an individual level in health organizations?
+# 2. Defining innovating and entrepreneuring on an individual level in health organizations
 
 <center>
   <div style="padding: 10px; background-color: #00BBC8; border-radius: 10px; display: inline-block; font-weight: bold; font-size: 16px; color: #000; position: relative;">
@@ -32,7 +32,7 @@ This chapter is highly relevant for your team project assignment. Use the insigh
 ```
 ````
 
-## Key entrepreneurial behaviors in healthcare
+## Develop key steps for integration
 Different stakeholders in the health system can be entrepreneurial and many of them already show entrepreneurial behavior. On an individual level care professionals are constantly collaborating to improve the health of people and they are doing that in an entrepreneurial way.
 
 Fundamentally it is about the mindset of people looking for the problem of people (in a preventive or curative setting) and wanting to do something about that. This is a very fuzzy concept to define, but you can notice when care professionals are going beyond their comfort zone to look for the best treatment there is for patients they are connecting ideas, people and the organization and move that to a new context, which changes and incorporates that change. 
