@@ -243,6 +243,8 @@ Have a look at this video and what opportunities you can identify?
 </a>
 ```
 ````
+<!--
+
 ## Develop and rephrase the needs statement
 Develop a need statement in the format of: A way to address (problem) in (specific population) in order to (achieve a desired outcome). Afterwards rephrase it in the format of a hypothesis
 
