@@ -21,7 +21,7 @@ In the innovation process there is a basic cycle that we can follow:
 ```
 ````
 
-<!--
+
 ## 1. Initiation: getting  started
 ### Assemble your team
 Get Everyone on Board: The first step in any successful project is assembling a team that is committed and enthusiastic about the project's goals. Ensure that each team member understands the vision and objectives, fostering a sense of shared purpose and collaboration.
@@ -170,8 +170,6 @@ Objective: Design a solution that:
 Present your proposed solution through detailed plans and prototypes, backed by research and case studies. Schedule meetings with stakeholders for feedback and validation, ensuring the solution is practical, scalable, and capable of making a significant positive impact on healthcare delivery both on land and at sea."
 
 
-
-
 ## 2. Explore
 The aim of this phase is to explore the different levels in the problem and develop a need statement. First you need to narrow down the challenge into a hypothesis, aferwards you need to choose a detailed focus of that reframed challenge.
 
@@ -228,7 +226,7 @@ iCell fundamental researchers insights in biotech (combining insights from genet
 ```{tip}
 Try to look for outcomes that matter to patients, tangible and intangible and match that with the outcome that are relevant in the scientific community, for example have a look at the outcomes that are relevant for young adults and adolescents with cancer https://www.mdpi.com/2072-6694/17/3/454
 ```
-
+<!-->
 #### Societal trends: value-based healthcare or patient-centered care?
 
 Could there be opportunities for new initiatives given the current trend in value-based healthcare from a patient perspective?
