@@ -291,7 +291,7 @@ To properly analyse the data you can use coding software like Atlas.ti or ENVIVO
 
 You could also use validated AI research tools to review large bodies of literature like ASReview https://asreview.nl/. Here are some open exercises https://github.com/asreview/asreview-academy?tab=readme-ov-file#open-teaching-materials
 
-
+<!--
 ```{tip}
 Research tools to analyse a qualitative interview: check out prof Dries Faems and Niklas Geiss generative AI based cool "Expert & Resaerch Interview Helper": https://niklasg27-interview-helper-interview-helper-v0-4-90hctr.streamlit.app/
 ```
