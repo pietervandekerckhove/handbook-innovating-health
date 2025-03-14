@@ -8,7 +8,7 @@
 </center>
 <br>
 
-<!-- 
+
 ## Introduction
 In this chapter we will explain the team project with the aim to apply generative co-design sessions and business development tools to guide strategic decisions across the basic innovation cycle with a team challenge. In this process you will follow the steps of the IDER model, but instead of doing every process in paralel, you need to go through the process in a linear way with the basic innovation cycle.
 
@@ -20,6 +20,8 @@ In the innovation process there is a basic cycle that we can follow:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/onpG_Vsq8sM?si=QrPKzURv6AId2Ebe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 ```
 ````
+
+<!--
 ## 1. Initiation: getting  started
 ### Assemble your team
 Get Everyone on Board: The first step in any successful project is assembling a team that is committed and enthusiastic about the project's goals. Ensure that each team member understands the vision and objectives, fostering a sense of shared purpose and collaboration.
