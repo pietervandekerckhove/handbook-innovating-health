@@ -21,7 +21,7 @@ In the innovation process there is a basic cycle that we can follow:
 ```
 ````
 
-<!--
+
 ## 1. Initiation: getting  started
 
 ### Assemble your team
@@ -47,12 +47,12 @@ By leveraging these principles and tools, teams can work more efficiently and co
 
 Here is an overview of challenges you can choose from:
 
-"Improving Health Outcomes for Preterm Babies
+"Improving Health Outcomes for Preterm Babies"
 •  Overview: Many babies are born prematurely every day, requiring special care to ensure their health and development. Proper care can significantly reduce deaths and long-term disabilities associated with preterm birth.
 •  Current Issues: Preterm babies face numerous health challenges and need specialized support to thrive. The care they receive is crucial in promoting their growth and reducing the risk of complications.
 •  Your Challenge: Develop innovative ways to support the health and development of preterm babies.
-•  Objective: Create a solution that improves the health outcomes for preterm babies, making a significant positive impact on their lives and reducing long-term health issues. Present and validate your solution through scheduled meetings."
-
+•  Objective: Create a solution that improves the health outcomes for preterm babies, making a significant positive impact on their lives and reducing long-term health issues. Present and validate your solution through scheduled meetings.
+<!--
 "Supporting Young Patients with Life-Threatening Illnesses
 •  Overview: When young people (ages 18-39) are diagnosed with serious diseases like neurological problems, heart issues, or cancer, their lives are abruptly disrupted. In the Netherlands, over 3900 young adults are diagnosed with cancer annually. They face numerous challenges all at once, such as health issues, fertility concerns, employment difficulties, and relationship strains, leading to significant stress and anxiety.
 •  Current Issues: Currently, healthcare professionals provide information through brief conversations, booklets, or online resources. However, patients often forget this information, and booklets are not personalized. Young adults, despite being tech-savvy, struggle to find suitable apps and reliable information tailored to their needs.
