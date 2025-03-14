@@ -5,4 +5,5 @@
 * Dr. Steven Howard
 * Prof. Frido Smulders
 * dr. Christophe Van Neste
+* Prof. Wiljeana Glover
 
