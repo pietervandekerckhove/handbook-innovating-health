@@ -175,7 +175,7 @@ Present your proposed solution through detailed plans and prototypes, backed by 
 
 ## 2. Explore
 The aim of this phase is to explore the different levels in the problem and develop a need statement. First you need to narrow down the challenge into a hypothesis, aferwards you need to choose a detailed focus of that reframed challenge.
-
+<!--
 ### Top-down mission or bottom up health needs exploration
 The above challenge can provide you with a starting point, but you need to think much bigger and leave the K-space to venture in the C-space. You can start with a top-down vision where you want to arrive or you can start to explore the problem by conducting research and interview people that are suffering from the problem.
 
@@ -291,7 +291,7 @@ To properly analyse the data you can use coding software like Atlas.ti or ENVIVO
 
 You could also use validated AI research tools to review large bodies of literature like ASReview https://asreview.nl/. Here are some open exercises https://github.com/asreview/asreview-academy?tab=readme-ov-file#open-teaching-materials
 
-<!--
+
 ```{tip}
 Research tools to analyse a qualitative interview: check out prof Dries Faems and Niklas Geiss generative AI based cool "Expert & Resaerch Interview Helper": https://niklasg27-interview-helper-interview-helper-v0-4-90hctr.streamlit.app/
 ```
