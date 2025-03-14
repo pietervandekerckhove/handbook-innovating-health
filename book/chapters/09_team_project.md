@@ -338,7 +338,7 @@ It is important to understand how we experience our health and critical events i
 ````
 
 
-````{admonition} ValEU patient panel discussion 2023 (TA review video with quiz in Mediasite)
+<!-- ````{admonition} ValEU patient panel discussion 2023 (TA review video with quiz in Mediasite)
 ```{video} https://youtu.be/n2X3OHdbuNg
 ```
 ````
@@ -348,7 +348,7 @@ It is important to understand how we experience our health and critical events i
 ````{admonition} ValEU patient panel discussion 2024 (TA review video in Mediasite)
 ```{video} https://youtu.be/hp1j7Web4Uo
 ```
-```` 
+````  -->
 
 ````{admonition} Patient exploration 
 
