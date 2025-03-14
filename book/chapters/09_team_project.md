@@ -15,11 +15,11 @@ In this chapter we will explain the team project with the aim to apply generativ
 ## Key steps in your project: basic innovation cycle
 In the innovation process there is a basic cycle that we can follow:
 
-````{admonition} Prof. Frido Smulders explains the basic innovation cycle. Can you name the four key iterative steps and the aim of each step?
+<!-- ````{admonition} Prof. Frido Smulders explains the basic innovation cycle. Can you name the four key iterative steps and the aim of each step?
 ```{raw} html
 <iframe width="560" height="315" src="https://www.youtube.com/embed/onpG_Vsq8sM?si=QrPKzURv6AId2Ebe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 ```
-````
+```` -->
 ## 1. Initiation: getting  started
 ### Assemble your team
 Get Everyone on Board: The first step in any successful project is assembling a team that is committed and enthusiastic about the project's goals. Ensure that each team member understands the vision and objectives, fostering a sense of shared purpose and collaboration.
@@ -447,7 +447,7 @@ Validation prototype types: functional, aesthaethic, cost impact
 ## 4. Robustinize: Testing problem-solution hypotheses
 At this stage you will focus on identifying and testing a beachhead niche market in the Socio-Technical Product Service Systems (STPSS) of a niche area in the health system. Your task is to select a specific segment within the healthcare industry that represents a promising niche market for your innovative solution.
 
-Watch this video from the TU Delft Open course about Entrepreneurship for engineers from dr. Dap Hartmann: <iframe width="560" height="315" src="https://www.youtube.com/embed/GFdtwWNz_T0?si=HtHMfDqybHqCDZAE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- Watch this video from the TU Delft Open course about Entrepreneurship for engineers from dr. Dap Hartmann: <iframe width="560" height="315" src="https://www.youtube.com/embed/GFdtwWNz_T0?si=HtHMfDqybHqCDZAE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> -->
 
 **Steps to Complete the Assignment**:
 
