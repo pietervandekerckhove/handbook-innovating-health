@@ -47,42 +47,42 @@ By leveraging these principles and tools, teams can work more efficiently and co
 
 Here is an overview of challenges you can choose from:
 
-"Improving Health Outcomes for Preterm Babies"
+"Improving Health Outcomes for Preterm Babies
 •  Overview: Many babies are born prematurely every day, requiring special care to ensure their health and development. Proper care can significantly reduce deaths and long-term disabilities associated with preterm birth.
 •  Current Issues: Preterm babies face numerous health challenges and need specialized support to thrive. The care they receive is crucial in promoting their growth and reducing the risk of complications.
 •  Your Challenge: Develop innovative ways to support the health and development of preterm babies.
-•  Objective: Create a solution that improves the health outcomes for preterm babies, making a significant positive impact on their lives and reducing long-term health issues. Present and validate your solution through scheduled meetings.
+•  Objective: Create a solution that improves the health outcomes for preterm babies, making a significant positive impact on their lives and reducing long-term health issues. Present and validate your solution through scheduled meetings."
 
-"Supporting Young Patients with Life-Threatening Illnesses"
+"Supporting Young Patients with Life-Threatening Illnesses
 •  Overview: When young people (ages 18-39) are diagnosed with serious diseases like neurological problems, heart issues, or cancer, their lives are abruptly disrupted. In the Netherlands, over 3900 young adults are diagnosed with cancer annually. They face numerous challenges all at once, such as health issues, fertility concerns, employment difficulties, and relationship strains, leading to significant stress and anxiety.
 •  Current Issues: Currently, healthcare professionals provide information through brief conversations, booklets, or online resources. However, patients often forget this information, and booklets are not personalized. Young adults, despite being tech-savvy, struggle to find suitable apps and reliable information tailored to their needs.
 •  Your Challenge: Develop solutions to help young patients cope with the mental and emotional stress of their diagnosis. 
-•  Objective: Create a solution that addresses these needs effectively, making a significant positive impact on the lives of young people facing life-threatening illnesses. Present and validate your solution through scheduled meetings.
+•  Objective: Create a solution that addresses these needs effectively, making a significant positive impact on the lives of young people facing life-threatening illnesses. Present and validate your solution through scheduled meetings."
 
-"Sustainable care solutions (delivery of processes + food)"
+"Sustainable care solutions (delivery of processes + food)
 •  Overview: The healthcare industry, known for its life-saving services, is also a significant contributor to environmental pollution due to its substantial waste generation. In addition, the whole food chain in hospitals is very outdated and provides standardized industrial food to patients that patients rarely desire and is often not coordinated with nutritionists.
 •  Current Issues: Currently, many products used in healthcare, such as baby diapers and ECG pads, contribute to massive waste, and the industry is largely environmentally unfriendly. The lack of sustainable practices in the disposal and recycling of these products exacerbates the environmental impact.
 •  Your Challenge: Your challenge is to identify the most polluting products within the healthcare industry and develop innovative recycling solutions or alternative materials that can reduce environmental harm or wast. Or find new ways of providing better and more sustainable food to patients in hospitals.
-•  Objective: The objective is to create sustainable care solutions that minimize waste and promote eco-friendly care and food practices in healthcare. This includes designing processes or products that can be recycled or made from new digital materials to reduce the industry's environmental footprint.
+•  Objective: The objective is to create sustainable care solutions that minimize waste and promote eco-friendly care and food practices in healthcare. This includes designing processes or products that can be recycled or made from new digital materials to reduce the industry's environmental footprint."
 
 
-"Scheduling"
+"Scheduling
 • Overview: Many care professionals experience high levels of stress due to their hectic schedules, which are often managed using inefficient and labor-intensive methods.
 • Current Issues: Schedules are frequently created in complicated Excel sheets that are time-consuming to develop, difficult to modify, and challenging to communicate, leading to added stress and inefficiency.
 • Your Challenge: Your challenge is to make scheduling less of a burden and more of a reliefe. For instance, by creating a more transparent, user-friendly scheduling system that reduces the burden on healthcare professionals and enhances communication.
-• Objective: The objective is to design a scheduling solution that simplifies the process, making it easier to create, adjust, and communicate schedules, thereby reducing stress and improving efficiency for care professionals.
+• Objective: The objective is to design a scheduling solution that simplifies the process, making it easier to create, adjust, and communicate schedules, thereby reducing stress and improving efficiency for care professionals."
 
-"Critical Communication"
+"Critical Communication
 • Overview: Effective communication among care professionals is crucial for patient safety, yet current methods for sharing critical information are often inefficient and disorganized.
 • Current Issues: Care professionals frequently enter information into poorly organized medical records under time constraints, leading to difficulties in retrieving relevant data. This disorganization can result in critical information being missed, potentially causing severe consequences for patient care, such as allergic reactions or ineffective treatment.
 • Your Challenge: Your challenge is to enhance inter-professional communication within the existing complex IT infrastructure, ensuring that critical patient information is accurately and efficiently conveyed.
-• Objective: The objective is to develop innovative communication solutions, such as integrating speech-to-text technology or visual aids, to streamline the sharing of essential patient information, ultimately improving patient outcomes and reducing the risk of medical errors.
+• Objective: The objective is to develop innovative communication solutions, such as integrating speech-to-text technology or visual aids, to streamline the sharing of essential patient information, ultimately improving patient outcomes and reducing the risk of medical errors."
 
-"Information Management"
+"Information Management
 • Overview: Hospitals utilize a variety of software programs for recording and sharing information, including electronic medical records (Epic, Chipsoft), radiology software, and blood results software.
 • Current Issues: Care professionals often face stress due to the need to export and import information across different systems. This process can delay workflows, impact patient care, and contribute to professional burnout.
 • Your Challenge: Your challenge is to improve information management so that data flows seamlessly between different software systems, reducing the manual burden on care professionals.
-• Objective: The objective is to redesign certain aspects of these software programs to better meet the needs of users, ensuring smoother data integration and enhancing overall efficiency and effectiveness in patient care.
+• Objective: The objective is to redesign certain aspects of these software programs to better meet the needs of users, ensuring smoother data integration and enhancing overall efficiency and effectiveness in patient care."
 
 "Management of Infusion Pumps
 • Overview: Infusion pumps are essential but costly medical devices used extensively in hospitals, with almost every patient having one next to their bed.
@@ -90,25 +90,25 @@ Here is an overview of challenges you can choose from:
 • Your Challenge: Your challenge is to develop a new method for managing infusion pumps that allows nurses to easily monitor and control the pumps while minimizing noise and emotional discomfort for patients.
 • Objective: The objective is to create a solution that improves the management of infusion pumps, enhancing patient comfort and care efficiency, and ensuring that nurses can effectively oversee these devices with minimal disruption to patients."
 
-"The Future of Patient Assistance"
+"The Future of Patient Assistance
 •  Overview: Many elderly individuals feel lonely and require irregular medical attention in environments with low medical infrastructure. Quick responses are crucial, especially in emergencies such as falls. Robotic technology is being increasingly explored to assist these populations.
 •  Current Issues: Ensuring timely medical assistance and reducing loneliness among the elderly are major challenges. Traditional medical infrastructure often falls short in providing the needed support, leading to potential health risks and decreased quality of life.
 •  Your Challenge: Develop innovative assistive solutions using robotic technology to support the elderly and other vulnerable populations. Consider approaches like:
 - Designing robots that can provide companionship, monitor health conditions, and alert caregivers in case of emergencies.
 - Implementing smart home technologies that integrate with robotic assistants to create a safer living environment.
 - Developing user-friendly interfaces and ensuring that these technologies are accessible to elderly individuals.
-•  Objective: Create a comprehensive, scalable solution that enhances the quality of life for the elderly by providing reliable medical assistance and reducing loneliness. Present and validate your solution through scheduled meetings.
+•  Objective: Create a comprehensive, scalable solution that enhances the quality of life for the elderly by providing reliable medical assistance and reducing loneliness. Present and validate your solution through scheduled meetings."
 
-"Managing Chronic Diseases with Community Support"
+"Managing Chronic Diseases with Community Support
 •  Overview: Helping patients with chronic diseases, such as cardiovascular issues or diabetes, to change their behavior and adopt new habits is crucial for their long-term health. Family-based approaches, like the Family Box, aim to stimulate healthy behavior changes in both patients and their family members.
 •  Current Issues: Patients often struggle to change their lifestyle habits on their own. Involving family and creating a supportive environment can multiply the effectiveness of lifestyle interventions, leading to sustained healthy behaviors.
 •  Your Challenge: Develop integrated solutions that incorporate family and community support for chronic disease management. Consider approaches like:
 - Implementing family-based remote patient and family management (RPFM) programs to encourage collective lifestyle changes.
 - Creating educational and motivational resources for families to support each other in adopting healthier habits.
 - Designing user-friendly digital platforms for tracking and managing health behaviors as a family unit.
-•  Objective: Create a financially sustainable solution that integrates community and family support into chronic disease management within the current healthcare system. Present and validate your solution through scheduled meetings.
+•  Objective: Create a financially sustainable solution that integrates community and family support into chronic disease management within the current healthcare system. Present and validate your solution through scheduled meetings."
 
-"Designing the Consultation Room of 2030"
+"Designing the Consultation Room of 2030
 •  Overview: There's a growing trend to redesign hospital spaces to feel more natural and suited to human needs, moving away from artificial white spaces. Policy makers and hospital management are increasingly focused on providing more outpatient care to reduce costs.
 •  Current Issues: The traditional design of hospital consultation rooms can be impersonal and intimidating. There’s a need to create spaces that are more welcoming and supportive for patients and healthcare providers.
 •  Your Challenge: Develop a vision for the consultation room of 2030. Consider whether to redesign existing structures to make hospitals greener, cozier, and more familiar, or to move towards local outpatient settings or advanced remote home care. Consider approaches like:
@@ -116,48 +116,48 @@ Here is an overview of challenges you can choose from:
 - Designing spaces that integrate greenery and natural light.
 - Implementing technologies for advanced remote home care, bringing the hospital experience to the patient's living room.
 - Creating modular, adaptable spaces that can serve multiple functions.
-•  Objective: Create a comprehensive solution that redefines the consultation space, making it more human-centered and cost-effective. Present and validate your solution through scheduled meetings.
+•  Objective: Create a comprehensive solution that redefines the consultation space, making it more human-centered and cost-effective. Present and validate your solution through scheduled meetings."
 
-"Advancing Treatment Discovery and Personalized Healing"
+"Advancing Treatment Discovery and Personalized Healing
 •  Overview: Developing new treatments and clinical care pathways for complex diseases is challenging due to high genetic diversity in populations, resulting in variable responses to treatments. The introduction of new pharmaceutical products requires significant time and resources.
 •  Current Issues: Advances in laboratory experiments and machine learning techniques can simulate many biological processes, facilitating the rapid development of new treatments and clinical care pathways. These technologies can identify new drug targets, assess the therapeutic potential of existing compounds, and evaluate individual disease risks, leading to faster drug discoveries and timely preventive measures.
 •  Your Challenge: Determine the best disease to start exploring these new technologies and decide on the prime focus, whether it’s developing new treatments, modifying existing ones, or preventive care. Consider:
 - When: Addressing issues in the early drug development stage, personalizing existing treatments in hospitals (point of care), or assessing disease risks at birth.
 - Opportunities: Explore scalable, sustainable solutions that can significantly improve patient lives, such as developing faster drugs for rare or neglected diseases like osteoarthritis.
 - Technologies: Utilize software models, in silico models of the body, and ""brains on a chip"" to enhance drug discovery and therapeutic development.
-•  Objective: Create a solution that accelerates treatment discovery and personalizes healing, transforming patient care. Present and validate your solution through scheduled meetings.
+•  Objective: Create a solution that accelerates treatment discovery and personalizes healing, transforming patient care. Present and validate your solution through scheduled meetings."
 
-"Designing Strategic Hospital Spaces"
+"Designing Strategic Hospital Spaces
 •  Overview: Care professionals often face space constraints in hospitals, making it difficult to manage their tasks, gather information, deliver care, and engage in social activities. This issue contributes to burnout among healthcare workers.
 •  Current Issues: There is a need to redesign pediatric hemato-oncology outpatient rooms in University Hospital Ghent to better support care professionals. This challenge is common in many hospitals, where fitting multiple functionalities into a single room is a significant concern.
 •  Your Challenge: Develop scalable solutions to optimize hospital spaces, making them more functional and supportive for care professionals. Consider approaches like:
 - Redesigning room layouts to accommodate both clinical tasks and social activities.
 - Incorporating modular furniture and multi-purpose equipment to maximize space utilization.
 - Implementing digital solutions for information management to reduce physical clutter.
-•  Objective: Create a solution that improves the functionality and usability of hospital spaces, supporting care professionals in their daily tasks and reducing burnout. Present and validate your solution through scheduled meetings.
+•  Objective: Create a solution that improves the functionality and usability of hospital spaces, supporting care professionals in their daily tasks and reducing burnout. Present and validate your solution through scheduled meetings."
 
-"Helping Patients Thrive When Facing Death"
+"Helping Patients Thrive When Facing Death
 •  Overview: Death remains a significant taboo in many cultures, causing patients diagnosed with life-threatening diseases to feel uncertain, vulnerable, and disconnected from their normal lives. This experience often leads to feelings of dehumanization and loss of control.
 •  Current Issues: Patients facing death rapidly confront their mortality, leading to a dual response: survival mode and managing life as best they can. This experience can be overwhelming and alienating, making it difficult for patients to cope.
 •  Your Challenge: Develop solutions to help patients face their fears about death and regain a sense of control and empowerment. Consider approaches like:
 - Utilizing XR technologies to create immersive experiences that help patients confront and manage their fears.
 - Integrating ancient techniques and rituals, such as breathing exercises, dancing, creative activities, meditation, and acupuncture, to support patients' emotional and physical well-being.
 - Creating scalable, sustainable interventions that provide patients with a sense of empowerment and resilience.
-•  Objective: Create a solution that helps patients facing life-threatening illnesses to accept and cope with their mortality, regain control over their lives, and feel empowered. Present and validate your solution through scheduled meetings.
+•  Objective: Create a solution that helps patients facing life-threatening illnesses to accept and cope with their mortality, regain control over their lives, and feel empowered. Present and validate your solution through scheduled meetings."
 
-"Enhancing Decision Support Technology in Hospitals"
+"Enhancing Decision Support Technology in Hospitals
 •  Overview: The use of AI and machine learning in hospitals to support care processes is currently problematic. Both care professionals and patients are often dissatisfied with the value these technologies provide due to various issues arising early in their development.
 •  Current Issues: Implementing AI and machine learning in healthcare faces challenges such as user dissatisfaction, integration problems, and limited practical value. Improving these technologies could greatly enhance hospital decision-making processes.
 •  Your Challenge: Develop solutions to improve the effectiveness and acceptance of AI and machine learning in hospital settings. 
-•  Objective: Create a solution that enhances the value and usability of AI and machine learning in hospitals, leading to better decision support and improved patient care. Present and validate your solution through scheduled meetings.
+•  Objective: Create a solution that enhances the value and usability of AI and machine learning in hospitals, leading to better decision support and improved patient care. Present and validate your solution through scheduled meetings."
 
-"Harnessing the Benefits of the Sea in Healthcare"
+"Harnessing the Benefits of the Sea in Healthcare
 
 Overview: Humans have a deep-rooted connection to the sea, with some biologists suggesting our evolutionary origins in aquatic environments explain our affinity for the ocean. This connection can be harnessed to enhance healthcare practices both on land and offshore, providing holistic benefits to various populations.
 
 Current Issues: Traditional healthcare often overlooks the potential benefits of natural environments like the sea. Patients, especially those in remote or offshore locations, face significant challenges in accessing quality care. On land, exposure to natural seascapes is not sufficiently integrated into treatment plans, missing out on proven mental and physical health benefits. Offshore populations, such as those in floating cities or remote sea-based communities, have limited access to healthcare services, creating gaps in continuous and comprehensive care.
 
-Your Challenge: Develop innovative solutions to integrate the therapeutic benefits of the sea into healthcare practices and improve access to care for offshore populations. This involves creating effective digital healthcare platforms for remote diagnosis and treatment, establishing physical healthcare facilities on or near the sea, and incorporating natural seascapes into land-based treatments to enhance patient outcomes.
+Your Challenge: Develop innovative solutions to integrate the therapeutic benefits of the sea into healthcare practices and improve access to care for offshore populations. This involves creating effective digital healthcare platforms for remote diagnosis and treatment, establishing physical healthcare facilities on or near the sea, and incorporating natural seascapes into land-based treatments to enhance patient outcomes."
 
 Objective: Design a solution that:
 1. For Offshore Populations:
