@@ -133,7 +133,10 @@ A clear vision serves as the foundation for innovation in healthcare. By underst
 
 ```{admonition} Team Project assignment (see project chapter 9)
 :class: important 
-Developing a vision is a key part of your team project assignment.After assembling a team and setting up a project management structure you will need develop the vision for your project.
+Develop a vision for your project in terms of a single mission statement.
+
+Graduate/master level:
+Show how the mission statement is recurring in the final report and that there is a strong alignment with your unique value proposition and your beachead market.
 ```
 
 Bibliography

@@ -279,14 +279,12 @@ As you move forward, remember that the knowledge gained here is not just theoret
 We hope this chapter has inspired you to think critically and creatively about the future of health innovation. Your journey doesn't end here; it is just the beginning of your exploration into the dynamic and impactful world of socio-technical systems in healthcare.
 
 
-```{admonition} Team Project assignment (see project chapter 9)
+```{admonition} Team Project assignment (see project chapter 9): Explore phase and Create phase
 :class: important 
-* Identify the key context of the STPSS dynamics with people, organizations and technology
-* Identify how value is created in the health system
-* Apply your knowledge about the STPSS when exploring the problem-solutions and mapping out a patient journey
+* Apply the STPSS dynamics perspective in a patient journey to show where the need statement in situated (epxloration phase) and map out in the patient journey how the solution will address that need (creation phase)
 
 Master/Graduate level: 
-* Discuss and report in each phase whether you can use the trend of value-based healthcare or patient-centered care can be a catalyst for your innovation
+* Discuss and report in the explore and creat phase whether you can use the trend of value-based healthcare or patient-centered care can be a catalyst for your innovation
 ```
 
 TA Check if bibliography is complete with refs

@@ -164,6 +164,9 @@ TA ADD: Introduction lecture by dr. Sanne Allers collegerama recording (TA inser
 :class: important 
 * Apply these strategies to assess the knowledge and skills of the team to get started
 * Explore relevant problem and solution technology trends in problem-solution spaces
+
+Graduate/master:
+* Apply the entrepreneurial behaviors to the stakeholder selection criteria and map out how each team member is scoring
 ```
 
 ```{admonition} Bibliography

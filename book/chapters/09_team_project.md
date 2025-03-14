@@ -1,4 +1,4 @@
-# 8. Team innovation project: Initiate & Observe, Design & create, Engineer & robustinize, Realize & contexutalize
+# 8. Team innovation project: Initiate & explore, Design & create, Engineer & robustinize, Realize & contexutalize
 
 <center>
   <div style="padding: 10px; background-color: #00BBC8; border-radius: 10px; display: inline-block; font-weight: bold; font-size: 16px; color: #000; position: relative;">
@@ -20,7 +20,7 @@ In the innovation process there is a basic cycle that we can follow:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/onpG_Vsq8sM?si=QrPKzURv6AId2Ebe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 ```
 ````
-## 1. Getting started
+## 1. Initiation: getting  started
 ### Assemble your team
 Get Everyone on Board: The first step in any successful project is assembling a team that is committed and enthusiastic about the project's goals. Ensure that each team member understands the vision and objectives, fostering a sense of shared purpose and collaboration.
 
@@ -170,20 +170,18 @@ Present your proposed solution through detailed plans and prototypes, backed by 
 
 
 
-## 2. Observe & explore
-
-### Aim
-The aim of this phase is to explore the different levels in the problem and develop a need statement.
+## 2. Explore
+The aim of this phase is to explore the different levels in the problem and develop a need statement. First you need to narrow down the challenge into a hypothesis, aferwards you need to choose a detailed focus of that reframed challenge.
 
 ### Top-down mission or bottom up health needs exploration
-You can start with a top-down vision where you want to arrive or you can start to explore the problem by conducting research and interview people that are suffering from the problem.
+The above challenge can provide you with a starting point, but you need to think much bigger and leave the K-space to venture in the C-space. You can start with a top-down vision where you want to arrive or you can start to explore the problem by conducting research and interview people that are suffering from the problem.
 
 ### Top-down mission
 It is essential that you build a mission and vision and try to clarify what the general aim would be. 
 
 It could be a great benefit if you have someone related to your initiative who has been feeling the pain firsthand and wants to make a change.
 
-(TA check collegerama file, insert video with h5p and include quiz from Delft Startup Night)
+(TA check collegerama file, insert video quiz)
 
 ````{admonition} Watch this video hosted by Pieter Vandekerckhove and recorded at the Delft Startup Night to analyse how each of these startups started. Can you identify the passion and mission for their cause for each startup?
 ```{video} https://collegerama.tudelft.nl/Mediasite/Play/2cf7d52f175b41b0adb8563d86156c821d
@@ -220,13 +218,18 @@ From a patient and health researcher point of view
 #### Research perspective
 iCell fundamental researchers insights in biotech (combining insights from genetic insights and lab insights)
 
-new initiatives in nano-medicine
+````{admonition} Check out the talk of dr. Hazem Ahmed about how inventions in the field of nanomedicine are still lacking to translate into new medical practices (TA Review video in TU Delft Mediasite)
+```{video} https://youtu.be/fXK5R51lM_8
+```
+````
 
 ```{tip}
 Try to look for outcomes that matter to patients, tangible and intangible and match that with the outcome that are relevant in the scientific community, for example have a look at the outcomes that are relevant for young adults and adolescents with cancer https://www.mdpi.com/2072-6694/17/3/454
 ```
-### Research the needs
-**Could there be opportunities for new initiatives given the current trend in value-based healthcare from a patient perspective?** 
+
+#### Societal trends: value-based healthcare or patient-centered care?
+
+Could there be opportunities for new initiatives given the current trend in value-based healthcare from a patient perspective?
 
 Have a look at this video and what opportunities you can identify?
 
@@ -237,70 +240,116 @@ Have a look at this video and what opportunities you can identify?
 </a>
 ```
 ````
+#### Develop and rephrase the needs statement
+Develop a need statement in the format of: "A way to address (problem) in (specific population) in order to (achieve a desired outcome)". Afterwards rephrase it in the format of a hypothesis
+
+### Research the hypothesis from different stakeholder perspective
+Often people from the industry are solution driven and people in health practice are needs driven, these are two different mindsets. Make sure you explore both approaches to the problem.
+
+#### Types of research tools
+Conduct exploratory research to find out more about the underlying problem about the need hypothesis and potentially validate your need hypothesis.
+
+Generally there are three types of research you can conduct: literature review, interviews and observations. Please use the resources that are most convenient to you, but make sure you have a better understanding about the hypothesis you formulated earlier.
+
+General approach to start: try to formulate Who..., What..., Where..., How... and Why questions to get started with your research. Initially, try to explore the unknown areas where you have least amount of knowledge.
+
+Literature: you can use publicly available search robots such as Google or Google Scholar. If you are looking for health-related research you can use PubMed https://pubmed-ncbi-nlm-nih-gov.tudelft.idm.oclc.org/. If you don't have access to one of the scientific articles you need and don't know anyone who can access through their university affiliation, you can ask the EIT Health Innovation training team.
+
+Interviews: Ideally, you can get in touch with one or two key stakeholders in the field. Look for friends or family you may have indirectly or directly experienced this problem.
+
+Tips for the interview: Address someone politely and focus on the person you want to interview to ask the right questions, it can be useful if one person asks the questions and someone else just takes notes.
+
+Dig deep: don't be afraid to ask a lot of why questions to bring out that deeper knowledge and listen very actively to what is being said. Don't just focus on "thoughts": also try to bring out the emotional side of the story as this can give a good idea of ​​what the problem feels like. Try to use open questions and avoid closed yes or no questions as this can cause you to confirm what you already know. As exemplified in this video of the Mom-Test, asking closed questions can implicitly cause all your respondents to confirm your questions.
 
 
 
 
 
-<!-- This video is not available to the public --> 
 
-<!-- 🔴FOR TA: make quiz for video in h5p: 🔴
-````{admonition} 🔴Add an appropriate title for this video🔴
-```{video} https://youtu.be/fXK5R51lM_8
+
+Observation: Look for a relevant place, such as a potential healthcare organisation you have access to. Be invisible: try to stand in a corner like a plant, yes we mean that almost literally. Be in the middle of the action, where the problem may be, but in a place where you are unnoticed, where everyone can easily walk past you, so you are not immediately noticed. Above all, make sure you have permission to be there and not infringing on the privacy of the people you are observing.
+
+These questions can help you:
+What don't you see? What's not happening? Things that you expect to happen, but don't happen can be important to better identify the problem.
+What do you see? What will happen? Things that you obviously expect to happen would be easy to miss because it makes so much sense, still write down these logical events in relation to the problem situation. Is this a logical place? A logical sequence of actions? What facial expressions or nonverbal responses do you see?
+
+Conducting the field research: absorbing information
+Make sure you have all the material ready for the interview(s) or observations:
+
+pen/paper for drawing and writing, a sketch can sometimes say more than words and you can also easily use this in the visual analysis afterwards
+photo camera, video camera (smartphone), make sure your smartphone is charged and always ask permission first to take photos or make videos of the people in the picture
+
+You can structure your data collection and data analysis in the table shown underneath:
+
+```{figure} ../figures/Data-table.png
+:height: 150px
+:name: figure-example
+
+Data analysis table-Pieter Vandekerckhove
 ```
-```` -->
+			
+To properly analyse the data you can use coding software like Atlas.ti or ENVIVO and more recently there are also experimental generative AI or automation tools to transcribe interviews and analyze them. This is what a startup focused on called Qaring (folded). 
+
+You could also use validated AI research tools to review large bodies of literature like ASReview https://asreview.nl/. Here are some open exercises https://github.com/asreview/asreview-academy?tab=readme-ov-file#open-teaching-materials
 
 
+```{tip}
+Research tools to analyse a qualitative interview: check out prof Dries Faems and Niklas Geiss generative AI based cool "Expert & Resaerch Interview Helper": https://niklasg27-interview-helper-interview-helper-v0-4-90hctr.streamlit.app/
+```
 
+#### Problem behind the problem
+It is really important to dig deeper than the superficial information you receive and try to find out what the deeper lying information is about.
 
-* difference need and solution driven
+Based on the research, try to identify an underlying, more fundamental need: the problem behind the problem. For instance, you realise that the problem with chemotherapy is not in the first instance receiving the treatment as such, it is actually the idea of receiving chemotherapy as a destructive poison that is causing mental stress.
 
-first problem searching in different layers (behind hte problem)
+Here you can use a mindmap to structure your thoughts and look for underlying problems. A mindmap can be made in three steps:
+start with a central concept in the central node
+branch out of the node with related concepts
+draw connections between the nodes
+look for new insights when you feel you have saturated the mindmap
 
-**The fudamental level of human experience**
+(INSERT EXAMPLE OF MINDMAP)
+			
+
+#### The fudamental level of human experience
 
 It is important to understand how we experience our health and critical events in our life. And there is increasing amount of working being done in the field of human counsiousness to explore what we field as a human being on the experiential level of human awareness. However, the experiential level of human level is only starting to beginning to become integrated in healthcare innovations. 
 
-Watch this TED talk from Yongey Mingyur Rinpoche. What is the experiential level of awareness? How do we connect with it?
 
-````{admonition} 🔴Add an appropriate title for this video🔴
+````{admonition} Watch this TED talk from Yongey Mingyur Rinpoche. What is the experiential level of awareness? How do we connect with it?
 ```{raw} html
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LDVyOnf0t9M?si=uwx7he1M2A-DaamW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 ```
 ````
 
 
-
-We start to know more and more from a scientific point of view. Watch this TEDx video where prof. Steven Laureys explains some early scientific insights we have to understand how our consiousness works.
-
-````{admonition} 🔴Add an appropriate title for this video🔴
+````{admonition} We start to know more and more from a scientific point of view. Watch this TEDx video where prof. Steven Laureys explains some early scientific insights we have to understand how our consiousness works.
 ```{raw} html
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6Qqc_wJS6-Q?si=vC-5Ea-ex70z_bam" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 ```
 ````
 
 
-🔴FOR TA: make patient interview in h5p with quiz here🔴
 
 
-````{admonition} 🔴Add an appropriate title for this video🔴
+````{admonition} Watch this patient interview: what are the underlying emotions this patient is struggling with?
 ```{raw} html
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4Hu3qbElb9k?si=X5W5r1dwKongoC6R" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 ```
 ````
 
-<!-- This video is not available to the public>
-<!-- ````{admonition} 🔴Add an appropriate title for this video🔴
+
+````{admonition} ValEU patient panel discussion 2023 (TA review video with quiz in Mediasite)
 ```{video} https://youtu.be/n2X3OHdbuNg
 ```
-```` -->
+````
 
 
-<!-- This video is not available to the public>
-<!-- ````{admonition} 🔴Add an appropriate title for this video🔴
+
+````{admonition} ValEU patient panel discussion 2024 (TA review video in Mediasite)
 ```{video} https://youtu.be/hp1j7Web4Uo
 ```
-```` -->
+```` 
 
 ````{admonition} Patient exploration 
 
@@ -360,36 +409,23 @@ Research tools to prepare a qualitative interview: check out the generative AI t
 ```
 
 
-### Data analysis
-
-#### Mapping the data with mindmaps
-
-#### Qualitative analysis
-To properly analyse the data you can use generative AI or automation tools to transcribe interviews and analyze them. This is what a startup focused on called Qaring (folded). 
-
-You could also use validated AI research tools to review large bodies of literature like ASReview https://asreview.nl/. Here are some open exercises https://github.com/asreview/asreview-academy?tab=readme-ov-file#open-teaching-materials
-
-
-```{tip}
-Research tools to analyse a qualitative interview: check out prof Dries Faems and Niklas Geiss generative AI based cool "Expert & Resaerch Interview Helper": https://niklasg27-interview-helper-interview-helper-v0-4-90hctr.streamlit.app/
-```
 
 ```{admonition} Project Deliverables
 :class: important
 * Undergraduate level: 
    -Identify the key touchpoints in the care pathway where the problem emerges
    -conduct a qualitative interview with three key different stakeholders who are not members of your project team, transcribe them in a text document and synthesize the main themes, ADD REF Braun, V., & Clarke, V. (2006). Using thematic analysis in psychology. Qualitative research in psychology, 3(2), 77-101.
-   - Develop a need statement in the format of: "A way to address (problem) in (specific population) in order to (achieve a desired outccome)
+   - Develop a need statement in the format of: "A way to address (problem) in (specific population) in order to (achieve a desired outcome)"
 
 * Graduate level: 
-Try to gather input about the patient journey in a very detailed manner to work out a patient-level cost analysis of the pathway to quantify the paintpoint even better.
+Try to gather key details about the patient journey around the problem space to work out a patient-level cost analysis of the pathway to quantify the pain point even better.
 For example, see this paper mapping subfertility pathways by dr. Maura Leusder: Patient-level cost analysis of subfertility pathways in the Dutch healthcare system  https://link.springer.com/article/10.1007/s10198-024-01744-5
 ```
 
 
 
 
-## 3. Create & prototype minimum viable solution
+## 3. Design and create: prototype minimum viable solution
 
 ### Aim
 The aim of this session is to generate a solution to your need statement. This is the phase where you can be very creative!
@@ -470,5 +506,7 @@ Look for creative places in your organization, like the Create4Care lab at Erasm
 strategic report
 
 ## Conclusion
+
+## Deliverables, timelines and rubrics
 
 ## Bibliography
