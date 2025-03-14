@@ -98,6 +98,16 @@ case from digital health video consultation article
 ## Conclusion
 Innovation in healthcare organizations requires a strategic approach that aligns with existing structures, engages key stakeholders, and fosters a culture conducive to change. By leveraging purpose-driven missions, effective communication, and strong leadership, organizations can create sustainable innovation pathways that improve healthcare delivery.
 
+```{admonition} Team Project assignment (see project chapter 9)
+:class: important 
+* Assemble a team with the stakeholder team assembly procedure and take into account that you will need to leverage a stakeholders from the organization wherein you are innovating. Who would you like to involve?
+* Draft a scientific article format text about your prototype pilot results
+
+Master/Graduate level: 
+* identify the key issues you foresee that are necessary to front-load early in the innovation pathway and justify your selection of stakeholders accordingly
+* Develop an evidence generation strategy to convince different stakeholders about different end points and outcomes of your prototype
+* Reflect on regulatory and market access challenges if there is no framework yet for your type of solution
+
 ```{admonition} Bibliography
 :class: note 
 
