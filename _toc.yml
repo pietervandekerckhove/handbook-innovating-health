@@ -12,7 +12,7 @@ parts:
       - file: book/chapters/07_create_innovation.md
       - file: book/chapters/08_resource_management.md
       - file: book/chapters/09_embedding_innovation.md
-      - file: book/chapters/10_basic_inno_team_project.md
+      - file: book/chapters/10_team_project.md
       - file: book/chapters/authors.md
       - file: book/chapters/references.md
       - file: book/credits.md
