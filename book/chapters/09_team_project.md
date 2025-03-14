@@ -84,11 +84,11 @@ Here is an overview of challenges you can choose from:
 • Your Challenge: Your challenge is to improve information management so that data flows seamlessly between different software systems, reducing the manual burden on care professionals.
 • Objective: The objective is to redesign certain aspects of these software programs to better meet the needs of users, ensuring smoother data integration and enhancing overall efficiency and effectiveness in patient care.
 
-"Management of Infusion Pumps"
+"Management of Infusion Pumps
 • Overview: Infusion pumps are essential but costly medical devices used extensively in hospitals, with almost every patient having one next to their bed.
 • Current Issues: Hospitals purchase a variety of digitally enabled pump systems that differ in features, forms, software, and price. These devices often cause noise and emotional discomfort to patients and their families, particularly during rest.
 • Your Challenge: Your challenge is to develop a new method for managing infusion pumps that allows nurses to easily monitor and control the pumps while minimizing noise and emotional discomfort for patients.
-• Objective: The objective is to create a solution that improves the management of infusion pumps, enhancing patient comfort and care efficiency, and ensuring that nurses can effectively oversee these devices with minimal disruption to patients.
+• Objective: The objective is to create a solution that improves the management of infusion pumps, enhancing patient comfort and care efficiency, and ensuring that nurses can effectively oversee these devices with minimal disruption to patients."
 
 "The Future of Patient Assistance"
 •  Overview: Many elderly individuals feel lonely and require irregular medical attention in environments with low medical infrastructure. Quick responses are crucial, especially in emergencies such as falls. Robotic technology is being increasingly explored to assist these populations.
