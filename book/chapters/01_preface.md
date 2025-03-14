@@ -1,4 +1,4 @@
-# Strategic pathways for patient-centered care: An introduction 
+# Strategic pathways for patient-centered care: An introduction (DRAFT VERSION)
 
 ```{figure} ../figures/Copilot.jpeg
 :height: 1024px
