@@ -15,11 +15,11 @@ In this chapter we will explain the team project with the aim to apply generativ
 ## Key steps in your project: basic innovation cycle
 In the innovation process there is a basic cycle that we can follow:
 
-````{admonition} Prof. Frido Smulders explains the basic innovation cycle. Can you name the four key iterative steps and the aim of each step?
+<!-- ````{admonition} Prof. Frido Smulders explains the basic innovation cycle. Can you name the four key iterative steps and the aim of each step?
 ```{raw} html
 <iframe width="560" height="315" src="https://www.youtube.com/embed/onpG_Vsq8sM?si=QrPKzURv6AId2Ebe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 ```
-````
+```` -->
 ## 1. Initiation: getting  started
 ### Assemble your team
 Get Everyone on Board: The first step in any successful project is assembling a team that is committed and enthusiastic about the project's goals. Ensure that each team member understands the vision and objectives, fostering a sense of shared purpose and collaboration.
@@ -315,7 +315,7 @@ look for new insights when you feel you have saturated the mindmap
 
 It is important to understand how we experience our health and critical events in our life. And there is increasing amount of working being done in the field of human counsiousness to explore what we field as a human being on the experiential level of human awareness. However, the experiential level of human level is only starting to beginning to become integrated in healthcare innovations. 
 
-
+<!-- 
 ````{admonition} Watch this TED talk from Yongey Mingyur Rinpoche. What is the experiential level of awareness? How do we connect with it?
 ```{raw} html
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LDVyOnf0t9M?si=uwx7he1M2A-DaamW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -334,7 +334,7 @@ It is important to understand how we experience our health and critical events i
 ```{raw} html
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4Hu3qbElb9k?si=X5W5r1dwKongoC6R" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 ```
-````
+```` -->
 
 
 ````{admonition} ValEU patient panel discussion 2023 (TA review video with quiz in Mediasite)
@@ -430,7 +430,7 @@ The aim of this session is to generate a solution to your need statement. This i
 
 Watch this video from the TU Delft open course on Entrepreneurship for engineers from dr. Victor Scholten. In this video they explain that we ultimately want to get a good understanding about the problem-solution fit and turn that idea into a reality in the form of a prototype.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w51Sva2ttZk?si=FnsOMdARnw5SgRrV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/w51Sva2ttZk?si=FnsOMdARnw5SgRrV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> -->
 
 ### 1. Develop a customer/user/patient profile
 ### 2. Develop a persona
@@ -445,7 +445,7 @@ Validation prototype types: functional, aesthaethic, cost impact
 ## 4. Robustinize: Testing problem-solution hypotheses
 At this stage you will focus on identifying and testing a beachhead niche market in the Socio-Technical Product Service Systems (STPSS) of a niche area in the health system. Your task is to select a specific segment within the healthcare industry that represents a promising niche market for your innovative solution.
 
-Watch this video from the TU Delft Open course about Entrepreneurship for engineers from dr. Dap Hartmann: <iframe width="560" height="315" src="https://www.youtube.com/embed/GFdtwWNz_T0?si=HtHMfDqybHqCDZAE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- Watch this video from the TU Delft Open course about Entrepreneurship for engineers from dr. Dap Hartmann: <iframe width="560" height="315" src="https://www.youtube.com/embed/GFdtwWNz_T0?si=HtHMfDqybHqCDZAE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> -->
 
 **Steps to Complete the Assignment**:
 
