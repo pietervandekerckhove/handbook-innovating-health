@@ -1,4 +1,4 @@
-# 2. Create your vision
+# 2. Create your vision based on ethical values
 
 <center>
   <div style="padding: 10px; background-color: #00BBC8; border-radius: 10px; display: inline-block; font-weight: bold; font-size: 16px; color: #000; position: relative;">
@@ -62,6 +62,8 @@ One way to develop your vision about the future of healthcare is to develop a st
 * Developing a personal vision for healthcare requires deep reflection on your values, aspirations, and societal needs. Here are some strategies to help:
 
 * Identify Core Ethical Values: Reflect on what matters most to you—equity, sustainability, patient empowerment, or accessibility?
+
+Sometimes digital technologies create ethical conflicts for example new AI tools may increase access to care, but increase inequality between different users of this technology:  Glover, W., Renton, M., Minaye, H., & Dabiri, O. (2025). Assessing Equitable Development and Implementation of Artificial Intelligence-Enabled Patient Engagement Technologies: A Sociotechnical Systems Approach. Mayo Clinic Proceedings: Digital Health, 3(1), 100192.
 
 * Observe Current Healthcare Challenges: What problems do you want to solve? What gaps exist in the current system?
 
