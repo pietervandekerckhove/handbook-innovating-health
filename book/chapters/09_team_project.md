@@ -40,7 +40,7 @@ Leverage collaborative Tools
 
 By leveraging these principles and tools, teams can work more efficiently and cohesively, driving the project towards successful completion.
 
-### Choose a challenge
+<!-- ### Choose a challenge
 
 Here is an overview of challenges you can choose from:
 
@@ -259,7 +259,7 @@ Interviews: Ideally, you can get in touch with one or two key stakeholders in th
 
 Tips for the interview: Address someone politely and focus on the person you want to interview to ask the right questions, it can be useful if one person asks the questions and someone else just takes notes.
 
-Dig deep: don't be afraid to ask a lot of why questions to bring out that deeper knowledge and listen very actively to what is being said. Don't just focus on "thoughts": also try to bring out the emotional side of the story as this can give a good idea of ​​what the problem feels like. Try to use open questions and avoid closed yes or no questions as this can cause you to confirm what you already know. As exemplified in this video of the Mom-Test, asking closed questions can implicitly cause all your respondents to confirm your questions.
+Dig deep: don't be afraid to ask a lot of why questions to bring out that deeper knowledge and listen very actively to what is being said. Don't just focus on "thoughts": also try to bring out the emotional side of the story as this can give a good idea of ​​what the problem feels like. Try to use open questions and avoid closed yes or no questions as this can cause you to confirm what you already know. As exemplified in this video of the Mom-Test, asking closed questions can implicitly cause all your respondents to confirm your questions. -->
 
 
 <!-- 
