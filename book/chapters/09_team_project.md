@@ -172,7 +172,7 @@ Objective: Design a solution that:
 
 Present your proposed solution through detailed plans and prototypes, backed by research and case studies. Schedule meetings with stakeholders for feedback and validation, ensuring the solution is practical, scalable, and capable of making a significant positive impact on healthcare delivery both on land and at sea.
 
-<!--
+
 ## 2. Explore
 The aim of this phase is to explore the different levels in the problem and develop a need statement. First you need to narrow down the challenge into a hypothesis, aferwards you need to choose a detailed focus of that reframed challenge.
 
