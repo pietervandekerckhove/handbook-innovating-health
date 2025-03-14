@@ -1,4 +1,4 @@
-# 5. Create your strategic health innovation pathway
+# 5. Strategic health innovation pathways: front-loading stakeholders
 
 
 <center>

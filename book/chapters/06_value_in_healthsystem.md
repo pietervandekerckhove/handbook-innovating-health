@@ -1,4 +1,4 @@
-# 4. How stakeholders create value through innovations in a socio-technical product service system of healthcare
+# 4. Value creation in a health system: defining a need statement
 
 <center>
   <div style="padding: 10px; background-color: #00BBC8; border-radius: 10px; display: inline-block; font-weight: bold; font-size: 16px; color: #000; position: relative;">

@@ -41,9 +41,17 @@ I believe we need to work toward sustainable healthcare and healing environments
 A holistic approach to healthcare innovation should integrate sustainability, patient-centered design, and cutting-edge technologies. This includes intervention discovery and development in biotech and ICT, such as synthetic, genetic, and cellular laboratory techniques, machine learning, additive manufacturing, extended reality, theranostics, and unmanned medical aircraft. Holistic innovation pathways should incorporate diverse stakeholders, ensuring that solutions are scalable, sustainable, and impactful.
 
 ### How to make your vision relevant for sustainability?
-Read more about the vision of EU Competitives and the UN Sustainable development goals here.
+Read more about the vision of EU Competitiveness https://commission.europa.eu/topics/eu-competitiveness_en and the UN Sustainable development goals here https://sdgs.un.org/goals/goal3. In today's global sustainability challenges, it is important to take into account the challenges across different  regions. Some regions have to with abrupt changes in the climate and the continuous fight against infectious diseases.
 
-````{admonition} Watch this video on Dr. Sascha Verbruggen's vision on sustainable health innovation
+````{admonition} Disaster preparedness and infectious diseases
+```:class:seealso 
+If you are interested in learning more about disaster preparedness and infectious diseases you can take a look here at the Open World Health Organization database. Retrieved from https://openwho.org/home
+````
+
+
+
+
+````{admonition} Watch this video on Dr. Sascha Verbruggen's vision on sustainable health innovation. How would you lik to incorporate sustainability in your vision?
 
 ```{video} https://www.youtube.com/embed/_J4gLCg-6aA
 
@@ -51,7 +59,7 @@ Read more about the vision of EU Competitives and the UN Sustainable development
 ````
 
 
-If you are interested in learning more about disaster preparedness and infectious diseases you can take a look here at the Open World Health Organization database. Retrieved from https://openwho.org/home
+
 
 
 **Discuss underneath what tips and tricks you use to develop your vision:** 

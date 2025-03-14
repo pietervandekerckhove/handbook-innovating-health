@@ -172,6 +172,12 @@ Present your proposed solution through detailed plans and prototypes, backed by 
 
 ## 2. Observe & explore
 
+### Aim
+The aim of this phase is to explore the different levels in the problem and develop a need statement.
+
+### Top-down or bottom up strategy
+You can start with a top-down vision where you want to arrive or you can start to explore the problem by conducting research and interview people that are suffering from the problem.
+
 * Mission driven start
 It is essential that you build a mission and vision and try to clarify what the general aim would be. 
 
@@ -216,6 +222,7 @@ And check this platform (In Dutch): https://intalk.nl/
 ```{tip}
 Try to look for outcomes that matter to patients, tangible and intangible and match that with the outcome that are relevant in the scientific community, for example have a look at the outcomes that are relevant for young adults and adolescents with cancer https://www.mdpi.com/2072-6694/17/3/454
 ```
+### Research the needs
 
 
 **Could there be opportunities for new initiatives given the current trend in value-based healthcare from a patient perspective?** 
@@ -358,14 +365,14 @@ Why do you feel the pain challenges for Tom were so difficult to deal with? Can 
 ````
 
 
-market problem validation
+ problem validation
 
 
 ```{tip}
 Research tools to prepare a qualitative interview: check out the generative AI tool called the Autonomous customer inteviewer made by prof Dries Faems: https://automaticinterviewerpublic-owoskccwim2h9e5nynhsix.streamlit.app/ 
 ```
 
-
+### Research the needs
 
 ### Data analysis
 To properly analyse the data you can use generative AI or automation tools to transcribe interviews and analyze them. This is what a startup focused on called Qaring (folded). 
@@ -389,6 +396,18 @@ For example, see this paper mapping subfertility pathways by dr. Maura Leusder: 
 
 
 ## 3. Create & prototype minimum viable solution
+
+### Aim
+The aim of this session is to generate a solution to your need statement. This is the phase where you can be very creative!
+
+Watch this video from the TU Delft open course on Entrepreneurship for engineers from dr. Victor Scholten. In this video they explain that we ultimately want to get a good understanding about the problem-solution fit and turn that idea into a reality in the form of a prototype.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w51Sva2ttZk?si=FnsOMdARnw5SgRrV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+### 1. Develop a customer/user/patient profile
+### 2. Develop a persona
+### 3. Brainstorm
+### 4. Select the idea and create a value proposition for that idea
 
 Different types of prototypes
 
@@ -436,6 +455,8 @@ Tips for a grant proposal:
 
 ## 4. Contextualize: Testing with beachhead niche market in STPSS and financial assumptions
 At this stage you will focus on identifying and testing a beachhead niche market in the Socio-Technical Product Service Systems (STPSS) of a niche area in the health system. Your task is to select a specific segment within the healthcare industry that represents a promising niche market for your innovative solution.
+
+Watch this video from the TU Delft Open course about Entrepreneurship for engineers from dr. Dap Hartmann: <iframe width="560" height="315" src="https://www.youtube.com/embed/GFdtwWNz_T0?si=HtHMfDqybHqCDZAE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 **Steps to Complete the Assignment**:
 

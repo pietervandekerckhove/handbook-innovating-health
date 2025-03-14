@@ -9,7 +9,7 @@
 
 ## Introduction
 
-In the rapidly evolving field of healthcare entrepreneurship, the ability to integrate innovation sustainably within an organization and scale it across other healthcare organizations is crucial. You may not expect this, after having considered all the previous challenges one needs to go through, but developing a delightful and excellent product that perfectly fist the market needs is not enough to gain traction in STPSS health systems. This chapter aims to provide a comprehensive strategy for embedding innovation processes and developing a plan with key innovation pathway steps. By understanding and applying these strategies, you can ensure that your innovative ideas are effectively integrated into your organization, fostering a culture of continuous improvement and growth.
+In the rapidly evolving field of healthcare entrepreneurship, the ability to integrate innovation sustainably within an organization and scale it across other healthcare organizations is crucial. You may not expect this, but by now you have probably realised that developing a delightful and excellent product that perfectly fist the market needs is not enough to gain traction in STPSS health systems. This chapter aims to help you start to develop a strategy for embedding innovation processes and developing a plan with key innovation pathway steps towards long-term sustainability and impact. By understanding and applying these strategies, you can ensure that your innovative ideas are effectively integrated into your organization, fostering a culture of continuous improvement and growth.
 
 ## Key Innovating Behaviors in Steps
 
