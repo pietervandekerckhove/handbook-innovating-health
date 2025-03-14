@@ -41,7 +41,7 @@ Leverage collaborative Tools
 3. Miro: Miro is excellent for creative making and prototyping. It provides a virtual whiteboard where team members can brainstorm ideas, create mind maps, and develop prototypes collaboratively, fostering creativity and innovation.
 
 By leveraging these principles and tools, teams can work more efficiently and cohesively, driving the project towards successful completion.
-
+<!-- 
 ### Choose a challenge
 
 Here is an overview of challenges you can choose from:
@@ -86,7 +86,7 @@ Here is an overview of challenges you can choose from:
 • Current Issues: Hospitals purchase a variety of digitally enabled pump systems that differ in features, forms, software, and price. These devices often cause noise and emotional discomfort to patients and their families, particularly during rest.
 • Your Challenge: Your challenge is to develop a new method for managing infusion pumps that allows nurses to easily monitor and control the pumps while minimizing noise and emotional discomfort for patients.
 • Objective: The objective is to create a solution that improves the management of infusion pumps, enhancing patient comfort and care efficiency, and ensuring that nurses can effectively oversee these devices with minimal disruption to patients."
-<!-- 
+
 "The Future of Patient Assistance
 •  Overview: Many elderly individuals feel lonely and require irregular medical attention in environments with low medical infrastructure. Quick responses are crucial, especially in emergencies such as falls. Robotic technology is being increasingly explored to assist these populations.
 •  Current Issues: Ensuring timely medical assistance and reducing loneliness among the elderly are major challenges. Traditional medical infrastructure often falls short in providing the needed support, leading to potential health risks and decreased quality of life.
