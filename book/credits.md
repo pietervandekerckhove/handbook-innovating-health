@@ -5,7 +5,7 @@ You can refer to this book as:
 
 > `<editors>` (`<year>`) _`<title>`_. `<url to github repo>`
 
-Vandekerckhove, Maisch, Howard (2025) Strategic pathways for patient-centered care: An introduction. https://github.com/pietervandekerckhove/handbook-innovating-health 
+Vandekerckhove, Maisch, Howard, Smulders, Van Neste (2025) Strategic pathways for patient-centered care: An introduction. https://github.com/pietervandekerckhove/handbook-innovating-health 
 
 The introduction, structure of the book and formatting of contents is done by the Editors. Some chapters and pages have additional primary authors who are identified within the book either at the bottom of the first page in a chapter, or at the bottom of an individual page, as necessary. If an author is not listed on a particular page, it is by the Editors.
 
