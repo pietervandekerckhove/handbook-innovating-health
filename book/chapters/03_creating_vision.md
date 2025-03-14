@@ -1,21 +1,28 @@
-# 2. Create your vision based on ethical values
+# 2. Create your healthcare innovation vision based on ethical values
 
 <center>
   <div style="padding: 10px; background-color: #00BBC8; border-radius: 10px; display: inline-block; font-weight: bold; font-size: 16px; color: #000; position: relative;">
     <span style="background-color: white; color: #00BBC8; border-radius: 50%; padding: 5px 10px; font-size: 15px; font-weight: bold; margin-right: 8px; display: inline-block;">Learning goal</span>
-    Understand the role of a vision and be able to identify underlying ethical values in a vision
+    Understand the role of a vision and be able to identify underlying ethical values in a vision for a healthcare innovation
   </div>
 </center>
 <br>
 
+## Introduction
 
-**The Relevance of a Vision**
+In the rapidly evolving field of healthcare innovation, having a clear and compelling vision is crucial. A vision serves as a guiding star, illuminating the path towards transformative advancements and ensuring that efforts are aligned with overarching goals. This chapter aims to deepen your understanding of the role of a vision in healthcare innovation and to equip you with the skills to identify the underlying ethical values embedded within it.
+
+A well-crafted vision not only outlines the desired future state but also reflects the core values and principles that drive the innovation process. By examining various examples and case studies, you will learn how to discern the ethical considerations that shape these visions. This knowledge will empower you to create and evaluate visions that are not only ambitious and forward-thinking but also ethically sound and socially responsible.
+
+As you progress through this chapter, you will explore the importance of ethical values in guiding decision-making and fostering trust among stakeholders. You will also gain insights into how a vision can inspire and motivate teams, attract investment, and ultimately lead to meaningful and sustainable healthcare innovations.
+
+## The Relevance of a Vision
 
 A vision serves as a guiding principle, offering direction and purpose to individuals and organizations striving for change. It helps to inspire and align stakeholders, ensuring that efforts are coordinated and impactful. In the context of healthcare, a strong vision is essential for fostering sustainable innovation that meets societal needs.
 
 A powerful example of the importance of a unified vision can be seen in the response to the COVID-19 pandemic. The crisis created a global mission that brought together stakeholders from various industries—healthcare, technology, logistics, and policymaking—who had never collaborated on this scale before. This urgency led to the rapid development and deployment of new solutions, such as temperature measurement systems, sanitizing technologies, personal protective equipment, and vaccines. The pandemic demonstrated that when there is a shared vision, innovation pathways become more integrated and effective, enabling faster and more impactful solutions. Without a collective vision, efforts can become fragmented, leading to slower progress and inefficiencies.
 
-**Vision vs. Strategy vs. Plan**
+## Vision vs. Strategy vs. Plan
 
 While often used interchangeably, a vision, a strategy, and a plan each play distinct roles in driving innovation:
 
@@ -27,13 +34,16 @@ While often used interchangeably, a vision, a strategy, and a plan each play dis
 
 By establishing a compelling vision, innovators can align strategies and plans to create meaningful change.
 
-**Key elements to consider in your vision**
+## Key elements to consider in your vision
 
 I believe we need to work toward sustainable healthcare and healing environments, through which people can practice a healing mindfulness experience. Meditation and mindfulness can be powerful tools in healthcare, not only for patients but also for healthcare professionals to manage stress and improve well-being.
 
 A holistic approach to healthcare innovation should integrate sustainability, patient-centered design, and cutting-edge technologies. This includes intervention discovery and development in biotech and ICT, such as synthetic, genetic, and cellular laboratory techniques, machine learning, additive manufacturing, extended reality, theranostics, and unmanned medical aircraft. Holistic innovation pathways should incorporate diverse stakeholders, ensuring that solutions are scalable, sustainable, and impactful.
 
-````{admonition} Watch this video on TU Delft's latest innovation in healthcare technology.
+### How to make your vision relevant for sustainability?
+Read more about the vision of EU Competitives and the UN Sustainable development goals here.
+
+````{admonition} Watch this video on Dr. Sascha Verbruggen's vision on sustainable health innovation
 
 ```{video} https://www.youtube.com/embed/_J4gLCg-6aA
 
