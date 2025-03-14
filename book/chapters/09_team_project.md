@@ -1,6 +1,6 @@
 # 8. Team innovation project: Initiate & explore, Design & create, Engineer & robustinize, Realize & contexutalize
 
-<center>
+<!-- <center>
   <div style="padding: 10px; background-color: #00BBC8; border-radius: 10px; display: inline-block; font-weight: bold; font-size: 16px; color: #000; position: relative;">
     <span style="background-color: white; color: #00BBC8; border-radius: 50%; padding: 5px 10px; font-size: 15px; font-weight: bold; margin-right: 8px; display: inline-block;">Learning goal</span>
    Apply generative co-design sessions + business development tools to guide strategic decisions across the basic innovation cycle with a team challenge.
@@ -38,7 +38,7 @@ Leverage collaborative Tools
 
 3. Miro: Miro is excellent for creative making and prototyping. It provides a virtual whiteboard where team members can brainstorm ideas, create mind maps, and develop prototypes collaboratively, fostering creativity and innovation.
 
-By leveraging these principles and tools, teams can work more efficiently and cohesively, driving the project towards successful completion.
+By leveraging these principles and tools, teams can work more efficiently and cohesively, driving the project towards successful completion. -->
 
 <!-- ### Choose a challenge
 
