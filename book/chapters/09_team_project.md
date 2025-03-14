@@ -1,4 +1,4 @@
-<!-- # 8. Team innovation project: Initiate & explore, Design & create, Engineer & robustinize, Realize & contexutalize
+# 8. Team innovation project: Initiate & explore, Design & create, Engineer & robustinize, Realize & contexutalize
 
 <center>
   <div style="padding: 10px; background-color: #00BBC8; border-radius: 10px; display: inline-block; font-weight: bold; font-size: 16px; color: #000; position: relative;">
@@ -316,7 +316,7 @@ look for new insights when you feel you have saturated the mindmap
 It is important to understand how we experience our health and critical events in our life. And there is increasing amount of working being done in the field of human counsiousness to explore what we field as a human being on the experiential level of human awareness. However, the experiential level of human level is only starting to beginning to become integrated in healthcare innovations. 
 
 
-````{admonition} Watch this TED talk from Yongey Mingyur Rinpoche. What is the experiential level of awareness? How do we connect with it?
+<!-- ````{admonition} Watch this TED talk from Yongey Mingyur Rinpoche. What is the experiential level of awareness? How do we connect with it?
 ```{raw} html
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LDVyOnf0t9M?si=uwx7he1M2A-DaamW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 ```
@@ -327,16 +327,16 @@ It is important to understand how we experience our health and critical events i
 ```{raw} html
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6Qqc_wJS6-Q?si=vC-5Ea-ex70z_bam" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 ```
-````
+```` -->
 
 
 
 
-````{admonition} Watch this patient interview: what are the underlying emotions this patient is struggling with?
+<!-- ````{admonition} Watch this patient interview: what are the underlying emotions this patient is struggling with?
 ```{raw} html
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4Hu3qbElb9k?si=X5W5r1dwKongoC6R" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 ```
-````
+```` -->
 
 
 ````{admonition} ValEU patient panel discussion 2023 (TA review video with quiz in Mediasite)
@@ -431,8 +431,8 @@ For example, see this paper mapping subfertility pathways by dr. Maura Leusder: 
 The aim of this session is to generate a solution to your need statement. This is the phase where you can be very creative!
 
 Watch this video from the TU Delft open course on Entrepreneurship for engineers from dr. Victor Scholten. In this video they explain that we ultimately want to get a good understanding about the problem-solution fit and turn that idea into a reality in the form of a prototype.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w51Sva2ttZk?si=FnsOMdARnw5SgRrV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w51Sva2ttZk?si=FnsOMdARnw5SgRrV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> -->
 
 ### 1. Develop a customer/user/patient profile
 ### 2. Develop a persona
@@ -509,4 +509,4 @@ strategic report
 
 ## Deliverables, timelines and rubrics
 
-## Bibliography -->
+## Bibliography
