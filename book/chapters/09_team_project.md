@@ -175,7 +175,7 @@ Present your proposed solution through detailed plans and prototypes, backed by 
 
 ## 2. Explore
 The aim of this phase is to explore the different levels in the problem and develop a need statement. First you need to narrow down the challenge into a hypothesis, aferwards you need to choose a detailed focus of that reframed challenge.
-<!--
+
 ### Top-down mission or bottom up health needs exploration
 The above challenge can provide you with a starting point, but you need to think much bigger and leave the K-space to venture in the C-space. You can start with a top-down vision where you want to arrive or you can start to explore the problem by conducting research and interview people that are suffering from the problem.
 
@@ -244,7 +244,7 @@ Have a look at this video and what opportunities you can identify?
 ```
 ````
 ## Develop and rephrase the needs statement
-Develop a need statement in the format of: "A way to address (problem) in (specific population) in order to (achieve a desired outcome)". Afterwards rephrase it in the format of a hypothesis
+Develop a need statement in the format of: A way to address (problem) in (specific population) in order to (achieve a desired outcome). Afterwards rephrase it in the format of a hypothesis
 
 ### Research the hypothesis from different stakeholder perspective
 Often people from the industry are solution driven and people in health practice are needs driven, these are two different mindsets. Make sure you explore both approaches to the problem.
@@ -262,7 +262,7 @@ Interviews: Ideally, you can get in touch with one or two key stakeholders in th
 
 Tips for the interview: Address someone politely and focus on the person you want to interview to ask the right questions, it can be useful if one person asks the questions and someone else just takes notes.
 
-Dig deep: don't be afraid to ask a lot of why questions to bring out that deeper knowledge and listen very actively to what is being said. Don't just focus on "thoughts": also try to bring out the emotional side of the story as this can give a good idea of ​​what the problem feels like. Try to use open questions and avoid closed yes or no questions as this can cause you to confirm what you already know. As exemplified in this video of the Mom-Test, asking closed questions can implicitly cause all your respondents to confirm your questions. 
+Dig deep: don't be afraid to ask a lot of why questions to bring out that deeper knowledge and listen very actively to what is being said. Don't just focus on thoughts: also try to bring out the emotional side of the story as this can give a good idea of ​​what the problem feels like. Try to use open questions and avoid closed yes or no questions as this can cause you to confirm what you already know. As exemplified in this video of the Mom-Test, asking closed questions can implicitly cause all your respondents to confirm your questions. 
 
 
 
@@ -293,7 +293,7 @@ You could also use validated AI research tools to review large bodies of literat
 
 
 ```{tip}
-Research tools to analyse a qualitative interview: check out prof Dries Faems and Niklas Geiss generative AI based cool "Expert & Resaerch Interview Helper": https://niklasg27-interview-helper-interview-helper-v0-4-90hctr.streamlit.app/
+Research tools to analyse a qualitative interview: check out prof Dries Faems and Niklas Geiss generative AI based cool Expert & Resaerch Interview Helper: https://niklasg27-interview-helper-interview-helper-v0-4-90hctr.streamlit.app/
 ```
 
 #### Problem behind the problem
@@ -412,7 +412,7 @@ Research tools to prepare a qualitative interview: check out the generative AI t
 * Undergraduate level: 
    -Identify the key touchpoints in the care pathway where the problem emerges
    -conduct a qualitative interview with three key different stakeholders who are not members of your project team, transcribe them in a text document and synthesize the main themes, ADD REF Braun, V., & Clarke, V. (2006). Using thematic analysis in psychology. Qualitative research in psychology, 3(2), 77-101.
-   - Develop a need statement in the format of: "A way to address (problem) in (specific population) in order to (achieve a desired outcome)"
+   - Develop a need statement in the format of: A way to address (problem) in (specific population) in order to (achieve a desired outcome)
 
 * Graduate level: 
 Try to gather key details about the patient journey around the problem space to work out a patient-level cost analysis of the pathway to quantify the pain point even better.
