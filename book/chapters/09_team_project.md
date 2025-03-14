@@ -21,13 +21,14 @@ In the innovation process there is a basic cycle that we can follow:
 ```
 ````
 
-
+<!-- 
 ## 1. Initiation: getting  started
+
 ### Assemble your team
 Get Everyone on Board: The first step in any successful project is assembling a team that is committed and enthusiastic about the project's goals. Ensure that each team member understands the vision and objectives, fostering a sense of shared purpose and collaboration.
 
 In case you do not have a team yet go through the stakeholder assembly procedure in chapter 5 (add link). In case you have been assigned a team, skip the recruitment step and map out the knowledge domains and skills of every team member.
-<!-- 
+
 ### Project management
 1. Develop a Team Name: Creating a team name can help build identity and unity. A team name fosters a sense of belonging and can be a fun way to encourage team spirit and camaraderie.
 
