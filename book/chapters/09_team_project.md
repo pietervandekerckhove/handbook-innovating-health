@@ -1,6 +1,6 @@
-# 8. Team innovation project: Initiate & explore, Design & create, Engineer & robustinize, Realize & contexutalize
+<!-- # 8. Team innovation project: Initiate & explore, Design & create, Engineer & robustinize, Realize & contexutalize
 
-<!-- <center>
+<center>
   <div style="padding: 10px; background-color: #00BBC8; border-radius: 10px; display: inline-block; font-weight: bold; font-size: 16px; color: #000; position: relative;">
     <span style="background-color: white; color: #00BBC8; border-radius: 50%; padding: 5px 10px; font-size: 15px; font-weight: bold; margin-right: 8px; display: inline-block;">Learning goal</span>
    Apply generative co-design sessions + business development tools to guide strategic decisions across the basic innovation cycle with a team challenge.
@@ -15,11 +15,11 @@ In this chapter we will explain the team project with the aim to apply generativ
 ## Key steps in your project: basic innovation cycle
 In the innovation process there is a basic cycle that we can follow:
 
-<!-- ````{admonition} Prof. Frido Smulders explains the basic innovation cycle. Can you name the four key iterative steps and the aim of each step?
+````{admonition} Prof. Frido Smulders explains the basic innovation cycle. Can you name the four key iterative steps and the aim of each step?
 ```{raw} html
 <iframe width="560" height="315" src="https://www.youtube.com/embed/onpG_Vsq8sM?si=QrPKzURv6AId2Ebe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 ```
-```` -->
+````
 ## 1. Initiation: getting  started
 ### Assemble your team
 Get Everyone on Board: The first step in any successful project is assembling a team that is committed and enthusiastic about the project's goals. Ensure that each team member understands the vision and objectives, fostering a sense of shared purpose and collaboration.
@@ -38,9 +38,9 @@ Leverage collaborative Tools
 
 3. Miro: Miro is excellent for creative making and prototyping. It provides a virtual whiteboard where team members can brainstorm ideas, create mind maps, and develop prototypes collaboratively, fostering creativity and innovation.
 
-By leveraging these principles and tools, teams can work more efficiently and cohesively, driving the project towards successful completion. -->
+By leveraging these principles and tools, teams can work more efficiently and cohesively, driving the project towards successful completion.
 
-<!-- ### Choose a challenge
+### Choose a challenge
 
 Here is an overview of challenges you can choose from:
 
@@ -259,11 +259,7 @@ Interviews: Ideally, you can get in touch with one or two key stakeholders in th
 
 Tips for the interview: Address someone politely and focus on the person you want to interview to ask the right questions, it can be useful if one person asks the questions and someone else just takes notes.
 
-Dig deep: don't be afraid to ask a lot of why questions to bring out that deeper knowledge and listen very actively to what is being said. Don't just focus on "thoughts": also try to bring out the emotional side of the story as this can give a good idea of ​​what the problem feels like. Try to use open questions and avoid closed yes or no questions as this can cause you to confirm what you already know. As exemplified in this video of the Mom-Test, asking closed questions can implicitly cause all your respondents to confirm your questions. -->
-
-
-<!-- 
-
+Dig deep: don't be afraid to ask a lot of why questions to bring out that deeper knowledge and listen very actively to what is being said. Don't just focus on "thoughts": also try to bring out the emotional side of the story as this can give a good idea of ​​what the problem feels like. Try to use open questions and avoid closed yes or no questions as this can cause you to confirm what you already know. As exemplified in this video of the Mom-Test, asking closed questions can implicitly cause all your respondents to confirm your questions. 
 
 
 
@@ -315,7 +311,7 @@ look for new insights when you feel you have saturated the mindmap
 
 It is important to understand how we experience our health and critical events in our life. And there is increasing amount of working being done in the field of human counsiousness to explore what we field as a human being on the experiential level of human awareness. However, the experiential level of human level is only starting to beginning to become integrated in healthcare innovations. 
 
-<!-- 
+
 ````{admonition} Watch this TED talk from Yongey Mingyur Rinpoche. What is the experiential level of awareness? How do we connect with it?
 ```{raw} html
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LDVyOnf0t9M?si=uwx7he1M2A-DaamW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -334,7 +330,7 @@ It is important to understand how we experience our health and critical events i
 ```{raw} html
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4Hu3qbElb9k?si=X5W5r1dwKongoC6R" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 ```
-```` -->
+````
 
 
 ````{admonition} ValEU patient panel discussion 2023 (TA review video with quiz in Mediasite)
@@ -430,7 +426,7 @@ The aim of this session is to generate a solution to your need statement. This i
 
 Watch this video from the TU Delft open course on Entrepreneurship for engineers from dr. Victor Scholten. In this video they explain that we ultimately want to get a good understanding about the problem-solution fit and turn that idea into a reality in the form of a prototype.
 
-<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/w51Sva2ttZk?si=FnsOMdARnw5SgRrV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w51Sva2ttZk?si=FnsOMdARnw5SgRrV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### 1. Develop a customer/user/patient profile
 ### 2. Develop a persona
@@ -445,7 +441,7 @@ Validation prototype types: functional, aesthaethic, cost impact
 ## 4. Robustinize: Testing problem-solution hypotheses
 At this stage you will focus on identifying and testing a beachhead niche market in the Socio-Technical Product Service Systems (STPSS) of a niche area in the health system. Your task is to select a specific segment within the healthcare industry that represents a promising niche market for your innovative solution.
 
-<!-- Watch this video from the TU Delft Open course about Entrepreneurship for engineers from dr. Dap Hartmann: <iframe width="560" height="315" src="https://www.youtube.com/embed/GFdtwWNz_T0?si=HtHMfDqybHqCDZAE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> -->
+Watch this video from the TU Delft Open course about Entrepreneurship for engineers from dr. Dap Hartmann: <iframe width="560" height="315" src="https://www.youtube.com/embed/GFdtwWNz_T0?si=HtHMfDqybHqCDZAE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 **Steps to Complete the Assignment**:
 
@@ -507,4 +503,4 @@ strategic report
 
 ## Deliverables, timelines and rubrics
 
-## Bibliography -->
+## Bibliography
