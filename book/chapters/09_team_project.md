@@ -175,7 +175,7 @@ The aim of this phase is to explore the different levels in the problem and deve
 
 ### Top-down mission or bottom up health needs exploration
 The above challenge can provide you with a starting point, but you need to think much bigger and leave the K-space to venture in the C-space. You can start with a top-down vision where you want to arrive or you can start to explore the problem by conducting research and interview people that are suffering from the problem.
-
+<!-- 
 ### Top-down mission
 It is essential that you build a mission and vision and try to clarify what the general aim would be. 
 
@@ -226,6 +226,8 @@ iCell fundamental researchers insights in biotech (combining insights from genet
 ```{tip}
 Try to look for outcomes that matter to patients, tangible and intangible and match that with the outcome that are relevant in the scientific community, for example have a look at the outcomes that are relevant for young adults and adolescents with cancer https://www.mdpi.com/2072-6694/17/3/454
 ```
+-->
+
 <!-->
 #### Societal trends: value-based healthcare or patient-centered care?
 
