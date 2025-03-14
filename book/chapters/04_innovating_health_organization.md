@@ -3,12 +3,27 @@
 <center>
   <div style="padding: 10px; background-color: #00BBC8; border-radius: 10px; display: inline-block; font-weight: bold; font-size: 16px; color: #000; position: relative;">
     <span style="background-color: white; color: #00BBC8; border-radius: 50%; padding: 5px 10px; font-size: 15px; font-weight: bold; margin-right: 8px; display: inline-block;">Learning goal</span>
-    Develop a strategy to innovate on an individual in healthcare organizations 
+    Develop a strategy to innovate on an individual level in healthcare organizations 
   </div>
 </center>
 <br>
 
 ## Introduction
+In the dynamic landscape of health organizations, innovation and entrepreneurship at the individual level are crucial for driving progress and fostering continuous improvement. This chapter explores how individuals can harness their creativity, skills, and passion to make a meaningful impact in healthcare.
+
+Innovation involves identifying opportunities for improvement, developing novel solutions, and implementing changes that enhance care quality and operational efficiency. Entrepreneurship requires taking initiative, assuming risks, and driving projects that create value for patients, providers, and the organization. Successful healthcare entrepreneurship demands collaboration among diverse sectors, learning through experience, coping with ambiguity and risk, and meticulous planning.
+
+As you progress through this chapter, you will learn how to develop a strategy to innovate on an individual level in healthcare organizations. Focus on key entrepreneurial behaviors:
+
+Collaborate and lead change: Work closely with diverse sectors to achieve common goals.
+* Learn through experience: Set up evidence strategies for clinical trials.
+* Cope with ambiguity and risk: Navigate project uncertainty and the inherent risks of healthcare.
+* Plan upfront: Understand the long timelines and risks in healthcare entrepreneurship.
+* Take initiative: Collaborate with stakeholders to align priorities and tackle relevant problems.
+
+Additionally, you will learn about the strategic alignment of these behaviors with the incentives of various stakeholders in the health system. This understanding is crucial for ensuring that your innovative efforts are supported and sustained within the complex healthcare environment.
+
+This chapter is highly relevant for your team project assignment. Use the insights gained to develop a strategic vision and assemble a powerful team. 
 
 ## Defining Innovation
 ````{admonition} Watch the video of Prof. Frido Smulders: Can you define three key elements about the definition of innovation that are relevant for the health setting?

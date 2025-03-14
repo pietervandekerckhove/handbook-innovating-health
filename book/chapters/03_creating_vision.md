@@ -73,7 +73,7 @@ One way to develop your vision about the future of healthcare is to develop a st
 
 * Identify Core Ethical Values: Reflect on what matters most to you—equity, sustainability, patient empowerment, or accessibility?
 
-Sometimes digital technologies create ethical conflicts for example new AI tools may increase access to care, but increase inequality between different users of this technology:  Glover, W., Renton, M., Minaye, H., & Dabiri, O. (2025). Assessing Equitable Development and Implementation of Artificial Intelligence-Enabled Patient Engagement Technologies: A Sociotechnical Systems Approach. Mayo Clinic Proceedings: Digital Health, 3(1), 100192.
+Sometimes digital technologies create ethical conflicts for example new AI tools may increase access to care, but increase inequality between different users of this technology. (ADD REF) Glover, W., Renton, M., Minaye, H., & Dabiri, O. (2025). Assessing Equitable Development and Implementation of Artificial Intelligence-Enabled Patient Engagement Technologies: A Sociotechnical Systems Approach. Mayo Clinic Proceedings: Digital Health, 3(1), 100192.
 
 * Observe Current Healthcare Challenges: What problems do you want to solve? What gaps exist in the current system?
 
@@ -119,13 +119,15 @@ A creative way to develop and refine your healthcare vision is through Sci-Fi st
 
 For more details on the exercise, explore the Sci-Fi storyline mapping tool: Lavinia Marin & Gitte van Helden's Exercise.
 
-```{admonition} Team Project assignment (see project chapter 9)
-:class: important 
-Developing a vision is a key part of your team project assignment.After assembling a team and setting up a project management structure you will need develop the vision for your project.
-```
 
 **Conclusion**
 
 A clear vision serves as the foundation for innovation in healthcare. By understanding the difference between vision, strategy, and planning, and by actively engaging in exercises like Sci-Fi storyline mapping, you can create a vision that is not only inspiring but also actionable. Whether you are a healthcare professional, entrepreneur, researcher, or policymaker, defining your vision will help drive meaningful and sustainable change in the healthcare system.
 
+```{admonition} Team Project assignment (see project chapter 9)
+:class: important 
+Developing a vision is a key part of your team project assignment.After assembling a team and setting up a project management structure you will need develop the vision for your project.
+```
+
+Bibliography
 REFERENCE: Lavinia Marin (TU Delft) & Gitte van Helden (TU Delft) https://edusources.nl/materials/eee79e8a-5456-403d-9e5d-fba2f9686f72/sci-fi-storyline-mapping-starting-from-writing-prompts?tab=0. 
