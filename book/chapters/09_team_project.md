@@ -1,4 +1,4 @@
-# 9. Team innovation project: Initiate & Observe, Design & create, Engineer & robustinize, Realize & contexutalize
+# 8. Team innovation project: Initiate & Observe, Design & create, Engineer & robustinize, Realize & contexutalize
 
 <center>
   <div style="padding: 10px; background-color: #00BBC8; border-radius: 10px; display: inline-block; font-weight: bold; font-size: 16px; color: #000; position: relative;">
@@ -175,10 +175,10 @@ Present your proposed solution through detailed plans and prototypes, backed by 
 ### Aim
 The aim of this phase is to explore the different levels in the problem and develop a need statement.
 
-### Top-down or bottom up strategy
+### Top-down mission or bottom up health needs exploration
 You can start with a top-down vision where you want to arrive or you can start to explore the problem by conducting research and interview people that are suffering from the problem.
 
-* Mission driven start
+### Top-down mission
 It is essential that you build a mission and vision and try to clarify what the general aim would be. 
 
 It could be a great benefit if you have someone related to your initiative who has been feeling the pain firsthand and wants to make a change.
@@ -190,13 +190,10 @@ It could be a great benefit if you have someone related to your initiative who h
 ```
 ````
 
-
-**Initiatives driven by a patient perspective case examples**:
-
+### Bottom up health needs exploration
+#### Startups
 * patient expert and founder Lennart Zielstra Rezolve Medical https://www.rezolvemedical.com/
-
-
-````{admonition} 🔴Add an appropriate title for this video🔴
+````{admonition} Learn from Lennart Zielstra's mission: what  drove him to start his work?
 ```{video} https://www.youtube.com/watch?v=Ifs9GGBzsHY
 ```
 ````
@@ -206,25 +203,29 @@ It could be a great benefit if you have someone related to your initiative who h
 * patient expert and founder Digizorg Merel Backers https://www.linkedin.com/in/merelbackers/
 * patient expert and entrepreneur: develop space to manage the data of patients:  https://www.digitaal-dossier.nl/
 
-There are also many different patient startup networks:
-
+You could also explore many different patient startup networks:
 * Patient Innovation Bootcamp: https://patient-innovation.com/
 
-
+#### Patient experiences
 There are patient stories others can work with:
 
 Check the growing libraries of patient stories: https://www.patientervaringsverhalen.nl/
-
 And check this platform (In Dutch): https://intalk.nl/
 
+#### Care professional experiences
+dr. Sascha Verbruggen
 
+From a patient and health researcher point of view
+
+#### Research perspective
+iCell fundamental researchers insights in biotech (combining insights from genetic insights and lab insights)
+
+new initiatives in nano-medicine
 
 ```{tip}
 Try to look for outcomes that matter to patients, tangible and intangible and match that with the outcome that are relevant in the scientific community, for example have a look at the outcomes that are relevant for young adults and adolescents with cancer https://www.mdpi.com/2072-6694/17/3/454
 ```
 ### Research the needs
-
-
 **Could there be opportunities for new initiatives given the current trend in value-based healthcare from a patient perspective?** 
 
 Have a look at this video and what opportunities you can identify?
@@ -238,20 +239,6 @@ Have a look at this video and what opportunities you can identify?
 ````
 
 
-
-(youtube video incorporated in the book with the URL generator  https://markdown-videos.jorgenkh.no/)
-
-**From a care professional perspective**
-
-dr. Sascha Verbruggen
-
-From a patient and health researcher point of view
-
-**From a health research perspective**
-
-iCell fundamental researchers insights in biotech (combining insights from genetic insights and lab insights)
-
-new initiatives in nano-medicine
 
 
 
@@ -334,7 +321,7 @@ We start to know more and more from a scientific point of view. Watch this TEDx 
 
 Explore the patient and family dynamics in focus group (Interview Mark)
 
-clinical problem validation, understanding care pathways and patient journeys
+### Clinical problem validation, mapping out care pathways and patient journeys over time
 
 When looking at your diagnosis as a patient decades after the diagnosis happened it is interesting how profound the emotions are and how traumatic the impact can be, even if the cancer is cured.
 
@@ -365,16 +352,19 @@ Why do you feel the pain challenges for Tom were so difficult to deal with? Can 
 ````
 
 
- problem validation
+### Problem validation
 
 
 ```{tip}
 Research tools to prepare a qualitative interview: check out the generative AI tool called the Autonomous customer inteviewer made by prof Dries Faems: https://automaticinterviewerpublic-owoskccwim2h9e5nynhsix.streamlit.app/ 
 ```
 
-### Research the needs
 
 ### Data analysis
+
+#### Mapping the data with mindmaps
+
+#### Qualitative analysis
 To properly analyse the data you can use generative AI or automation tools to transcribe interviews and analyze them. This is what a startup focused on called Qaring (folded). 
 
 You could also use validated AI research tools to review large bodies of literature like ASReview https://asreview.nl/. Here are some open exercises https://github.com/asreview/asreview-academy?tab=readme-ov-file#open-teaching-materials
@@ -389,6 +379,7 @@ Research tools to analyse a qualitative interview: check out prof Dries Faems an
 * Undergraduate level: 
    -Identify the key touchpoints in the care pathway where the problem emerges
    -conduct a qualitative interview with three key different stakeholders who are not members of your project team, transcribe them in a text document and synthesize the main themes, ADD REF Braun, V., & Clarke, V. (2006). Using thematic analysis in psychology. Qualitative research in psychology, 3(2), 77-101.
+   - Develop a need statement in the format of: "A way to address (problem) in (specific population) in order to (achieve a desired outccome)
 
 * Graduate level: 
 Try to gather input about the patient journey in a very detailed manner to work out a patient-level cost analysis of the pathway to quantify the paintpoint even better.
@@ -464,7 +455,7 @@ Tips for a grant proposal:
 * align your proposal with the criteria of the funding body: e.g. for EU grants, it is important to take into account the larger EU Competitive theme into account: https://commission.europa.eu/topics/eu-competitiveness_en
 
 
-## 4. Realize: Testing with beachhead niche market in STPSS and financial assumptions
+## 4. Realize: embedding strategy
 starting simple validation to more complex validation
 1. early in practice validation
 
@@ -476,6 +467,7 @@ Try a feasibility like this Virtual reality application combined with neurofeedb
 ```{tip}
 Look for creative places in your organization, like the Create4Care lab at Erasmus MC or Rotterdam Square validation processes, you can use to validate clinical aspects of your innovation
 ```
+strategic report
 
 ## Conclusion
 

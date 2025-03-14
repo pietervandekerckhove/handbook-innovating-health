@@ -1,4 +1,4 @@
-# 7. Resource Management Strategies in the Health System (Financial Management, Types of Funding, and Investors)
+# 6. Resource Management Strategy: creating a prototyping pipeline
 
 <center>
   <div style="padding: 10px; background-color: #00BBC8; border-radius: 10px; display: inline-block; font-weight: bold; font-size: 16px; color: #000; position: relative;">

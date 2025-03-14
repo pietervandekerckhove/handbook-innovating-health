@@ -1,4 +1,4 @@
-# 5. Strategic health innovation pathways: front-loading stakeholders
+# 3. Strategic health innovation pathways: front-loading stakeholders
 
 
 <center>
