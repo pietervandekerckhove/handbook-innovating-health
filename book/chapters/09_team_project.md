@@ -190,7 +190,7 @@ It could be a great benefit if you have someone related to your initiative who h
 ```{video} https://collegerama.tudelft.nl/Mediasite/Play/2cf7d52f175b41b0adb8563d86156c821d
 ```
 ````
-<!--
+
 ### Bottom up health needs exploration
 #### Startups
 * patient expert and founder Lennart Zielstra Rezolve Medical https://www.rezolvemedical.com/
@@ -220,7 +220,7 @@ From a patient and health researcher point of view
 
 #### Research perspective
 iCell fundamental researchers insights in biotech (combining insights from genetic insights and lab insights)
-
+<!--
 ````{admonition} Check out the talk of dr. Hazem Ahmed about how inventions in the field of nanomedicine are still lacking to translate into new medical practices (TA Review video in TU Delft Mediasite)
 ```{video} https://youtu.be/fXK5R51lM_8
 ```
