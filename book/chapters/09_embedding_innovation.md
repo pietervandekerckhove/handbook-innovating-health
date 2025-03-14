@@ -119,3 +119,5 @@ Master/graduate level:
 * Develop an innovation pathway for your project, whereby you outline the key hypothesis, the risks and a risk mitigation strategy
 * Include that in a pitch deck and full report following the structure of basic innovation cycle to present this to the key decision makers (heads of departments, boards)
 ```
+
+## Bibliography

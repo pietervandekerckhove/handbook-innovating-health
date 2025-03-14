@@ -12,7 +12,7 @@
 
 Understanding the types of resources and funds required for survival and the structure of financial revenue streams is crucial for healthcare innovation. This chapter will guide you through mapping out different revenue streams at various levels, including care organizations, regional networks, and national organizations.
 
-## A 2 and 5 year financial plan (Steve)
+## A 2 and 5 year financial plan (Steve add test and video recording ValEU)
 
 ## Mapping Revenue Streams
 
@@ -110,3 +110,5 @@ Master/Graduate level:
 * Identify the key financial issues you foresee that are necessary to front-load early in the innovation pathway and justify your selection of stakeholders accordingly.
 * Calculate a financial strategy for 2 years and 5 years, showing basic elements in your balance sheet and taking into account alternative payment models and complex revenue streams
 ```
+
+## Bibliography

@@ -1,4 +1,4 @@
-# 5. Create your own strategic pathway
+# 5. Create your strategic health innovation pathway
 
 
 <center>
