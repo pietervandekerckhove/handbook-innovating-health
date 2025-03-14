@@ -53,7 +53,8 @@ The objective of this simulation exercise is to provide students with hands-on e
 
 ### Step 2: Stakeholder Presentations
 
-- Each participant will present their perspective based on their assigned role. They should highlight key concerns, goals, and expectations related to healthcare innovation.
+- The innovator stakeholder will present the pitch of the project
+- The other stakeholders will present their perspective based on their assigned role. They should highlight key concerns, goals, and expectations related to healthcare innovation.
 - Encourage participants to ask questions and engage in discussions to understand each other's viewpoints.
 
 ### Step 3: Multi-Stakeholder Assessment
@@ -112,5 +113,5 @@ Try to address these points in a summary report at the end of your project:
 - **Evidence and Registration**: Develop an evidence strategy to support your innovation and navigate the registration process. Ensure you meet regulatory requirements and have robust documentation.
 
 Master/graduate level: 
-* develop a pitch deck to present these items to the key decision makers (heads of departments, boards)
+* Develop a pitch deck and full report following the structure of basic innovation cycle to present this to the key decision makers (heads of departments, boards)
 ```
