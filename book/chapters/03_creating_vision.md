@@ -44,7 +44,6 @@ A holistic approach to healthcare innovation should integrate sustainability, pa
 Read more about the vision of EU Competitiveness https://commission.europa.eu/topics/eu-competitiveness_en and the UN Sustainable development goals here https://sdgs.un.org/goals/goal3. In today's global sustainability challenges, it is important to take into account the challenges across different  regions. Some regions have to with abrupt changes in the climate and the continuous fight against infectious diseases.
 
 ````{admonition} Disaster preparedness and infectious diseases
-```:class:seealso 
 If you are interested in learning more about disaster preparedness and infectious diseases you can take a look here at the Open World Health Organization database. Retrieved from https://openwho.org/home
 ````
 

@@ -1,4 +1,4 @@
-# 9. Team innovation project: Observe, create, robustinize, contextualize
+# 9. Team innovation project: Initiate & Observe, Design & create, Engineer & robustinize, Realize & contexutalize
 
 <center>
   <div style="padding: 10px; background-color: #00BBC8; border-radius: 10px; display: inline-block; font-weight: bold; font-size: 16px; color: #000; position: relative;">
@@ -21,7 +21,7 @@ In the innovation process there is a basic cycle that we can follow:
 ```
 ````
 ## 1. Getting started
-### Assembly your team
+### Assemble your team
 Get Everyone on Board: The first step in any successful project is assembling a team that is committed and enthusiastic about the project's goals. Ensure that each team member understands the vision and objectives, fostering a sense of shared purpose and collaboration.
 
 In case you do not have a team yet go through the stakeholder assembly procedure in chapter 5 (add link). In case you have been assigned a team, skip the recruitment step and map out the knowledge domains and skills of every team member.
@@ -384,11 +384,14 @@ You could also use validated AI research tools to review large bodies of literat
 Research tools to analyse a qualitative interview: check out prof Dries Faems and Niklas Geiss generative AI based cool "Expert & Resaerch Interview Helper": https://niklasg27-interview-helper-interview-helper-v0-4-90hctr.streamlit.app/
 ```
 
-```{admonition} Level of analysis
-:class: hint
-* Undergraduate level: conduct a qualitative interview with three key different stakeholders who are not members of your project team, transcribe them in a text document and synthesize the main themes, ADD REF Braun, V., & Clarke, V. (2006). Using thematic analysis in psychology. Qualitative research in psychology, 3(2), 77-101.
+```{admonition} Project Deliverables
+:class: important
+* Undergraduate level: 
+   -Identify the key touchpoints in the care pathway where the problem emerges
+   -conduct a qualitative interview with three key different stakeholders who are not members of your project team, transcribe them in a text document and synthesize the main themes, ADD REF Braun, V., & Clarke, V. (2006). Using thematic analysis in psychology. Qualitative research in psychology, 3(2), 77-101.
 
-* Graduate level: Try to gather input about the patient journey in a very detailed manner to work out a patient-level cost analysis of the pathway to quantify the paintpoint even better.
+* Graduate level: 
+Try to gather input about the patient journey in a very detailed manner to work out a patient-level cost analysis of the pathway to quantify the paintpoint even better.
 For example, see this paper mapping subfertility pathways by dr. Maura Leusder: Patient-level cost analysis of subfertility pathways in the Dutch healthcare system  https://link.springer.com/article/10.1007/s10198-024-01744-5
 ```
 
@@ -410,50 +413,11 @@ Watch this video from the TU Delft open course on Entrepreneurship for engineers
 ### 4. Select the idea and create a value proposition for that idea
 
 Different types of prototypes
-
-## 4. Robustinize: Testing with problem-solution hypotheses
-
 need for research approach with hypothesise to validate assumptions with prototype
 
 Validation prototype types: functional, aesthaethic, cost impact
 
-starting simple validation to more complex validation
-1. early in practice validation
-
-Try a feasibility like this Virtual reality application combined with neurofeedback (see Rolbiecki, A. J., Craig, K., Polniak, M., Smith, J., Ghosh, P., & Mehr, D. R. (2023). Virtual reality and neurofeedback for Management of Cancer Symptoms: a feasibility pilot. American Journal of Hospice and Palliative Medicine®, 40(3), 291-298.)
-
-
-2. early HTA And evidence gathering for prototyping evalutation strategy and clinical evalutation strategy
-
-```{tip}
-Look for creative places in your organization, like the Create4Care lab at Erasmus MC or Rotterdam Square validation processes, you can use to validate clinical aspects of your innovation
-```
-
-### Communicate your ideas and applying for grants
-It is very important to communicate the stage of your idea clearly (funding bodies would typically call that Technology readiness levels (TRL)), your unique value proposition and the outcomes you would like to achieve. This would have to be translated so that people can understand how it fits in the outcome of their team and organizations. Here it is always important to understand the role of your intellectual property strategy and it is worthwhile to think about how you will balance that in comparison with scientific open communication about your findings. 
-
-Strategic
-
-(see CSBB MINOR materials)
-
-You may not be familiar with academic essay writing. That's ok, here are some tips:
-
-* You can watch a few videos about academic writing from TU Delft open education library
-* TA: ask permission and include video with exercise underneath:
-https://ocw.tudelft.nl/course-lectures/academic-writing-general-pitfalls-getting-started/
-
- Try to use this structure:
-* Introduction with a question or statement
-* You answer your questions and you use scientific references to substantiate your argument
-* you conclude with one sentence about the key message of your essay
-
-Tips for a grant proposal:
-* assemble a team with a track record in your area, preferably one or more key partners has access to patients, clinical trial administration and care professionals
-* assemble a writing team and meet regularly to develop your grant proposal
-* align your proposal with the criteria of the funding body: e.g. for EU grants, it is important to take into account the larger EU Competitive theme into account: https://commission.europa.eu/topics/eu-competitiveness_en
-
-
-## 4. Contextualize: Testing with beachhead niche market in STPSS and financial assumptions
+## 4. Robustinize: Testing problem-solution hypotheses
 At this stage you will focus on identifying and testing a beachhead niche market in the Socio-Technical Product Service Systems (STPSS) of a niche area in the health system. Your task is to select a specific segment within the healthcare industry that represents a promising niche market for your innovative solution.
 
 Watch this video from the TU Delft Open course about Entrepreneurship for engineers from dr. Dap Hartmann: <iframe width="560" height="315" src="https://www.youtube.com/embed/GFdtwWNz_T0?si=HtHMfDqybHqCDZAE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -477,6 +441,41 @@ Watch this video from the TU Delft Open course about Entrepreneurship for engine
    - **Formulate Three Key Hypotheses**: Identify three key hypotheses related to your integration strategy that you want to validate. These hypotheses should take into account key assumptions about the revenue streams in the market niche you have identified. Describe a validation plan for each hypothesis, detailing how you will test and measure its accuracy.
 
 Your goal is to validate the viability of your solution within the selected beachhead market and refine your business model based on the insights gained from this testing phase. This will involve estimating market size, pricing strategies, and potential sales volumes to create financial assumptions that project the costs, revenues, and profitability of entering this niche market.
+
+### Applying for grants
+It is very important to communicate the stage of your idea clearly (funding bodies would typically call that Technology readiness levels (TRL)), your unique value proposition and the outcomes you would like to achieve. This would have to be translated so that people can understand how it fits in the outcome of their team and organizations. Here it is always important to understand the role of your intellectual property strategy and it is worthwhile to think about how you will balance that in comparison with scientific open communication about your findings. 
+
+(see CSBB MINOR materials)
+
+You may not be familiar with academic essay writing. That's ok, here are some tips:
+
+* You can watch a few videos about academic writing from TU Delft open education library
+* TA: ask permission and include video with exercise underneath:
+https://ocw.tudelft.nl/course-lectures/academic-writing-general-pitfalls-getting-started/
+
+ Try to use this structure:
+* Introduction with a question or statement
+* You answer your questions and you use scientific references to substantiate your argument
+* you conclude with one sentence about the key message of your essay
+
+Tips for a grant proposal:
+* assemble a team with a track record in your area, preferably one or more key partners has access to patients, clinical trial administration and care professionals
+* assemble a writing team and meet regularly to develop your grant proposal
+* align your proposal with the criteria of the funding body: e.g. for EU grants, it is important to take into account the larger EU Competitive theme into account: https://commission.europa.eu/topics/eu-competitiveness_en
+
+
+## 4. Realize: Testing with beachhead niche market in STPSS and financial assumptions
+starting simple validation to more complex validation
+1. early in practice validation
+
+Try a feasibility like this Virtual reality application combined with neurofeedback (see Rolbiecki, A. J., Craig, K., Polniak, M., Smith, J., Ghosh, P., & Mehr, D. R. (2023). Virtual reality and neurofeedback for Management of Cancer Symptoms: a feasibility pilot. American Journal of Hospice and Palliative Medicine®, 40(3), 291-298.)
+
+
+2. early HTA And evidence gathering for prototyping evalutation strategy and clinical evalutation strategy
+
+```{tip}
+Look for creative places in your organization, like the Create4Care lab at Erasmus MC or Rotterdam Square validation processes, you can use to validate clinical aspects of your innovation
+```
 
 ## Conclusion
 
