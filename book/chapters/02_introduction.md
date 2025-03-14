@@ -19,7 +19,7 @@ Given the unique challenges and dynamics of healthcare entrepreneurship, develop
 
 
 ### Healthcare entrepreneurship as an emerging field
-Healthcare entrepreneurship is emerging as a field. Before it was often discussed in the field of management and entrepreneurship as a context in which the management and entrepreneurship theories are applied. Often this happens on the macro and meso level across a health system or on a meso level across organizations. In this book we are focusing on the behaviors of healthcare entrepreneurship, and specifically on an individual level within healthcare organizations.
+Healthcare entrepreneurship is emerging as a field (Glover, Crocker, Brush, 2024). Before it was often discussed in the field of management and entrepreneurship as a context in which the management and entrepreneurship theories are applied. Often this happens on the macro and meso level across a health system or on a meso level across organizations. In this book we are focusing on the behaviors of healthcare entrepreneurship, and specifically on an individual level within healthcare organizations.
 
 Entrepreneurial behavior in healthcare is also implicitly present in the fields of healthcare management, (technical) medicine, biomedical-engineering, and life sciences. However, these fields are looking at the objects, clinical procedures, patient outcomes and outputs of the innovations, but not the underlying behavior, collaborations and innovation processes that resulted in these outputs and outcomes.  
 
@@ -122,6 +122,8 @@ Compton-Phillips, A. (2024). The slow road to digital transformation in healthca
 EURAM. (2025). Symposium. Retrieved from https://conferences.euram.academy/2025conference/symposia/#toggle-id-6
 
 Friend, P., Gupta, R., & Tan, Z. (2023). Digital health in the next decade: Trends and predictions. Global Health Tech Journal, 15(3), 22-39.
+
+Glover, W. J., Crocker, A., & Brush, C. G. (2024). Healthcare entrepreneurship: An integrative framework for future research. Journal of Business Venturing Insights, 22, e00476.
 
 Helicus. (2023). First medical transport by passenger drone in EU. Retrieved from https://helicus.com
 

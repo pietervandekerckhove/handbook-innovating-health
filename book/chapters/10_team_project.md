@@ -377,13 +377,18 @@ You could also use validated AI research tools to review large bodies of literat
 Research tools to analyse a qualitative interview: check out prof Dries Faems and Niklas Geiss generative AI based cool "Expert & Resaerch Interview Helper": https://niklasg27-interview-helper-interview-helper-v0-4-90hctr.streamlit.app/
 ```
 
-Advanced level:
-Try to gather input about the patient journey in a very detailed manner to work out a patient-level cost analysis of the pathway to quantify the paintpoint even better.
+```{admonition} Level of analysis
+:class: hint
+* Undergraduate level: conduct a qualitative interview with three key different stakeholders who are not members of your project team, transcribe them in a text document and synthesize the main themes, ADD REF Braun, V., & Clarke, V. (2006). Using thematic analysis in psychology. Qualitative research in psychology, 3(2), 77-101.
+
+* Graduate level: Try to gather input about the patient journey in a very detailed manner to work out a patient-level cost analysis of the pathway to quantify the paintpoint even better.
 For example, see this paper mapping subfertility pathways by dr. Maura Leusder: Patient-level cost analysis of subfertility pathways in the Dutch healthcare system  https://link.springer.com/article/10.1007/s10198-024-01744-5
+```
 
 
 
-## 3. Create: create & prototype solution and engineering
+
+## 3. Create & prototype minimum viable solution
 
 Different types of prototypes
 

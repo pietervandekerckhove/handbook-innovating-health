@@ -1,5 +1,15 @@
 # Strategic pathways for patient-centered care: An introduction 
 
+Authors
+* dr. Pieter Bart Marcel Vandekerckhove (Assistant Professor Patient-centered Entrepreneurial Innovation, TU Delft)
+* Prof. dr. Bettina Maisch
+* Dr. Steven Howard
+* Prof. Frido Smulders
+* dr. Christophe Van Neste
+* Prof. Wiljeana Glover
+
+An interactive open handbook
+
 ## Front-loading stakeholder knowledge for sustainable innovation
 
 ## Preface
