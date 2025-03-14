@@ -1,4 +1,4 @@
-<!-- # 8. Team innovation project: Initiate & explore, Design & create, Engineer & robustinize, Realize & contexutalize
+# 8. Team innovation project: Initiate & explore, Design & create, Engineer & robustinize, Realize & contexutalize
 
 <center>
   <div style="padding: 10px; background-color: #00BBC8; border-radius: 10px; display: inline-block; font-weight: bold; font-size: 16px; color: #000; position: relative;">
@@ -8,7 +8,7 @@
 </center>
 <br>
 
-
+<!-- 
 ## Introduction
 In this chapter we will explain the team project with the aim to apply generative co-design sessions and business development tools to guide strategic decisions across the basic innovation cycle with a team challenge. In this process you will follow the steps of the IDER model, but instead of doing every process in paralel, you need to go through the process in a linear way with the basic innovation cycle.
 
