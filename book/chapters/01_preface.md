@@ -3,9 +3,9 @@
 ```{figure} ../figures/Copilot.jpeg
 :height: 1024px
 :name: figure-example
-
-Pieter Bart Marcel Vandekerckhove, Bettina Maisch, Steven Howard, Frido Smulders, Christophe Van Neste, Wiljeana Glover
 ```
+**Pieter Bart Marcel Vandekerckhove, Bettina Maisch, Steven Howard, Frido Smulders, Christophe Van Neste, Wiljeana Glover**
+
 For licensing and credits see: see how to cite an use this open interactive handbook (see Credits and license  chapter)
 ## Preface
 
