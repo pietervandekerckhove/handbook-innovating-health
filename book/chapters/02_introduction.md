@@ -1,5 +1,12 @@
 # 1. Introduction
 
+<center>
+  <div style="padding: 10px; background-color: #00BBC8; border-radius: 10px; display: inline-block; font-weight: bold; font-size: 16px; color: #000; position: relative;">
+    <span style="background-color: white; color: #00BBC8; border-radius: 50%; padding: 5px 10px; font-size: 15px; font-weight: bold; margin-right: 8px; display: inline-block;">Learning goal</span>
+  Be able to describe key differences between an individual perspective on healthcare entrepreneurship compared to other fields
+  </div>
+</center>
+<br>
 
 ## Why is healthcare entrepreneurship different from other types of entrepreneurship?
 
