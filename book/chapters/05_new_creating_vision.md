@@ -3,7 +3,7 @@
 <center>
   <div style="padding: 10px; background-color: #00BBC8; border-radius: 10px; display: inline-block; font-weight: bold; font-size: 16px; color: #000; position: relative;">
     <span style="background-color: white; color: #00BBC8; border-radius: 50%; padding: 5px 10px; font-size: 15px; font-weight: bold; margin-right: 8px; display: inline-block;">Learning goal</span>
-    Understand the role of a vision and be able to identify underlying ethical values in a vision for a healthcare innovation
+    Be able to show how the socio-technical product service systems impact a new problem-solution in a patient journey
   </div>
 </center>
 <br>
