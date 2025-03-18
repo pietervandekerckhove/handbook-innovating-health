@@ -3,7 +3,7 @@
 <center>
   <div style="padding: 10px; background-color: #00BBC8; border-radius: 10px; display: inline-block; font-weight: bold; font-size: 16px; color: #000; position: relative;">
     <span style="background-color: white; color: #00BBC8; border-radius: 50%; padding: 5px 10px; font-size: 15px; font-weight: bold; margin-right: 8px; display: inline-block;">Learning goal</span>
-   Learning goal: understand how differences between socio-technical product service systems on different levels impact health innovation
+   Learning goal: be able to map out the socio-technical product service system and situate an innovation in that system 
   </div>
 </center>
 <br>
@@ -92,17 +92,34 @@ In addition, all of the problems people face with their health are increasingly 
 
 Conceptual framework on the digital determinants of health (van Kessel, R., Seghers, L. E., Anderson, M., Schutte, N. M., Monti, G., Haig, M., ... & Mossialos, E. (2024). A scoping review and expert consensus on digital determinants of health. Bulletin of the World Health Organization, 103(2), 110.)
 ```
-An OECD report discussed the relationship of education and the use of technology. They found that lower educated people struggle to use their primary care practice's website.
 
 
+## Situating the Problem-Solution in a patient journey touchpoint
 
-## Situating the problem-solution in a care pathway
+When innovating in healthcare, it is crucial to understand the socio-technical context and map it out for the relevant innovation. This involves identifying the different elements within socio-technical product-service systems and situating the innovation within these systems to understand where it brings the most value. Value in healthcare is generated through the interaction of stakeholders, products, and services. Therefore, this process can be described in four steps (see figure). I revised the wording and presen the steps as follows:
+1. Making the knowledge of stakeholders explicit (e.g. the clinical care path from different care professionals perspective, the operational procedures, protocols, daily work schedules of care professionals, patient activities)
+2. Mapping it (e.g. on a patient journey format)
+3. Integrating this knowledge so that it becomes clear how the problem manifest itself from different perspectives and how the solution adds value.
+4. Validation of the journey 
 
-When innovating, it is important to take this context into account and try to map it out for the relevant innovation. 
+```{figure} ../figures/Patient-journey-method-integrated-service-Albayrak.jpg
+:name: figure-example
 
-ADD article JMIR cardio care path
+Process framework for the patient journey method. Simonse, L., Albayrak, A., & Starre, S. (2019). Patient journey method for integrated service design. Design for Health, 3(1), 82-97.
+```
+Collaborative design is crucial in making a patient journey, as it involves the active participation of all stakeholders to ensure that the innovation addresses their needs and concerns. Simonse, Albayrak, and Starre (2019) emphasize the importance of collaborative design in the patient journey method for integrated service design. Especially creative generative co-design, a more creative form of collaborative design, as discussed by Vandekerckhove, De Mul, Bramer, and De Bont (2020), highlights the importance of involving stakeholders in the design process to generate digital health solutions that are both practical and effective.
 
-The open course on Design in Healthcare: Using Patient Journey Mapping at TU Delft provides foundational knowledge about the sociotechnical context of healthcare systems. Watch the initial videos here by prof. Richard Goossens. 
+### 1. Making tacit knowledge of each stakeholder explicit
+
+In healthcare innovation, it is essential to emphasize the importance of making tacit knowledge explicit from different stakeholders. Tacit knowledge, which is often unspoken and intuitive, plays a critical role in understanding the needs and experiences of patients, healthcare providers, and other stakeholders. By capturing and articulating this implicit knowledge, innovators can bridge the gap between different stakeholders, fostering better understanding and collaboration. Insights from Smulders et al. (2008) underscore the need for effective communication strategies in collaborative design, essential for successful ventures in medical technology entrepreneurship.
+
+### 2. Mapping the knowledge to develop a patient journey and identifying touchpoints
+
+atient experiences play a vital role in developing touchpoints within the care pathway. Touchpoints are key moments where the problem-solution becomes tangible and impactful. For example, Vandekerckhove, Vandekerckhove, Tavernier, De Jaegher, and De Mul (2020) explain how patient experiences can be used to develop touchpoints, making it clear where the problem-solution sits. Additionally, Simonse, Albayrak, and Starre (2019) highlight the importance of integrating service design with patient journey mapping to create a cohesive and effective healthcare experience.
+
+Students can explore various health design projects at TU Delft to see practical examples of patient journey mapping and socio-technical product-service systems in action. These projects showcase innovative solutions that address healthcare challenges through human-centered design. TU Delft Health Design Projects. Retrieved from https://medisigntudelft.nl/graduation-showcases/
+
+See The open course on Design in Healthcare: Using Patient Journey Mapping at TU Delft. Watch the initial videos here by prof. Richard Goossens. 
 
 TA make videos clear here: https://ocw.tudelft.nl/courses/design-healthcare-using-patient-journey-mapping/?view=lectures&subject=22696
 
@@ -122,6 +139,37 @@ Now, take a look at the next video, what relations between the patient and the h
 <iframe width="711" height="400" src="https://www.youtube.com/embed/Qb5rebNu1Pg" title="MED01x_2017_M1_Lecture-video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 ```
 ````
+### 3. Integration process to situate the problem-solution
+
+To effectively situate an innovation within a socio-technical product-service system, one needs to establish a patient journey as a result of an integration process. The socio-technical approach emphasizes the importance of considering both social and technical elements in healthcare systems. By mapping out the patient journey and care pathway, students can identify critical touchpoints where the innovation can provide the most value (see figure below).
+
+```{figure} ../figures/touchpoints-vandekerckhove.png
+:name: figure-example
+
+Overview of multiple touchpoints to add value. Simonse, L., Albayrak, A., & Starre, S. (2019). Vandekerckhove, P., Vandekerckhove, Y., Tavernier, R., De Jaegher, K., & de Mul, M. (2020). Leveraging user experience to improve video consultations in a cardiology practice during the COVID-19 pandemic: initial insights. Journal of medical Internet research, 22(6), e19771.
+```
+
+### 4. The importance of validating unique perspectives
+
+By mapping health journeys, entrepreneurs can identify critical touchpoints and opportunities for innovation, thereby enhancing the overall patient experience. This methodology ensures that innovations, from ideation to scalable prototypes, address real-world challenges in healthcare delivery effectively. It is important to note that there are no general patient journeys; they are always highly individual. Therefore it is important to validate the relevance of your patient journey with other people from the same organization.
+
+
+
+
+
+### Bibliography
+
+1. Vandekerckhove, P., Vandekerckhove, Y., Tavernier, R., De Jaegher, K., & De Mul, M. (2020). Leveraging user experience to improve video consultations in a cardiology practice during the COVID-19 pandemic: initial insights. Journal of Medical Internet Research, 22(6), e19771.
+2. Goossens, R., & Albayrak, A. (2020). Design in Healthcare: Using Patient Journey Mapping. TU Delft.
+3. Melles, M., Albayrak, A., & Goossens, R. (2020). Innovating health care: Key characteristics of human-centered design. International Journal for Quality in Health Care, 33(Suppl 1), 37–44. https://doi.org/10.1093/intqhc/mzaa127
+4. Smulders, F., van der Meer, H., & Gielen, M. (2008). Effective communication strategies in collaborative design. Design Studies, 29(5), 421-437.
+5. Simonse, L., Albayrak, A., & Starre, S. (2019). Patient journey method for integrated service design. Design for Health, 3(1), 82-97.
+6. Vandekerckhove, P., De Mul, M., Bramer, W. M., & De Bont, A. A. (2020). Generative participatory design methodology to develop electronic health interventions: systematic literature review. Journal of Medical Internet Research, 22(4), e13780.
+7. TU Delft Health Design Projects. Retrieved from https://medisigntudelft.nl/graduation-showcases/
+
+
+
+
 
 
 ## Value Creation on different levels

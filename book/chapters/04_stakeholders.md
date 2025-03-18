@@ -344,7 +344,7 @@ Conceptually one could use the Deweyan theory of inquiry to develop certain step
 Stompff, G., van Bruinessen, T., & Smulders, F. (2022). The generative dance of design inquiry: Exploring Dewey's pragmatism for design research. Design Studies, 83, 101136.
 ```
 
-This means that in an organization people need to be able to get outside of their routines and outside of their comfort zones. ADD Ref: Smulders, F. (2024). Design Creativity in the Belly of the Beast. Design Management Journal, 19(1), 128-140.
+This means that in an organization people need to be able to get outside of their routines and outside of their comfort zones. Bringing stakeholders together in a psychological safe space is quintessential. ADD Ref: Smulders, F. (2024). Design Creativity in the Belly of the Beast. Design Management Journal, 19(1), 128-140.
 
 ```{figure} ../figures/Frido-2024.png
 :height: 350px
@@ -355,9 +355,20 @@ Smulders, F. (2024). Design Creativity in the Belly of the Beast. Design Managem
 
 
 #### Generative co-design sessions
+In the field of human-centered design, Generative Co-Design (GCD) is considered to be especially promising as stakeholders are actively involved from the very beginning in the creation of products and services (Moore, Wilding, Gray, & Castle, 2019; Clemensen, Rothmann, Smith, Caffery, & Danbjorg, 2017; Sanders & Stappers, 2012; Langley, Wolstenholme, & Cooke, 2018; Bird et al., 2021). This approach ensures that their needs are taken into account. A key hypothesis is that involving stakeholders is crucial as they provide important knowledge about their needs, which would otherwise be overlooked. Therefore, several authors claim that since the needs of stakeholders are better expressed through a co-design process, they can be better addressed in digital health solutions. Examples of these solutions include user guidance, specific reminders, and personal tracking (Szinay, Jones, Chadborn, Brown, & Naughton, 2020; Steen, Manschot, & De Koning, 2011; Simonsen & Robertson, 2012; Trischler, Pervan, Kelly, & Scott, 2018).
 
+Generative co-design helps especially to make the knowledge of each stakeholder explicit and integrate it into the innovation process steps and ultimately in the solution.
 
-Vandekerckhove et al. (2023) underscores the importance of integrating diverse knowledge of different stakeholder through a generative co-design processes. Generative co-design is one of the most interactive design methods to integrate the deeper conceptual knowledge (C space) of different stakeholders move it to a more explicit idea discussion, whereby the knowledge is made explicit (K space). In design terminology this iterative process between the C and K space would be called a co-evolution process. This method involves stakeholders actively in the design process to ensure that the developed solutions are user-centered and meet real-world needs. Vandekerckhove et al. also discuss how this theoretical framework can help us to decide how a good stakeholder group should be assembled:e.g. the type of stakeholders we involve in the entrepreneurial innovation activities.
+There are various methods and tools to use in generative co-design to integrate the knowledge of stakeholders in different phases in the innovation process.
+
+```{figure} ../figures/HCD-tools.png
+:height: 350px
+:name: figure-example
+
+Human-centered design tools and techniques. Melles, M., Albayrak, A., & Goossens, R. (2021). Innovating health care: key characteristics of human-centered design. International Journal for Quality in Health Care, 33(Supplement_1), 37-44.
+```
+
+Generative co-design is one of the most interactive design methods to integrate the deeper conceptual knowledge (C space) of different stakeholders move it to a more explicit idea discussion, whereby the knowledge is made explicit (K space). In design terminology this iterative process between the C and K space would be called a co-evolution process. This method involves stakeholders actively in the design process to ensure that the developed solutions are user-centered and meet real-world needs. Vandekerckhove et al. also discuss how this theoretical framework can help us to decide how a good stakeholder group should be assembled:e.g. the type of stakeholders we involve in the entrepreneurial innovation activities.
 
 For example: Application Example in Health Innovation for Young Adults with Cancer
 Imagine a design team aiming to develop a new digital health platform for young adults with cancer. Using C-K theory, the process might unfold as follows:
@@ -473,7 +484,15 @@ Smulders, F. (2022). The IDER Model: Managing Parallel Processes in Innovation.
 WHO (2022). Ethics and AI in Healthcare. WHO Report.
 
 
-
+1. Moore, G., Wilding, H., Gray, K., & Castle, D. (2019). Participatory methods to engage health service users in the development of electronic health resources: Systematic review. *Journal of Participatory Medicine*. doi: 10.2196/11474
+2. Clemensen, J., Rothmann, M. J., Smith, A. C., Caffery, L. J., & Danbjorg, D. B. (2017). Participatory design methods in telemedicine research. *Journal of Telemedicine and Telecare*, 23(9), 780–785. doi: 10.1177/1357633X16686747
+3. Sanders, E., & Stappers, P. J. (2012). *Convivial design toolbox: Generative research for the front end of design*. BIS. ISBN: 9063692846
+4. Langley, J., Wolstenholme, D., & Cooke, J. (2018). “Collective making” as knowledge mobilisation: The contribution of participatory design in the co-creation of knowledge in healthcare. *BMC Health Services Research*, 18(1), 585. doi: 10.1186/s12913-018-3397-y
+5. Bird, M., McGillion, M., Chambers, E. M., Dix, J., Fajardo, C. J., Gilmour, M., Levesque, K., Lim, A., Mierdel, S., Ouellette, C., Polanski, A. N., Reaume, S. V., Whitmore, C., & Carter, N. (2021). A generative co-design framework for healthcare innovation: Development and application of an end-user engagement framework. *Research Involvement and Engagement*, 7(1), 1–12. doi: 10.1186/S40900-021-00252-7/FIGURES/1
+6. Szinay, D., Jones, A., Chadborn, T., Brown, J., & Naughton, F. (2020). Influences on the uptake of and engagement with health and well-being smartphone apps: Systematic review. *Journal of Medical Internet Research*, 22(5), e17572. https://www.jmir.org/2020/5/e17572. PMID: 32348255
+7. Steen, M., Manschot, M. A. J., & De Koning, N. (2011). Benefits of co-design in service design projects. *International Journal of Design*, 5(2), 53-60. Chinese Institute of Design.
+8. Simonsen, J., & Robertson, T. (2012). *Routledge International Handbook of Participatory Design*. Routledge. PMID: 17192055 ISBN: 9780203108543
+9. Trischler, J., Pervan, S. J., Kelly, S. J., & Scott, D. R. (2018). The value of codesign. *Journal of Service Research*, 21(1), 75–100. doi: 10.1177/1094670517714060
 
 
 
