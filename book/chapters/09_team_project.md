@@ -329,10 +329,28 @@ look for new insights when you feel you have saturated the mindmap
 
 (INSERT EXAMPLE OF MINDMAP)
 			
+-MOVE SECTION TO CHAPTER ON VALUE IN HEALTH SYSTEM-----
+#### The Fundamental Level of Human Experience
 
-#### The fudamental level of human experience
+Understanding how we experience our health and critical events in our lives is essential for healthcare innovation. There is an increasing amount of work being done in the field of human consciousness to explore what we feel as human beings on the experiential level of human awareness. However, the experiential level of human awareness is only beginning to be integrated into healthcare innovations.
 
-It is important to understand how we experience our health and critical events in our life. And there is increasing amount of working being done in the field of human counsiousness to explore what we field as a human being on the experiential level of human awareness. However, the experiential level of human level is only starting to beginning to become integrated in healthcare innovations. 
+To address the deeper problems behind patient experiences, it is crucial to apply generative co-design sessions and business development tools to guide strategic decisions across the basic innovation cycle. Generative co-design involves the active participation of stakeholders, including patients, healthcare providers, and other relevant parties, to collaboratively create solutions that address their needs and concerns. Vandekerckhove, De Mul, Bramer, and De Bont (2020) emphasize the importance of generative participatory design methodology in developing electronic health interventions.
+
+By incorporating the tacit knowledge of stakeholders, innovators can gain a deeper understanding of the fundamental level of human experience. This knowledge helps to identify the underlying issues that patients face and develop solutions that are truly patient-centered. Collaborative design and creative generative co-design, as discussed by Vandekerckhove et al. (2020), highlight the importance of involving stakeholders in the design process to generate innovative solutions that are both practical and effective.
+
+In healthcare innovation, it is essential to emphasize that there are no general patient journeys; they are always highly individual. Understanding tacit knowledge from all stakeholders and mapping it out is crucial for creating meaningful and impactful innovations. Simonse, Albayrak, and Starre (2019) highlight the importance of collaborative design in the patient journey method for integrated service design. By mapping health journeys, entrepreneurs can identify critical touchpoints and opportunities for innovation, thereby enhancing the overall patient experience.
+
+An example of addressing deeper problems behind patient experiences can be seen in the work of Mullaney, Pettersson, Nyholm, and Stolterman (2012), who emphasize the importance of human-centered design in cancer care. They highlight the anxiety experienced by cancer patients, which goes beyond the physical aspects of the disease. By understanding and addressing the emotional and psychological needs of patients, healthcare innovations can provide more holistic and effective solutions.
+
+---
+
+### Key References
+
+- Vandekerckhove, P., De Mul, M., Bramer, W. M., & De Bont, A. A. (2020). Generative participatory design methodology to develop electronic health interventions: systematic literature review. Journal of Medical Internet Research, 22(4), e13780.
+- Vandekerckhove, P., Vandekerckhove, Y., Tavernier, R., De Jaegher, K., & De Mul, M. (2020). Leveraging user experience to improve video consultations in a cardiology practice during the COVID-19 pandemic: initial insights. Journal of Medical Internet Research, 22(6), e19771.
+- Simonse, L., Albayrak, A., & Starre, S. (2019). Patient journey method for integrated service design. Design for Health, 3(1), 82-97.
+- Mullaney, T., Pettersson, H., Nyholm, T., & Stolterman, E. (2012). Thinking beyond the cure: A case for human-centered design in cancer care. International Journal of Design, 6(3), 27-39.
+
 
 
 ````{admonition} Watch this TED talk from Yongey Mingyur Rinpoche. What is the experiential level of awareness? How do we connect with it?
