@@ -3,16 +3,18 @@
 <center>
   <div style="padding: 10px; background-color: #00BBC8; border-radius: 10px; display: inline-block; font-weight: bold; font-size: 16px; color: #000; position: relative;">
     <span style="background-color: white; color: #00BBC8; border-radius: 50%; padding: 5px 10px; font-size: 15px; font-weight: bold; margin-right: 8px; display: inline-block;">Learning goal</span>
-  Be able to describe key differences between an individual perspective on healthcare entrepreneurship compared to other fields
+  Be able to provide 3 key arguments why a patient-centered healthcare entrepreneurship is different from traditional entrepreneurship and health services management
   </div>
 </center>
 <br>
 
 ## Why is healthcare entrepreneurship different from other types of entrepreneurship?
 
+Similar to other newer fields in health research, like health economics, health entrepreneurship draws on existing fields like economics, operations, management and innovation theory, and implementation science. It is becoming increasingly a stand-on its own field. (REF Wiljean and book healthcare entrepreneurship + book the business of healthcare innovation)
 
 ### Key Differences in Healthcare Entrepreneurship:
 - **Constant Demand and Flow of Needs**: Unlike other industries where demand can fluctuate, healthcare consistently experiences high demand due to the ongoing need for medical services and wellness solutions. This creates a unique environment where innovation must be continuous and responsive.
+  - There is a growing population that lives with multiple conditions and a mental health condition:  (ADD REF OECD (2025), Does Healthcare Deliver?: Results from the Patient-Reported Indicator Surveys (PaRIS), OECD Publishing, Paris, https://doi.org/10.1787/c8af05a5-en.)
 - **Regulation and Market Principles**: Traditional economic systems are governed by managed market principles and regulations that dictate how businesses operate. Healthcare, however, navigates a complex regulatory landscape that often requires compliance with multiple, sometimes conflicting, regulations, making entrepreneurial ventures more challenging.
 - **Multiple Stakeholders**: In healthcare, there isn't a single payer or client. Instead, entrepreneurs must address the needs of a diverse group of stakeholders, including patients, healthcare providers, insurers, and regulatory bodies. This multifaceted environment demands a nuanced approach to management and innovation.
 
@@ -25,10 +27,12 @@
 Given the unique challenges and dynamics of healthcare entrepreneurship, developing innovation pathways requires a distinct strategy that diverges from standard views. The constant demand for healthcare services necessitates continuous innovation to meet evolving patient needs and improve outcomes. Unlike traditional industries, healthcare must navigate a complex regulatory environment, ensuring compliance while fostering innovation. Additionally, the involvement of multiple stakeholders—patients, providers, insurers, and regulators—demands a collaborative approach to innovation, prioritizing patient safety and ethical considerations. Therefore, healthcare entrepreneurship must adopt a strategy that integrates empathy, regulatory knowledge, and stakeholder collaboration to effectively develop and implement innovative solutions that address the multifaceted needs of the healthcare ecosystem.
 
 
-### Healthcare entrepreneurship as an emerging field
+### Healthcare entrepreneurship: unique collaborative behaviors
 Healthcare entrepreneurship is emerging as a field (Glover, Crocker, Brush, 2024). Before it was often discussed in the field of management and entrepreneurship as a context in which the management and entrepreneurship theories are applied. Often this happens on the macro and meso level across a health system or on a meso level across organizations. In this book we are focusing on the behaviors of healthcare entrepreneurship, and specifically on an individual level within healthcare organizations.
 
-Entrepreneurial behavior in healthcare is also implicitly present in the fields of healthcare management, (technical) medicine, biomedical-engineering, and life sciences. However, these fields are looking at the objects, clinical procedures, patient outcomes and outputs of the innovations, but not the underlying behavior, collaborations and innovation processes that resulted in these outputs and outcomes.  
+Entrepreneurial behavior in healthcare is also implicitly present in the fields of healthcare management, (technical) medicine, biomedical-engineering, and life sciences. However, these fields are looking at the objects, clinical procedures, patient outcomes and outputs of the innovations.
+
+**We are looking at the underlying unique collaborative behavior that results in improved outputs and outcomes.**
 
 
 ```{figure} ../figures/Entrepreneurial-behaviors-Bettina-Wiljeana-Pieter.png
@@ -38,9 +42,25 @@ Entrepreneurial behavior in healthcare is also implicitly present in the fields 
 Different Streams in entrepreneurial behavior (Wiljeana Glover, Bettina Maisch, Pieter Vandekerckhove)
 ```
 
+## Why Patient-Centered Entrepreneurship?
+
+Healthcare systems around the world are facing immense pressure to become more resilient due to unprecedented challenges. The COVID-19 pandemic has had a significant impact, and additional demands from demographic changes and technological advancements are adding to the strain. To effectively address these pressures and innovate effectively, we need information from various stakeholders. We are collecting information about health spending, financing, clinical quality, and safety of care, but we are still missing a crucial voice of patients. Ultimately this results in the insights from patients remaining tacit in health practice, recorded in self-reported outcomes or narratives and stories. They don't make it to care practice, as we are not aware how to effectively drive their insights from an idea to an integrated sustainable patient-driven solution.
+
+Patient-centered care is not new, however patient-centered entrepreneurship focusing on the innovation process is new. It focuses on the transdisciplenary processes to deliver that patient-centered care, which has always been argued to be essential in healthcare. The challenge we face today is ensuring that healthcare services and innovations truly deliver their promised value to patients. Despite the focus on patient-centered care, many health services and innovations ultimately fail to meet patients' needs and expectations.
+
+Ultimately, the field of patient centered care aims to bring:
+
+1. **Enhanced Resilience and Adaptability**: By incorporating patient feedback and experiences, healthcare entrepreneurs can develop solutions that are more resilient and adaptable to changing demands. This approach ensures that healthcare services are not only effective in treating diseases but also in improving the overall well-being of patients.
+
+2. **Improved Quality of Care**: Traditional metrics such as mortality and morbidity rates, while important, do not capture the full spectrum of patient experiences. Patient-centered entrepreneurship focuses on delivering better outcomes and experiences of care by considering patients' perspectives, leading to higher quality and more personalized healthcare services.
+
+3. **Unique value**: Patient-centered entrepreneurship encourages innovation by highlighting areas where patients feel underserved or dissatisfied. By addressing these gaps, entrepreneurs can create novel solutions that better meet the needs of patients, ultimately driving progress and improvement in healthcare systems.
+
+In conclusion, patient-centered healthcare entrepreneurship offers a transformative approach to healthcare management by prioritizing the voices and experiences of patients. This shift not only enhances the resilience and adaptability of healthcare systems but also improves the quality of care and fosters innovation in healthcare solutions.
+
 ## Why This Book?
 
-On an individual stakeholder level, the knowledge about strategies and management approaches to develop innovations in healthcare is scattered across different stakeholders. Therefore there is need for a comprehensive book to summarize and bring these insights together. A prime example of the power of such a strategic knowledge became apparant during the COVID-19 crisis. We witnessed unprecedented, rapid, and coordinated innovation efforts at every level of the healthcare system. Stakeholders from across the sector—patients, clinicians, researchers, regulators, and policymakers—mobilized to develop new solutions in record time. This included:
+On an individual patient level, the knowledge about strategies and management approaches to develop innovations in healthcare is scattered across different stakeholders. Therefore there is need for a comprehensive book to summarize and bring these insights together. A prime example of the power of such a strategic knowledge became apparant during the COVID-19 crisis. We witnessed unprecedented, rapid, and coordinated innovation efforts at every level of the healthcare system. Stakeholders from across the sector—patients, clinicians, researchers, regulators, and policymakers—mobilized to develop new solutions in record time. This included:
 
 * Temperature measurement solutions
 * Sanitizing alcohol solutions

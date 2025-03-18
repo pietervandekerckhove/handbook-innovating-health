@@ -1,4 +1,4 @@
-# 5. Defining the value of a problem-solution
+# 5. Defining the value of a problem-solution in a care pathway
 
 <center>
   <div style="padding: 10px; background-color: #00BBC8; border-radius: 10px; display: inline-block; font-weight: bold; font-size: 16px; color: #000; position: relative;">
@@ -86,14 +86,23 @@ What surprised you about the societal context of people? Did you know how many y
 
 In addition, all of the problems people face with their health are increasingly being mitigated by technology, that is why recently researchers have highlighted the impact of digital determinants as well. 
 
+
 ```{figure} ../figures/digital-determinants.jpg
 :name: figure-example
 
 Conceptual framework on the digital determinants of health (van Kessel, R., Seghers, L. E., Anderson, M., Schutte, N. M., Monti, G., Haig, M., ... & Mossialos, E. (2024). A scoping review and expert consensus on digital determinants of health. Bulletin of the World Health Organization, 103(2), 110.)
 ```
+An OECD report discussed the relationship of education and the use of technology. They found that lower educated people struggle to use their primary care practice's website.
 
 
-When innovating, it is important to take this context into account and try to map it out for the relevant innovation. The open course on Design in Healthcare: Using Patient Journey Mapping at TU Delft provides foundational knowledge about the sociotechnical context of healthcare systems. Watch the initial videos here by prof. Richard Goossens. 
+
+## Situating the problem-solution in a care pathway
+
+When innovating, it is important to take this context into account and try to map it out for the relevant innovation. 
+
+ADD article JMIR cardio care path
+
+The open course on Design in Healthcare: Using Patient Journey Mapping at TU Delft provides foundational knowledge about the sociotechnical context of healthcare systems. Watch the initial videos here by prof. Richard Goossens. 
 
 TA make videos clear here: https://ocw.tudelft.nl/courses/design-healthcare-using-patient-journey-mapping/?view=lectures&subject=22696
 
@@ -204,9 +213,9 @@ Germany perspective:
 
 For more information about the key statistics for each country, you can consult, the WHO country profiles (e.g. Belgium https://data.who.int/countries/056 or the WHO global health Observatory https://www.who.int/data/gho)
 
-**Surfing the waves in healthcare STPSS: human-centered care and value-Based Healthcare as catalysts for innovation**
+## Surfing the waves in healthcare STPSS: human-centered care and value-Based Healthcare as catalysts for innovation
 
-**Value-based healthcare**
+### Aligning with value-based healthcare
 
 Value-based healthcare started with the seminal work of Porter (2010), with key principles to improve care: 
 * Patient-Centered Care: VBHC emphasizes treating patients as active participants in their own care, focusing on their specific needs and outcomes.
@@ -233,7 +242,7 @@ Watch Prof. Steven Howard’s video introduction on value-based healthcare in Sa
 ````
 
 
-**Can value-based healthcare be a catalyst for innovation?**
+**Aligning your strategy with a value-based healthcare system approach**
 
  Many organizations have struggled for decades to find the right balance to provide the best value for money. In this session, we discuss key difficulties about the implementation of value-based healthcare based on the article by Reindersma et al. (2024) and Van Elten (2023).
 
@@ -246,10 +255,29 @@ The Santeon Hospitals in the Netherlands provide a practical example of VBHC in 
 
 However, there are challenges and critiques of VBHC. Implementing standardized outcome measures can be difficult due to variations in patient populations and conditions. Additionally, focusing on cost-effectiveness might sometimes lead to under-provision of necessary but expensive treatments.
 
-For further reading: Healthcare Transformers (2022).
-Article: "Collaborating for value - The Santeon Hospitals in the Netherlands." https://www.ichom.org/resource/collaborating-for-value-the-santeon-hospitals-in-the-netherlands/: Okunade, O., Arora, J., Haverhals, A., & Niessen, L. (2017). Collaborating for value: the Santeon Hospitals in the Netherlands. International Consortium for Health Outcomes Measurement: Cambridge, MA, USA. https://www.ichom.org/resource/collaborating-for-value-the-santeon-hospitals-in-the-netherlands/
+For further reading: 
+Healthcare Transformers (2022).
 
-**Can patient-centered care be a catalyst for innovation?**
+Article: "Collaborating for value - The Santeon Hospitals in the Netherlands." https://www.ichom.org/resource/collaborating-for-value-the-santeon-hospitals-in-the-netherlands/: Okunade, 
+O., Arora, J., Haverhals, A., & Niessen, L. (2017). Collaborating for value: the Santeon Hospitals in the Netherlands. International Consortium for Health Outcomes Measurement: Cambridge, MA, USA. https://www.ichom.org/resource/collaborating-for-value-the-santeon-hospitals-in-the-netherlands/
+
+### Aligning your strategy with patient-centered care
+Focusing on how you make an impact on patients is essential as a recent report from OECD emphasized from the Patient-Reported Indicator Surveys that healthcare needs to deliver more for patients. ADD REF: OECD (2025), Does Healthcare Deliver?: Results from the Patient-Reported Indicator Surveys (PaRIS), OECD Publishing, Paris, https://doi.org/10.1787/c8af05a5-en. 
+
+When you are improving the STPSS it is important to take into account these three aspects to make sure you address the problems of patients:
+* Patients value time
+* Patients need personally tailored care
+* Patients need trouble-free and safe care
+
+Have a look at the key facts of the report below. Here you see how the STPSS elements are all related when and they manifest as an integrated experience from a patient perspective in their care pathway. For instance, primary care website are difficult to use, particularly for lower educated people. So how can you innovate in an inclusive way so that you make it more accessible? Often it comes down to reflecting on your unique value proposition. One point of reflection here is to think about, the necessary STPSS conditions that need to be in place to make an innovation succesful. Could your solution be that intuitive that you do not need to be a technology wizard to get it to work?
+
+```{figure} ../figures/OECD-patient-survey-insights.png
+:height: 350px
+:name: figure-example
+
+Key Facts from OECD (2025), Does Healthcare Deliver?: Results from the Patient-Reported Indicator Surveys (PaRIS), OECD Publishing, Paris, https://doi.org/10.1787/c8af05a5-en
+```
+
 
 Personalized healthcare and precision medicine are related trends to value-based healthcare that may be useful to support innovations. By tailoring treatments to individual patients, personalized healthcare can potentially improve outcomes and efficiency, key goals of VBHC. It involves tailoring medical treatment to the individual characteristics of each patient. These approaches diviate from standard care as it were as they become more individually tailored interventions. Personalized healthcare aims to move away from standardized healthcare with a "one-size-fits-all" model and towards treatments that consider individual variability (Collins & Varmus, 2015). These interventions use genetic, environmental, and lifestyle factors to design more effective and personalized care plans.
 

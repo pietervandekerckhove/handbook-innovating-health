@@ -381,10 +381,7 @@ By applying C-K theory in this way, the design team can effectively navigate the
 Research by Pieter Vandekerckhove highlights the transformative potential of generative co-design in healthcare, such as improving cardiology consultations through enhanced user experiences during the COVID-19 pandemic (Vandekerckhove et al., 2020). Generative co-design, as elaborated by Vandekerckhove et al. (2020) in their systematic literature review, is a participatory approach that involves users throughout the design process. This methodology ensures that the final product is shaped by the needs and preferences of its users, leading to more effective and user-friendly health interventions.
 
 
-## Key insights from practitioners to take into account upfront
-
-
-
+## Key insights from practitioners to take into account in the innovation pathway upfront
 Developing your innovation pathway is like an action-research process where you learn from every step you take. 
 
 Some key lessons could be shared here when looking as key aspects in the innovation pathways. What aspects do you identify as important in patient-centered innovation pathways? What aspects should be considered upfront?

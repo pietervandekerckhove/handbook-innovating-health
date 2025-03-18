@@ -369,9 +369,9 @@ It is important to understand how we experience our health and critical events i
 
 Explore the patient and family dynamics in focus group (Interview Mark)
 
-### Clinical problem validation, mapping out care pathways and patient journeys over time
+### Clinical problem validation
 
-When looking at your diagnosis as a patient decades after the diagnosis happened it is interesting how profound the emotions are and how traumatic the impact can be, even if the cancer is cured.
+When looking at your diagnosis as a patient decades after the diagnosis happened it is interesting how profound the emotions are and how traumatic the impact can be, even if the cancer is cured. Sometimes, when  you think you have the right problem focus, you may have not gotton the right problem focus.
 
 Here is a video of the comedian Tom Green who shared his experience shortly after diagnosis:
 
@@ -412,13 +412,10 @@ Research tools to prepare a qualitative interview: check out the generative AI t
 ```{admonition} Project Deliverables
 :class: important
 * Undergraduate level: 
-   -Identify the key touchpoints in the care pathway where the problem emerges
-   -conduct a qualitative interview with three key different stakeholders who are not members of your project team, transcribe them in a text document and synthesize the main themes, ADD REF Braun, V., & Clarke, V. (2006). Using thematic analysis in psychology. Qualitative research in psychology, 3(2), 77-101.
-   - Develop a need statement in the format of: A way to address (problem) in (specific population) in order to (achieve a desired outcome)
+Explain how prototype addresses key needs for a persona
 
 * Graduate level: 
-Try to gather key details about the patient journey around the problem space to work out a patient-level cost analysis of the pathway to quantify the pain point even better.
-For example, see this paper mapping subfertility pathways by dr. Maura Leusder: Patient-level cost analysis of subfertility pathways in the Dutch healthcare system  https://link.springer.com/article/10.1007/s10198-024-01744-5
+Explain how prototype addresses problem solution in a key touchpoint within a care pathway
 ```
 
 
@@ -435,6 +432,9 @@ Watch this video from the TU Delft open course on Entrepreneurship for engineers
 
 ### 1. Develop a customer/user/patient profile
 ### 2. Develop a persona
+
+### 3. Mapping out care pathways and patient journeys over time
+
 ### 3. Brainstorm
 ### 4. Select the idea and create a value proposition for that idea
 
