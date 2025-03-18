@@ -115,9 +115,15 @@ In healthcare innovation, it is essential to emphasize the importance of making 
 
 ### 2. Mapping the knowledge to develop a patient journey and identifying touchpoints
 
-atient experiences play a vital role in developing touchpoints within the care pathway. Touchpoints are key moments where the problem-solution becomes tangible and impactful. For example, Vandekerckhove, Vandekerckhove, Tavernier, De Jaegher, and De Mul (2020) explain how patient experiences can be used to develop touchpoints, making it clear where the problem-solution sits. Additionally, Simonse, Albayrak, and Starre (2019) highlight the importance of integrating service design with patient journey mapping to create a cohesive and effective healthcare experience.
+Patient experiences play a vital role in developing touchpoints within the care pathway. Touchpoints are key moments where the problem-solution becomes tangible and impactful. For example, Vandekerckhove, Vandekerckhove, Tavernier, De Jaegher, and De Mul (2020) explain how patient experiences can be used to develop touchpoints, making it clear where the problem-solution sits. Additionally, Simonse, Albayrak, and Starre (2019) highlight the importance of integrating service design with patient journey mapping to create a cohesive and effective healthcare experience. This often starts by mapping out the care pathway a patient follows in a certain timeframe (see figure below).
 
-Students can explore various health design projects at TU Delft to see practical examples of patient journey mapping and socio-technical product-service systems in action. These projects showcase innovative solutions that address healthcare challenges through human-centered design. TU Delft Health Design Projects. Retrieved from https://medisigntudelft.nl/graduation-showcases/
+```{figure} ../figures/patient-journey-example.jpg
+
+Service process overview: activities of the Video Capsule Endoscopy procedure.
+Simonse, L., Albayrak, A., & Starre, S. (2019). Patient journey method for integrated service design. Design for Health, 3(1), 82-97.
+```
+
+TIP: explore various health design projects at TU Delft to see practical examples of patient journey mapping and socio-technical product-service systems in action. These projects showcase innovative solutions that address healthcare challenges through human-centered design. TU Delft Health Design Projects. Retrieved from https://medisigntudelft.nl/graduation-showcases/
 
 See The open course on Design in Healthcare: Using Patient Journey Mapping at TU Delft. Watch the initial videos here by prof. Richard Goossens. 
 
@@ -141,7 +147,7 @@ Now, take a look at the next video, what relations between the patient and the h
 ````
 ### 3. Integration process to situate the problem-solution
 
-To effectively situate an innovation within a socio-technical product-service system, one needs to establish a patient journey as a result of an integration process. The socio-technical approach emphasizes the importance of considering both social and technical elements in healthcare systems. By mapping out the patient journey and care pathway, students can identify critical touchpoints where the innovation can provide the most value (see figure below).
+To effectively situate an innovation within a socio-technical product-service system, one needs to establish a patient journey as a result of an integration process. The socio-technical approach emphasizes the importance of considering both social and technical elements in healthcare systems. By mapping out the patient journey and care pathway, students can identify critical touchpoints where the innovation can provide the most value (see figure below, most interesting touchpoints are indicated with a light bulp).
 
 ```{figure} ../figures/touchpoints-vandekerckhove.png
 :name: figure-example
@@ -149,26 +155,9 @@ To effectively situate an innovation within a socio-technical product-service sy
 Overview of multiple touchpoints to add value. Simonse, L., Albayrak, A., & Starre, S. (2019). Vandekerckhove, P., Vandekerckhove, Y., Tavernier, R., De Jaegher, K., & de Mul, M. (2020). Leveraging user experience to improve video consultations in a cardiology practice during the COVID-19 pandemic: initial insights. Journal of medical Internet research, 22(6), e19771.
 ```
 
-### 4. The importance of validating unique perspectives
+### 4. Validating unique perspectives
 
-By mapping health journeys, entrepreneurs can identify critical touchpoints and opportunities for innovation, thereby enhancing the overall patient experience. This methodology ensures that innovations, from ideation to scalable prototypes, address real-world challenges in healthcare delivery effectively. It is important to note that there are no general patient journeys; they are always highly individual. Therefore it is important to validate the relevance of your patient journey with other people from the same organization.
-
-
-
-
-
-### Bibliography
-
-1. Vandekerckhove, P., Vandekerckhove, Y., Tavernier, R., De Jaegher, K., & De Mul, M. (2020). Leveraging user experience to improve video consultations in a cardiology practice during the COVID-19 pandemic: initial insights. Journal of Medical Internet Research, 22(6), e19771.
-2. Goossens, R., & Albayrak, A. (2020). Design in Healthcare: Using Patient Journey Mapping. TU Delft.
-3. Melles, M., Albayrak, A., & Goossens, R. (2020). Innovating health care: Key characteristics of human-centered design. International Journal for Quality in Health Care, 33(Suppl 1), 37–44. https://doi.org/10.1093/intqhc/mzaa127
-4. Smulders, F., van der Meer, H., & Gielen, M. (2008). Effective communication strategies in collaborative design. Design Studies, 29(5), 421-437.
-5. Simonse, L., Albayrak, A., & Starre, S. (2019). Patient journey method for integrated service design. Design for Health, 3(1), 82-97.
-6. Vandekerckhove, P., De Mul, M., Bramer, W. M., & De Bont, A. A. (2020). Generative participatory design methodology to develop electronic health interventions: systematic literature review. Journal of Medical Internet Research, 22(4), e13780.
-7. TU Delft Health Design Projects. Retrieved from https://medisigntudelft.nl/graduation-showcases/
-
-
-
+By mapping health journeys, entrepreneurs can identify critical touchpoints and opportunities for innovation, thereby enhancing the overall patient experience. This methodology ensures that innovations, from ideation to scalable prototypes, address real-world challenges in healthcare delivery effectively. It is important to note that there are no general patient journeys; they are always highly individual. Therefore it is important to validate the relevance of your patient journey with other people from the same organization. It could be validated with other patient's unique experiences, or with the clinical guidelines to add alternative treatments or referrals. It requires a reflection on whether the unique value proposition captures that unique value in the touchpoint to see whether it is scalable in your target population (see Chapter on niche market).
 
 
 
@@ -310,6 +299,16 @@ Article: "Collaborating for value - The Santeon Hospitals in the Netherlands." h
 O., Arora, J., Haverhals, A., & Niessen, L. (2017). Collaborating for value: the Santeon Hospitals in the Netherlands. International Consortium for Health Outcomes Measurement: Cambridge, MA, USA. https://www.ichom.org/resource/collaborating-for-value-the-santeon-hospitals-in-the-netherlands/
 
 ### Aligning your strategy with patient-centered care
+Patients have a unique integrated view on the experience of healthcare, which is invaluable for healthcare innovation. Have a look at this article from patient expert Wim Sipma where he explains- that “service-dominant logic states that patients are the true creators of real value-in-use”. 
+ADD REFERENCE
+Sipma, W. S., de Jong, M. F., & Ahaus, K. C. (2023). “It’s My Life and It’s Now or Never”—Transplant Recipients Empowered From a Service-Dominant Logic Perspective. Transplant International, 36, 12011.
+
+Bosveld et al. (2024) highlight the experiences of patients, informal caregivers, and healthcare professionals with involvement in these programs. By empowering patients and caregivers to take an active role in their healthcare, entrepreneurial initiatives can improve outcomes and enhance patient satisfaction. This patient-centric approach is increasingly important in a healthcare landscape that values personalized care and patient engagement.
+ADD REF Bosveld, M. H., Smits, A. G. M., Mertens, H. J. M. M., Zandvoort, M. J. J. M. van, Mook, W. N. K. A. van, & Bokhoven, M. A. van. (2024). Patients and informal caregivers in the lead: A qualitative study on the experiences of patients, informal caregivers, and healthcare professionals with involvement in treatment, e-health and self-management programs. BMC Health Services Research, 24(1), 713. https://doi.org/10.1186/s12913-024-11156-z
+
+ADD REF
+Visser, M., ‘t Hart, N., de Mul, M., & Weggelaar-Jansen, A. M. (2024). The Perspectives of Healthcare Professionals and Managers on Patient Involvement in Care Pathway Development: A Discourse Analysis. Health Expectations, 27(3), e14101. https://doi.org/10.1111/hex.14101
+
 Focusing on how you make an impact on patients is essential as a recent report from OECD emphasized from the Patient-Reported Indicator Surveys that healthcare needs to deliver more for patients. ADD REF: OECD (2025), Does Healthcare Deliver?: Results from the Patient-Reported Indicator Surveys (PaRIS), OECD Publishing, Paris, https://doi.org/10.1787/c8af05a5-en. 
 
 When you are improving the STPSS it is important to take into account these three aspects to make sure you address the problems of patients:
@@ -347,12 +346,134 @@ Another example is organ-on-a-chip technology. How do you think this could chang
 ```
 ````
 
+
+## The Fundamental Level of Human Experience
+
+Understanding how we experience our health and critical events in our lives is essential for healthcare innovation. There is an increasing amount of work being done in the field of human consciousness to explore what we feel as human beings on the experiential level of human awareness. However, the experiential level of human awareness is only beginning to be integrated into healthcare innovations.
+
+````{admonition} Watch this TED talk from Yongey Mingyur Rinpoche. What is the experiential level of awareness? How do we connect with it?
+```{raw} html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LDVyOnf0t9M?si=uwx7he1M2A-DaamW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+```
+````
+
+````{admonition} We start to know more and more from a scientific point of view. Watch this TEDx video where prof. Steven Laureys explains some early scientific insights we have to understand how our consiousness works.
+```{raw} html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6Qqc_wJS6-Q?si=vC-5Ea-ex70z_bam" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+```
+````
+To address the deeper problems behind patient experiences, it is crucial to apply generative co-design sessions and business development tools to guide strategic decisions across the basic innovation cycle. Generative co-design involves the active participation of stakeholders, including patients, healthcare providers, and other relevant parties, to collaboratively create solutions that address their needs and concerns. (Vandekerckhove, De Mul, Bramer, and De Bont (2020))
+
+By incorporating the tacit knowledge of stakeholders, innovators can gain a deeper understanding of the fundamental level of human experience. This knowledge helps to identify the underlying issues that patients face and develop solutions that are truly patient-centered. 
+
+In healthcare innovation, it is essential to emphasize that there are no general patient journeys; they are always highly individual. Understanding tacit knowledge from all stakeholders and mapping it out is crucial for creating meaningful and impactful innovations. (Simonse, Albayrak, and Starre (2019))
+
+An example of addressing deeper problems behind patient experiences can be seen in the work of Mullaney, Pettersson, Nyholm, and Stolterman (2012), who emphasize the importance of human-centered design in cancer care. They highlight the anxiety experienced by cancer patients, which goes beyond the physical aspects of the disease. By understanding and addressing the emotional and psychological needs of patients, healthcare innovations can provide more holistic and effective solutions.
+
+## Confrontation with pain, mortality and death
+
+When looking at your diagnosis as a patient decades after the diagnosis happened, it is interesting how profound the emotions are and how traumatic the impact can be, even if the cancer is cured. Ultimately, through experience with disease, everyone is confronted with the limits of nature and their own mortality in some way. However, the expression of these emotions happens at different times. There seems to be a survival experience and a death experience.
+
+The concept of "double awareness," as explored by Burgers et al. (2022), highlights how adolescents and young adults cope with an uncertain or poor cancer prognosis. This duality involves simultaneously acknowledging the possibility of survival and the reality of death. Patients often experience a complex interplay of hope and despair, which can lead to a heightened awareness of their mortality. This awareness is not only a confrontation with the potential end of life but also a profound reflection on the meaning and value of life itself.
+
+The study emphasizes that coping with such a prognosis involves navigating between these two states of awareness. Patients may oscillate between moments of optimism and periods of deep existential reflection. This duality can shape their emotional and psychological responses, influencing how they perceive their illness and their future. The survival experience is marked by a determination to overcome the disease, while the death experience involves grappling with the fear and acceptance of mortality.
+
+In essence, the confrontation with pain, mortality, and death is a multifaceted journey. It is a process that encompasses both the struggle to survive and the contemplation of life's fragility. Understanding this "double awareness" can provide valuable insights into the emotional and psychological challenges faced by patients, helping to inform more compassionate and effective support strategies.
+
+```{figure} ../figures/Double-awareness-AYA.jpg
+:height: 350px
+
+Double awareness in adolescents and young adults (AYAs) with a uncertain or poor cancer prognosis (UPCP). *Size of the colored circles represents the frequency of the reported coping strategies. (e.g.) circles of ‘minimizing impact of cancer’ and ‘seeking and receiving support’ are largest, suggesting that these coping strategies were reported the most. Burgers, V. W., van den Bent, M. J., Rietjens, J. A., Roos, D. C., Dickhout, A., Franssen, S. A., ... & Husson, O. (2022). “Double awareness”—adolescents and young adults coping with an uncertain or poor cancer prognosis: A qualitative study. Frontiers in Psychology, 13, 1026090.
+```
+
+
+Here is a video of the comedian Tom Green who shared his experience shortly after diagnosis:
+
+````{admonition} The Tom Green Show - Cancer Special
+```{raw} html
+<a href="https://www.youtube.com/watch?v=WHD3L4RhiGA" target="_blank">
+    <img src="https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DWHD3L4RhiGA" alt="The Tom Green Show - Cancer Special: Part 1">
+</a>
+<br><br>
+<a href="https://www.youtube.com/watch?v=sJboRvYDgx8" target="_blank">
+    <img src="https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DsJboRvYDgx8" alt="The Tom Green Show - Cancer Special: Part 2">
+</a>
+```
+````
+
+
+Here is a video of Tom Green who shares his experience decades later:
+Why do you feel the pain challenges for Tom were so difficult to deal with? Can you identify different dimensions? Can you differentiate between what is important in his philosophy of life and what matters to society? 
+
+````{admonition} Tom Green: I Didn’t Expect to Survive Testicular Cancer
+```{raw} html
+<a href="https://www.youtube.com/watch?v=0jso8SJTY_M" target="_blank">
+    <img src="https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D0jso8SJTY_M" alt="Tom Green: I Didn’t Expect to Survive Testicular Cancer">
+</a>
+```
+````
+
+
+INSERT HERE THE LECTURE about concfrontation with death and palliative care centre for young adults with cancer
+
+````{admonition} Watch this patient interview: what are the underlying emotions this patient is struggling with regarding confrontations with pain, mortality and death?
+```{raw} html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4Hu3qbElb9k?si=X5W5r1dwKongoC6R" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+```
+````
+
+
+<!-- ````{admonition} ValEU patient panel discussion 2023 (TA review video with quiz in Mediasite)
+```{video} https://youtu.be/n2X3OHdbuNg
+```
+````
+
+
+
+````{admonition} ValEU patient panel discussion 2024 (TA review video in Mediasite)
+```{video} https://youtu.be/hp1j7Web4Uo
+```
+````  -->
+
+````{admonition} Patient exploration 
+
+```{video} https://tudelft.h5p.com/content/1292435448749375067/embed
+```
+````
+
+
+<script src=https://utteranc.es/client.js
+        repo="pietervandekerckhove/handbook-innovating-health"
+        issue-term="video"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
+
+
+
+INSERT Explore the patient and family dynamics in focus group (Interview Mark)
+
+### Challenges with patient experience as human flux of emotion, which is always changing everywhere everytime
+Ultimately it is difficult to cater for human experience as it always changing. That is why on a meta-level it might be interesting to try to facilitate the mindfullness during the experience when people are using a specific new health solution.
+
+### Nondualism, Zen and framing of our experience
+In Western science, our experience is often conceptualized as a psychological construct through the concept of self. This idea suggests that our perceptions and emotions are filtered through our understanding of ourselves as distinct individuals. However, ancient philosophy, particularly from a phenomenological point of view, challenges this notion. Phenomenologists argue that there is no experience of a self; rather, experiences are direct and unmediated by any concept of self.
+
+Eastern philosophy, particularly in the context of Japanese Zen, speaks of nondualism and no-self experiences as the true state of liberation from all sorrow. According to the Stanford Encyclopedia of Philosophy, Zen teachings emphasize the dissolution of the ego and the realization of one's interconnectedness with all things (Stanford Encyclopedia of Philosophy, n.d.). This perspective offers a profound contrast to the Western conceptualization of self, suggesting that true peace and understanding come from transcending the self.
+
+Pierre Hadot, in his book "Philosophy as a Way of Life," refers to ancient spiritual exercises designed to help individuals confront their mortality. These exercises, rooted in Stoic and Epicurean traditions, encourage a deep reflection on death as a means to cultivate a tranquil and virtuous life. Hadot's work underscores the importance of philosophical practice in preparing oneself for the inevitability of death, offering a path to inner peace and resilience (Hadot, 1995).
+
+
+
+
 ## Conclusion
 In conclusion, this chapter has provided you with a comprehensive understanding of how differences between socio-technical product service systems at various levels impact the health innovation pathway. You have explored key concepts, engaged with interactive content, and examined practical examples that highlight the importance of integrating technology, services, and societal factors in health innovation.
 
 As you move forward, remember that the knowledge gained here is not just theoretical but highly applicable to real-world challenges. The videos and quizzes have reinforced your learning, and the team project assignment will allow you to put theory into practice. Collaborating with your peers, you will analyze complex scenarios, propose innovative solutions, and demonstrate your ability to navigate the socio-technical landscape of health innovation.
 
 We hope this chapter has inspired you to think critically and creatively about the future of health innovation. Your journey doesn't end here; it is just the beginning of your exploration into the dynamic and impactful world of socio-technical systems in healthcare.
+
 
 
 ```{admonition} Team Project assignment (see project chapter 9): Explore phase and Create phase
@@ -369,6 +490,8 @@ TA Check if bibliography is complete with refs
 :class: note 
 
 Appelbaum, S. H. (1997). Socio-technical systems theory: An intervention strategy for organizational development. Management Decision, 35(6), 452-463.
+
+Burgers, V. W., van den Bent, M. J., Rietjens, J. A., Roos, D. C., Dickhout, A., Franssen, S. A., ... & Husson, O. (2022). “Double awareness”—adolescents and young adults coping with an uncertain or poor cancer prognosis: A qualitative study. Frontiers in Psychology, 13, 1026090.
 
 Collins, F. S., & Varmus, H. (2015). A new initiative on precision medicine. The New England Journal of Medicine, 372(9), 793–795. https://doi.org/10.1056/NEJMp1500523
 
@@ -391,4 +514,22 @@ Trist, E. (1981). The evolution of socio-technical systems: A conceptual framewo
 TU Delft Open Course. (n.d.). Design healthcare using patient journey mapping. Retrieved from https://ocw.tudelft.nl/courses/design-healthcare-using-patient-journey-mapping/?view=lectures&subject=22696
 
 Van Elten, H. J., Howard, S. W., De Loo, I., & Schaepkens, F. (2023). Reflections on managing the performance of value-based healthcare: a scoping review. International Journal of Health Policy and Management, 12, 7366.
+
+
+1. Vandekerckhove, P., Vandekerckhove, Y., Tavernier, R., De Jaegher, K., & De Mul, M. (2020). Leveraging user experience to improve video consultations in a cardiology practice during the COVID-19 pandemic: initial insights. Journal of Medical Internet Research, 22(6), e19771.
+2. Goossens, R., & Albayrak, A. (2020). Design in Healthcare: Using Patient Journey Mapping. TU Delft.
+3. Melles, M., Albayrak, A., & Goossens, R. (2020). Innovating health care: Key characteristics of human-centered design. International Journal for Quality in Health Care, 33(Suppl 1), 37–44. https://doi.org/10.1093/intqhc/mzaa127
+4. Smulders, F., van der Meer, H., & Gielen, M. (2008). Effective communication strategies in collaborative design. Design Studies, 29(5), 421-437.
+5. Simonse, L., Albayrak, A., & Starre, S. (2019). Patient journey method for integrated service design. Design for Health, 3(1), 82-97.
+6. Vandekerckhove, P., De Mul, M., Bramer, W. M., & De Bont, A. A. (2020). Generative participatory design methodology to develop electronic health interventions: systematic literature review. Journal of Medical Internet Research, 22(4), e13780.
+### Key References
+
+- Vandekerckhove, P., De Mul, M., Bramer, W. M., & De Bont, A. A. (2020). Generative participatory design methodology to develop electronic health interventions: systematic literature review. Journal of Medical Internet Research, 22(4), e13780.
+- Vandekerckhove, P., Vandekerckhove, Y., Tavernier, R., De Jaegher, K., & De Mul, M. (2020). Leveraging user experience to improve video consultations in a cardiology practice during the COVID-19 pandemic: initial insights. Journal of Medical Internet Research, 22(6), e19771.
+- Simonse, L., Albayrak, A., & Starre, S. (2019). Patient journey method for integrated service design. Design for Health, 3(1), 82-97.
+- Mullaney, T., Pettersson, H., Nyholm, T., & Stolterman, E. (2012). Thinking beyond the cure: A case for human-centered design in cancer care. International Journal of Design, 6(3), 27-39.
+
+Burgers, V. W., van den Bent, M. J., Rietjens, J. A., Roos, D. C., Dickhout, A., Franssen, S. A., ... & Husson, O. (2022). “Double awareness”—adolescents and young adults coping with an uncertain or poor cancer prognosis: A qualitative study. Frontiers in Psychology, 13, 1026090.
+Stanford Encyclopedia of Philosophy. (n.d.). Japanese Zen. Retrieved from https://plato.stanford-edu.tudelft.idm.oclc.org/entries/japanese-zen/#ZenSeei
+Hadot, P. (1995). Philosophy as a Way of Life: Spiritual Exercises from Socrates to Foucault. Blackwell Publishing.
 ```

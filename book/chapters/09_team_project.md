@@ -218,6 +218,10 @@ dr. Sascha Verbruggen
 Clinician-turned entrepreneur
 (Add Wiljeana glover article)
 
+ADD REF 
+
+Hoang, H., & Perkmann, M. (2023). Physician entrepreneurship: A study of early career physicians’ founding motivations and actions. Social Science & Medicine, 339, 116393. https://doi.org/10.1016/j.socscimed.2023.116393
+
 #### Research perspective
 iCell fundamental researchers insights in biotech (combining insights from genetic insights and lab insights)
 
@@ -250,7 +254,7 @@ After you have chosen a challenge, you need to develop a need statement in a cle
 1. First summarize your challenge in your own words in one sentence.
 2. Rephrase your challenge into a one sentence hypothesis
 3. Conduct the explorative research
-3. Develop the revised needs statement
+4. Develop the revised needs statement
 
 ```{tip}
 Need statement key elements: As we observe (problem), we actually want to address (problem-behind-the-problem) in (specific population) in order to (achieve a desired outcome)
@@ -258,13 +262,13 @@ Need statement key elements: As we observe (problem), we actually want to addres
 For example:  As we observe **anxiety** during cancer treatment, we actually want to address **post-traumatic stress** of **young cancer patients** in order to give them a better **quality of life** so that the can perform daily tasks better.
 ```
 
-### Rephrase in a hypothesis
+### 2. Rephrase in a hypothesis
 To transform your challenge idea into a concise one-sentence hypothesis, start by clearly identifying the core problem or need you aim to address. Focus on the specific patient-centered issue and the potential impact of your solution. Frame your hypothesis by stating the problem, the proposed solution, and the expected outcome. For example, "We believe that implementing a mobile health app for chronic disease management will improve patient adherence to treatment plans and enhance overall health outcomes." This hypothesis will guide your research and help you validate the need for your proposed solution.
 
 ### Research the hypothesis from different stakeholder perspective
 Often people from the industry are solution driven and people in health practice are needs driven, these are two different mindsets. Make sure you explore both approaches to the problem.
 
-#### Types of research tools
+#### 3. Explorative research tools
 To better understand the underlying problem and potentially validate your need hypothesis, it's essential to conduct exploratory research. This research will help you gain deeper insights into the need hypothesis you formulated earlier.
 
 There are three primary types of research you can conduct: literature review, interviews, and observations. Use the resources that are most convenient for you, but ensure you gain a comprehensive understanding of your hypothesis.
@@ -284,6 +288,11 @@ Ideally, connect with one or two key stakeholders in the field. Look for friends
 - Dig deep by asking many "why" questions to uncover deeper knowledge.
 - Listen actively to what is being said and try to bring out the emotional side of the story.
 - Use open-ended questions and avoid closed yes/no questions to prevent confirmation bias. As demonstrated in the Mom-Test video, closed questions can lead respondents to confirm your assumptions.
+
+```{tip}
+Research tools to prepare a qualitative interview: check out the generative AI tool called the Autonomous customer inteviewer made by prof Dries Faems: https://automaticinterviewerpublic-owoskccwim2h9e5nynhsix.streamlit.app/ 
+```
+
 
 **Observation:**
 Find a relevant place, such as a healthcare organization you have access to. Be as unobtrusive as possible—try to blend in like a plant in the corner. Be in the middle of the action where the problem may occur, but in a spot where you are unnoticed. Ensure you have permission to be there and are not infringing on anyone's privacy.
@@ -316,7 +325,7 @@ You could also use validated AI research tools to review large bodies of literat
 Research tools to analyse a qualitative interview: check out prof Dries Faems and Niklas Geiss generative AI based cool Expert & Resaerch Interview Helper: https://niklasg27-interview-helper-interview-helper-v0-4-90hctr.streamlit.app/
 ```
 
-#### Problem behind the problem
+#### 4. Revised need statement
 It is really important to dig deeper than the superficial information you receive and try to find out what the deeper lying information is about.
 
 Based on the research, try to identify an underlying, more fundamental need: the problem behind the problem. For instance, you realise that the problem with chemotherapy is not in the first instance receiving the treatment as such, it is actually the idea of receiving chemotherapy as a destructive poison that is causing mental stress.
@@ -329,44 +338,6 @@ look for new insights when you feel you have saturated the mindmap
 
 (INSERT EXAMPLE OF MINDMAP)
 			
-
-
-### Clinical problem validation
-
-When looking at your diagnosis as a patient decades after the diagnosis happened it is interesting how profound the emotions are and how traumatic the impact can be, even if the cancer is cured. Sometimes, when  you think you have the right problem focus, you may have not gotton the right problem focus.
-
-Here is a video of the comedian Tom Green who shared his experience shortly after diagnosis:
-
-````{admonition} The Tom Green Show - Cancer Special
-```{raw} html
-<a href="https://www.youtube.com/watch?v=WHD3L4RhiGA" target="_blank">
-    <img src="https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DWHD3L4RhiGA" alt="The Tom Green Show - Cancer Special: Part 1">
-</a>
-<br><br>
-<a href="https://www.youtube.com/watch?v=sJboRvYDgx8" target="_blank">
-    <img src="https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DsJboRvYDgx8" alt="The Tom Green Show - Cancer Special: Part 2">
-</a>
-```
-````
-
-
-Here is a video of Tom Green who shares his experience decades later:
-Why do you feel the pain challenges for Tom were so difficult to deal with? Can you identify different dimensions? Can you differentiate between what is important in his philosophy of life and what matters to society? 
-
-````{admonition} Tom Green: I Didn’t Expect to Survive Testicular Cancer
-```{raw} html
-<a href="https://www.youtube.com/watch?v=0jso8SJTY_M" target="_blank">
-    <img src="https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D0jso8SJTY_M" alt="Tom Green: I Didn’t Expect to Survive Testicular Cancer">
-</a>
-```
-````
-
-
-### Problem validation
-```{tip}
-Research tools to prepare a qualitative interview: check out the generative AI tool called the Autonomous customer inteviewer made by prof Dries Faems: https://automaticinterviewerpublic-owoskccwim2h9e5nynhsix.streamlit.app/ 
-```
-
 
 
 ```{admonition} Project Deliverables
