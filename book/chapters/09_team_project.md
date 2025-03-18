@@ -176,10 +176,9 @@ Present your proposed solution through detailed plans and prototypes, backed by 
 ## 2. Explore
 The aim of this phase is to explore the different levels in the problem and develop a need statement. First you need to narrow down the challenge into a hypothesis, aferwards you need to choose a detailed focus of that reframed challenge.
 
-### Top-down mission or bottom up health needs exploration
 The above challenge can provide you with a starting point, but you need to think much bigger and leave the K-space to venture in the C-space. You can start with a top-down vision where you want to arrive or you can start to explore the problem by conducting research and interview people that are suffering from the problem.
 
-### Top-down mission
+### Finding the challenge: Top-down mission-driven approach
 It is essential that you build a mission and vision and try to clarify what the general aim would be. 
 
 It could be a great benefit if you have someone related to your initiative who has been feeling the pain firsthand and wants to make a change.
@@ -191,7 +190,7 @@ It could be a great benefit if you have someone related to your initiative who h
 ```
 ````
 
-### Bottom up health needs exploration
+### Finding the challenge: Bottom up health needs exploration
 #### Startups
 * patient expert and founder Lennart Zielstra Rezolve Medical https://www.rezolvemedical.com/
 ````{admonition} Learn from Lennart Zielstra's mission: what  drove him to start his work?
@@ -216,7 +215,8 @@ And check this platform (In Dutch): https://intalk.nl/
 #### Care professional experiences
 dr. Sascha Verbruggen
 
-From a patient and health researcher point of view
+Clinician-turned entrepreneur
+(Add Wiljeana glover article)
 
 #### Research perspective
 iCell fundamental researchers insights in biotech (combining insights from genetic insights and lab insights)
@@ -245,41 +245,59 @@ Have a look at this video and what opportunities you can identify?
 ````
 
 
-## Develop and rephrase the needs statement
-Develop a need statement in the format of: A way to address (problem) in (specific population) in order to (achieve a desired outcome). Afterwards rephrase it in the format of a hypothesis
+## Develop the needs statement
+After you have chosen a challenge, you need to develop a need statement in a clear formate that shows the problem and the underlying problem. 
+1. First summarize your challenge in your own words in one sentence.
+2. Rephrase your challenge into a one sentence hypothesis
+3. Conduct the explorative research
+3. Develop the revised needs statement
+
+```{tip}
+Need statement key elements: As we observe (problem), we actually want to address (problem-behind-the-problem) in (specific population) in order to (achieve a desired outcome)
+
+For example:  As we observe **anxiety** during cancer treatment, we actually want to address **post-traumatic stress** of **young cancer patients** in order to give them a better **quality of life** so that the can perform daily tasks better.
+```
+
+### Rephrase in a hypothesis
+To transform your challenge idea into a concise one-sentence hypothesis, start by clearly identifying the core problem or need you aim to address. Focus on the specific patient-centered issue and the potential impact of your solution. Frame your hypothesis by stating the problem, the proposed solution, and the expected outcome. For example, "We believe that implementing a mobile health app for chronic disease management will improve patient adherence to treatment plans and enhance overall health outcomes." This hypothesis will guide your research and help you validate the need for your proposed solution.
 
 ### Research the hypothesis from different stakeholder perspective
 Often people from the industry are solution driven and people in health practice are needs driven, these are two different mindsets. Make sure you explore both approaches to the problem.
 
 #### Types of research tools
-Conduct exploratory research to find out more about the underlying problem about the need hypothesis and potentially validate your need hypothesis.
+To better understand the underlying problem and potentially validate your need hypothesis, it's essential to conduct exploratory research. This research will help you gain deeper insights into the need hypothesis you formulated earlier.
 
-Generally there are three types of research you can conduct: literature review, interviews and observations. Please use the resources that are most convenient to you, but make sure you have a better understanding about the hypothesis you formulated earlier.
+There are three primary types of research you can conduct: literature review, interviews, and observations. Use the resources that are most convenient for you, but ensure you gain a comprehensive understanding of your hypothesis.
 
-General approach to start: try to formulate Who..., What..., Where..., How... and Why questions to get started with your research. Initially, try to explore the unknown areas where you have least amount of knowledge.
+**General Approach to Start:**
+Begin by formulating Who, What, Where, How, and Why questions to guide your research. Initially, focus on exploring unknown areas where you have the least amount of knowledge.
 
-Literature: you can use publicly available search robots such as Google or Google Scholar. If you are looking for health-related research you can use PubMed https://pubmed-ncbi-nlm-nih-gov.tudelft.idm.oclc.org/. If you don't have access to one of the scientific articles you need and don't know anyone who can access through their university affiliation, you can ask the EIT Health Innovation training team.
+**Literature Review:**
+Utilize publicly available search engines such as Google or Google Scholar. For health-related research, you can use PubMed (https://pubmed.ncbi.nlm.nih.gov/).
 
-Interviews: Ideally, you can get in touch with one or two key stakeholders in the field. Look for friends or family you may have indirectly or directly experienced this problem.
+**Interviews:**
+Ideally, connect with one or two key stakeholders in the field. Look for friends or family members who may have indirectly or directly experienced the problem.
 
-Tips for the interview: Address someone politely and focus on the person you want to interview to ask the right questions, it can be useful if one person asks the questions and someone else just takes notes.
+**Tips for Interviews:**
+- Address interviewees politely and focus on asking the right questions.
+- It can be helpful if one person asks questions while another takes notes.
+- Dig deep by asking many "why" questions to uncover deeper knowledge.
+- Listen actively to what is being said and try to bring out the emotional side of the story.
+- Use open-ended questions and avoid closed yes/no questions to prevent confirmation bias. As demonstrated in the Mom-Test video, closed questions can lead respondents to confirm your assumptions.
 
-Dig deep: don't be afraid to ask a lot of why questions to bring out that deeper knowledge and listen very actively to what is being said. Don't just focus on thoughts: also try to bring out the emotional side of the story as this can give a good idea of ​​what the problem feels like. Try to use open questions and avoid closed yes or no questions as this can cause you to confirm what you already know. As exemplified in this video of the Mom-Test, asking closed questions can implicitly cause all your respondents to confirm your questions. 
+**Observation:**
+Find a relevant place, such as a healthcare organization you have access to. Be as unobtrusive as possible—try to blend in like a plant in the corner. Be in the middle of the action where the problem may occur, but in a spot where you are unnoticed. Ensure you have permission to be there and are not infringing on anyone's privacy.
 
+**Observation Questions:**
+- What don't you see? What's not happening? Identifying expected but absent events can help you better understand the problem.
+- What do you see? What is happening? Write down logical events related to the problem situation, even if they seem obvious. Consider the logical sequence of actions and any facial expressions or nonverbal responses you observe.
 
+**Conducting Field Research:**
+Make sure you have all the necessary materials ready for interviews or observations:
+- Pen and paper for drawing and writing—sketches can sometimes convey more than words and can be useful in visual analysis later.
+- A photo camera or video camera (smartphone)—ensure your smartphone is charged and always ask for permission before taking photos or videos of people.
 
-Observation: Look for a relevant place, such as a potential healthcare organisation you have access to. Be invisible: try to stand in a corner like a plant, yes we mean that almost literally. Be in the middle of the action, where the problem may be, but in a place where you are unnoticed, where everyone can easily walk past you, so you are not immediately noticed. Above all, make sure you have permission to be there and not infringing on the privacy of the people you are observing.
-
-These questions can help you:
-What don't you see? What's not happening? Things that you expect to happen, but don't happen can be important to better identify the problem.
-What do you see? What will happen? Things that you obviously expect to happen would be easy to miss because it makes so much sense, still write down these logical events in relation to the problem situation. Is this a logical place? A logical sequence of actions? What facial expressions or nonverbal responses do you see?
-
-Conducting the field research: absorbing information
-Make sure you have all the material ready for the interview(s) or observations:
-
-pen/paper for drawing and writing, a sketch can sometimes say more than words and you can also easily use this in the visual analysis afterwards
-photo camera, video camera (smartphone), make sure your smartphone is charged and always ask permission first to take photos or make videos of the people in the picture
-
+**Data analysis:**
 You can structure your data collection and data analysis in the table shown underneath:
 
 ```{figure} ../figures/Data-table.png
@@ -401,8 +419,6 @@ Why do you feel the pain challenges for Tom were so difficult to deal with? Can 
 
 
 ### Problem validation
-
-
 ```{tip}
 Research tools to prepare a qualitative interview: check out the generative AI tool called the Autonomous customer inteviewer made by prof Dries Faems: https://automaticinterviewerpublic-owoskccwim2h9e5nynhsix.streamlit.app/ 
 ```
@@ -412,13 +428,11 @@ Research tools to prepare a qualitative interview: check out the generative AI t
 ```{admonition} Project Deliverables
 :class: important
 * Undergraduate level: 
-Explain how prototype addresses key needs for a persona
+Develop a revised problem statement that tackles the problem behind the problem.
 
 * Graduate level: 
-Explain how prototype addresses problem solution in a key touchpoint within a care pathway
+Develop a test to critically assess the problem
 ```
-
-
 
 
 ## 3. Design and create: prototype minimum viable solution
@@ -442,6 +456,15 @@ Different types of prototypes
 need for research approach with hypothesise to validate assumptions with prototype
 
 Validation prototype types: functional, aesthaethic, cost impact
+
+```{admonition} Project Deliverables
+:class: important
+* Undergraduate level: 
+Explain how prototype addresses key needs for a persona
+
+* Graduate level: 
+Explain how prototype addresses problem solution in a key touchpoint within a care pathway
+```
 
 ## 4. Robustinize: Testing problem-solution hypotheses
 At this stage you will focus on identifying and testing a beachhead niche market in the Socio-Technical Product Service Systems (STPSS) of a niche area in the health system. Your task is to select a specific segment within the healthcare industry that represents a promising niche market for your innovative solution.
@@ -489,6 +512,15 @@ Tips for a grant proposal:
 * assemble a writing team and meet regularly to develop your grant proposal
 * align your proposal with the criteria of the funding body: e.g. for EU grants, it is important to take into account the larger EU Competitive theme into account: https://commission.europa.eu/topics/eu-competitiveness_en
 
+```{admonition} Project Deliverables
+:class: important
+* Undergraduate level: 
+   - Develop revenue stream overviews
+   - Draft grant proposal
+
+* Graduate level: 
+Develop 2 and 5 year financial plan taking into account key costs and revenue streams
+```
 
 ## 4. Realize: embedding strategy
 starting simple validation to more complex validation
@@ -503,6 +535,15 @@ Try a feasibility like this Virtual reality application combined with neurofeedb
 Look for creative places in your organization, like the Create4Care lab at Erasmus MC or Rotterdam Square validation processes, you can use to validate clinical aspects of your innovation
 ```
 strategic report
+
+```{admonition} Project Deliverables
+:class: important
+* Undergraduate level: 
+   - Develop a realization strategy integrating different perspective from 3 key stakeholders
+
+* Graduate level: 
+Develop a realization strategy
+```
 
 ## Conclusion
 

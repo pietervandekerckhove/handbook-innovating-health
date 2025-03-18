@@ -274,7 +274,7 @@ C-K theory introduced by Hatchuel and Weil, offers a unified design framework th
 
 
 ```{figure} ../figures/dynamic-C-K-Theory.png
-:height: 150px
+:height: 350px
 :name: figure-example
 
 Hatchuel, A., & Weil, B. (2003). A new approach of innovative Design: an introduction to CK theory. In DS 31: Proceedings of ICED 03, the 14th International Conference on Engineering Design, Stockholm.)
@@ -284,7 +284,7 @@ The C-K theory helps one to move a team from a knowledge space domains, which ar
 
 
 ```{figure} ../figures/conceptual-knowledge-Frido1.jpg
-:height: 150px
+:height: 350px
 :name: figure-example
 
 Frido Smulders, Figure A, https://www.tudelft.nl/en/innovation-impact/pioneering-tech/articles/innovation-is-about-behaviour-not-technology?utm_medium=email&utm_source=pt_newsletter_feb&utm_campaign=always_on#&gid=1&pid=1
@@ -332,6 +332,26 @@ Building on the C-K theory, how the different levels of value creation (see prev
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7iWguYoJAkk?si=T7VypAAwGohda5uW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 ```
 ````
+
+Ultimately we need to think how we can move the innovative behavior of people here from the K space to the C space.
+
+Conceptually one could use the Deweyan theory of inquiry to develop certain steps in this process:
+
+```{figure} ../figures/Deweyan-Inquiry-Frido.jpg
+:height: 350px
+:name: figure-example
+
+Stompff, G., van Bruinessen, T., & Smulders, F. (2022). The generative dance of design inquiry: Exploring Dewey's pragmatism for design research. Design Studies, 83, 101136.
+```
+
+This means that in an organization people need to be able to get outside of their routines and outside of their comfort zones. ADD Ref: Smulders, F. (2024). Design Creativity in the Belly of the Beast. Design Management Journal, 19(1), 128-140.
+
+```{figure} ../figures/Frido-2024.png
+:height: 350px
+:name: figure-example
+
+Smulders, F. (2024). Design Creativity in the Belly of the Beast. Design Management Journal, 19(1), 128-140.
+```
 
 
 #### Generative co-design sessions
