@@ -252,7 +252,7 @@ For more information about the key statistics for each country, you can consult,
 
 ## Surfing the waves in healthcare STPSS: human-centered care and value-Based Healthcare as catalysts for innovation
 
-### Aligning with value-based healthcare
+### Aligning with value-based healthcare (STEVE ADD EXERCISE FOR APPLICATION IN A STATE)
 
 Value-based healthcare started with the seminal work of Porter (2010), with key principles to improve care: 
 * Patient-Centered Care: VBHC emphasizes treating patients as active participants in their own care, focusing on their specific needs and outcomes.

@@ -73,7 +73,7 @@ Healthcare entrepreneurship behaviors becoming more focused per phase across the
 
 Therefore it becomes key to learn how to use these behaviors in the innovation process steps to make an impact with an idea to improve the care process.
 
-## Defining Healthcare Technology
+## Defining Healthcare Technology (STEVE ADD MACRO POLICY AND MARKET TRENDS)
 
 According to the WHO's "Global Strategy on Digital Health 2020-2025," digital health, leverages technology to enhance healthcare delivery systems globally. This includes wearable health monitors, diagnostic imaging systems, robotic surgery, and digital health applications. (ADD REF https://www.who.int/publications/i/item/9789240020924)This includes a broad range of product-service systems. For example: devices, medicines, vaccines, procedures, and systems developed to solve health problems and improve quality of life. These technologies facilitate the prevention, diagnosis, treatment, and monitoring of diseases. Healthcare technology integrates advancements from various fields, including biotechnology, information technology, and medical devices, to enhance patient outcomes and streamline healthcare operations.
 

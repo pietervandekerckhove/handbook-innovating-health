@@ -43,7 +43,7 @@ Leverage collaborative Tools
 
 By leveraging these principles and tools, teams can work more efficiently and cohesively, driving the project towards successful completion.
 
-### Choose a challenge
+### Choose a challenge topic/domain
 
 Here is an overview of challenges you can choose from:
 

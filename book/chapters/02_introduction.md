@@ -136,6 +136,9 @@ The book is structured to integrate theory with practice, ensuring you gain acti
 
 Whether you are a health professional, entrepreneur, policymaker, or student, this book will empower you with the tools to create lasting impact in healthcare innovation.
 
+**Project team**
+introduce yourself
+
 
 ```{admonition} Bibliography
 :class: note 
