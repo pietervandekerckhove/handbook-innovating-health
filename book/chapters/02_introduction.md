@@ -58,7 +58,7 @@ Ultimately, the field of patient centered care aims to bring:
 
 In conclusion, patient-centered healthcare entrepreneurship offers a transformative approach to healthcare management by prioritizing the voices and experiences of patients. This shift not only enhances the resilience and adaptability of healthcare systems but also improves the quality of care and fosters innovation in healthcare solutions.
 
-## Why This Book?
+## The need to integrate scattered innovation and entrepreneurship knowledge
 
 On an individual patient level, the knowledge about strategies and management approaches to develop innovations in healthcare is scattered across different stakeholders. Therefore there is need for a comprehensive book to summarize and bring these insights together. A prime example of the power of such a strategic knowledge became apparant during the COVID-19 crisis. We witnessed unprecedented, rapid, and coordinated innovation efforts at every level of the healthcare system. Stakeholders from across the sector—patients, clinicians, researchers, regulators, and policymakers—mobilized to develop new solutions in record time. This included:
 

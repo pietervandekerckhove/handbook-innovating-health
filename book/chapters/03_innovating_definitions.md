@@ -85,7 +85,7 @@ According to the WHO's "Global Strategy on Digital Health 2020-2025," digital he
 ````
 
 
-**Trends in Health Technology**
+**Trends in Health Technology** (Steve to add policy and state specific trends)
 
 The Politecnico di Milano's Technology Foresight report https://www.foresight.polimi.it/health/1/ provides insights into future trends and innovations in healthcare technology. This foresight is critical for anticipating and preparing for upcoming challenges and opportunities in MedTech. Emerging trends include AI-driven diagnostics, precision medicine, telehealth expansion, and the integration of blockchain for secure health data management. These advancements drive efficiency, accessibility, and personalized care, paving the way for transformative changes in the healthcare industry. 
 

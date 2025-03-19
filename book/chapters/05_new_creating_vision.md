@@ -126,6 +126,18 @@ A creative way to develop and refine your healthcare vision is through Sci-Fi st
 
 For more details on the exercise, explore the Sci-Fi storyline mapping tool: Lavinia Marin & Gitte van Helden's Exercise.
 
+````{admonition} Sci-fi vision exercise
+Share your sci-fi visions here below in the discussion board
+````
+
+
+<script src=https://utteranc.es/client.js
+        repo="pietervandekerckhove/handbook-innovating-health"
+        issue-term="sci-fi exercise vision"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
 
 **Conclusion**
 
