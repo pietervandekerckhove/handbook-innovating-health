@@ -234,7 +234,7 @@ Germany perspective:
 ```
 ````
 
-* USA Perspective (Steven Howard): A mix of public (Medicare, Medicaid) and private insurance, with employer-based and market-driven models dominating. The system is highly fragmented, with significant disparities in access and costs. The Affordable Care Act (ACA) expanded coverage, but many remain uninsured or underinsured, and high healthcare costs remain a major issue.
+* USA Perspective (Steven Howard, ADD OREGON SYSTEM CONTEXT AND USA ACTS): A mix of public (Medicare, Medicaid) and private insurance, with employer-based and market-driven models dominating. The system is highly fragmented, with significant disparities in access and costs. The Affordable Care Act (ACA) expanded coverage, but many remain uninsured or underinsured, and high healthcare costs remain a major issue.
 
 * UK Perspective (Ben Harris): Publicly funded National Health Service (NHS) with supplementary private healthcare options. The NHS provides universal access, but wait times and resource constraints are ongoing challenges. Private insurance is available for faster access to certain treatments, but most essential healthcare services are state-funded.
 

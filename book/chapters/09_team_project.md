@@ -190,6 +190,10 @@ It could be a great benefit if you have someone related to your initiative who h
 ```
 ````
 
+STEVE ADD INTERVIEW BLAKE 
+
+STEVE ADD OTHER INTERVIEWS FROM STARTUP JOURNEYS, addressing healt literacy and enable patients and admissions
+
 ### Finding the challenge: Bottom up health needs exploration
 #### Startups
 * patient expert and founder Lennart Zielstra Rezolve Medical https://www.rezolvemedical.com/
