@@ -358,8 +358,38 @@ The aim of this session is to generate a solution to your need statement. This i
 Watch this video from the TU Delft open course on Entrepreneurship for engineers from dr. Victor Scholten. In this video they explain that we ultimately want to get a good understanding about the problem-solution fit and turn that idea into a reality in the form of a prototype.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/w51Sva2ttZk?si=FnsOMdARnw5SgRrV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+```
+
+Creative resources:
+Get creative and start drawing, woking more with post-its and use photos or paper sketches. Use copyright free photos on the websites: https://unsplash.com/ or https://pixabay.com/ or https://www.flaticon.com/ or an AI image generator 
 
 ### 1. Develop a customer/user/patient profile
+
+Developing a Customer, User, or Patient Profile
+In this team project, you will develop a detailed profile of a key stakeholder who will directly benefit from your solution. We will start with the information gathered in the previous session about the need statement and move towards a human-centered approach by focusing on one particular stakeholder.
+
+Step 1: Identify Key Stakeholders
+Begin by making a list of the most important stakeholders involved in your project. Consider individuals or groups who will be directly impacted by your solution. Here are some examples to get you started:
+
+Customers
+* Users
+* Patients
+* Healthcare providers
+* Family members
+* Community members
+
+Step 2: Visualize Pains and Needs
+To visualize the pains and needs of a specific person, we will use The Value Proposition Canvas: Customer Profile (Strategyzer). This tool helps you personalize the specific needs and pains of users by describing activities in their daily lives.
+
+Watch the video below for more information about the value proposition canvas. The first part of the video focuses on the customer profile, and later we will create the value map.
+
+[Insert Video Link Here]
+
+Example: Uber
+To help you understand how to create a customer profile, here is an example used for Uber:
+
+[Insert Uber Example Here]
+
 ### 2. Develop a persona
 
 ### 3. Mapping out care pathways and patient journeys over time
