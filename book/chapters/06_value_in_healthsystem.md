@@ -347,9 +347,19 @@ Another example is organ-on-a-chip technology. How do you think this could chang
 ````
 
 
-## The Fundamental Level of Human Experience
+## The foundations of value creation: levels of Human Experience
 
-Understanding how we experience our health and critical events in our lives is essential for healthcare innovation. There is an increasing amount of work being done in the field of human consciousness to explore what we feel as human beings on the experiential level of human awareness. However, the experiential level of human awareness is only beginning to be integrated into healthcare innovations.
+Understanding how we experience our health and critical events in our lives is essential for healthcare innovation. 
+
+Pyramid
+* Experience reported PREMS, PROMS
+* Experience of holistic health diagram (cognitive patient knowledge ref, diagram)
+* experience of awareness
+
+
+
+### Human awareness
+There is an increasing amount of work being done in the field of human consciousness to explore what we feel as human beings on the experiential level of human awareness. However, the experiential level of human awareness is only beginning to be integrated into healthcare innovations.
 
 ````{admonition} Watch this TED talk from Yongey Mingyur Rinpoche. What is the experiential level of awareness? How do we connect with it?
 ```{raw} html
@@ -374,6 +384,11 @@ An example of addressing deeper problems behind patient experiences can be seen 
 
 When looking at your diagnosis as a patient decades after the diagnosis happened, it is interesting how profound the emotions are and how traumatic the impact can be, even if the cancer is cured. Ultimately, through experience with disease, everyone is confronted with the limits of nature and their own mortality in some way. However, the expression of these emotions happens at different times. There seems to be a survival experience and a death experience.
 
+### The case of children, adoloscents and young adults with cancer (AYA)
+
+ADD info PhD text + paper AYA
+
+### How to integrate double awareness in your solution?
 The concept of "double awareness," as explored by Burgers et al. (2022), highlights how adolescents and young adults cope with an uncertain or poor cancer prognosis. This duality involves simultaneously acknowledging the possibility of survival and the reality of death. Patients often experience a complex interplay of hope and despair, which can lead to a heightened awareness of their mortality. This awareness is not only a confrontation with the potential end of life but also a profound reflection on the meaning and value of life itself.
 
 The study emphasizes that coping with such a prognosis involves navigating between these two states of awareness. Patients may oscillate between moments of optimism and periods of deep existential reflection. This duality can shape their emotional and psychological responses, influencing how they perceive their illness and their future. The survival experience is marked by a determination to overcome the disease, while the death experience involves grappling with the fear and acceptance of mortality.
@@ -452,17 +467,32 @@ INSERT HERE THE LECTURE about concfrontation with death and palliative care cent
 
 
 
-INSERT Explore the patient and family dynamics in focus group (Interview Mark)
+### Patients dynamics in the STPSS
 
-### Challenges with patient experience as human flux of emotion, which is always changing everywhere everytime
-Ultimately it is difficult to cater for human experience as it always changing. That is why on a meta-level it might be interesting to try to facilitate the mindfullness during the experience when people are using a specific new health solution.
 
-### Nondualism, Zen and framing of our experience
+
+````{admonition} In this podcast episdoe Pieter Vandekerckhove discusses how to manage patient family dynamics
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/0IP1UJgxYolGTbOPgxa5G5?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+````
+
+
+
+### Framing experience: Nondualism, Zen 
 In Western science, our experience is often conceptualized as a psychological construct through the concept of self. This idea suggests that our perceptions and emotions are filtered through our understanding of ourselves as distinct individuals. However, ancient philosophy, particularly from a phenomenological point of view, challenges this notion. Phenomenologists argue that there is no experience of a self; rather, experiences are direct and unmediated by any concept of self.
 
 Eastern philosophy, particularly in the context of Japanese Zen, speaks of nondualism and no-self experiences as the true state of liberation from all sorrow. According to the Stanford Encyclopedia of Philosophy, Zen teachings emphasize the dissolution of the ego and the realization of one's interconnectedness with all things (Stanford Encyclopedia of Philosophy, n.d.). This perspective offers a profound contrast to the Western conceptualization of self, suggesting that true peace and understanding come from transcending the self.
 
 Pierre Hadot, in his book "Philosophy as a Way of Life," refers to ancient spiritual exercises designed to help individuals confront their mortality. These exercises, rooted in Stoic and Epicurean traditions, encourage a deep reflection on death as a means to cultivate a tranquil and virtuous life. Hadot's work underscores the importance of philosophical practice in preparing oneself for the inevitability of death, offering a path to inner peace and resilience (Hadot, 1995).
+
+## Challenges to integrate patient experience as human flux of emotion, which is always changing everywhere everytime
+Ultimately it is difficult to cater for human experience as it always changing. That is why on a meta-level it might be interesting to try to facilitate the mindfullness during the experience when people are using a specific new health solution.
+
+### Positioning the patient as an active participant or passive receiver
+
+add ref Mullaney, T., Pettersson, H., Nyholm, T., & Stolterman, E. (2012). Thinking beyond the cure: A case for human-centered design in cancer care. International Journal of Design, 6(3), 27-39.
+
+
+
 
 
 

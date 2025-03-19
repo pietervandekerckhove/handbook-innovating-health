@@ -127,6 +127,25 @@ Herzlinger's Three Strategies, Herzlinger (2024) :
    - Growth Driver Strategy – Partnering with healthcare institutions and regulatory bodies to ensure alignment with market and policy requirements.
    - External Collaboration – Engaging external stakeholders, such as academic institutions and technology firms, to integrate interdisciplinary knowledge and capabilities.
 
+###### Key challenges to take into account
+It is important to map out multiple variables e.g. stakeholder jobs, personal interest, needs for the patient, information asymmetry between all parties, problems for trust, which impacts the sharing of vulnerable new ideas. In addition, care provider organisations are controlled and checked for everyone’s safety. New ideas are generally not welcome beyond the narrow margin of error in every procedure.
+
+Healthcare organisations are very hierarchical and time pressured environments. This produces many changing dynamics between the stakeholders:
+
+* care professionals (caring, managing care process)
+* Patients (getting better, managing life simultaneously) (this is different from the biomedical paradigm, patients are considered to be humans: Whyte, M. B., Elias, R., & Cooke, D. (2024). Exploration of the social and philosophical underpinning of ‘the patient’—what this means for people with a long-term condition. Humanities and Social Sciences Communications, 11(1), 1-6.)
+* their families (helping patient)
+* Managers (operationalizing care processes, financial management)
+* industry parties (establishing relations, making profit)
+* Government (assessing, controlling, evaluating care organizations)
+
+There are different needs of the organization, personal interests, organizational goals and all these need to be seperated to come to a successful understanding and agreement to collaborate (https://www.pon.harvard.edu/daily/negotiation-skills-daily/principled-negotiation-focus-interests-create-value/). These factors create tension between stakeholders. 
+
+If you want to collaborate with these stakeholders and involve them and integrate their views representing some parts of the STPSS, one needs te be aware of these challenges. (ADD REF Verkijk, C., Tabeau, K., Ahaus, K., Gielen, M., de Wit, M. C., & van Veelen-Vincent, M. L. (2024). The challenges of involving child-patients in the development of a mobile application for their participation in pediatric brain care.) 
+
+Therefore, given all these stakeholders there are different types of entrepreneurial activities needed to develop the new ideas and communicate them to the relevant stakeholder. In the beginning one use the involvement of users (micro-level), on a higher level one needs to convince the management teams of the organization (meso-level) and at the system level one needs to look at the interaction of the organizations (macro level). (ADD REF Kulkov, I., Ivanova-Gongne, M., Bertello, A., Makkonen, H., Kulkova, J., Rohrbeck, R., & Ferraris, A. (2023). Technology entrepreneurship in healthcare: Challenges and opportunities for value creation. Journal of Innovation & Knowledge, 8(2), 100365.)
+
+
 ##### Where to find patients?
 * Through your own network and social media
 * Through care professionals
@@ -412,7 +431,7 @@ By applying C-K theory in this way, the design team can effectively navigate the
 Research by Pieter Vandekerckhove highlights the transformative potential of generative co-design in healthcare, such as improving cardiology consultations through enhanced user experiences during the COVID-19 pandemic (Vandekerckhove et al., 2020). Generative co-design, as elaborated by Vandekerckhove et al. (2020) in their systematic literature review, is a participatory approach that involves users throughout the design process. This methodology ensures that the final product is shaped by the needs and preferences of its users, leading to more effective and user-friendly health interventions.
 
 
-## Key insights from practitioners to take into account in the innovation pathway upfront
+## Key insights from practitioners about collaboration to take into account upfront
 Developing your innovation pathway is like an action-research process where you learn from every step you take. 
 
 Some key lessons could be shared here when looking as key aspects in the innovation pathways. What aspects do you identify as important in patient-centered innovation pathways? What aspects should be considered upfront?
@@ -423,6 +442,11 @@ Some key lessons could be shared here when looking as key aspects in the innovat
 ```{video} https://www.youtube.com/watch?v=7tn-CMNr180&ab_channel=TUDelft%7CNewMediaCentre
 
 ```
+````
+
+````{admonition} In this podcast episdoe Pieter Vandekerckhove discusses how to collaborate with policy makers in the innovation pathway
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/3SSLqfvjhFdM2kzo1t5FFG?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 ````
 
 

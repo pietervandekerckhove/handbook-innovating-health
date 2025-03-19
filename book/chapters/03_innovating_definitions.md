@@ -99,6 +99,9 @@ This is the report of 2023
 https://www.rivm.nl/publicaties/e-healthmonitor-2023-stand-van-zaken-digitale-zorg
 ```
 
+````{admonition} In this podcast Pieter Vandekerckhove explores with dr. Christophe Van Neste the fundamental insights coming from the combinations of insights from biology, DNA, omics data on a molecular level and machine learning 
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/4uqMaXAbiVRuCC2oEQW9vP?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+````
 
 
 **Strategic alignment of stakeholder incentives upfront**
