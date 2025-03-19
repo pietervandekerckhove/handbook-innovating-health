@@ -467,7 +467,7 @@ INSERT HERE THE LECTURE about concfrontation with death and palliative care cent
 
 
 
-### Patients dynamics in the STPSS
+### Patients dynamics with the family in the STPSS
 
 
 
@@ -484,16 +484,24 @@ Eastern philosophy, particularly in the context of Japanese Zen, speaks of nondu
 
 Pierre Hadot, in his book "Philosophy as a Way of Life," refers to ancient spiritual exercises designed to help individuals confront their mortality. These exercises, rooted in Stoic and Epicurean traditions, encourage a deep reflection on death as a means to cultivate a tranquil and virtuous life. Hadot's work underscores the importance of philosophical practice in preparing oneself for the inevitability of death, offering a path to inner peace and resilience (Hadot, 1995).
 
-## Challenges to integrate patient experience as human flux of emotion, which is always changing everywhere everytime
-Ultimately it is difficult to cater for human experience as it always changing. That is why on a meta-level it might be interesting to try to facilitate the mindfullness during the experience when people are using a specific new health solution.
 
-### Positioning the patient as an active participant or passive receiver
+## Challenges to Integrate Patient Experience as Human Flux of Emotion, Which Is Always Changing Everywhere, Every Time
 
-add ref Mullaney, T., Pettersson, H., Nyholm, T., & Stolterman, E. (2012). Thinking beyond the cure: A case for human-centered design in cancer care. International Journal of Design, 6(3), 27-39.
+Ultimately, it is difficult to cater to human experience as it is always changing. On a meta-level, it might be interesting to facilitate mindfulness during the experience when people are using a specific new health solution. New technological advances with bio-sensors and theranostics are allowing us to cater better for a more holistic integrative medicine approach, which focuses more on wellbeing. However, this is just the beginning, and there are no standard business models yet developed for these product-services. It is important to strategically position the patient in a role that maximizes the value of your solution.
+
+### Human-Centered Entrepreneurship and Innovation: Positioning the Patient as an Active Participant or Passive Receiver with Your Solution
+
+The question arises: how do we develop solutions to create value for these changing situations, which are highly unique? Human-centered design and entrepreneurship could help us map out a broader understanding of the human experience in a particular situation in the care pathway. This can help discover new spaces to mediate and even prevent certain problems, such as anxiety for radiotherapy. Mullaney et al. (2012) emphasize the importance of human-centered design in cancer care, suggesting that understanding the patient's emotional journey can lead to better-designed interventions that address not only the physical but also the emotional aspects of care.
+
+Some people are convinced that we need to empower patients more so that they can manage their own pathway better. For instance, the Academy for Patients and Informal Caregivers tries to equip patients with knowledge about that. Bosveld et al. (2024) highlight the significance of involving patients and informal caregivers in the treatment process, e-health, and self-management programs. Their study shows that when patients are more informed and involved, they can take a more active role in managing their health, leading to better outcomes and increased satisfaction.
+
+In healthcare research, there are large streams of thinking about the involvement of patients in the care pathway, such as co-decision making in the consultation room or self-management of chronic diseases. Depending on the perspective you take, you frame the role of the patient in a different way, and this will determine the value you hope to create with your solution. By understanding the historical background of patient empowerment and self-management, we can better position patients in roles that maximize the value of our solutions.
 
 
+### Bibliography
 
-
+1. Mullaney, T., Pettersson, H., Nyholm, T., & Stolterman, E. (2012). Thinking beyond the cure: A case for human-centered design in cancer care. International Journal of Design, 6(3), 27-39.
+2. Bosveld, M. H., Smits, A. G., Mertens, H. J., Zandvoort, M. J. V., Mook, W. N. V., & Bokhoven, M. A. V. (2024). Patients and informal caregivers in the lead: a qualitative study on the experiences of patients, informal caregivers, and healthcare professionals with involvement in treatment, e-health and self-management programs. BMC Health Services Research, 24(1), 713.
 
 
 
