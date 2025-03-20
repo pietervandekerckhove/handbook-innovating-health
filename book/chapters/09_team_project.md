@@ -356,8 +356,7 @@ Develop a test to critically assess the problem
 
 ## 3. Design and create: prototype minimum viable solution
 
-### Aim
-The aim of this session is to generate a solution to your need statement. This is the phase where you can be very creative!
+The aim of this phase is to generate a solution to your need statement. This is the phase where you can be very creative!
 
 Watch this video from the TU Delft open course on Entrepreneurship for engineers from dr. Victor Scholten. In this video they explain that we ultimately want to get a good understanding about the problem-solution fit and turn that idea into a reality in the form of a prototype.
 
@@ -368,48 +367,270 @@ Creative resources:
 Get creative and start drawing, woking more with post-its and use photos or paper sketches. Use copyright free photos on the websites: https://unsplash.com/ or https://pixabay.com/ or https://www.flaticon.com/ or an AI image generator 
 
 ### 1. Develop a customer/user/patient profile
+Here, you will develop a detailed profile of a key stakeholder who will directly benefit from your solution. We will start with the information gathered in the previous need statement and move towards a human-centered approach by focusing on one particular stakeholder.
 
-Developing a Customer, User, or Patient Profile
-In this team project, you will develop a detailed profile of a key stakeholder who will directly benefit from your solution. We will start with the information gathered in the previous session about the need statement and move towards a human-centered approach by focusing on one particular stakeholder.
+#### Step 1: Identify Key Stakeholders
 
-Step 1: Identify Key Stakeholders
 Begin by making a list of the most important stakeholders involved in your project. Consider individuals or groups who will be directly impacted by your solution. Here are some examples to get you started:
 
-Customers
-* Users
-* Patients
-* Healthcare providers
-* Family members
-* Community members
+- **Customers**: These are the individuals who will purchase or use your product or service. Understanding their needs and preferences is crucial for creating a solution that meets their expectations.
+- **Users**: These are the people who will interact with your product or service on a daily basis. Their feedback and experiences will help you refine and improve your offering.
+- **Patients**: In the healthcare sector, patients are often the primary beneficiaries of innovations. Identifying their specific needs and challenges will guide you in developing solutions that enhance their well-being.
+- **Healthcare providers**: These professionals play a key role in delivering healthcare services. Understanding their workflows, pain points, and needs will help you create solutions that support their work and improve patient care.
+- **Family members**: Family members often play a significant role in the healthcare journey of patients. Considering their perspectives and needs can lead to more holistic and supportive solutions.
+- **Community members**: The broader community can be impacted by healthcare innovations. Engaging with community members can provide insights into public health needs and opportunities for community-wide benefits.
 
-Step 2: Visualize Pains and Needs
+#### Step 2: Visualize Pains and Needs
+
 To visualize the pains and needs of a specific person, we will use The Value Proposition Canvas: Customer Profile (Strategyzer). This tool helps you personalize the specific needs and pains of users by describing activities in their daily lives.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ReM1uqmVfP0?si=HA02vrsLoAHwutoQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+**Why is this relevant?**
+
+- **Human-centered approach**: By focusing on the specific pains and needs of stakeholders, you ensure that your solution is tailored to address real-world challenges. This approach increases the likelihood of adoption and success.
+- **Empathy and understanding**: Visualizing pains and needs helps you develop empathy for your stakeholders. This understanding is crucial for creating solutions that truly resonate with users and improve their experiences.
+- **Targeted innovation**: By identifying specific pains and needs, you can prioritize features and functionalities that directly address these issues. This targeted approach leads to more effective and impactful innovations.
 
 Watch the video below for more information about the value proposition canvas. The first part of the video focuses on the customer profile, and later we will create the value map.
 
-[Insert Video Link Here]
 
-Example: Uber
-To help you understand how to create a customer profile, here is an example used for Uber:
 
-[Insert Uber Example Here]
+### Integrating Human-Centered Approach and Empathy
+
+By integrating the human-centered approach and empathy into the innovation process, healthcare entrepreneurs can create solutions that are not only effective but also deeply resonant with the people they aim to serve. This integration involves:
+
+- **Engaging with stakeholders**: Regularly interacting with patients, healthcare providers, and other stakeholders to gather insights and feedback.
+- **Personalizing solutions**: Tailoring solutions to address the specific needs and experiences of different stakeholder groups.
+- **Iterative design**: Continuously refining solutions based on feedback and real-world experiences to ensure they remain relevant and effective.
+
+#### Specific Patient Experiences
+
+To illustrate the importance of empathy and understanding, let's refer to some specific patient experiences that highlight profound human experiences:
+
+1. **Chronic Illness Management**: Consider a patient with a chronic illness such as diabetes. This patient may face daily challenges in managing their condition, including monitoring blood sugar levels, adhering to medication regimens, and coping with the emotional toll of living with a chronic disease. By empathizing with this patient's experience, innovators can develop solutions that provide better support, such as user-friendly monitoring devices, personalized treatment plans, and mental health resources.
+
+2. **End-of-Life Care**: Another profound human experience is the journey of patients receiving end-of-life care. These patients and their families often face complex emotional and practical challenges. By understanding their needs and experiences, innovators can create solutions that improve the quality of end-of-life care, such as advanced care planning tools, palliative care services, and support systems for family members.
+
+3. **Mental Health**: Mental health patients often encounter stigma, lack of access to care, and difficulties in managing their conditions. By empathizing with their experiences, innovators can develop solutions that reduce stigma, improve access to mental health services, and provide effective support for managing mental health conditions.
+
 
 ### 2. Develop a persona
 
+
+Imagine you are a director making a movie. To create a compelling story, you need to develop the main character in great detail. This character should feel real, with a rich background, emotions, and daily activities. Similarly, when developing a persona in healthcare entrepreneurship, you need to create a vivid and realistic depiction of a person who embodies the characteristics of your target audience. This process involves understanding their demographics, behaviors, motivations, and challenges.
+
+#### Importance of Delving Deep into Persona Feelings and Underlying Problems
+
+1. **Empathy and Understanding**: By exploring the feelings and underlying problems of the persona, you gain a deeper understanding of their experiences and emotions. This empathy allows you to design solutions that truly resonate with their needs and improve their quality of life.
+
+2. **Identifying Root Causes**: Delving into the underlying problems helps you identify the root causes of the issues faced by the persona. This insight is crucial for developing effective and sustainable solutions that address the core of the problem rather than just the symptoms.
+
+3. **Enhancing User Experience**: Understanding the persona's feelings and daily activities enables you to create solutions that seamlessly integrate into their lives. This enhances the user experience and increases the likelihood of adoption and satisfaction.
+
+4. **Improving Communication**: A well-developed persona helps you communicate more effectively with your target audience. By understanding their language, preferences, and concerns, you can tailor your messaging to resonate with them and build trust.
+
+
+
+#### Developing a Full-Fledged Persona
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B23iWg0koi8?si=C7XSl8az0c7aDI9A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Based on the customer profile, you can create one or more personas that represent different segments of your target audience. Here are some steps to develop a detailed persona:
+
+1. **Demographics**: Define the persona's age, gender, occupation, education level, and other relevant demographic information.
+
+2. **Behavior and Lifestyle**: Describe the persona's daily activities, hobbies, and routines. Consider how these behaviors impact their experience with the need statement.
+
+3. **Motivations and Goals**: Identify the persona's motivations, goals, and aspirations. What drives them? What are they trying to achieve?
+
+4. **Challenges and Pain Points**: Explore the challenges and pain points faced by the persona. What are the underlying problems that contribute to these challenges?
+
+5. **Quotes and Dialogue**: Imagine the lines the persona would say. This helps you capture their voice and perspective, making the persona more relatable and realistic.
+
+6. **Visual Representation**: Feel free to sketch or draw the persona and the scenarios where they experience the need. This visual representation can include a timeline of their day (customer journey) and the specific moments when the problem occurs.
+
+### References
+
+- **Book Chapter**: Chen & Liu (2015). Personas: a powerful tool for designers. In M. G. Luchs, K. S. Swan, & A. Griffin (Eds.), Design thinking: new product development essentials from the PDMA (pp. 107–124). Hoboken, NJ: John Wiley & Sons, Ltd.
+
+### Example of a Persona
+
+Here is an example of a persona to illustrate the concept:
+
+**Name**: Emily Thompson
+**Age**: 28
+**Occupation**: Graphic Designer
+**Education**: Bachelor's degree in Fine Arts
+**Daily Activities**: Emily starts her day with a light breakfast and a short walk to clear her mind. She spends her workday designing graphics and collaborating with her team. In the evening, she enjoys painting and reading books. Emily also attends regular medical appointments and support group meetings.
+**Motivations**: Emily is motivated by her passion for art and her desire to maintain a positive outlook despite her health challenges.
+**Challenges**: Emily struggles with the physical and emotional toll of breast cancer treatment, including fatigue, anxiety, and managing her work-life balance.
+**Quote**: "I want to keep creating beautiful things, even on the days when I don't feel my best."
+
+By developing detailed personas like Emily, you can better understand the needs and experiences of your target audience, leading to more effective and empathetic solutions in healthcare entrepreneurship.
+
+
 ### 3. Mapping out care pathways and patient journeys over time
+In this step you need to expand on the movie of the persona. Try to imagine you are making a scence or a key frame in the movie. What timeline would you chooose and how would it look like?
+
+1. **Making Tacit Knowledge Explicit**
+   - Gather information from various stakeholders, including healthcare professionals, patients, and other relevant parties.
+   - Document clinical care paths, operational procedures, protocols, daily work schedules, and patient activities.
+   - Ensure that the knowledge from different perspectives is made explicit and accessible.
+
+2. **Mapping the Knowledge**
+   - Use a patient journey format to map out the gathered information.
+   - Identify key touchpoints where the problem-solution becomes tangible and impactful.
+   - Develop a visual representation of the patient journey, highlighting critical moments and interactions.
+
+3. **Integrating the Knowledge**
+   - Analyze the mapped information to understand how the problem manifests itself from different perspectives.
+   - Determine how the proposed solution adds value to the patient journey.
+   - Ensure that the integration process considers both social and technical elements within the healthcare system.
+
+4. **Choosing a touchpoint and validating it**
+   - Validate the identified touchpoints with other stakeholders from the same organization.
+   - Compare the touchpoints with other patients' unique experiences and clinical guidelines.
+   - Reflect on whether the unique value proposition captures the intended value at the touchpoints and assess its scalability in the target population.
+
+By following these steps, students can create a comprehensive and effective patient journey that addresses real-world challenges in healthcare delivery. Collaborative design and active participation of all stakeholders are crucial to ensure that the innovation meets their needs and concerns.
+
 
 ### 3. Brainstorm
+
+After you have identified a key touchpoint the aim is to brainstorm further in a visual way about the potential solutions you can make to solve that problem.
+
+**What is Brainstorming?**
+Brainstorming is a creative process where team members generate a multitude of ideas in a short period. The goal is to tap into the collective intelligence of the group, fostering an environment where creativity thrives, and judgment is temporarily suspended. This allows for a free flow of ideas, which can later be evaluated and refined.
+
+**The Importance of Mindset in Brainstorming**
+In healthcare entrepreneurship, the mindset is crucial. Unlike other fields, healthcare entrepreneurs must navigate complex regulatory environments, ethical considerations, and the high stakes of patient outcomes. This requires a unique blend of creativity, resilience, and empathy. The C-space conceptual space,(REF CHAPTER STAKEHOLDERS), is where innovative ideas are born. It involves thinking beyond conventional boundaries and exploring uncharted territories.
+
+**Key Elements of Effective Brainstorming:**
+
+1. **Diverse Perspectives:**
+   Encourage participation from team members with different backgrounds and expertise. This diversity can lead to more innovative solutions.
+
+2. **Clear Objectives:**
+   Define the purpose of the brainstorming session. Whether it's to solve a specific problem, improve a process, or develop a new product, having a clear goal keeps the team focused.
+
+3. **Structured Environment:**
+   While brainstorming thrives on creativity, having a structured approach can enhance productivity. Use techniques like "How Might We" questions to guide the session. For example, "How might we give each patient a personal hospital experience?"
+
+4. **Encourage Wild Ideas:**
+   No idea is too outlandish. Sometimes, the most unconventional ideas can lead to breakthrough innovations. Create an environment where team members feel safe to share without fear of judgment.
+
+5. **Use Visual Aids:**
+   Utilize whiteboards, post-its, and other visual tools to capture and organize ideas. This helps in visualizing connections and patterns that might not be immediately apparent.
+
+6. **Facilitation:**
+   A good facilitator can keep the energy high and ideas flowing. They can introduce variations to the prompt if the team gets stuck and ensure that everyone has a chance to contribute.
+
+7. **Constraints:**
+   Adding constraints can spark creativity. For example, "What if there was no internet, no hospital, no care professional?" or "How would Superman do it?" These constraints force the team to think outside the box.
+
+8. **Multiple Rounds:**
+   Conduct several rounds of brainstorming, each with a different focus or constraint. This can help in exploring different aspects of the problem and generating a wider range of ideas.
+
+### The Role of your mindset in these exercises
+
+**Behavior vs. Mindset:**
+Previously we differentiated between behaviors and mindsets. While behaviors are the actions we take, mindsets are the underlying beliefs and attitudes that drive those actions. In healthcare entrepreneurship, a growth mindset is essential. This involves being open to learning, embracing challenges, and viewing failures as opportunities for growth.
+
+**C-Space Conceptual Space:**
+The C-space conceptual space is where creativity and innovation happen. It's about stepping out of the comfort zone and exploring new possibilities. In healthcare, this might mean rethinking traditional models of care, leveraging new technologies, or finding novel ways to address patient needs.
+
+**Empathy and Patient-Centricity:**
+A key aspect of the healthcare entrepreneurial mindset is empathy. Understanding the needs, fears, and desires of patients can lead to more effective and compassionate solutions. This patient-centric approach is what sets healthcare entrepreneurs apart from those in other fields.
+
+### Practical Exercise
+
+To put these principles into practice, try the following exercise:
+
+1. **Hexagon Brainstorming:**
+   Place a post-it with an idea in the center (hexagon with a question mark) and then examples in the hexagons around it. Do this with several ideas and then choose the most interesting ones to paste on the board on the left.
+
+2. **Explore Technology Trends:**
+   For inspiration, explore the latest technology trends (see chapter on definitions)
+
+By incorporating these best practices and fostering the right mindset, your team can unlock its full creative potential and drive innovation in healthcare entrepreneurship. 
+
 ### 4. Select the idea and create a value proposition for that idea
 
-Different types of prototypes
-need for research approach with hypothesise to validate assumptions with prototype
+Brainstorm selection is the process of evaluating and choosing which ideas generated during a brainstorming session to pursue further. While generating ideas can be relatively easy, the challenge lies in selecting the most promising ones to act on. This process can vary in complexity depending on the nature of the brainstorm. For straightforward brainstorms, you might simply pick a few standout ideas. However, for more complex design solutions, the selection process may require more deliberation. It's important not to settle on safe choices alone; instead, select a range of ideas to carry forward into prototyping, aiming to preserve the breadth of solutions generated by the group.
 
-Validation prototype types: functional, aesthaethic, cost impact
+### How to Select Brainstorm Ideas
+
+1. **Avoid Narrowing Down Ideas Too Quickly**
+   - An implausible idea may spark a useful or meaningful insight. Therefore, it's crucial to hang onto ideas that excite, amuse, or intrigue the team.
+
+2. **Selection Techniques**
+   - **Voting**: Each team member gets three votes. The ideas with the most marks get selected. This method ensures that the selection process is democratic and that the most popular ideas are chosen.
+   - **Funnel with Four Categories**: Choose four categories to help organize and evaluate the ideas. For instance:
+     - **The Rational Choice**: Ideas that are practical and feasible.
+     - **The Most Likely to Delight**: Ideas that have the potential to surprise and delight users.
+     - **The Darling**: Ideas that the team is particularly passionate about.
+     - **The Long Shot**: Ideas that are risky but could lead to significant breakthroughs.
+
+Elect one or two ideas within each category to ensure a diverse range of solutions. You can use a diagram with four quadrants to visually represent these categories and help organize the ideas.
+
+   - **Bingo**: Pick one or two ideas that inspire different types of prototypes:
+     - **Physical Prototype**: Ideas that can be represented through tangible models.
+     - **Digital Prototype**: Ideas that can be developed into digital solutions.
+     - **Experience Prototype**: Ideas that can be tested through user experiences.
+
+3. **Evaluating Outlier Ideas**
+   - If an idea seems too far-fetched to test, ask what attracted you to it. Then, test that aspect or integrate it into a new solution. This approach ensures that even the most unconventional ideas are given consideration and can contribute to innovative solutions.
+
+
+### 5. Develop a prototype: Bring your idea to life
+
+Prototyping is a crucial step in transforming ideas from mere concepts in your brainstorm selection into tangible forms. It allows you to visualize, test, and refine your ideas, making them accessible to others. A prototype can take many forms, depending on the nature of the idea and the resources available. It can be as simple as a wall of post-its, a role-playing activity, or a physical object. For instance, it can be:
+
+- A drawing of an integrated digital service
+- A mock-up screen of a digital solution
+- A sketch of a robot
+- A blueprint of a new service
+- An algorithm demonstrated through role play with cards
+- A picture or video of someone using your solution
+
+In the early stages, it is important to keep prototypes inexpensive and low resolution. This approach allows you to learn quickly and explore various possibilities without significant investment. Prototypes are most successful when they can be experienced and interacted with by the design team, users, and other stakeholders. They serve as a powerful tool to start conversations, gain insights, and drive deeper empathy, ultimately shaping successful solutions.
+
+**Different Types of Prototypes**
+
+Depending on the hypothesis you want to test, you can create specific types of prototypes. Each type serves a unique purpose in validating different aspects of your idea:
+
+- **Functional Prototypes:** These prototypes focus on testing the functionality of your solution. They help you understand how well your idea works in practice and identify any technical challenges.
+- **Aesthetic Prototypes:** These prototypes emphasize the visual and sensory aspects of your solution. They are useful for evaluating the design, look, and feel of your idea.
+- **Cost Impact Prototypes:** These prototypes assess the cost implications of your solution. They help you determine the feasibility and affordability of your idea.
+
+**Research Approach and Hypothesis Validation**
+
+To effectively validate your assumptions, it is essential to adopt a research approach with a clear hypothesis. This involves defining the key assumptions you want to test and creating prototypes that address those assumptions. By systematically testing and refining your prototypes, you can gather valuable data and insights that inform the development of your final solution.
+
+**How to Prototype**
+
+Prototyping is often thought of as a way to test functionality, but it serves many other purposes:
+
+- **Empathy Gaining:** Prototyping deepens your understanding of users and the design space. By observing how users interact with your prototype, you can gain valuable insights into their needs, preferences, and pain points.
+- **Exploration:** Develop multiple concepts to test in parallel. This exploratory phase allows you to compare different approaches and identify the most promising solutions.
+- **Testing:** Create prototypes to test and refine solutions. Iterative testing helps you identify flaws and make improvements, ensuring that the final product meets user expectations.
+- **Inspiration:** Inspire others by showcasing your vision. Prototypes can be used to communicate your ideas effectively, generating excitement and support from stakeholders.
+
+For the purpose of this course, we do not expect you to develop high-quality prototypes that resemble the final solution. Instead, focus on creating small prototypes to showcase in presentations. This approach is known as paper prototyping or rapid prototyping. 
+
+**Prototyping Tools and Resources**
+
+To prototype in Miro, you can use the drawing or object functions, or you can utilize your own creative materials at home, such as pens, paper, pictures, cardboard, or anything you find relevant. 
+
+You can also develop a prototype with a 3D-printer or a simple setup to develop it at home, see Robin Taen's instructions: https://www.instructables.com/Experiential-Manufacturing-Machines-for-Education/: The Experiential Manufacturing Machines were developed can be configured into small-scale manufacturing machines. Currently, three configurations have been developed, but thanks to its modularity, additional configurations can easily be added in the future. By engaging students with an intriguing, exciting, and versatile machine, they can develop their own prototypes and gain valuable hands-on experience. The machines are developed with a focus on producibility and cost-effectiveness.
+
+
 
 ```{admonition} Project Deliverables
 :class: important
 * Undergraduate level: 
-Explain how prototype addresses key needs for a persona
+Develop a prototype
 
 * Graduate level: 
 Explain how prototype addresses problem solution in a key touchpoint within a care pathway
@@ -418,7 +639,9 @@ Explain how prototype addresses problem solution in a key touchpoint within a ca
 ## 4. Robustinize: Testing problem-solution hypotheses
 At this stage you will focus on identifying and testing a beachhead niche market in the Socio-Technical Product Service Systems (STPSS) of a niche area in the health system. Your task is to select a specific segment within the healthcare industry that represents a promising niche market for your innovative solution.
 
-Watch this video from the TU Delft Open course about Entrepreneurship for engineers from dr. Dap Hartmann: <iframe width="560" height="315" src="https://www.youtube.com/embed/GFdtwWNz_T0?si=HtHMfDqybHqCDZAE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Watch this video from the TU Delft Open course about Entrepreneurship for engineers from dr. Dap Hartmann: 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFdtwWNz_T0?si=HtHMfDqybHqCDZAE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 
 **Steps to Complete the Assignment**:
 
@@ -471,19 +694,53 @@ Tips for a grant proposal:
 Develop 2 and 5 year financial plan taking into account key costs and revenue streams
 ```
 
-## 4. Realize: embedding strategy
-starting simple validation to more complex validation
-1. early in practice validation
+## 4. Realize: develop a realisation strategy
+In this final step it is important to provide a critical reflection on each of these steps in the innovation pathway and incorporate that in your final report.
 
-Try a feasibility like this Virtual reality application combined with neurofeedback (see Rolbiecki, A. J., Craig, K., Polniak, M., Smith, J., Ghosh, P., & Mehr, D. R. (2023). Virtual reality and neurofeedback for Management of Cancer Symptoms: a feasibility pilot. American Journal of Hospice and Palliative Medicine®, 40(3), 291-298.)
+### Business Model Development strategy
+Your business model will be constantly in development. That is normal, especially when your innovation requires a new type of revenue stream, e.g. digital therapeutics. Provide a strategy to develop these four elements as part of your business model.
+1. **Market Demand Analysis**: Conduct thorough market research to understand the demand for your innovation. Identify target customer segments and their needs.
+2. **Revenue Streams**: Define potential revenue streams, including direct sales, subscription models, and service fees. Consider alternative revenue streams if regulatory frameworks are not yet established.
+3. **Scalability**: Assess the scalability of your innovation. Determine how it can be expanded to reach a larger market.
+4. **Political or Lobby Strategy**: Develop a strategy to engage with local and national health authorities. Identify key stakeholders and plan how to communicate the benefits of your innovation.
 
+### Collaborative Solution Prototyping strategy
+1. **Brainstorming Sessions**: Organize brainstorming sessions to generate ideas for potential solutions. Encourage team collaboration and creativity.
+2. **Co-Evolution Cycles**: Implement iterative feedback and testing cycles to refine and improve your prototypes. Use feedback from stakeholders to make necessary adjustments.
+3. **Resource Identification**: Identify the materials, laboratory facilities, staff, and production and logistics chain needed for prototyping. Ensure you have access to these resources.
 
-2. early HTA And evidence gathering for prototyping evalutation strategy and clinical evalutation strategy
+### Validation and Feedback strategy
+1. **Early in Practice Validation**: Begin with simple validation steps to test your prototypes. For example, you can try a feasibility study similar to the one conducted by Rolbiecki et al. (2023), which combined virtual reality and neurofeedback for the management of cancer symptoms. This study demonstrated the potential of innovative approaches in healthcare and provided valuable insights into the feasibility of such interventions.
+2. **Early HTA and Evidence Gathering**: Develop a strategy for early Health Technology Assessment (HTA) and evidence gathering. This involves evaluating the clinical and economic impact of your prototypes. Implement a prototyping evaluation strategy and a clinical evaluation strategy to gather robust evidence supporting your innovation. This step is crucial for gaining market access and ensuring regulatory compliance.
 
+### Multi-Stakeholder Assessment strategy
+1. **Stakeholder Identification**: Identify all relevant stakeholders, including patients, healthcare providers, regulatory bodies, and investors.
+2. **Assessment Process**: Conduct assessments to identify challenges and opportunities. Use these insights to strengthen your innovation strategy.
+
+### Organizational Embedding Strategy
+1. **Bottom-Up Integration**: Develop a strategy to integrate your innovation into the organization from the bottom up. Explain how it will change the patient care pathway.
+2. **Top-Down Support**: Outline how the chief of department and hospital will create resources, such as space and support staff budget plans. Include plans for licensing software packages, maintenance, troubleshooting, and updates.
+3. **Problem-Driven Mindset**: Shift the focus from finding immediate solutions to thoroughly understanding the problem. Encourage your team to explore root causes and underlying factors iteratively.
+4. **External Support**: Utilize advisors and external organizations like Health Innovation Netherlands for strategic advice and support. Incorporate their insights into your innovation pathway.
 ```{tip}
 Look for creative places in your organization, like the Create4Care lab at Erasmus MC or Rotterdam Square validation processes, you can use to validate clinical aspects of your innovation
 ```
-strategic report
+
+### Evidence and Registration strategy
+1. **Evidence Strategy**: Develop a strategy to generate evidence supporting your innovation. Ensure you meet regulatory requirements and have robust documentation.
+2. **Scientific Article**: Draft a scientific article format text about your prototype pilot results. Include key findings, methodology, and implications.
+
+### Master/Graduate Level Innovation Pathway
+1. **Hypothesis Development**: Outline the key hypothesis for your project. Define the problem and the proposed solution.
+2. **Risk Assessment**: Identify potential risks and develop a risk mitigation strategy. Include this in a pitch deck full report.
+3. **Innovation Cycle**: Follow the structure of the basic innovation cycle to present your project to key decision makers, such as heads of departments and boards.
+
+### Bibliography
+- Rolbiecki, A. J., Craig, K., Polniak, M., Smith, J., Ghosh, P., & Mehr, D. R. (2023). Virtual reality and neurofeedback for Management of Cancer Symptoms: a feasibility pilot. American Journal of Hospice and Palliative Medicine®, 40(3), 291-298.
+
+
+
+
 
 ```{admonition} Project Deliverables
 :class: important
@@ -493,6 +750,43 @@ strategic report
 * Graduate level: 
 Develop a realization strategy
 ```
+
+## Team spirit and providing feedback
+Encouraging a culture of peer review is essential for fostering a supportive and collaborative learning environment. By providing constructive and respectful feedback, you can help each other improve writing your reports and develop your writing skills. 
+
+General tips from the Toastmasters International organization about providing feedback:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/v06oz5JYFIg?si=rcZ3LDyTOgGaPQZJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+More information from Toastmasters International can be found here: https://www.toastmasters.org/resources/giving-effective-feedback
+
+Here are some guidelines to help you provide effective feedback:
+
+1. **Be Specific and Constructive**:
+   - Focus on specific aspects of the report, such as clarity, coherence, grammar, and structure.
+   - Provide constructive feedback that helps the student understand what they did well and what needs improvement.
+   - Avoid vague comments like "good job" or "needs work." Instead, explain why something is good or how it can be improved.
+
+2. **Use the Sandwich Technique**:
+   - Start with positive feedback to highlight what the student did well.
+   - Follow with constructive criticism, offering suggestions for improvement.
+   - End with positive reinforcement to encourage the student and motivate them to make the necessary changes.
+
+3. **Be Respectful and Empathetic**:
+   - Use a respectful and empathetic tone when providing feedback.
+   - Acknowledge the effort the student put into their report and show appreciation for their hard work.
+   - Avoid harsh or overly critical comments that may discourage the student.
+
+4. **Focus on the Content, Not the Person**:
+   - Critique the report itself, not the student.
+   - Avoid making personal comments or judgments about the student's abilities or character.
+   - Keep the feedback objective and focused on the work.
+
+5. **Provide Actionable Suggestions**:
+   - Offer specific, actionable suggestions that the student can implement to improve their report.
+   - Provide examples or alternatives to help the student understand how to make the necessary changes.
+   - Encourage the student to ask questions if they need further clarification.
+
+
 
 ## Conclusion
 

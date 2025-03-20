@@ -155,7 +155,7 @@ To effectively situate an innovation within a socio-technical product-service sy
 Overview of multiple touchpoints to add value. Simonse, L., Albayrak, A., & Starre, S. (2019). Vandekerckhove, P., Vandekerckhove, Y., Tavernier, R., De Jaegher, K., & de Mul, M. (2020). Leveraging user experience to improve video consultations in a cardiology practice during the COVID-19 pandemic: initial insights. Journal of medical Internet research, 22(6), e19771.
 ```
 
-### 4. Validating unique perspectives
+### 4. Validating unique perspectives in your touchpoint
 
 By mapping health journeys, entrepreneurs can identify critical touchpoints and opportunities for innovation, thereby enhancing the overall patient experience. This methodology ensures that innovations, from ideation to scalable prototypes, address real-world challenges in healthcare delivery effectively. It is important to note that there are no general patient journeys; they are always highly individual. Therefore it is important to validate the relevance of your patient journey with other people from the same organization. It could be validated with other patient's unique experiences, or with the clinical guidelines to add alternative treatments or referrals. It requires a reflection on whether the unique value proposition captures that unique value in the touchpoint to see whether it is scalable in your target population (see Chapter on niche market).
 

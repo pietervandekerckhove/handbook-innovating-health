@@ -214,8 +214,7 @@ Develop an innovation pathway strategy report which presents convincing argument
   * Draft a scientific article format text about your prototype pilot results
 
 Master/graduate level: 
-* Develop an innovation pathway for your project, whereby you outline the key hypothesis, the risks and a risk mitigation strategy
-* Include that in a pitch deck and full report following the structure of basic innovation cycle to present this to the key decision makers (heads of departments, boards)
+* Develop an innovation pathway for your project, whereby you outline the key hypothesis, the risks and a risk mitigation strategy. Include that in a pitch deck full report following the structure of basic innovation cycle to present this to the key decision makers (heads of departments, boards)
 ```
 ## Bibliography
 - Barry Katz et al. (2025). *Healthcare by Design: A User’s Guide to Healthcare Improvement*.
