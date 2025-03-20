@@ -165,9 +165,17 @@ TA add exercise discussion: What key challenges do you think are hardest to tack
 
 * Beyond Organizational Boundaries: Healthcare innovation inherently spans across organizations and multiple stages of the innovation process. It involves collaboration between fundamental research institutions (e.g., universities) and clinical practice, necessitating coordinated efforts for successful implementation.
 
+
 By adopting a strategic entrepreneurial approach, healthcare organizations can overcome these challenges and drive impactful innovations. This requires fostering interdisciplinary collaboration, developing clear implementation pathways, and aligning technological advancements with patient-centered needs and market viability.
 
 TA ADD: Introduction lecture by dr. Sanne Allers collegerama recording (TA insert video and quiz here)
+
+## Conclusion
+As you delve into this chapter, you will uncover the transformative potential of individual innovation and entrepreneurship within healthcare organizations. By embracing key entrepreneurial behaviors—such as collaboration, experiential learning, risk management, strategic planning, and proactive initiative—you will be equipped to drive meaningful change and create lasting value for patients, providers, and the entire healthcare ecosystem.
+
+Understanding the strategic alignment of these behaviors with stakeholder incentives is paramount. This knowledge will empower you to navigate the complexities of the healthcare environment, ensuring that your innovative efforts are not only supported but also sustained.
+
+This chapter serves as a vital resource for your team project assignment, offering insights that will help you develop a strategic vision and assemble a powerful team. Harness your creativity, skills, and passion to make a significant impact in healthcare, and embark on a journey of continuous improvement and progress.
 
 ```{admonition} Team Project assignment (see project chapter 9)
 :class: important 
