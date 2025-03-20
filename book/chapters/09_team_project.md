@@ -183,7 +183,7 @@ The aim of this phase is to explore the different levels in the problem and deve
 
 The above challenge can provide you with a starting point, but you need to think much bigger and leave the K-space to venture in the C-space. You can start with a top-down vision where you want to arrive or you can start to explore the problem by conducting research and interview people that are suffering from the problem.
 
-### Finding the challenge: Top-down mission-driven approach
+### Defining your take on the challenge: Top-down mission-driven approach
 It is essential that you build a mission and vision and try to clarify what the general aim would be. 
 
 It could be a great benefit if you have someone related to your initiative who has been feeling the pain firsthand and wants to make a change.
@@ -199,7 +199,7 @@ STEVE ADD INTERVIEW BLAKE
 
 STEVE ADD OTHER INTERVIEWS FROM STARTUP JOURNEYS, addressing healt literacy and enable patients and admissions
 
-### Finding the challenge: Bottom up health needs exploration
+### Defining your take on the challenge: Bottom up health needs exploration
 #### Startups
 * patient expert and founder Lennart Zielstra Rezolve Medical https://www.rezolvemedical.com/
 ````{admonition} Learn from Lennart Zielstra's mission: what  drove him to start his work?
@@ -258,7 +258,7 @@ Have a look at this video and what opportunities you can identify?
 ````
 
 
-#### Develop the needs statement
+### Develop the needs statement
 After you have chosen a challenge, you need to develop a need statement in a clear formate that shows the problem and the underlying problem. 
 1. First summarize your challenge in your own words in one sentence.
 2. Rephrase your challenge into a one sentence hypothesis
@@ -270,11 +270,16 @@ Need statement key elements: As we observe (problem), we actually want to addres
 
 For example:  As we observe **anxiety** during cancer treatment, we actually want to address **post-traumatic stress** of **young cancer patients** in order to give them a better **quality of life** so that the can perform daily tasks better.
 ```
+#### 1. First summarize your challenge in your own words in one sentence.
 
-### 2. Rephrase in a hypothesis
-To transform your challenge idea into a concise one-sentence hypothesis, start by clearly identifying the core problem or need you aim to address. Focus on the specific patient-centered issue and the potential impact of your solution. Frame your hypothesis by stating the problem, the proposed solution, and the expected outcome. For example, "We believe that implementing a mobile health app for chronic disease management will improve patient adherence to treatment plans and enhance overall health outcomes." This hypothesis will guide your research and help you validate the need for your proposed solution.
+#### 2. Rephrase in a hypothesis
+To transform your challenge idea into a concise one-sentence hypothesis, start by clearly identifying the core problem or need you aim to address. Focus on the specific patient-centered issue and the potential impact of your solution. Frame your hypothesis by stating the problem, the proposed solution, and the expected outcome. 
 
-### Research the hypothesis from different stakeholder perspective
+This should be like a preliminary value proposition:
+
+For example, "We believe that implementing a mobile health app for chronic disease management will improve patient adherence to treatment plans and enhance overall health outcomes." This hypothesis will guide your research and help you validate the need for your proposed solution.
+
+##### Research the hypothesis from different stakeholder perspective
 Often people from the industry are solution driven and people in health practice are needs driven, these are two different mindsets. Make sure you explore both approaches to the problem.
 
 #### 3. Explorative research tools
@@ -402,7 +407,7 @@ Watch the video below for more information about the value proposition canvas. T
 
 
 
-### Integrating Human-Centered Approach and Empathy
+#### Integrating Human-Centered Approach and Empathy
 
 By integrating the human-centered approach and empathy into the innovation process, healthcare entrepreneurs can create solutions that are not only effective but also deeply resonant with the people they aim to serve. This integration involves:
 
@@ -455,11 +460,11 @@ Based on the customer profile, you can create one or more personas that represen
 
 6. **Visual Representation**: Feel free to sketch or draw the persona and the scenarios where they experience the need. This visual representation can include a timeline of their day (customer journey) and the specific moments when the problem occurs.
 
-### References
+###### References
 
 - **Book Chapter**: Chen & Liu (2015). Personas: a powerful tool for designers. In M. G. Luchs, K. S. Swan, & A. Griffin (Eds.), Design thinking: new product development essentials from the PDMA (pp. 107–124). Hoboken, NJ: John Wiley & Sons, Ltd.
 
-### Example of a Persona
+###### Example of a Persona
 
 Here is an example of a persona to illustrate the concept:
 
@@ -537,7 +542,7 @@ In healthcare entrepreneurship, the mindset is crucial. Unlike other fields, hea
 8. **Multiple Rounds:**
    Conduct several rounds of brainstorming, each with a different focus or constraint. This can help in exploring different aspects of the problem and generating a wider range of ideas.
 
-### The Role of your mindset in these exercises
+###### The Role of your mindset in these exercises
 
 **Behavior vs. Mindset:**
 Previously we differentiated between behaviors and mindsets. While behaviors are the actions we take, mindsets are the underlying beliefs and attitudes that drive those actions. In healthcare entrepreneurship, a growth mindset is essential. This involves being open to learning, embracing challenges, and viewing failures as opportunities for growth.
@@ -548,7 +553,7 @@ The C-space conceptual space is where creativity and innovation happen. It's abo
 **Empathy and Patient-Centricity:**
 A key aspect of the healthcare entrepreneurial mindset is empathy. Understanding the needs, fears, and desires of patients can lead to more effective and compassionate solutions. This patient-centric approach is what sets healthcare entrepreneurs apart from those in other fields.
 
-### Practical Exercise
+###### Practical Exercise
 
 To put these principles into practice, try the following exercise:
 
@@ -564,7 +569,7 @@ By incorporating these best practices and fostering the right mindset, your team
 
 Brainstorm selection is the process of evaluating and choosing which ideas generated during a brainstorming session to pursue further. While generating ideas can be relatively easy, the challenge lies in selecting the most promising ones to act on. This process can vary in complexity depending on the nature of the brainstorm. For straightforward brainstorms, you might simply pick a few standout ideas. However, for more complex design solutions, the selection process may require more deliberation. It's important not to settle on safe choices alone; instead, select a range of ideas to carry forward into prototyping, aiming to preserve the breadth of solutions generated by the group.
 
-### How to Select Brainstorm Ideas
+###### How to Select Brainstorm Ideas
 
 1. **Avoid Narrowing Down Ideas Too Quickly**
    - An implausible idea may spark a useful or meaningful insight. Therefore, it's crucial to hang onto ideas that excite, amuse, or intrigue the team.
@@ -652,10 +657,7 @@ At this stage you will focus on identifying and testing a beachhead niche market
 Watch this video from the TU Delft Open course about Entrepreneurship for engineers from dr. Dap Hartmann: 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GFdtwWNz_T0?si=HtHMfDqybHqCDZAE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-
-**Steps to Complete the Assignment**:
-
-1. **Develop a Niche Market Strategy**:
+### 1. **Develop a Niche Market Strategy**:
    - Conduct thorough market research to understand the needs, preferences, and pain points of your chosen segment.
    - Develop a targeted marketing strategy to position your solution effectively within this niche.
    - Utilize strategic selling techniques to engage potential customers and gather feedback.
@@ -664,15 +666,15 @@ Watch this video from the TU Delft Open course about Entrepreneurship for engine
    If you need some inspiration, here are the journeys of other entrepreneurs from the TU Delft open course  about Entrepreneurship for engineers:
    <iframe width="560" height="315" src="https://www.youtube.com/embed/8B0s_W1r-kU?si=ggKTXSF9UcEmMKKR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-2. **Calculate Market Sizes**:
+### 2. **Calculate Market Sizes**:
    - **Total Addressable Market (TAM)**: Estimate the total market demand for your product or service if you achieved 100% market share.
    - **Serviceable Addressable Market (SAM)**: Determine the segment of the TAM that your product or service can realistically serve based on your business model and capabilities.
    - **Serviceable Obtainable Market (SOM)**: Identify the portion of the SAM that you can capture in the short term, considering your current resources and competitive landscape.
    - **Formulate Three Key Hypotheses**: Identify three key hypotheses related to your market size calculations that you want to validate. Describe a validation plan for each hypothesis, detailing how you will test and measure its accuracy.
 
-3. **Develop an Integration Strategy**:
-   - Create a plan to integrate your innovative solution into the existing healthcare ecosystem. This includes identifying potential partners, aligning with regulatory requirements, and ensuring seamless adoption by users.
-   - **Formulate Three Key Hypotheses**: Identify three key hypotheses related to your integration strategy that you want to validate. These hypotheses should take into account key assumptions about the revenue streams in the market niche you have identified. Describe a validation plan for each hypothesis, detailing how you will test and measure its accuracy.
+### 3. **Develop an beachhead market Strategy**:
+   - Create a plan to start with the niche market for your innovative solution in the existing healthcare ecosystem. This includes identifying potential partners, aligning with regulatory requirements, and ensuring seamless adoption by users.
+   - **Formulate Three Key Hypotheses**: Identify three key hypotheses that you want to validate. These hypotheses should take into account key assumptions about the revenue streams in the market niche you have identified. Describe a validation plan for each hypothesis, detailing how you will test and measure its accuracy.
 
 Your goal is to validate the viability of your solution within the selected beachhead market and refine your business model based on the insights gained from this testing phase. This will involve estimating market size, pricing strategies, and potential sales volumes to create financial assumptions that project the costs, revenues, and profitability of entering this niche market.
 
@@ -710,7 +712,7 @@ Develop 2 and 5 year financial plan taking into account key costs and revenue st
 ## 5. PHASE 5: Realize: develop a realisation strategy
 In this final step it is important to provide a critical reflection on each of these steps in the innovation pathway and incorporate that in your final report.
 
-### Business Model Development strategy
+### Business Model Iteration strategy
 Your business model will be constantly in development. That is normal, especially when your innovation requires a new type of revenue stream, e.g. digital therapeutics. Provide a strategy to develop these four elements as part of your business model.
 1. **Market Demand Analysis**: Conduct thorough market research to understand the demand for your innovation. Identify target customer segments and their needs.
 2. **Revenue Streams**: Define potential revenue streams, including direct sales, subscription models, and service fees. Consider alternative revenue streams if regulatory frameworks are not yet established.
@@ -744,9 +746,7 @@ Look for creative places in your organization, like the Create4Care lab at Erasm
 2. **Scientific Article**: Draft a scientific article format text about your prototype pilot results. Include key findings, methodology, and implications.
 
 ### Master/Graduate Level Innovation Pathway
-1. **Hypothesis Development**: Outline the key hypothesis for your project. Define the problem and the proposed solution.
-2. **Risk Assessment**: Identify potential risks and develop a risk mitigation strategy. Include this in a pitch deck full report.
-3. **Innovation Cycle**: Follow the structure of the basic innovation cycle to present your project to key decision makers, such as heads of departments and boards.
+Outline the key hypothesis for your project. Define the problem and the proposed solution. Identify potential risks and develop a risk mitigation strategy. 
 
 ### Bibliography
 - Rolbiecki, A. J., Craig, K., Polniak, M., Smith, J., Ghosh, P., & Mehr, D. R. (2023). Virtual reality and neurofeedback for Management of Cancer Symptoms: a feasibility pilot. American Journal of Hospice and Palliative Medicine®, 40(3), 291-298.
