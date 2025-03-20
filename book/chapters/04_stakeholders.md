@@ -484,10 +484,7 @@ Innovation pathways in healthcare are evolving to accommodate new technological 
 
 ```{admonition} Team Project assignment (see project chapter 9): stakeholder team assembly + stakeholder involvement
 :class: important 
-* Assemble a team with the stakeholder team assembly procedure to start your project
-
-Master/Graduate level: 
-* identify the key issues you foresee that are necessary to front-load early in the innovation pathway and justify your selection of stakeholders accordingly
+Define your challenge with stakeholder involvement strategy to front-load their knowledge
 ```
 
 

@@ -516,10 +516,10 @@ We hope this chapter has inspired you to think critically and creatively about t
 
 ```{admonition} Team Project assignment (see project chapter 9): Explore phase and Create phase
 :class: important 
-* Apply the STPSS dynamics perspective in a patient journey to show where the need statement in situated (epxloration phase) and map out in the patient journey how the solution will address that need (creation phase)
+* Apply the STPSS dynamics perspective to develop a user profile + persona + patient journey + brainstorm + develop value proposition + prototype ideas to show where the need statement is situated 
 
 Master/Graduate level: 
-* Discuss and report in the explore and creat phase whether you can use the trend of value-based healthcare or patient-centered care can be a catalyst for your innovation
+* Tip: discuss and report in the explore and creat phase whether you can use the trend of value-based healthcare or patient-centered care can be a catalyst for your innovation
 ```
 
 TA Check if bibliography is complete with refs

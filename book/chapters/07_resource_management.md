@@ -107,6 +107,8 @@ When pitching your idea to investors, irrespective of the level, it is important
 Exercise: Develop a financial strategy for this successfully evaluated prototype to help improve scans for breast cancer patients: https://henryvandevelde.be/nl/awards/25/open-access-breast-couch
 ```
 
+
+
 ## Conclusion
 
 In conclusion, effective resource management and financial strategies are essential for the success of healthcare innovations. By understanding and mapping out revenue streams, integrating them into the patient journey, and identifying appropriate funding sources, you can ensure the sustainability and growth of your innovation. Focus on a beachhead market strategy to align stakeholder interests and achieve initial cash flow. Protecting your idea with intellectual property and using the right terminology when pitching to investors will further strengthen your financial strategy.
@@ -119,8 +121,8 @@ In conclusion, effective resource management and financial strategies are essent
 
 
 Master/Graduate level:
-* Identify the key financial issues you foresee that are necessary to front-load early in the innovation pathway and justify your selection of stakeholders accordingly.
-* Calculate a financial strategy for 2 years and 5 years, showing basic elements in your balance sheet and taking into account alternative payment models and complex revenue streams
+* Tip: Identify the key financial issues you foresee that are necessary to front-load early in the innovation pathway and justify your selection of stakeholders accordingly.
+* Tip: Calculate a financial strategy for 2 years and 5 years, showing basic elements in your balance sheet and taking into account alternative payment models and complex revenue streams
 ```
 
 ## Bibliography

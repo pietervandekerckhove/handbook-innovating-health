@@ -146,10 +146,7 @@ A clear vision serves as the foundation for innovation in healthcare. By underst
 
 ```{admonition} Team Project assignment (see project chapter 9)
 :class: important 
-Develop a vision for your project in terms of a single mission statement.
-
-Graduate/master level:
-Show how the mission statement is recurring in the final report and that there is a strong alignment with your unique value proposition and your beachead market.
+Usa a vision to focus your research + develop need statement 
 ```
 
 Bibliography
