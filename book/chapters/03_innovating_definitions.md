@@ -3,7 +3,7 @@
 <center>
   <div style="padding: 10px; background-color: #00BBC8; border-radius: 10px; display: inline-block; font-weight: bold; font-size: 16px; color: #000; position: relative;">
     <span style="background-color: white; color: #00BBC8; border-radius: 50%; padding: 5px 10px; font-size: 15px; font-weight: bold; margin-right: 8px; display: inline-block;">Learning goal</span>
-    Develop a strategy to innovate on an individual level in healthcare organizations 
+    Define an innovation and entrepreneurial challenge on an individual level in a health organization
   </div>
 </center>
 <br>
@@ -165,11 +165,8 @@ TA ADD: Introduction lecture by dr. Sanne Allers collegerama recording (TA inser
 
 ```{admonition} Team Project assignment (see project chapter 9)
 :class: important 
-* Apply these strategies to assess the knowledge and skills of the team to get started
-* Explore relevant problem and solution technology trends in problem-solution spaces
-
-Graduate/master:
-* Apply the entrepreneurial behaviors to the stakeholder selection criteria and map out how each team member is scoring
+Initiation phase:
+Choose a challenge, apply the entrepreneurial behaviors to map out the roles and tasks of the team members, develop a team name
 ```
 
 ```{admonition} Bibliography

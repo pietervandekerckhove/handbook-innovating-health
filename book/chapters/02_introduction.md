@@ -85,7 +85,7 @@ This handbook aims to bridge this gap between these fragments of knowledge and b
 
 Ultimately the impact of helping entrepreneurial people on an individual level become more entrepreneurial may have a ripple effect in the healthcare organizations. A recent study found that 
 
-## The expedition of health innovators in the trenches - an individual lens on innovation pathways
+## Strategy to guide the expedition of health innovators in the trenches
 
 Healthcare entrepreneurship on an individual level is generally an emerging field in research and education. Yet, it could have great consequences if people with entrepreneurial ambitions learn how to become more entrepreneurial. This may have a ripple effect in the healthcare organizations. A recent study found that people with an entrepreneurial ambition increase the rate of entrepreneurship among their peers (ADD REF Hacamo, I., & Kleiner, K. (2024). No experience necessary: the peer effects of intended entrepreneurs. Review of Finance, 28(4), 1311-1344.).
 
@@ -136,8 +136,20 @@ The book is structured to integrate theory with practice, ensuring you gain acti
 
 Whether you are a health professional, entrepreneur, policymaker, or student, this book will empower you with the tools to create lasting impact in healthcare innovation.
 
-**Project team**
-introduce yourself
+```{admonition} Team Project assignment (see project chapter 9)
+:class: important 
+Initiation phase:
+Introduce yourself to other people to form a team, assess your strenghts and weaknesses and assemble a team to work with.
+```
+
+<script src=https://utteranc.es/client.js
+        repo="pietervandekerckhove/handbook-innovating-health"
+        issue-term="introduct yourself"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
+
 
 
 ```{admonition} Bibliography

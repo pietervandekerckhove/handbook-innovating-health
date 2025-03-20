@@ -20,9 +20,14 @@ In the innovation process there is a basic cycle that we can follow:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/onpG_Vsq8sM?si=QrPKzURv6AId2Ebe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 ```
 ````
+Based on the basic innovation cylce, in this team project we will follow 5 phases:
+* PHASE 1: Initiation
+* PHASE 2: Exploration (observe and question)
+* PHASE 3: Creation (ideate)
+* PHASE 4: Robustinize 
+* PHASE 5: Integration (Experiment and contextualize)
 
-
-## 1. Initiation: getting  started
+## 1. PHASE 1: Initiation: getting  started
 
 ### Assemble your team
 Get Everyone on Board: The first step in any successful project is assembling a team that is committed and enthusiastic about the project's goals. Ensure that each team member understands the vision and objectives, fostering a sense of shared purpose and collaboration.
@@ -173,7 +178,7 @@ Objective: Design a solution that:
 Present your proposed solution through detailed plans and prototypes, backed by research and case studies. Schedule meetings with stakeholders for feedback and validation, ensuring the solution is practical, scalable, and capable of making a significant positive impact on healthcare delivery both on land and at sea.
 
 
-## 2. Explore
+## 2. PHASE 2: Explore
 The aim of this phase is to explore the different levels in the problem and develop a need statement. First you need to narrow down the challenge into a hypothesis, aferwards you need to choose a detailed focus of that reframed challenge.
 
 The above challenge can provide you with a starting point, but you need to think much bigger and leave the K-space to venture in the C-space. You can start with a top-down vision where you want to arrive or you can start to explore the problem by conducting research and interview people that are suffering from the problem.
@@ -253,7 +258,7 @@ Have a look at this video and what opportunities you can identify?
 ````
 
 
-## Develop the needs statement
+#### Develop the needs statement
 After you have chosen a challenge, you need to develop a need statement in a clear formate that shows the problem and the underlying problem. 
 1. First summarize your challenge in your own words in one sentence.
 2. Rephrase your challenge into a one sentence hypothesis
@@ -354,7 +359,7 @@ Develop a test to critically assess the problem
 ```
 
 
-## 3. Design and create: prototype minimum viable solution
+## 3. PHASE 3: Design and create: prototype minimum viable solution
 
 The aim of this phase is to generate a solution to your need statement. This is the phase where you can be very creative!
 
@@ -636,7 +641,7 @@ Develop a prototype
 Explain how prototype addresses problem solution in a key touchpoint within a care pathway
 ```
 
-## 4. Robustinize: Testing problem-solution hypotheses
+## 4. PHASE 4: Robustinize: Testing problem-solution hypotheses
 At this stage you will focus on identifying and testing a beachhead niche market in the Socio-Technical Product Service Systems (STPSS) of a niche area in the health system. Your task is to select a specific segment within the healthcare industry that represents a promising niche market for your innovative solution.
 
 Watch this video from the TU Delft Open course about Entrepreneurship for engineers from dr. Dap Hartmann: 
@@ -694,7 +699,7 @@ Tips for a grant proposal:
 Develop 2 and 5 year financial plan taking into account key costs and revenue streams
 ```
 
-## 4. Realize: develop a realisation strategy
+## 5. PHASE 5: Realize: develop a realisation strategy
 In this final step it is important to provide a critical reflection on each of these steps in the innovation pathway and incorporate that in your final report.
 
 ### Business Model Development strategy
