@@ -11,24 +11,47 @@
 
 In the rapidly evolving field of healthcare entrepreneurship, the ability to integrate innovation sustainably within an organization and scale it across other healthcare organizations is crucial. You may not expect this, but by now you have probably realised that developing a delightful and excellent product that perfectly fist the market needs is not enough to gain traction in STPSS health systems. This chapter aims to help you start to develop a strategy for embedding innovation processes and developing a plan with key innovation pathway steps towards long-term sustainability and impact. By understanding and applying these strategies, you can ensure that your innovative ideas are effectively integrated into your organization, fostering a culture of continuous improvement and growth.
 
-## Key Innovating Behaviors in Steps
+## Strategy for dynamic business modelling
+What is a business model?
+
+Have a look at the TU Delft open course about business modelling:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mxzJ-5Hc-p4?si=lnX4odLeb12j7jeC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+
+It is important to iterate key parts of the business model. See the dynamics ref. Hanieh Khodaei: Khodaei, H., & Ortt, R. (2019). Capturing dynamics in business model frameworks. Journal of Open Innovation: Technology, Market, and Complexity, 5(1), 8.
 
 - **Problem Identification**
 - **Solution Prototyping**
 - **Validation**
 
+You can use a collection of tools related to the business model canvas of Alex Osterwalder: https://strategyzer.com/canvas
+
 In practice, these steps are more complex and involve co-evolution cycles. These steps require a specific mindset and a space to do this.
 
-### Strategy Development
+Have a look at the TU Delft open course about business modelling experience from other entrepreneurs:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dpDGH1EjvlQ?si=Be0fGzZ9j2L5C-1f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Develop a strategy to change the mindset from solution-driven to problem-driven.
+And here are some key business modelling strategies from dr. Victor Scholten from the TU Delft open course:
 
-## Structural Support
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NmFZObR056o?si=kFqEUrSfz13JTlAr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-The structure to support processes needs to be adapted to the organization. It is difficult to find time and the right people at the right time. It is important to find individuals who are interested in spending extra time on innovation.
+
+
+### Strategy for Structural Support
+
+It is important to develop a strategy to change the mindset from solution-driven to problem-driven. It is important that your find ways to embed that process in the organization. For instance, it is difficult to find time and the right people at the right time. It is important to find individuals who are interested in spending extra time on innovation.
 
 
 Healthcare organizations operate in a system with an endless demand for healthcare services. Unlike other industries, they are not necessarily incentivized to innovate for increased turnover or higher-quality care. Given this context, it is crucial to create dedicated spaces and frameworks that enable innovation while aligning with the broader organizational mission.
+
+Have a look at the TU Delft open course Entrepreneurship for Engineers from Madis Talmar about how to leverage the innovation in an ecosystem. How can you synergize your innovation with the STPSS health ecosystem?:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K29felrPx_M?si=Bxf9UQ1DUEgwpoiQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+Have a look at the TU Delft open course Entrepreneurship for Engineers about other startups have gone about this:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wxoJ0oKKXSg?si=3y6_BbH2HS3XJk9o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Orchestrating dedicated fuzzy conceptual spaces in a rigid knowledge organization
 In a healthcare organizations, many different stakeholders, like care professionals are often implicly being creative. Creativity is situated and a living thing as dr. Milene Goncalves describes (see Cascini, G., Nagai, Y., Georgiev, G. V., Zelaya, J., Becattini, N., Boujut, J. F., ... & Wodehouse, A. (2022). Perspectives on design creativity and innovation research: 10 years later. International Journal of Design Creativity and Innovation, 10(1), 1-30.). For example creativity is situated in care organizations as care professionals often need to look for the best treatment for the patient. Yet, often the problem is not clear and there are multiple possible diagnoses and not one treatment. In a way, it requires them often, albeit very briefly, to be creative and collaborate and share ideas, often in multidiscplenary team meetings. However, to innovate, one needs to enlarge that space and find ways to incorporate that innovative thinking more in the organization. If creativity could exist in Type 1 (quick ideas) and Type 2 (refinement and judgement), Goncalves and Cash propose that it could be better to have more iterations of the quick ideas and come up with better ideas (ADD REF Gonçalves, M., & Cash, P. (2021). The life cycle of creative ideas: Towards a dual-process theory of ideation. Design Studies, 72, 100988.). If one is aware of these tendencies in practice, it can help to develop better ideas.
@@ -93,7 +116,6 @@ https://www.dropbox.com/scl/fi/kf1qftr0dn2qlsheudf4p/Discovery-Design-Worksheets
 
 
 ```{figure} ../figures/Healthcare-by-design-Katz-2025.png
-:height: 150px
 :name: figure-example
 
 Discovery Design Mindsets, A Tool for Reflection Individually/Team(Katz et al., 2025, Healthcare by Design tool)
@@ -119,7 +141,7 @@ case from digital health video consultation article
 Innovation in healthcare organizations requires a strategic approach that aligns with existing structures, engages key stakeholders, and fosters a culture conducive to change. By leveraging purpose-driven missions, effective communication, and strong leadership, organizations can create sustainable innovation pathways that improve healthcare delivery.
 
 
-## Develop a Strategy for Your Innovation Pathway
+## Develop a multi-stakeholder assessment strategy 
 
 It is crucial to front-load the knowledge you have gathered so far about the upcoming challenges in your innovation pathway. Each of these decisions may change your strategy and priorities of how to move forward. Ultimately, it comes down to risk management and making hard decisions to align your unique value proposition with a niche market and beachhead market strategy. Following that approach you develop a key hypothesis and validate that through different forms of research.  If it doesn't work you change and make a pivot. Note that changes can be very costly and demotivating so be very careful to have a risk mitigation strategy in place beforehand in terms of your operational process (e.g. decoupling the production processes), but also your financial strategy.
 

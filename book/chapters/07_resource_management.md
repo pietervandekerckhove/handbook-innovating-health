@@ -12,6 +12,16 @@
 
 Understanding the types of resources and funds required for survival and the structure of financial revenue streams is crucial for healthcare innovation. This chapter will guide you through mapping out different revenue streams at various levels, including care organizations, regional networks, and national organizations. This will help you to strategically assess how to develop your prototype from a paper sketch to functional minimum viable product with a financial plan underlying your prototype development.
 
+## Financial strategy for innovators and entrepreneurs
+
+Have a look here at this video fo TU Delft open course Entrepreneurship for engineers from Thomas Lans and Valentina Materia
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yzh75RgU25E?si=c7wXf7n5TXBHI42Z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Have a look here at this video fo TU Delft open course Entrepreneurship for engineers where several startups share their experience
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8n83C85JkCs?si=NJQfOTekKOYJMDRU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## A 2 and 5 year financial plan (Steve add exercise to make financial plan ADD video recording ValEU)
 
 

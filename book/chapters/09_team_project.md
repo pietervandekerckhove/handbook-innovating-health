@@ -601,6 +601,8 @@ Prototyping is a crucial step in transforming ideas from mere concepts in your b
 
 In the early stages, it is important to keep prototypes inexpensive and low resolution. This approach allows you to learn quickly and explore various possibilities without significant investment. Prototypes are most successful when they can be experienced and interacted with by the design team, users, and other stakeholders. They serve as a powerful tool to start conversations, gain insights, and drive deeper empathy, ultimately shaping successful solutions.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nn4Mtam3CVM?si=YqheilrXem51hrFN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 **Different Types of Prototypes**
 
 Depending on the hypothesis you want to test, you can create specific types of prototypes. Each type serves a unique purpose in validating different aspects of your idea:
@@ -612,6 +614,9 @@ Depending on the hypothesis you want to test, you can create specific types of p
 **Research Approach and Hypothesis Validation**
 
 To effectively validate your assumptions, it is essential to adopt a research approach with a clear hypothesis. This involves defining the key assumptions you want to test and creating prototypes that address those assumptions. By systematically testing and refining your prototypes, you can gather valuable data and insights that inform the development of your final solution.
+
+Learn key insights from other entrepreneurs at the TU Delft open course here about Entrepreneurship for Engineers:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9WweXofdOJQ?si=KYJ0cQfdW-geP8iP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 **How to Prototype**
 
@@ -641,7 +646,7 @@ Develop a prototype
 Explain how prototype addresses problem solution in a key touchpoint within a care pathway
 ```
 
-## 4. PHASE 4: Robustinize: Testing problem-solution hypotheses
+## 4. PHASE 4: Robustinize: Testing problem-solution hypotheses in the market
 At this stage you will focus on identifying and testing a beachhead niche market in the Socio-Technical Product Service Systems (STPSS) of a niche area in the health system. Your task is to select a specific segment within the healthcare industry that represents a promising niche market for your innovative solution.
 
 Watch this video from the TU Delft Open course about Entrepreneurship for engineers from dr. Dap Hartmann: 
@@ -655,6 +660,9 @@ Watch this video from the TU Delft Open course about Entrepreneurship for engine
    - Develop a targeted marketing strategy to position your solution effectively within this niche.
    - Utilize strategic selling techniques to engage potential customers and gather feedback.
    - **Formulate Three Key Hypotheses**: Identify three key hypotheses related to your niche market strategy that you want to validate. Describe a validation plan for each hypothesis, detailing how you will test and measure its accuracy.
+
+   If you need some inspiration, here are the journeys of other entrepreneurs from the TU Delft open course  about Entrepreneurship for engineers:
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/8B0s_W1r-kU?si=ggKTXSF9UcEmMKKR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 2. **Calculate Market Sizes**:
    - **Total Addressable Market (TAM)**: Estimate the total market demand for your product or service if you achieved 100% market share.
@@ -795,6 +803,59 @@ Here are some guidelines to help you provide effective feedback:
 
 ## Conclusion
 
-## Deliverables, timelines and rubrics
+## Rubrics
+
+
+### Oral evaluation
+
+Example questions
+
+1. Patient-Centered Healthcare Entrepreneurship: What are three key arguments that differentiate patient-centered healthcare entrepreneurship from traditional entrepreneurship and health services management? What are the implications of these differences for healthcare innovation?
+
+2. Innovation and Entrepreneurial Challenge:
+How would you define an innovation and entrepreneurial challenge on an individual level in a health organization? How can this challenge be addressed through strategic planning and stakeholder involvement?
+
+3. Stakeholder Involvement Strategy:
+How would you apply a stakeholder involvement strategy addressing why, when, who, and how to involve stakeholders in an innovation pathway? Can you provide examples of successful stakeholder engagement in healthcare innovation?
+
+4. Vision Development:
+How would you develop a vision for an innovation pathway in healthcare? What underlying ethical values should be considered in this vision, and how do they impact the innovation process?
+
+5. Socio-Technical Product Service System:
+How would you position a healthcare problem-solution in the socio-technical product service system within a patient journey? How can this positioning enhance patient outcomes and service delivery?
+
+6. Financial Planning:
+How would you develop a financial plan for 2 and 5 years, including the use of revenue streams for a sustainable future? What are the key components of this plan, and how do they contribute to the long-term success of a healthcare innovation?
+
+7. Integration Strategy:
+How would you develop a strategy to integrate your innovation into the organization, addressing key innovation pathway steps? What potential challenges might you face, and how would you overcome them?
+
+
+### Rubric for Evaluating the Oral Exam:
+
+| Criteria | Unsufficient | Sufficient | Outstanding |
+|----------|--------------|------------|-------------|
+| **Patient-Centered Healthcare Entrepreneurship** | Incomplete or unclear responses, lacks depth and critical analysis. Demonstrates limited understanding of the differences between patient-centered healthcare entrepreneurship and traditional entrepreneurship. Fails to discuss implications for healthcare innovation. | Clear responses, adequate depth and analysis. Demonstrates satisfactory understanding of the differences between patient-centered healthcare entrepreneurship and traditional entrepreneurship. Discusses implications for healthcare innovation with some depth. | Comprehensive and insightful responses, exceptional depth and critical analysis. Demonstrates deep understanding of the differences between patient-centered healthcare entrepreneurship and traditional entrepreneurship. Provides insightful discussion on implications for healthcare innovation. |
+| **Innovation and Entrepreneurial Challenge** | Incomplete or unclear responses, lacks depth and critical analysis. Demonstrates limited understanding of defining an innovation and entrepreneurial challenge on an individual level in a health organization. Fails to address strategic planning and stakeholder involvement. | Clear responses, adequate depth and analysis. Demonstrates satisfactory understanding of defining an innovation and entrepreneurial challenge on an individual level in a health organization. Addresses strategic planning and stakeholder involvement with some depth. | Comprehensive and insightful responses, exceptional depth and critical analysis. Demonstrates deep understanding of defining an innovation and entrepreneurial challenge on an individual level in a health organization. Provides insightful discussion on strategic planning and stakeholder involvement. |
+| **Stakeholder Involvement Strategy** | Incomplete or unclear responses, lacks depth and critical analysis. Demonstrates limited understanding of applying a stakeholder involvement strategy. Fails to provide examples of successful stakeholder engagement in healthcare innovation. | Clear responses, adequate depth and analysis. Demonstrates satisfactory understanding of applying a stakeholder involvement strategy. Provides examples of successful stakeholder engagement in healthcare innovation with some depth. | Comprehensive and insightful responses, exceptional depth and critical analysis. Demonstrates deep understanding of applying a stakeholder involvement strategy. Provides insightful examples of successful stakeholder engagement in healthcare innovation. |
+| **Vision Development** | Incomplete or unclear responses, lacks depth and critical analysis. Demonstrates limited understanding of developing a vision for an innovation pathway in healthcare. Fails to discuss underlying ethical values and their impact on the innovation process. | Clear responses, adequate depth and analysis. Demonstrates satisfactory understanding of developing a vision for an innovation pathway in healthcare. Discusses underlying ethical values and their impact on the innovation process with some depth. | Comprehensive and insightful responses, exceptional depth and critical analysis. Demonstrates deep understanding of developing a vision for an innovation pathway in healthcare. Provides insightful discussion on underlying ethical values and their impact on the innovation process. |
+| **Socio-Technical Product Service System** | Incomplete or unclear responses, lacks depth and critical analysis. Demonstrates limited understanding of positioning a healthcare problem-solution in the socio-technical product service system within a patient journey. Fails to discuss how this positioning can enhance patient outcomes and service delivery. | Clear responses, adequate depth and analysis. Demonstrates satisfactory understanding of positioning a healthcare problem-solution in the socio-technical product service system within a patient journey. Discusses how this positioning can enhance patient outcomes and service delivery with some depth. | Comprehensive and insightful responses, exceptional depth and critical analysis. Demonstrates deep understanding of positioning a healthcare problem-solution in the socio-technical product service system within a patient journey. Provides insightful discussion on how this positioning can enhance patient outcomes and service delivery. |
+| **Financial Planning** | Incomplete or unclear responses, lacks depth and critical analysis. Demonstrates limited understanding of developing a financial plan for 2 and 5 years, including the use of revenue streams for a sustainable future. Fails to discuss key components and their contribution to the long-term success of a healthcare innovation. | Clear responses, adequate depth and analysis. Demonstrates satisfactory understanding of developing a financial plan for 2 and 5 years, including the use of revenue streams for a sustainable future. Discusses key components and their contribution to the long-term success of a healthcare innovation with some depth. | Comprehensive and insightful responses, exceptional depth and critical analysis. Demonstrates deep understanding of developing a financial plan for 2 and 5 years, including the use of revenue streams for a sustainable future. Provides insightful discussion on key components and their contribution to the long-term success of a healthcare innovation. |
+| **Integration Strategy** | Incomplete or unclear responses, lacks depth and critical analysis. Demonstrates limited understanding of developing a strategy to integrate innovation into the organization, addressing key innovation pathway steps. Fails to evaluate potential challenges and provide solutions. | Clear responses, adequate depth and analysis. Demonstrates satisfactory understanding of developing a strategy to integrate innovation into the organization, addressing key innovation pathway steps. Evaluates potential challenges and provides solutions with some depth. | Comprehensive and insightful responses, exceptional depth and critical analysis. Demonstrates deep understanding of developing a strategy to integrate innovation into the organization, addressing key innovation pathway steps. Provides insightful evaluation of potential challenges and solutions. |
+
+
+
+### Rubric for team project
+
+
+| Criteria | Unsufficient | Sufficient | Outstanding |
+|----------|--------------|------------|-------------|
+| **Phase 1: Initiation** | Incomplete introduction, DISC assessment, project management tasks, team name, challenge selection | Basic introduction, DISC assessment, project management tasks, team name, challenge selection | Comprehensive introduction, DISC assessment, project management tasks, team name, challenge selection |
+| **Phase 2: Exploration** | Incomplete research, unclear vision, value proposition hypothesis, need statement | Complete research, clear vision, value proposition hypothesis, need statement | Comprehensive research, well-developed vision, value proposition hypothesis, need statement |
+| **Phase 3: Creation** | Incomplete persona, patient journey, value proposition canvas, prototype | Complete persona, patient journey, value proposition canvas, functional prototype | Comprehensive persona, patient journey, well-developed value proposition canvas, innovative prototype |
+| **Phase 4: Robustinize** | Incomplete financial strategy plan, niche market analysis (TAM, SAM, SOM), grant application | Complete financial strategy plan, niche market analysis (TAM, SAM, SOM), coherent grant application | Detailed financial strategy plan, comprehensive niche market analysis (TAM, SAM, SOM), highly coherent grant application |
+| **Phase 5: Integration** | Incomplete sustainable strategy, peer feedback, full report | Complete sustainable strategy, defined peer feedback, coherent full report | Detailed sustainable strategy, comprehensive peer feedback, highly coherent full report |
+| **Graduate Assessment: Reflection on a Comprehensive Innovation Strategy to Resolve a Healthcare Challenge** | Superficial reflection, limited connection to project phases and learning goals | Basic reflection, adequate connection to project phases and learning goals | Comprehensive reflection, strong connection to project phases and learning goals, scientific discussion to support strategy for five phases of basic innovation cycle |
+
 
 ## Bibliography
