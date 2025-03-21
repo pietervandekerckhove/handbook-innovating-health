@@ -87,7 +87,9 @@ Ultimately the impact of helping entrepreneurial people on an individual level b
 
 ## Strategy to guide the expedition of health innovators in the trenches
 
-Healthcare entrepreneurship on an individual level is generally an emerging field in research and education. Yet, it could have great consequences if people with entrepreneurial ambitions learn how to become more entrepreneurial. This may have a ripple effect in the healthcare organizations. A recent study found that people with an entrepreneurial ambition increase the rate of entrepreneurship among their peers (ADD REF Hacamo, I., & Kleiner, K. (2024). No experience necessary: the peer effects of intended entrepreneurs. Review of Finance, 28(4), 1311-1344.).
+Healthcare entrepreneurship on an individual level is generally an emerging field in research and education. Yet, it could have great consequences if people with entrepreneurial ambitions learn how to become more entrepreneurial. For instance, this study found that residency directors thought that entrepreneurial skills could help medical professionals in training to become better doctors: ADD REFF Tam, E. K., & Dong, X. (2021). Survey of Residency Directors’ Views on Entrepreneurship. JMIR Medical Education, 7(2), e19079.
+
+This may have a ripple effect in the healthcare organizations. A recent study found that people with an entrepreneurial ambition increase the rate of entrepreneurship among their peers (ADD REF Hacamo, I., & Kleiner, K. (2024). No experience necessary: the peer effects of intended entrepreneurs. Review of Finance, 28(4), 1311-1344.).
 
 We need to train the future generation of responsible health innovators to ensure that they learn from these strategic innovation pathways so that their innovations achieve real impact. This is especially true for digital health, which is expected to become a cornerstone of healthcare transformation in the coming decade (Friend et al., 2023; Weimar et al., 2024; Technology Foresight, n.d.). However, despite its potential, most digital health solutions fail to integrate meaningfully into healthcare systems (Lee et al., 2021).
 

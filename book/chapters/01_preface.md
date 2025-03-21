@@ -1,6 +1,6 @@
 # Strategic pathways for patient-centered care: An introduction (DRAFT VERSION)
 
-```{figure} ../figures/Copilot2.jpeg
+```{figure} ../figures/Copilot3.jpeg
 :name: figure-example
 ```
 **Pieter Bart Marcel Vandekerckhove, Bettina Maisch, Steven Howard, Frido Smulders, Christophe Van Neste, Wiljeana Glover**
