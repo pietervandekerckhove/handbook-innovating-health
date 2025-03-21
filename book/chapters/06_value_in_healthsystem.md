@@ -386,7 +386,42 @@ When looking at your diagnosis as a patient decades after the diagnosis happened
 
 ### The case of children, adoloscents and young adults with cancer (AYA)
 
-ADD info PhD text + paper AYA
+
+Childhood cancer is a significant global health issue, with approximately 400,000 children and adolescents aged 0-19 diagnosed with cancer each year. The most common types of childhood cancers include leukemias, brain tumors, lymphomas, and solid tumors such as neuroblastoma and Wilms tumor. Despite advancements in treatment, cancer remains a leading cause of death among children and adolescents. Early diagnosis and access to effective treatment are crucial for improving survival rates and reducing the burden of childhood cancer (World Health Organization, 2021).
+
+
+Adolescents and Young Adults (AYA) with cancer represent a heterogeneous group of individuals aged 15-39 (Alvarez et al., 2022). Cancer is the fourth leading cause of death among adolescents and young adults globally. In 2019, there were 1.19 million new AYA cancer cases and 396,000 AYA deaths worldwide (Alvarez et al., 2022). In the Netherlands, approximately 3,900 AYAs aged 18-39 are diagnosed with cancer each year (Atema et al., 2022). AYA care is a focus for this book for three reasons: first, this area of healthcare involves various stakeholders; second, this young population is interested in using digital health to improve their care process; and third, the author, Pieter Vandekerckhove, was diagnosed with leukemia at the age of 14 and is an AYA himself.
+
+Various stakeholders are involved in AYA cancer care because these patients are in a unique period of their lives, experiencing fundamental physical, emotional, and psychosocial changes (Jansen et al., 2018; Zebrack et al., 2013; Wettergren et al., 2017; Husson et al., 2017; Albers et al., 2021). Many AYAs are just beginning to become sexually active, some may want to or already have children, and they are advancing their education and careers while coping with financial struggles (Nationaal AYA Jong en Kanker Zorgnetwerk, 2019). The care journey of AYAs spans from their homes to local community caregivers, including physiotherapists and psychologists, and involves one or more specialized hospital care centers. Some AYAs are treated in various outpatient or inpatient pediatric or adult wards. AYA patients seek traditional care as well as complementary care services such as massage, music therapy, acupuncture, and mindfulness (Rosenthal & Dean-Clower, 2005). In this process, they struggle to find appropriate care for their specific type of cancer, age, and lifestyle (Alvarez et al., 2022).
+
+Involving AYAs as stakeholders in collaborative innovation pathways to develop new solutions is crucial because they bring unique perspectives and insights that can significantly enhance the development of care solutions tailored to their needs. As a young population, AYAs are more likely to embrace innovative approaches and digital health technologies, making them valuable contributors to participatory design processes. According to Vandekerckhove et al. (2021), engaging AYAs in participatory design helps ensure that the care solutions developed are relevant, effective, and user-friendly. The study highlights several key insights, including the importance of understanding the diverse needs and preferences of AYAs, fostering open communication and collaboration among stakeholders, and creating a supportive environment that encourages active participation. By involving AYAs in the design process, healthcare providers can develop more personalized and holistic care solutions that address the unique challenges faced by this population.
+
+**Bibliography**
+
+Albers, T., Weiss, L. A., Sleeman, S. H. E., & Husson, O. (2021). Evaluation of a Positive Psychology Group Intervention in Nature for Young Cancer Survivors to Promote Well-Being and Post-Cancer Identity Development. *Journal of Adolescent and Young Adult Oncology*, 10(4), 404-417. https://doi.org/10.1089/jayao.2020.0147
+
+Alvarez, E. M., Mokdad, A. H., Molokhia, M., Momtazmanesh, S., Monasta, L., Moni, M. A., ... & Bhakta, N. (2022). The global burden of adolescent and young adult cancer in 2019: a systematic analysis for the Global Burden of Disease Study 2019. *Lancet Oncology*, 23(1), 27-52. https://doi.org/10.1016/S1470-2045(21)00581-7
+
+Atema, V., Bretveld, H., Brink, M., Buisman, H., Derksen-Peters, E., Vlooswijk, C., ... & van der Aa, M. (2022). Kanker bij jongvolwassenen.
+
+Husson, O., Zebrack, B. J., Block, R., Embry, L., Aguilar, C., Hayes-Lattin, B., & Cole, S. (2017). Health-Related Quality of Life in Adolescent and Young Adult Patients With Cancer: A Longitudinal Study. *Journal of Clinical Oncology*, 35(6), 652-659. https://doi.org/10.1200/JCO.2016.69.7946
+
+Jansen, R., Kaal, S. E. J., Schreuder-Cats, M., & Manten-Horst, E. (2018). The Dutch AYA outpatient clinic: Support and counselling during and after cancer treatment. In *Nursing Adolescents and Young Adults with Cancer: Developing Knowledge, Competence and Best Practice* (pp. 157-172). Springer International Publishing. https://doi.org/10.1007/978-3-319-73555-9_10
+
+Nationaal AYA Jong en Kanker Zorgnetwerk. (2019). IK en mijn - Nationaal AYA Jong en Kanker Zorgnetwerk. Retrieved from https://aya4net.nl/ik-en-mijn/
+
+Rosenthal, D. S., & Dean-Clower, E. (2005). Integrative medicine in hematology/oncology: benefits, ethical considerations, and controversies. *Hematology / the Education Program of the American Society of Hematology*, 491-497. https://doi.org/10.1182/asheducation-2005.1.491
+
+Vandekerckhove, P., De Mul, M., De Groot, L., Elzevier, H. W., Fabels, B., Haj Mohammad, S., ... & Manten-Horst, E. (2021). Lessons for employing participatory design when developing care for young people with cancer: A qualitative multiple-case study. *Journal of Adolescent and Young Adult Oncology*, 10(4), 404-417. https://doi.org/10.1089/jayao.2020.0098
+
+Wettergren, L., Kent, E. E., Mitchell, S. A., Zebrack, B., Lynch, C. F., Rubenstein, M. B., ... & Smith, A. W. (2017). Cancer negatively impacts on sexual function in adolescents and young adults: The AYA HOPE study. *Psycho-Oncology*, 26(10), 1632-1639. https://doi.org/10.1002/pon.4181
+
+World Health Organization. (2021). Cancer in children. Retrieved from https://www.who.int/news-room/fact-sheets/detail/cancer-in-children
+
+Zebrack, B. J., Block, R., Hayes-Lattin, B., Embry, L., Aguilar, C., Meeske, K. A., ... & Cole, S. (2013). Psychosocial service use and unmet need among recently diagnosed adolescent and young adult cancer patients. *Cancer*, 119(1), 201-214. https://doi.org/10.1002/cncr.27713
+
+
+
 
 ### How to integrate double awareness in your solution?
 The concept of "double awareness," as explored by Burgers et al. (2022), highlights how adolescents and young adults cope with an uncertain or poor cancer prognosis. This duality involves simultaneously acknowledging the possibility of survival and the reality of death. Patients often experience a complex interplay of hope and despair, which can lead to a heightened awareness of their mortality. This awareness is not only a confrontation with the potential end of life but also a profound reflection on the meaning and value of life itself.
