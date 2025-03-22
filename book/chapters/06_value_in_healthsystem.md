@@ -319,9 +319,6 @@ When you are improving the STPSS it is important to take into account these thre
 Have a look at the key facts of the report below. Here you see how the STPSS elements are all related when and they manifest as an integrated experience from a patient perspective in their care pathway. For instance, primary care website are difficult to use, particularly for lower educated people. So how can you innovate in an inclusive way so that you make it more accessible? Often it comes down to reflecting on your unique value proposition. One point of reflection here is to think about, the necessary STPSS conditions that need to be in place to make an innovation succesful. Could your solution be that intuitive that you do not need to be a technology wizard to get it to work?
 
 ```{figure} ../figures/OECD-patient-survey-insights.png
-:height: 350px
-:name: figure-example
-
 Key Facts from OECD (2025), Does Healthcare Deliver?: Results from the Patient-Reported Indicator Surveys (PaRIS), OECD Publishing, Paris, https://doi.org/10.1787/c8af05a5-en
 ```
 
@@ -351,10 +348,9 @@ Another example is organ-on-a-chip technology. How do you think this could chang
 
 Understanding how we experience our health and critical events in our lives is essential for healthcare innovation. 
 
-Pyramid
-* Experience reported PREMS, PROMS
-* Experience of holistic health diagram (cognitive patient knowledge ref, diagram)
-* experience of awareness
+```{figure} ../figures/Healthcare-experience-levels.png
+Different levels of patient experience (Pieter Vandekerckhove)
+```
 
 
 
