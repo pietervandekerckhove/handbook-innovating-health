@@ -12,7 +12,7 @@
 ## Introduction
 In this chapter we will explain the team project with the aim to apply generative co-design sessions and business development tools to guide strategic decisions across the basic innovation cycle with a team challenge. In this process you will follow the steps of the IDER model, but instead of doing every process in paralel, you need to go through the process in a linear way with the basic innovation cycle.
 
-## Key steps in your project: basic innovation cycle
+## What is the basic innovation cycle?
 In the innovation process there is a basic cycle that we can follow:
 
 ````{admonition} Prof. Frido Smulders explains the basic innovation cycle. Can you name the four key iterative steps and the aim of each step?
@@ -20,12 +20,21 @@ In the innovation process there is a basic cycle that we can follow:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/onpG_Vsq8sM?si=QrPKzURv6AId2Ebe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 ```
 ````
-Based on the basic innovation cylce, in this team project we will follow 5 phases:
-* PHASE 1: Initiation
-* PHASE 2: Exploration (observe and question)
-* PHASE 3: Creation (ideate)
-* PHASE 4: Robustinize 
-* PHASE 5: Integration (Experiment and contextualize)
+
+## What is the patient-centered innovation cycle?
+Building on the basic innovation cylce, the patient-centered innovation cycle further specifies in each phase how stakeholder knowledge can be strategically used from the very beginning of the innovation process to maximize impact. This strategy helps to mitigate risk to prevent future unnecessary costs and delays.
+
+There are 5 phases:
+* PHASE 1: Initiation: assemble a stakeholder team and a stakeholder involvement strategy to mitigate future risks
+  
+* PHASE 2: Exploration (observe and question): define a needs statement and a key research strategy to identify key risks in the innovation pathway
+  
+* PHASE 3: Design & Create (ideate): develop a strategic prototype to test a key hypothesis upfront with a selected group of stakeholders to integrate key insights to mitigate future risks
+  
+* PHASE 4: Robustinize:
+develop a sustainable revenue strategy to prevent financial risk
+   
+* PHASE 5: Integration (Experiment and contextualize): develop an integration strategy to make sure to prevent the innovation is embedded into th health system, reducing the risk of not impacting patients
 
 ## 1. PHASE 1: Initiation: getting  started
 
