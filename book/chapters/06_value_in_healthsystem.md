@@ -299,6 +299,14 @@ Article: "Collaborating for value - The Santeon Hospitals in the Netherlands." h
 O., Arora, J., Haverhals, A., & Niessen, L. (2017). Collaborating for value: the Santeon Hospitals in the Netherlands. International Consortium for Health Outcomes Measurement: Cambridge, MA, USA. https://www.ichom.org/resource/collaborating-for-value-the-santeon-hospitals-in-the-netherlands/
 
 ### Aligning your strategy with patient-centered care
+
+#### Is is the patient or the person?
+The concept of a patient, as discussed in the provided article blelow, is deeply rooted in the biomedical model where each actor has a defined role. This model has been criticized for perpetuating medical hegemony and portraying individuals seeking healthcare as passive recipients of care. The 'Language Matters' campaign highlights the importance of language in healthcare interactions, questioning whether individuals who feel well but require ongoing healthcare should be labeled as patients. The term 'patient' can reinforce a power dynamic in healthcare relationships, potentially leading to individuals being defined by their condition. However, for healthcare professionals, the term may signify a duty of care rather than dominion. The article argues that the context in which the term is used is crucial, and without significant cultural shifts in the biomedical model, simply changing terminology will not alter perceptions.
+
+Add ref Whyte, M. B., Elias, R., & Cooke, D. (2024). Exploration of the social and philosophical underpinning of ‘the patient’—what this means for people with a long-term condition. Humanities and Social Sciences Communications, 11(1), 1-6.
+: https://www.nature.com/articles/s41599-024-02729-8
+
+#### Why shoudld the patient be at the center?
 Patients have a unique integrated view on the experience of healthcare, which is invaluable for healthcare innovation. Have a look at this article from patient expert Wim Sipma where he explains- that “service-dominant logic states that patients are the true creators of real value-in-use”. 
 ADD REFERENCE
 Sipma, W. S., de Jong, M. F., & Ahaus, K. C. (2023). “It’s My Life and It’s Now or Never”—Transplant Recipients Empowered From a Service-Dominant Logic Perspective. Transplant International, 36, 12011.
