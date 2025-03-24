@@ -127,7 +127,12 @@ Herzlinger's Three Strategies, Herzlinger (2024) :
    - Growth Driver Strategy – Partnering with healthcare institutions and regulatory bodies to ensure alignment with market and policy requirements.
    - External Collaboration – Engaging external stakeholders, such as academic institutions and technology firms, to integrate interdisciplinary knowledge and capabilities.
 
-###### Key challenges to take into account
+###### Managing diverse incentives and personal interests: 
+Different stakeholders, researchers, patient, managers and other experts have different incentives and personal interests. As a researcher, or manager of the innovation process you may be confronted with three different ethical challenges: (ADD REF Wittmayer, J. M., Huang, Y. S. E., Bogner, K., Boyle, E., Hölscher, K., von Wirth, T., ... & Vasques, A. (2024). Neither right nor wrong? Ethics of collaboration in transformative research for sustainable futures. Humanities and Social Sciences Communications, 11(1), 1-15.):
+* Axiological: people may have a different view on the organizational change and innovation and the societal impact it may have, these are rooted in values about what is considered to be "good". A future where the patient is considered to be disrespected in a certain way during the innovation may not be considered "good" for certain stakeholders, depending on their values about integrity.
+* Ontological: the knowledge that is created can be used anywhere, some communities of patients may feel like people come in to ask their opinion and involvement, but they do not see the return and impact of the knowledge they helped to create
+* Epistemological: certain knowledge and methods may be preferred by a dominant research or innovation manager, without taking into account local practices, these may be cultural bound as well (e.g. global north vs global south in settings where some ways of establishing knowledge are considered to be better than others), this is an important issue as healthcare practice is often rooted in tacit knoweldge and cultural practice, which has been establisehd over decades.
+
 It is important to map out multiple variables e.g. stakeholder jobs, personal interest, needs for the patient, information asymmetry between all parties, problems for trust, which impacts the sharing of vulnerable new ideas. In addition, care provider organisations are controlled and checked for everyone’s safety. New ideas are generally not welcome beyond the narrow margin of error in every procedure.
 
 Healthcare organisations are very hierarchical and time pressured environments. This produces many changing dynamics between the stakeholders:
@@ -143,7 +148,9 @@ There are different needs of the organization, personal interests, organizationa
 
 If you want to collaborate with these stakeholders and involve them and integrate their views representing some parts of the STPSS, one needs te be aware of these challenges. (ADD REF Verkijk, C., Tabeau, K., Ahaus, K., Gielen, M., de Wit, M. C., & van Veelen-Vincent, M. L. (2024). The challenges of involving child-patients in the development of a mobile application for their participation in pediatric brain care.) 
 
-Therefore, given all these stakeholders there are different types of entrepreneurial activities needed to develop the new ideas and communicate them to the relevant stakeholder. In the beginning one use the involvement of users (micro-level), on a higher level one needs to convince the management teams of the organization (meso-level) and at the system level one needs to look at the interaction of the organizations (macro level). (ADD REF Kulkov, I., Ivanova-Gongne, M., Bertello, A., Makkonen, H., Kulkova, J., Rohrbeck, R., & Ferraris, A. (2023). Technology entrepreneurship in healthcare: Challenges and opportunities for value creation. Journal of Innovation & Knowledge, 8(2), 100365.)
+Therefore, given all these stakeholders there are different types of entrepreneurial activities needed to develop the new ideas and communicate them to the relevant stakeholder. 
+
+In the beginning one use the involvement of users (micro-level), on a higher level one needs to convince the management teams of the organization (meso-level) and at the system level one needs to look at the interaction of the organizations (macro level). (ADD REF Kulkov, I., Ivanova-Gongne, M., Bertello, A., Makkonen, H., Kulkova, J., Rohrbeck, R., & Ferraris, A. (2023). Technology entrepreneurship in healthcare: Challenges and opportunities for value creation. Journal of Innovation & Knowledge, 8(2), 100365.)
 
 
 ##### Where to find patients?
@@ -373,7 +380,7 @@ Smulders, F. (2024). Design Creativity in the Belly of the Beast. Design Managem
 ```
 
 
-#### Generative co-design sessions
+#### Integrating the knowledge of stakeholders: Generative co-design sessions
 In the field of human-centered design, Generative Co-Design (GCD) is considered to be especially promising as stakeholders are actively involved from the very beginning in the creation of products and services (Moore, Wilding, Gray, & Castle, 2019; Clemensen, Rothmann, Smith, Caffery, & Danbjorg, 2017; Sanders & Stappers, 2012; Langley, Wolstenholme, & Cooke, 2018; Bird et al., 2021). This approach ensures that their needs are taken into account. A key hypothesis is that involving stakeholders is crucial as they provide important knowledge about their needs, which would otherwise be overlooked. Therefore, several authors claim that since the needs of stakeholders are better expressed through a co-design process, they can be better addressed in digital health solutions. Examples of these solutions include user guidance, specific reminders, and personal tracking (Szinay, Jones, Chadborn, Brown, & Naughton, 2020; Steen, Manschot, & De Koning, 2011; Simonsen & Robertson, 2012; Trischler, Pervan, Kelly, & Scott, 2018).
 
 Generative co-design helps especially to make the knowledge of each stakeholder explicit and integrate it into the innovation process steps and ultimately in the solution.
