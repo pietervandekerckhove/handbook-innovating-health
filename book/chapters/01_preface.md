@@ -1,9 +1,9 @@
-# Strategic pathways for patient-centered care: An introduction (DRAFT VERSION)
+# The patient-centered innovation cycle: An introduction (DRAFT VERSION)
 
 ```{figure} ../figures/Copilot3.jpeg
 :name: figure-example
 ```
-**Pieter Bart Marcel Vandekerckhove, Bettina Maisch, Steven Howard, Frido Smulders, Christophe Van Neste, Wiljeana Glover**
+**Pieter Bart Marcel Vandekerckhove, Bettina Maisch, Steven Howard, Frido Smulders, Benjamin Harris, Samuel Harris, Christophe Van Neste, Wiljeana Glover**
 
 For licensing and credits see: see how to cite an use this open interactive handbook (see Credits and license  chapter)
 ## Preface
