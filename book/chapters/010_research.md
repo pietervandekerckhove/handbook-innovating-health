@@ -24,6 +24,7 @@ Research ventures:
 
 * To define and validate the patient-centered innovation cycle:
     * A twelve lessons education research: highlighting the key lessons to deliver collaborative courses about healthcare entrepreneurship education (data collection in progress ValEU)
+    * Special Issue about patient-centered innovation strategies: CERN IdeaSquare Journal of Experimental Innovation
 
 ## Chapter 2: Defining key collaborative behaviors for successful healthcare entrepreneurship
 
@@ -50,6 +51,7 @@ Research questions and ventures:
 
     * Which stakeholders?
         * Key publication: Stakeholder assembly procedure Vandekerckhove, P., Timmermans, J., de Bont, A., & de Mul, M. (2023). Diversity in stakeholder groups in generative co-design for digital health: assembly procedure and preliminary assessment. JMIR Human Factors, 10, e38350.   
+        * Key publication about ethical dillema's to choose stakeholders based on their interest: Wittmayer, J. M., Huang, Y. S. E., Bogner, K., Boyle, E., Hölscher, K., von Wirth, T., ... & Vasques, A. (2024). Neither right nor wrong? Ethics of collaboration in transformative research for sustainable futures. Humanities and Social Sciences Communications, 11(1), 1-15.
 
     * How to manage stakeholders along the innovation process?
 
@@ -76,9 +78,12 @@ Research questions and ventures:
 
 
 ## Chapter 6: Developing and engineering a prototyping pipeline in line with a financial strategy
-* How to front-load an integration strategy in a clinical pilot for a patient centered innovation? 
-    * Study Glimp clinical integration pilot (grant proposal started)
+* What are the revenue streams for new digital theranostics for wellbeing of cancer patients? How to front-load these insights?
 
 ## 7. Realizing sustainable integration
 * How to front-load key consideration for business model innovations upfront?
-* Key publication: Vandekerckhove, P., De Mul, M., De Groot, L., Elzevier, H. W., Fabels, B., Haj Mohammad, S., ... & Manten-Horst, E. (2021). Lessons for employing participatory design when developing care for young people with cancer: A qualitative multiple-case study. Journal of Adolescent and Young Adult Oncology, 10(4), 404-417.
+    * Key publication: Vandekerckhove, P., De Mul, M., De Groot, L., Elzevier, H. W., Fabels, B., Haj Mohammad, S., ... & Manten-Horst, E. (2021). Lessons for employing participatory design when developing care for young people with cancer: A qualitative multiple-case study. Journal of Adolescent and Young Adult Oncology, 10(4), 404-417.
+    * paper accepted JMIR Fromative research (AYA): front-loading key stakeholders to provide sustainable reveneu streams early on embedded in system
+    * How to front-load an integration strategy in a clinical pilot for a patient centered innovation? 
+        * Study Glimp clinical integration pilot (grant proposal started)
+   

@@ -53,6 +53,12 @@ Have a look at the TU Delft open course Entrepreneurship for Engineers from Madi
 Have a look at the TU Delft open course Entrepreneurship for Engineers about other startups have gone about this:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wxoJ0oKKXSg?si=3y6_BbH2HS3XJk9o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+
+```{tip}
+TA Change to case study format: Use national organizations: case from Dutch AYA network (see latest article from Carla, Sophia and I): innovation through national support organizations embedded in national cancer website (JMIR paper accepted)
+```
+
+
 ## Orchestrating dedicated fuzzy conceptual spaces in a rigid knowledge organization
 In a healthcare organizations, many different stakeholders, like care professionals are often implicly being creative. Creativity is situated and a living thing as dr. Milene Goncalves describes (see Cascini, G., Nagai, Y., Georgiev, G. V., Zelaya, J., Becattini, N., Boujut, J. F., ... & Wodehouse, A. (2022). Perspectives on design creativity and innovation research: 10 years later. International Journal of Design Creativity and Innovation, 10(1), 1-30.). For example creativity is situated in care organizations as care professionals often need to look for the best treatment for the patient. Yet, often the problem is not clear and there are multiple possible diagnoses and not one treatment. In a way, it requires them often, albeit very briefly, to be creative and collaborate and share ideas, often in multidiscplenary team meetings. However, to innovate, one needs to enlarge that space and find ways to incorporate that innovative thinking more in the organization. If creativity could exist in Type 1 (quick ideas) and Type 2 (refinement and judgement), Goncalves and Cash propose that it could be better to have more iterations of the quick ideas and come up with better ideas (ADD REF Gonçalves, M., & Cash, P. (2021). The life cycle of creative ideas: Towards a dual-process theory of ideation. Design Studies, 72, 100988.). If one is aware of these tendencies in practice, it can help to develop better ideas.
 

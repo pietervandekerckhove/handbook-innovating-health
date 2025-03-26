@@ -41,6 +41,10 @@ We have had many successes but I equally take accountability for the challenges 
 Since 2006, we have built an incredible consumer brand with one of the world's largest and most diverse genetic communities. Our foundation was the trust and respect of our customers, and they were always the guiding light on how we made decisions. If I am fortunate enough to secure the company’s assets through the restructuring process, I remain committed to our long-term vision of being a global leader in genetics and establishing genetics as a fundamental part of healthcare ecosystems worldwide.
 ```
 
+```{tip}
+TA Change to case study format: Use national organizations: case from Dutch AYA network (see latest article from Carla, Sophia and I): innovation through national support organizations (paper accepted)
+```
+
 
 ## A 2 and 5 year financial plan (Steve add exercise to make financial plan ADD video recording ValEU)
 
