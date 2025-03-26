@@ -129,7 +129,7 @@ Different people in the organization will have different incentives to focus on 
 **
 
 ```{tip}
-Get the buy-in from the start: case study AYA Food for Care initiative needed more buy-in from management and a solid business plan
+Get the buy-in from the start: case study AYA Food for Care initiative needed more buy-in from management and a solid business plan: ADD REF Vandekerckhove, P., De Mul, M., De Groot, L., Elzevier, H. W., Fabels, B., Haj Mohammad, S., ... & Manten-Horst, E. (2021). Lessons for employing participatory design when developing care for young people with cancer: A qualitative multiple-case study. Journal of Adolescent and Young Adult Oncology, 10(4), 404-417.
 ```
 
 case from design? box Maaike chronic diseaese management?

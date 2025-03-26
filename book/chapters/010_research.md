@@ -42,7 +42,8 @@ Research questions and ventures:
 
 * How does front-loading look like in the innovation pathway for patient-centered innovations on a nano level, at the level of daily healthcare practice?
 
-    * Why?
+    * Why is front-loading stakeholders important?
+        * Key publication: Vandekerckhove, P., De Mul, M., Bramer, W. M., & De Bont, A. A. (2020). Generative participatory design methodology to develop electronic health interventions: systematic literature review. Journal of medical Internet research, 22(4), e13780.
         * A theoretical framework to explain the epistemological reasons why stakeholder collaboration is important in generative collaborative design (in review)   
 
     * When to involve stakeholders in this pathway?
@@ -77,3 +78,7 @@ Research questions and ventures:
 ## Chapter 6: Developing and engineering a prototyping pipeline in line with a financial strategy
 * How to front-load an integration strategy in a clinical pilot for a patient centered innovation? 
     * Study Glimp clinical integration pilot (grant proposal started)
+
+## 7. Realizing sustainable integration
+* How to front-load key consideration for business model innovations upfront?
+* Key publication: Vandekerckhove, P., De Mul, M., De Groot, L., Elzevier, H. W., Fabels, B., Haj Mohammad, S., ... & Manten-Horst, E. (2021). Lessons for employing participatory design when developing care for young people with cancer: A qualitative multiple-case study. Journal of Adolescent and Young Adult Oncology, 10(4), 404-417.
