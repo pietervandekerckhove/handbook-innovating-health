@@ -12,6 +12,7 @@ parts:
       - file: chapters/07_resource_management.md
       - file: chapters/08_embedding_innovation.md
       - file: chapters/09_team_project.md
+      - file: chapters/010_research.md
       - file: chapters/authors.md
       - file: chapters/references.md
       - file: credits.md
