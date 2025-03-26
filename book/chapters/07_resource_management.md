@@ -22,6 +22,26 @@ Have a look here at this video fo TU Delft open course Entrepreneurship for engi
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8n83C85JkCs?si=NJQfOTekKOYJMDRU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+
+Continuously iterating your business model and integrating sustainable revenue streams is very important. 
+
+See below the case study of 23andme who failed bankruptcy in March 2025.  This recent testimonial of 23andme after their bankruptcy highlights the importance to continuously iterate and front-load important insights in the complex biotech field where you need a sustainable business model. How can we make more sustainable business models to help bring genetic insights to the patients with more impact. Apart from private investors, which revenue streams exist for emerging biotech platforms?
+
+Is their approach to 'own' the genetic data of people the right approach? How would a sustainable business model look like where people can own and manage their genome? This is the time where we need to make strategic decisions to make sure the patient is in the right position when using these solutions.
+
+```{tip}
+Post of Anne Wojcicki on LinkedIn, 24/03/2025: https://www.linkedin.com/posts/annewojcicki_the-23andme-special-committee-released-news-activity-7309798830110085121-8T0i?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAhp1AYB5FV3XTEC865Ew1w94LtFLLE1uO4: The 23andMe Special Committee released news today indicating their plan to take the company through the Chapter 11 process.   While I am disappointed that we have come to this conclusion and my bid was rejected, I am supportive of the company and I intend to be a bidder.   I have resigned as CEO of the company so I can be in the best position to pursue the company as an independent bidder. 
+
+Nineteen years ago, when I co-founded 23andMe, the direct to consumer industry did not exist and most people had no idea why they would ever want to see their genome.   So much has changed.   There is now a thriving direct to consumer industry and over 15 million people are now 23andMe customers.   These customers are continuing to learn about their family relationships and how to optimize their health thanks to the incredible team of individuals at 23andMe who innovate and help customers gain insights from their genetic information. 
+
+What made so many of our innovations possible were the 85% of our customers who opted in to research.  Thanks to them they have empowered an incredible platform for discovery.  You enabled our pursuit into novel drug discovery and our 50 programs with GSK.   In addition, over 250 publications have come out because of you and we have meaningfully impacted the research world.   Thank you. 
+
+We have had many successes but I equally take accountability for the challenges we have today. There is no doubt that the challenges faced by 23andMe through an evolving business model have been real, but my belief in the company and its future is unwavering.  Consumers are rising up and asking for more control over their health and want greater knowledge about how to be healthy and why they may have health issues.   We fought for consumers to have direct access to their information and for them to have choice and transparency with respect to their personal data.   As I think about the future, I will continue to tirelessly advocate for customers to have choice and transparency with respect to their personal data, regardless of platform. 
+
+Since 2006, we have built an incredible consumer brand with one of the world's largest and most diverse genetic communities. Our foundation was the trust and respect of our customers, and they were always the guiding light on how we made decisions. If I am fortunate enough to secure the company’s assets through the restructuring process, I remain committed to our long-term vision of being a global leader in genetics and establishing genetics as a fundamental part of healthcare ecosystems worldwide.
+```
+
+
 ## A 2 and 5 year financial plan (Steve add exercise to make financial plan ADD video recording ValEU)
 
 
@@ -39,6 +59,8 @@ Start assessing and modeling how your innovation can reduce costs. Many hospital
 ```
 
 ## Alternative payment models, accountable care organizations (Steve)
+
+
 
 ## Integrating Revenue Streams
 
