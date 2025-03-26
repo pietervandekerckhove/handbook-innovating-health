@@ -60,7 +60,7 @@ If you are interested in learning more about disaster preparedness and infectiou
 
 
 
-
+ADD business case Bart Verstaten and Tim Horeman sustainable medical devices
 
 **Discuss underneath what tips and tricks you use to develop your vision:** 
 

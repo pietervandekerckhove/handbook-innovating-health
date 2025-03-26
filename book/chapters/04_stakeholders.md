@@ -24,6 +24,8 @@ The dominant biomedical innovation pathway follows a structured, often linear, p
 JAMA Netw Open. 2024;7(6):e2415445. doi:10.1001/jamanetworkopen.2024.15445, Legend: Stages of Drug Development, BLA indicates Biologic License Application; FDA, US Food and Drug Administration; IND, Investigational New Drug; NDA, New Drug Application.
 ```
 
+
+
 In the phase before the marketing stage, one needs to gain access to the market. Every country has its own procedure for this. Have a look at this video by dr. Frederick Thielen about key issues that are happening in practice to go beyond the market access launch and get to a succesfull launc where patients actually get a new drug prescribed. What things should you consider upfront in this innovation pathway?
 
 ````{admonition} 3 Things About Market Access (dr. Frederick Thielen)
@@ -63,7 +65,8 @@ In Germany the new digital health assessment framework is an emerging step for d
 ```
 ````
 
-These new categories demand more flexible, iterative innovation models. Ijzerman, Koffijberg, Fenwick, and Krahn (2017) emphasize the importance of early health technology assessment in medical product development, highlighting the need for more adaptive frameworks (PharmacoEconomics, 35(7), 727–740).
+## Front-loading in biomedical pathways with early Health Technology assessment
+For strategic reasons, to front-load these concernsin the field of early Health Technology Assessment, has focused on how to reduce this risk early on. These new innovations demand more flexible, iterative innovation models. Ijzerman, Koffijberg, Fenwick, and Krahn (2017) emphasize the importance of early health technology assessment in medical product development, highlighting the need for more adaptive frameworks (PharmacoEconomics, 35(7), 727–740).
 
 Next, we want to examine this pathway on a micro level at the level of individual behaviors to see how these look like.
 
@@ -468,7 +471,9 @@ Some key lessons could be shared here when looking as key aspects in the innovat
 ```
 ````
 
-It is important to assess the roadblocks for existing solutions and learn from their mistakes in their pathways: today one could couple the existing interventions that can help with diagnostics and couple them with new interventions.
+ADD PANEL DISCUSSION from Intro MedTEch 2024 with Johan de Munter + startup night recording
+
+THERANOSTICS: It is important to assess the roadblocks for existing solutions and learn from their mistakes in their pathways: today one could couple the existing interventions that can help with diagnostics and couple them with new interventions.
 
 ```{tip}
 TA Change to case study format: Use national organizations: case from Dutch AYA network (see latest article from Carla, Sophia and I): innovation through national support organizations (In publication)

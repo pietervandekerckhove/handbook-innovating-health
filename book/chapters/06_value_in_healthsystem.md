@@ -147,12 +147,12 @@ Now, take a look at the next video, what relations between the patient and the h
 ````
 ### 3. Integration process to situate the problem-solution
 
-To effectively situate an innovation within a socio-technical product-service system, one needs to establish a patient journey as a result of an integration process. The socio-technical approach emphasizes the importance of considering both social and technical elements in healthcare systems. By mapping out the patient journey and care pathway, students can identify critical touchpoints where the innovation can provide the most value (see figure below, most interesting touchpoints are indicated with a light bulp).
+To effectively situate an innovation within a socio-technical product-service system, one needs to establish a patient journey as a result of an integration process. The socio-technical approach emphasizes the importance of considering both social and technical elements in healthcare systems. By mapping out the patient journey and care pathway, students can identify critical touchpoints where the innovation can provide the most value (see figure below, most interesting touchpoints are indicated with a light bulp). See also Overview of multiple touchpoints to add value. Simonse, L., Albayrak, A., & Starre, S. (2019).
 
 ```{figure} ../figures/touchpoints-vandekerckhove.png
 :name: figure-example
 
-Overview of multiple touchpoints to add value. Simonse, L., Albayrak, A., & Starre, S. (2019). Vandekerckhove, P., Vandekerckhove, Y., Tavernier, R., De Jaegher, K., & de Mul, M. (2020). Leveraging user experience to improve video consultations in a cardiology practice during the COVID-19 pandemic: initial insights. Journal of medical Internet research, 22(6), e19771.
+ Vandekerckhove, P., Vandekerckhove, Y., Tavernier, R., De Jaegher, K., & de Mul, M. (2020). Leveraging user experience to improve video consultations in a cardiology practice during the COVID-19 pandemic: initial insights. Journal of medical Internet research, 22(6), e19771.
 ```
 
 ### 4. Validating unique perspectives in your touchpoint
