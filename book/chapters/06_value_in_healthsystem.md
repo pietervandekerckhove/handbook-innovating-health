@@ -360,10 +360,38 @@ Understanding how we experience our health and critical events in our lives is e
 Different levels of patient experience (Pieter Vandekerckhove)
 ```
 
+Many patients express their feelings increasonly online via websites and digital health apps. They are derived from health experiences of these patients. Ultimately they draw on our awareness and an experiential level of these experiences.
+
+Here is an overview of a view articles from a key scholar on this topic: dr. Mies van Eenbergen (see PhD thesis here https://research.tilburguniversity.edu/en/publications/cancer-and-the-internet-how-patients-collect-connect-and-communic):
+
+**Impact on PROs for Cancer Patients:**
+Patients who participate in online communities generally experience marginal improvements in patient-reported outcomes (PROs) such as general well-being, anxiety, depression, quality of life, posttraumatic growth, and cancer-related concerns. However, these improvements are often insignificant and sometimes contradictory. The majority of participants are women with breast cancer, and those active in online support groups tend to be younger and more highly educated than nonusers (Van Eenbergen, 2017).
+
+**Content Shared in Online Cancer Communities:**
+Cancer patients and their relatives share a variety of user-generated content in online cancer communities, primarily categorized into informational support and emotional support. Larger studies provide detailed insights into patients' concerns and worries, which can be used to improve cancer care. Combining automated and manual coding methods yields the best results in analyzing this content (Van Eenbergen JMIR, 2018).
+
+**Relatives' Contributions:**
+Relatives of cancer patients play a crucial role in care and often share information and emotions online. Their user-generated content is a valuable resource for further research into their needs and for identifying emotional and informational topics. It is essential to enable relatives to occupy their own space in the disease-and-treatment process to avoid caregiver burden (van Eenbergen et al., Patient Education and Counseling 2018).
+
+**Usability of Online Applications for Reporting Side Effects:**
+In the Netherlands, the web application BijKanker ('AlongsideCancer') has been introduced for online patient reporting of side effects. Patients generally find BijKanker user-friendly and appreciate the attention given to their side effects. The application provides valuable insights into user experiences and usability, offering useful starting points for improvements. Supporting oncology nurses in the implementation of the application is recommended (van Eenbergen, van den Hurk, Mols, & van de Poll-Franse, 2019).
+
+---
+
+### References
+
+Van Eenbergen, M. C., Van de Poll-Franse, L. V., Heine, P., & Mols, F. (2017). The impact of participation in online cancer communities on patient reported outcomes: systematic review. JMIR cancer, 3(2), e7312. https://doi.org/10.2196/cancer.7312
+
+van Eenbergen, M. C., van de Poll-Franse, L. V., Krahmer, E., Verberne, S., & Mols, F. (2018). Analysis of content shared in online cancer communities: systematic review. JMIR cancer, 4(1), e7926. https://doi.org/10.2196/cancer.7926
+
+van Eenbergen, M. C., van Engelen, H., Ezendam, N. P. M., van de Poll-Franse, L. V., Tates, K., & Krahmer, E. J. (2018). Paying attention to relatives of cancer patients: What can we learn from their online writings? Patient Education and Counseling, 101(11), 1985-1992. https://doi.org/10.1016/j.pec.2018.11.004
+
+van Eenbergen, M. C., van den Hurk, C., Mols, F., & van de Poll-Franse, L. V. (2019). Usability of an online application for reporting the burden of side effects in cancer patients. Supportive Care in Cancer, 27, 3411-3419. https://doi.org/10.1007/s00520-019-04652-0
+
 
 
 ### Human awareness
-There is an increasing amount of work being done in the field of human consciousness to explore what we feel as human beings on the experiential level of human awareness. However, the experiential level of human awareness is only beginning to be integrated into healthcare innovations.
+Our experience fundamentally can be described at the level of our awareness. There is an increasing amount of work being done in the field of human consciousness to explore what we feel as human beings on the experiential level of human awareness. However, the experiential level of human awareness is only beginning to be integrated into healthcare innovations.
 
 ````{admonition} Watch this TED talk from Yongey Mingyur Rinpoche. What is the experiential level of awareness? How do we connect with it?
 ```{raw} html
