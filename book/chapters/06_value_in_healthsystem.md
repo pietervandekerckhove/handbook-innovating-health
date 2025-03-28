@@ -117,9 +117,18 @@ Techniques to make this knowledge explicit have significantly advanced through c
 
 Jung et al. (2023) explore the application of data-driven techniques in patient community journey mapping. By utilizing online stories and machine learning, they advance design approaches that capture relevant patient experiences. This method allows for a comprehensive view of the patient journey, identifying key touchpoints that can enhance patient care and support.
 
-Voigt et al. (2025) further investigate the use of machine learning, specifically topic modeling, to identify and assess experiences of patients with colorectal cancer. Their explorative study reveals how machine learning can effectively capture and analyze patient narratives, providing valuable insights into patient experiences and improving the overall patient journey pathway.
+Voigt et al. (2025) further investigate the use of machine learning, specifically topic modeling, to identify and assess experiences of patients with colorectal cancer. Their explorative study reveals how machine learning can effectively capture and analyze patient narratives, providing valuable insights into patient experiences and improving the overall patient journey pathway. 
 
-References
+See for instance in the figure below how one can understand and emapthize with deeper lying emotions of patients at home beyond the hospital setting:
+
+```{figure} ../figures/Wong-patient-journey.png
+
+Voigt, K., Sun, Y., Patandin, A., Hendriks, J., Goossens, R. H., Verhoef, C., ... & Jung, J. (2025). A Machine Learning Approach Using Topic Modeling to Identify and Assess Experiences of Patients With Colorectal Cancer: Explorative Study. JMIR cancer, 11(1), e58834.
+```
+
+
+**References** 
+
 Akrouh, N., Wehrens, R., & van de Bovenkamp, H. (2024). Engaging citizens in experiments with computational analysis of patient stories: From unwarranted reductions to meaningful insights. Big Data & Society, 11(4), 20539517241290218.
 
 Jung, J., Kim, K. H., Peters, T., Snelders, D., & Kleinsmann, M. (2023). Advancing design approaches through data-driven techniques: patient community journey mapping using online stories and machine learning. International Journal of Design, 17(2), 19-44.
