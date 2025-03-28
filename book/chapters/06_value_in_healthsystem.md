@@ -113,6 +113,19 @@ Collaborative design is crucial in making a patient journey, as it involves the 
 
 In healthcare innovation, it is essential to emphasize the importance of making tacit knowledge explicit from different stakeholders. Tacit knowledge, which is often unspoken and intuitive, plays a critical role in understanding the needs and experiences of patients, healthcare providers, and other stakeholders. By capturing and articulating this implicit knowledge, innovators can bridge the gap between different stakeholders, fostering better understanding and collaboration. Insights from Smulders et al. (2008) underscore the need for effective communication strategies in collaborative design, essential for successful ventures in medical technology entrepreneurship.
 
+Techniques to make this knowledge explicit have significantly advanced through collaborative sense-making approaches and machine learning techniques. Akrouh, Wehrens, and van de Bovenkamp (2024) emphasize the importance of engaging citizens in experiments with computational analysis of patient stories. Their study highlights the transition from unwarranted reductions to meaningful insights, demonstrating how collaborative sense-making can lead to a deeper understanding of patient experiences and needs.
+
+Jung et al. (2023) explore the application of data-driven techniques in patient community journey mapping. By utilizing online stories and machine learning, they advance design approaches that capture relevant patient experiences. This method allows for a comprehensive view of the patient journey, identifying key touchpoints that can enhance patient care and support.
+
+Voigt et al. (2025) further investigate the use of machine learning, specifically topic modeling, to identify and assess experiences of patients with colorectal cancer. Their explorative study reveals how machine learning can effectively capture and analyze patient narratives, providing valuable insights into patient experiences and improving the overall patient journey pathway.
+
+References
+Akrouh, N., Wehrens, R., & van de Bovenkamp, H. (2024). Engaging citizens in experiments with computational analysis of patient stories: From unwarranted reductions to meaningful insights. Big Data & Society, 11(4), 20539517241290218.
+
+Jung, J., Kim, K. H., Peters, T., Snelders, D., & Kleinsmann, M. (2023). Advancing design approaches through data-driven techniques: patient community journey mapping using online stories and machine learning. International Journal of Design, 17(2), 19-44.
+
+Voigt, K., Sun, Y., Patandin, A., Hendriks, J., Goossens, R. H., Verhoef, C., ... & Jung, J. (2025). A Machine Learning Approach Using Topic Modeling to Identify and Assess Experiences of Patients With Colorectal Cancer: Explorative Study. JMIR cancer, 11(1), e58834.
+
 ### 2. Mapping the knowledge to develop a patient journey and identifying touchpoints
 
 Patient experiences play a vital role in developing touchpoints within the care pathway. Touchpoints are key moments where the problem-solution becomes tangible and impactful. For example, Vandekerckhove, Vandekerckhove, Tavernier, De Jaegher, and De Mul (2020) explain how patient experiences can be used to develop touchpoints, making it clear where the problem-solution sits. Additionally, Simonse, Albayrak, and Starre (2019) highlight the importance of integrating service design with patient journey mapping to create a cohesive and effective healthcare experience. This often starts by mapping out the care pathway a patient follows in a certain timeframe (see figure below).
@@ -279,7 +292,8 @@ Watch Prof. Steven Howard’s video introduction on value-based healthcare in Sa
 ````
 
 
-**Aligning your strategy with a value-based healthcare system approach**
+
+**Difficulties to integrate a value-based healthcare approach in a hospial**
 
  Many organizations have struggled for decades to find the right balance to provide the best value for money. In this session, we discuss key difficulties about the implementation of value-based healthcare based on the article by Reindersma et al. (2024) and Van Elten (2023).
 
@@ -297,6 +311,34 @@ Healthcare Transformers (2022).
 
 Article: "Collaborating for value - The Santeon Hospitals in the Netherlands." https://www.ichom.org/resource/collaborating-for-value-the-santeon-hospitals-in-the-netherlands/: Okunade, 
 O., Arora, J., Haverhals, A., & Niessen, L. (2017). Collaborating for value: the Santeon Hospitals in the Netherlands. International Consortium for Health Outcomes Measurement: Cambridge, MA, USA. https://www.ichom.org/resource/collaborating-for-value-the-santeon-hospitals-in-the-netherlands/
+
+
+
+The study conducted by van Engen et al. (2024) explores the decade-long transition towards Value-Based Health Care (VBHC) at a Dutch University Hospital. The research adopts a complexity-informed approach to understand the multifaceted nature of implementing VBHC in a real-world setting:
+
+van Engen, V., Buljac-Samardzic, M., Baatenburg de Jong, R., Braithwaite, J., Ahaus, K., Den Hollander-Ardon, M., ... & Bonfrer, I. (2024). A decade of change towards Value-Based Health Care at a Dutch University Hospital: a complexity-informed process study. Health Research Policy and Systems, 22(1), 94.
+
+
+1. **Complexity of Implementation:**
+   The transition to VBHC is characterized by its complexity, involving numerous interconnected elements such as organizational culture, stakeholder engagement, and continuous adaptation. The study highlights that successful implementation requires a deep understanding of these complexities and the ability to navigate them effectively.
+
+2. **Stakeholder Engagement:**
+   Engaging various stakeholders, including healthcare professionals, patients, and policymakers, is crucial for the successful adoption of VBHC. The study emphasizes the importance of collaborative efforts and the need for inclusive decision-making processes to ensure that all voices are heard and considered.
+
+3. **Organizational Culture:**
+   The existing organizational culture plays a significant role in the implementation of VBHC. The study finds that fostering a culture of continuous improvement, innovation, and patient-centered care is essential for achieving the goals of VBHC. This involves shifting mindsets and practices to prioritize value over volume.
+
+4. **Continuous Adaptation:**
+   Implementing VBHC is not a one-time effort but requires ongoing adaptation and refinement. The study underscores the importance of flexibility and responsiveness to changing circumstances, feedback, and emerging challenges. Continuous learning and improvement are key to sustaining VBHC initiatives.
+
+5. **Outcomes and Impact:**
+   The study reports positive outcomes from the transition to VBHC, including improved patient satisfaction, enhanced quality of care, and better resource utilization. However, it also notes that measuring and demonstrating value remains a challenge, requiring robust data collection and analysis methods.
+
+6. **Lessons Learned:**
+   The research provides valuable lessons for other healthcare organizations aiming to implement VBHC. It highlights the need for strong leadership, clear communication, and a supportive infrastructure to facilitate the transition. Additionally, it stresses the importance of aligning incentives and policies with VBHC principles.
+
+
+
 
 ### Aligning your strategy with patient-centered care
 
