@@ -8,6 +8,14 @@
 </center>
 <br>
 
+## Why do we need to innovate the healthcare innovation process?
+Healthcare is a sector that is constantly evolving, with daily innovations transforming the way we provide and receive care. However, despite this continuous stream of new ideas and technologies, the innovation process in healthcare is often flawed. Some innovations with great potential are never realized, while others, which are clearly not beneficial for the user and sometimes not sustainable, such as electronic medical records, are implemented. This raises the question: what is going wrong in the healthcare innovation process?
+
+In this book, we explore the core issues that hinder the innovation process in healthcare. We ask whether adding design thinking, front-loading theory, management theory and innovation theory could offer a solution. But it seems already all this knowledge is readily available and described in the scientific literature? So how come it is not used in practice? For instance, design thinking is in some ways already being used in healthcare, albeit not explicitly, so is it not being applied correctly?
+
+Through in-depth analyses, case studies, and interviews with experts, we provide insights into how the innovation process in healthcare can be improved. Our goal is to offer a guidebook for successful innovation that is not only technologically advanced but also sustainable and patient-centered.
+
+
 ## Why is healthcare entrepreneurship different from other types of entrepreneurship?
 
 Similar to other newer fields in health research, like health economics, health entrepreneurship draws on existing fields like economics, operations, management and innovation theory, and implementation science. It is becoming increasingly a stand-on its own field. (REF Wiljean and book healthcare entrepreneurship + book the business of healthcare innovation)
