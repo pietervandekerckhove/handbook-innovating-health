@@ -8,22 +8,26 @@
 </center>
 <br>
 
-## Why do we need to innovate the healthcare innovation process?
-Healthcare is a sector that is constantly evolving, with daily innovations transforming the way we provide and receive care. However, despite this continuous stream of new ideas and technologies, the innovation process in healthcare is often flawed. Some innovations with great potential are never realized, while others, which are clearly not beneficial for the user and sometimes not sustainable, such as electronic medical records, are implemented. This raises the question: what is going wrong in the healthcare innovation process?
+## Why do we need to innovate healthcare innovation through entrepreneurial behavior?
+Healthcare is a sector that is constantly evolving, with daily innovations transforming the way we provide and receive care. However, despite this continuous stream of new ideas and technologies, the innovation process in healthcare is often flawed (ADD REF: Collins, J., van Dijk, H., & Smeets, R. (2023). Why pilot projects fail: Understanding the gap between testing and scaling in healthcare innovation. Journal of Health Innovation, 6(1), 12-24). Some innovations with great potential are never realized, while others, which are clearly not beneficial for the user and sometimes not sustainable, such as electronic medical records, are implemented. This raises the question: what is going wrong in the healthcare innovation process?
 
-In this book, we explore the core issues that hinder the innovation process in healthcare. We ask whether adding design thinking, front-loading theory, management theory and innovation theory could offer a solution. But it seems already all this knowledge is readily available and described in the scientific literature? So how come it is not used in practice? For instance, design thinking is in some ways already being used in healthcare, albeit not explicitly, so is it not being applied correctly?
+In this book, we explore the core issues that hinder the innovation process in healthcare. We ask whether using entrepreneurial behaviors and healthcare management theories like design thinking, front-loading theory, and innovation theory could offer a solution. But it seems already all this knowledge is readily available and described in the scientific literature? So how come it is not used in practice? For instance, design thinking is in some ways already being used in healthcare, albeit not explicitly, so is it not being applied correctly?
 
-Through in-depth analyses, case studies, and interviews with experts, we provide insights into how the innovation process in healthcare can be improved. Our goal is to offer a guidebook for successful innovation that is not only technologically advanced but also sustainable and patient-centered.
+Through in-depth analyses, case studies, and interviews with experts, we provide insights into how the innovation process in healthcare can be improved. Our goal is to offer a guidebook for successful innovation that is not only technologically advanced but also sustainable and patient-centered. (ADD REF EURAM. (2025). Symposium. Retrieved from https://conferences.euram.academy/2025conference/symposia/#toggle-id-6 )
 
 
-## Why is healthcare entrepreneurship different from other types of entrepreneurship?
+## What is healthcare entrepreneurship and why is it different from other types of entrepreneurship?
 
-Similar to other newer fields in health research, like health economics, health entrepreneurship draws on existing fields like economics, operations, management and innovation theory, and implementation science. It is becoming increasingly a stand-on its own field. (REF Wiljean and book healthcare entrepreneurship + book the business of healthcare innovation)
+Similar to other newer fields in health research, like health economics, health entrepreneurship draws on existing fields like economics, operations, management and innovation theory, and implementation science. It is becoming increasingly a stand-on its own field. (ADD REF (Glover, Crocker, Brush, 2024)
+ ADD
+ Wilden, R., Garbuio, M., Angeli, F., & Mascia, D. (2018). Entrepreneurship in healthcare. Routledge.
+ 
+ADD Burns, L. R. (Ed.). (2012). The business of healthcare innovation. Cambridge University Press.
 
 ### Key Differences in Healthcare Entrepreneurship:
 - **Constant Demand and Flow of Needs**: Unlike other industries where demand can fluctuate, healthcare consistently experiences high demand due to the ongoing need for medical services and wellness solutions. This creates a unique environment where innovation must be continuous and responsive.
   - There is a growing population that lives with multiple conditions and a mental health condition (OCED, 2025)[^OCED]. 
-- **Regulation and Market Principles**: Traditional economic systems are governed by managed market principles and regulations that dictate how businesses operate. Healthcare, however, navigates a complex regulatory landscape that often requires compliance with multiple, sometimes conflicting, regulations, making entrepreneurial ventures more challenging.
+- **Regulation and Market Principles**: Traditional economic systems are governed by managed market principles and regulations that dictate how businesses operate. Healthcare, however, navigates a complex regulatory landscape that often requires compliance with multiple, sometimes conflicting, regulations, making entrepreneurial ventures more challenging. (ADD REF Fassbender, A., Donde, S., Silva, M., Friganovic, A., Stievano, A., Costa, E., ... & van Vugt, J. (2024). Adoption of Digital Therapeutics in Europe. Therapeutics and Clinical Risk Management, 939-954.)
 - **Multiple Stakeholders**: In healthcare, there isn't a single payer or client. Instead, entrepreneurs must address the needs of a diverse group of stakeholders, including patients, healthcare providers, insurers, and regulatory bodies. This multifaceted environment demands a nuanced approach to management and innovation.
 
 ### Contrast with Traditional Views:
@@ -50,7 +54,7 @@ Entrepreneurial behavior in healthcare is also implicitly present in the fields 
 Different Streams in entrepreneurial behavior (Wiljeana Glover, Bettina Maisch, Pieter Vandekerckhove)
 ```
 
-## Why Patient-Centered Entrepreneurship?
+## Why focus on Patient-Centered Entrepreneurship?
 
 Healthcare systems around the world are facing immense pressure to become more resilient due to unprecedented challenges. The COVID-19 pandemic has had a significant impact, and additional demands from demographic changes and technological advancements are adding to the strain. To effectively address these pressures and innovate effectively, we need information from various stakeholders. We are collecting information about health spending, financing, clinical quality, and safety of care, but we are still missing a crucial voice of patients. Ultimately this results in the insights from patients remaining tacit in health practice, recorded in self-reported outcomes or narratives and stories. They don't make it to care practice, as we are not aware how to effectively drive their insights from an idea to an integrated sustainable patient-driven solution.
 

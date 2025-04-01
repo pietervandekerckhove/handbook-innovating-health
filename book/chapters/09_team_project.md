@@ -342,7 +342,14 @@ You can structure your data collection and data analysis in the table shown unde
 Data analysis table-Pieter Vandekerckhove
 ```
 			
-To properly analyse the data you can use coding software like Atlas.ti or ENVIVO and more recently there are also experimental generative AI or automation tools to transcribe interviews and analyze them. This is what a startup focused on called Qaring (folded). 
+For more in depth research: to properly analyse the data you can use coding software like Atlas.ti or ENVIVO and more recently there are also experimental generative AI or automation tools to transcribe interviews and analyze them. This is what a startup focused on called Qaring (folded). 
+
+For methodological guidance see:
+Guest G, Bunce A, Johnson L (2006) How Many Interviews Are Enough?: An Experiment with Data Saturation and Variability. Field Methods 18:59–82
+ 
+Clarke, V., & Braun, V. (2017). Thematic analysis. The journal of positive psychology, 12(3), 297-298.
+ 
+
 
 You could also use validated AI research tools to review large bodies of literature like ASReview https://asreview.nl/. Here are some open exercises https://github.com/asreview/asreview-academy?tab=readme-ov-file#open-teaching-materials
 
