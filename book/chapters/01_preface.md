@@ -1,4 +1,4 @@
-# The patient-centered innovation cycle: An introduction (DRAFT VERSION)
+# The value driven healthcare innovation cycle: An introduction (DRAFT VERSION)
 
 ```{figure} ../figures/Copilot3.jpeg
 :name: figure-example
