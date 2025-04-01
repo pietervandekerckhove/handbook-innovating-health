@@ -22,7 +22,7 @@ Similar to other newer fields in health research, like health economics, health 
 
 ### Key Differences in Healthcare Entrepreneurship:
 - **Constant Demand and Flow of Needs**: Unlike other industries where demand can fluctuate, healthcare consistently experiences high demand due to the ongoing need for medical services and wellness solutions. This creates a unique environment where innovation must be continuous and responsive.
-  - There is a growing population that lives with multiple conditions and a mental health condition:  (ADD REF OECD (2025), Does Healthcare Deliver?: Results from the Patient-Reported Indicator Surveys (PaRIS), OECD Publishing, Paris, https://doi.org/10.1787/c8af05a5-en.)
+  - There is a growing population that lives with multiple conditions and a mental health condition (OCED, 2025)[^OCED]. 
 - **Regulation and Market Principles**: Traditional economic systems are governed by managed market principles and regulations that dictate how businesses operate. Healthcare, however, navigates a complex regulatory landscape that often requires compliance with multiple, sometimes conflicting, regulations, making entrepreneurial ventures more challenging.
 - **Multiple Stakeholders**: In healthcare, there isn't a single payer or client. Instead, entrepreneurs must address the needs of a diverse group of stakeholders, including patients, healthcare providers, insurers, and regulatory bodies. This multifaceted environment demands a nuanced approach to management and innovation.
 
@@ -36,7 +36,7 @@ Given the unique challenges and dynamics of healthcare entrepreneurship, develop
 
 
 ### Healthcare entrepreneurship: unique collaborative behaviors
-Healthcare entrepreneurship is emerging as a field (Glover, Crocker, Brush, 2024). Before it was often discussed in the field of management and entrepreneurship as a context in which the management and entrepreneurship theories are applied. Often this happens on the macro and meso level across a health system or on a meso level across organizations. In this book we are focusing on the behaviors of healthcare entrepreneurship, and specifically on an individual level within healthcare organizations.
+Healthcare entrepreneurship is emerging as a field (Glover, Crocker, Brush, 2024)[^Glover]. Before it was often discussed in the field of management and entrepreneurship as a context in which the management and entrepreneurship theories are applied. Often this happens on the macro and meso level across a health system or on a meso level across organizations. In this book we are focusing on the behaviors of healthcare entrepreneurship, and specifically on an individual level within healthcare organizations.
 
 Entrepreneurial behavior in healthcare is also implicitly present in the fields of healthcare management, (technical) medicine, biomedical-engineering, and life sciences. However, these fields are looking at the objects, clinical procedures, patient outcomes and outputs of the innovations.
 
@@ -81,7 +81,7 @@ However, once the crisis subsided, many of these integrated innovation pathways 
 
 For example, some efforts focus on human-centered patient experiences by enhancing electronic medical records and health data transparency, yet these solutions often remain siloed within specific institutions. There are also rapidly changing landscapes  in emerging fields in intervention discovery and development and new ways of delivering care with biotech and ICT: e.g. synthetic, genetic, and cellular laboratory techniques, machine learning, additive manufacturing, extended reality, theranostics. 
 
-Some innovations are also coming from other industries into healthcare, technological advances such as medical drones for transporting blood and emergency equipment require harmonization of legislation, technology, infrastructure, and care pathways before they can be widely implemented (MAVLab, 2023; Helicus, 2023; TU Delft, 2023). Consider, for example, the ambulance drone concept—an unmanned aircraft that delivers defibrillators to cardiac arrest patients within minutes. While technically feasible, the innovation pathway from prototype to scalable, integrated solution remains unclear. What financial models, regulatory approvals, and operational frameworks are needed to bring such an idea to real-world implementation?
+Some innovations are also coming from other industries into healthcare, technological advances such as medical drones for transporting blood and emergency equipment require harmonization of legislation, technology, infrastructure, and care pathways before they can be widely implemented (MAVLab, 2023 [^MAVLab]; Helicus, 2023 [^Helicus]; TU Delft, 2023 [^TUDelft]). Consider, for example, the ambulance drone concept—an unmanned aircraft that delivers defibrillators to cardiac arrest patients within minutes. While technically feasible, the innovation pathway from prototype to scalable, integrated solution remains unclear. What financial models, regulatory approvals, and operational frameworks are needed to bring such an idea to real-world implementation?
 
 ````{admonition} Watch this video demonstrating an Ambulance Drone (a collaboration between Alec Momont (graduate student TUDelft), Living Tomorrow and University Hospital UZ Ghent). 
 
@@ -95,15 +95,15 @@ Ultimately the impact of helping entrepreneurial people on an individual level b
 
 ## Strategy to guide the expedition of health innovators in the trenches
 
-Healthcare entrepreneurship on an individual level is generally an emerging field in research and education. Yet, it could have great consequences if people with entrepreneurial ambitions learn how to become more entrepreneurial. For instance, this study found that residency directors thought that entrepreneurial skills could help medical professionals in training to become better doctors: ADD REFF Tam, E. K., & Dong, X. (2021). Survey of Residency Directors’ Views on Entrepreneurship. JMIR Medical Education, 7(2), e19079.
+Healthcare entrepreneurship on an individual level is generally an emerging field in research and education. Yet, it could have great consequences if people with entrepreneurial ambitions learn how to become more entrepreneurial. For instance, this study found that residency directors thought that entrepreneurial skills could help medical professionals in training to become better doctors: (Tam, Dong, 2021)[^Tam].
 
-This may have a ripple effect in the healthcare organizations. A recent study found that people with an entrepreneurial ambition increase the rate of entrepreneurship among their peers (ADD REF Hacamo, I., & Kleiner, K. (2024). No experience necessary: the peer effects of intended entrepreneurs. Review of Finance, 28(4), 1311-1344.).
+This may have a ripple effect in the healthcare organizations. A recent study found that people with an entrepreneurial ambition increase the rate of entrepreneurship among their peers (Hacamo, Kleiner, 2024)[^Hacamo].
 
-We need to train the future generation of responsible health innovators to ensure that they learn from these strategic innovation pathways so that their innovations achieve real impact. This is especially true for digital health, which is expected to become a cornerstone of healthcare transformation in the coming decade (Friend et al., 2023; Weimar et al., 2024; Technology Foresight, n.d.). However, despite its potential, most digital health solutions fail to integrate meaningfully into healthcare systems (Lee et al., 2021).
+We need to train the future generation of responsible health innovators to ensure that they learn from these strategic innovation pathways so that their innovations achieve real impact. This is especially true for digital health, which is expected to become a cornerstone of healthcare transformation in the coming decade (Friend et al., 2023 [^Friend]; Weimar et al., 2024 [^Weimar]; Technology Foresight, n.d. [^Technology]). However, despite its potential, most digital health solutions fail to integrate meaningfully into healthcare systems (Lee et al., 2021)[^Lee].
 
-A recent review of digital healthcare innovation found that efforts focus primarily on making existing care processes more efficient, rather than driving structural transformation (Kraus et al., 2021). As a result, only a small number of digital tools—such as online data-sharing platforms and video consultations—have gained widespread adoption, despite these technologies existing for decades. Compared to other heavily regulated industries like retail (which integrates well-being and prevention programs) or aerospace (which advances medical logistics via unmanned aircraft), healthcare's digital transformation is lagging (Compton-Phillips, 2024).
+A recent review of digital healthcare innovation found that efforts focus primarily on making existing care processes more efficient, rather than driving structural transformation (Kraus et al., 2021)[^Kraus]. As a result, only a small number of digital tools—such as online data-sharing platforms and video consultations—have gained widespread adoption, despite these technologies existing for decades. Compared to other heavily regulated industries like retail (which integrates well-being and prevention programs) or aerospace (which advances medical logistics via unmanned aircraft), healthcare's digital transformation is lagging (Compton-Phillips, 2024)[^Compton].
 
-Even within leading technology-driven institutions like TU Delft, students are often trained to develop novel technological solutions from an outsider’s perspective (a “technology push” approach). However, they struggle to connect these inventions to real-world healthcare challenges, as they lack formal training in innovation management, stakeholder engagement, and regulatory integration (Smulders et al., 2019; Chakraborty et al., 2021).
+Even within leading technology-driven institutions like TU Delft, students are often trained to develop novel technological solutions from an outsider’s perspective (a “technology push” approach). However, they struggle to connect these inventions to real-world healthcare challenges, as they lack formal training in innovation management, stakeholder engagement, and regulatory integration (Smulders et al., 2019 [^Smulders]; Chakraborty et al., 2021 [^Chakraborty]).
 
 To address these issues, we must train future innovators to design holistic innovation pathways—structured approaches that front-load the knowledge of diverse stakeholders to develop solutions that are:
 
@@ -162,33 +162,47 @@ Introduce yourself to other people to form a team, assess your strenghts and wea
 
 
 
-```{admonition} Bibliography
-:class: note 
 
-Chakraborty, S., Drews, P., & Schirmer, I. (2021). Navigating healthcare innovation: Regulatory barriers and enablers. Health Policy & Technology, 10(2), 55-71.
+[^OCED]: OECD. (2025). Does healthcare deliver?: Results from the patient-reported indicator surveys (PaRIS). OECD Publishing. https://doi.org/10.1787/c8af05a5-en
 
-Collins, J., van Dijk, H., & Smeets, R. (2023). Why pilot projects fail: Understanding the gap between testing and scaling in healthcare innovation. Journal of Health Innovation, 6(1), 12-24.
+[^Glover]: Glover, W. J., Crocker, A., & Brush, C. G. (2024). Healthcare entrepreneurship: An integrative framework for future research. Journal of Business Venturing Insights, 22, e00476.
 
-Compton-Phillips, A. (2024). The slow road to digital transformation in healthcare. Harvard Business Review.
+[^MAVLab]: MAVLab. (2023). Fully autonomous drones safely integrated into medical transport. TU Delft.
 
-EURAM. (2025). Symposium. Retrieved from https://conferences.euram.academy/2025conference/symposia/#toggle-id-6
+[^Helicus]: Helicus. (2023). First medical transport by passenger drone in EU. Retrieved from https://helicus.com
 
-Friend, P., Gupta, R., & Tan, Z. (2023). Digital health in the next decade: Trends and predictions. Global Health Tech Journal, 15(3), 22-39.
+[^TUDelft]: TU Delft. (2023). A new air traffic puzzle: Autonomous drones in healthcare logistics. Retrieved from https://www.tudelft.nl
 
-Glover, W. J., Crocker, A., & Brush, C. G. (2024). Healthcare entrepreneurship: An integrative framework for future research. Journal of Business Venturing Insights, 22, e00476.
+[^Tam]: Tam, E. K., & Dong, X. (2021). Survey of Residency Directors’ Views on Entrepreneurship. JMIR Medical Education, 7(2), e19079.
 
-Helicus. (2023). First medical transport by passenger drone in EU. Retrieved from https://helicus.com
+[^Hacamo]: Hacamo, I., & Kleiner, K. (2024). No experience necessary: the peer effects of intended entrepreneurs. Review of Finance, 28(4), 1311-1344.
 
-Kraus, S., Jones, P., & Kailer, N. (2021). Digital transformation in healthcare: A systematic review. International Journal of Medical Informatics, 150, 104-117.
+[^Friend]: Friend, P., Gupta, R., & Tan, Z. (2023). Digital health in the next decade: Trends and predictions. Global Health Tech Journal, 15(3), 22-39.
 
-Lee, T., Smith, M., & Patel, J. (2021). Barriers to digital healthcare adoption: A multi-country analysis. Health Informatics Journal, 27(1), 44-67.
+[^Weimar]: Weimar, B., Huber, J., & Rosenthal, A. (2024). The role of AI in the future of digital health. Journal of Digital Health Policy, 9(1), 18-29.
 
-MAVLab. (2023). Fully autonomous drones safely integrated into medical transport. TU Delft.
+[^Technology]: Technology Foresight - The Future of Human Health. (n.d.). Retrieved from https://www.foresight.health
 
-Smulders, F., Brombacher, A., & den Ouden, E. (2019). From invention to integration: Teaching innovation at technical universities. Design & Innovation Education Review, 5(2), 33-50.
+[^Lee]: Lee, T., Smith, M., & Patel, J. (2021). Barriers to digital healthcare adoption: A multi-country analysis. Health Informatics Journal, 27(1), 44-67.
 
-Technology Foresight - The Future of Human Health. (n.d.). Retrieved from https://www.foresight.health
+[^Kraus]: Kraus, S., Jones, P., & Kailer, N. (2021). Digital transformation in healthcare: A systematic review. International Journal of Medical Informatics, 150, 104-117.
 
-TU Delft. (2023). A new air traffic puzzle: Autonomous drones in healthcare logistics. Retrieved from https://www.tudelft.nl
+[^Compton]: Compton-Phillips, A. (2024). The slow road to digital transformation in healthcare. Harvard Business Review.
 
-Weimar, B., Huber, J., & Rosenthal, A. (2024). The role of AI in the future of digital health. Journal of Digital Health Policy, 9(1), 18-29.
+[^Smulders]: Smulders, F., Brombacher, A., & den Ouden, E. (2019). From invention to integration: Teaching innovation at technical universities. Design & Innovation Education Review, 5(2), 33-50.
+
+[^Chakraborty]: Chakraborty, S., Drews, P., & Schirmer, I. (2021). Navigating healthcare innovation: Regulatory barriers and enablers. Health Policy & Technology, 10(2), 55-71.
+
+[^Collins]: Collins, J., van Dijk, H., & Smeets, R. (2023). Why pilot projects fail: Understanding the gap between testing and scaling in healthcare innovation. Journal of Health Innovation, 6(1), 12-24.
+
+[^EURAM]: EURAM. (2025). Symposium. Retrieved from https://conferences.euram.academy/2025conference/symposia/#toggle-id-6
+
+
+
+
+
+
+
+
+
+
