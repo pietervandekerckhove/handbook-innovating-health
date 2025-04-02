@@ -376,6 +376,17 @@ ADD REF Bosveld, M. H., Smits, A. G. M., Mertens, H. J. M. M., Zandvoort, M. J. 
 ADD REF
 Visser, M., ‘t Hart, N., de Mul, M., & Weggelaar-Jansen, A. M. (2024). The Perspectives of Healthcare Professionals and Managers on Patient Involvement in Care Pathway Development: A Discourse Analysis. Health Expectations, 27(3), e14101. https://doi.org/10.1111/hex.14101
 
+
+## Integrating the care professional point of view in value-based care innovation
+
+Care professionals develop and use medical guidelines as a reference point, which have grown extensively over the last 30 years. However, often the guidelines are running behind based on evidence generated much later after the innovations are established.
+
+Some of these guidelines are co-developed with patients, which may foster education practices, see AYA Netherlands example
+
+## Integrating the technology expert point of view in value-based care innovation
+
+Many technologies in healthcare are developed with a technology push idea that people with automatically adopt them over time. However, some  technology trends like AI and recommender systems are increasingly paying attention to help patient self-manage their situations. This may help foster healthcare innovation.
+
 ## Personalized medicine trend
 Personalized healthcare and precision medicine are related trends to value-based healthcare that may be useful to support innovations. By tailoring treatments to individual patients, personalized healthcare can potentially improve outcomes and efficiency, key goals of VBHC. It involves tailoring medical treatment to the individual characteristics of each patient. These approaches diviate from standard care as it were as they become more individually tailored interventions. Personalized healthcare aims to move away from standardized healthcare with a "one-size-fits-all" model and towards treatments that consider individual variability (Collins & Varmus, 2015). These interventions use genetic, environmental, and lifestyle factors to design more effective and personalized care plans.
 
