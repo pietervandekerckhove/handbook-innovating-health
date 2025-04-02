@@ -302,7 +302,7 @@ Watch Prof. Steven Howard’s video introduction on value-based healthcare in Sa
 
 
 
-**Difficulties to integrate a value-based healthcare approach in a hospial**
+**Difficulties to integrate a value-based healthcare approach in a hospital**
 
  Many organizations have struggled for decades to find the right balance to provide the best value for money. In this session, we discuss key difficulties about the implementation of value-based healthcare based on the article by Reindersma et al. (2024) and Van Elten (2023).
 
@@ -349,48 +349,37 @@ van Engen, V., Buljac-Samardzic, M., Baatenburg de Jong, R., Braithwaite, J., Ah
 
 
 
-### Aligning your strategy with patient-centered care
+## Integrating the patient perspective in value-based care innovation
 
-#### Is is the patient or the person?
+There are challenges to include the patient in value-based healthcare, currently it is limited to PROMS and surveys.
+
+ADD REF: van der Voorden M, Sipma WS, de Jong MFC, Franx A and Ahaus KCTB (2023) The
+immaturity of patient engagement in value-based healthcare—A systematic review.
+Front. Public Health 11:1144027. doi: 10.3389/fpubh.2023.1144027
+
+### Is it the patient or the person?
 The concept of a patient, as discussed in the provided article blelow, is deeply rooted in the biomedical model where each actor has a defined role. This model has been criticized for perpetuating medical hegemony and portraying individuals seeking healthcare as passive recipients of care. The 'Language Matters' campaign highlights the importance of language in healthcare interactions, questioning whether individuals who feel well but require ongoing healthcare should be labeled as patients. The term 'patient' can reinforce a power dynamic in healthcare relationships, potentially leading to individuals being defined by their condition. However, for healthcare professionals, the term may signify a duty of care rather than dominion. The article argues that the context in which the term is used is crucial, and without significant cultural shifts in the biomedical model, simply changing terminology will not alter perceptions.
 
 Add ref Whyte, M. B., Elias, R., & Cooke, D. (2024). Exploration of the social and philosophical underpinning of ‘the patient’—what this means for people with a long-term condition. Humanities and Social Sciences Communications, 11(1), 1-6.
 : https://www.nature.com/articles/s41599-024-02729-8
 
-#### Why shoudld the patient be at the center?
+
+### A service dominant logic?
 Patients have a unique integrated view on the experience of healthcare, which is invaluable for healthcare innovation. Have a look at this article from patient expert Wim Sipma where he explains- that “service-dominant logic states that patients are the true creators of real value-in-use”. 
 ADD REFERENCE
 Sipma, W. S., de Jong, M. F., & Ahaus, K. C. (2023). “It’s My Life and It’s Now or Never”—Transplant Recipients Empowered From a Service-Dominant Logic Perspective. Transplant International, 36, 12011.
 
+### How can patients be innovators?
 Bosveld et al. (2024) highlight the experiences of patients, informal caregivers, and healthcare professionals with involvement in these programs. By empowering patients and caregivers to take an active role in their healthcare, entrepreneurial initiatives can improve outcomes and enhance patient satisfaction. This patient-centric approach is increasingly important in a healthcare landscape that values personalized care and patient engagement.
 ADD REF Bosveld, M. H., Smits, A. G. M., Mertens, H. J. M. M., Zandvoort, M. J. J. M. van, Mook, W. N. K. A. van, & Bokhoven, M. A. van. (2024). Patients and informal caregivers in the lead: A qualitative study on the experiences of patients, informal caregivers, and healthcare professionals with involvement in treatment, e-health and self-management programs. BMC Health Services Research, 24(1), 713. https://doi.org/10.1186/s12913-024-11156-z
 
 ADD REF
 Visser, M., ‘t Hart, N., de Mul, M., & Weggelaar-Jansen, A. M. (2024). The Perspectives of Healthcare Professionals and Managers on Patient Involvement in Care Pathway Development: A Discourse Analysis. Health Expectations, 27(3), e14101. https://doi.org/10.1111/hex.14101
 
-Focusing on how you make an impact on patients is essential as a recent report from OECD emphasized from the Patient-Reported Indicator Surveys that healthcare needs to deliver more for patients. ADD REF: OECD (2025), Does Healthcare Deliver?: Results from the Patient-Reported Indicator Surveys (PaRIS), OECD Publishing, Paris, https://doi.org/10.1787/c8af05a5-en. 
-
-When you are improving the STPSS it is important to take into account these three aspects to make sure you address the problems of patients:
-* Patients value time
-* Patients need personally tailored care
-* Patients need trouble-free and safe care
-
-Have a look at the key facts of the report below. Here you see how the STPSS elements are all related when and they manifest as an integrated experience from a patient perspective in their care pathway. For instance, primary care website are difficult to use, particularly for lower educated people. So how can you innovate in an inclusive way so that you make it more accessible? Often it comes down to reflecting on your unique value proposition. One point of reflection here is to think about, the necessary STPSS conditions that need to be in place to make an innovation succesful. Could your solution be that intuitive that you do not need to be a technology wizard to get it to work?
-
-```{figure} ../figures/OECD-patient-survey-insights.png
-Key Facts from OECD (2025), Does Healthcare Deliver?: Results from the Patient-Reported Indicator Surveys (PaRIS), OECD Publishing, Paris, https://doi.org/10.1787/c8af05a5-en
-```
-
-
+## Personalized medicine trend
 Personalized healthcare and precision medicine are related trends to value-based healthcare that may be useful to support innovations. By tailoring treatments to individual patients, personalized healthcare can potentially improve outcomes and efficiency, key goals of VBHC. It involves tailoring medical treatment to the individual characteristics of each patient. These approaches diviate from standard care as it were as they become more individually tailored interventions. Personalized healthcare aims to move away from standardized healthcare with a "one-size-fits-all" model and towards treatments that consider individual variability (Collins & Varmus, 2015). These interventions use genetic, environmental, and lifestyle factors to design more effective and personalized care plans.
 
-Key aspects here are patient-related outcome measures (PROMS) and PREMS. Can you identify the innovations that are used to make the patient-centered a reality in a Danish hospital?
 
-````{admonition} Watch this video from the European Commission about SmartHealth. What is the key change for the patient in their care pathway?
-```{raw} html
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ClIFLrGpYV8?si=o_ATBsN3eAZBN2uq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-```
-````
 
 These trends are advanced through technological developments in the field of biotech. For example the use of complex multiplex cell cultures, which allows for more precise modeling of human diseases and testing of treatments. These cultures can replicate the interactions between different cell types within the body, providing a more accurate representation of how diseases progress and how treatments work in a real human environment (Pampaloni et al., 2007).
 
@@ -413,9 +402,22 @@ Different levels of patient experience (Pieter Vandekerckhove)
 
 Many patients express their feelings increasonly online via websites and digital health apps. They are derived from health experiences of these patients. Ultimately they draw on our awareness and an experiential level of these experiences.
 
-Here is an overview of a view articles from a key scholar on this topic: dr. Mies van Eenbergen (see PhD thesis here https://research.tilburguniversity.edu/en/publications/cancer-and-the-internet-how-patients-collect-connect-and-communic):
+
+
+### 1. Surveys and reported outcomes
+
+* For patients: PROMS
+
+ADD Sipma WS, de Jong MFC, Meuleman Y, Hemmelder MH, Ahaus K(C.)TB (2023) Facing the
+challenges of PROM implementation in Dutch dialysis care: Patients’ and professionals’
+perspectives. PLoS ONE 18(5): e0285822. doi.org/10.1371/journal.pone.0285822
+
+critique on PROMS
+
 
 **Impact on PROs for Cancer Patients:**
+Here is an overview of a view articles from a key scholar on this topic: dr. Mies van Eenbergen (see PhD thesis here https://research.tilburguniversity.edu/en/publications/cancer-and-the-internet-how-patients-collect-connect-and-communic):
+
 Patients who participate in online communities generally experience marginal improvements in patient-reported outcomes (PROs) such as general well-being, anxiety, depression, quality of life, posttraumatic growth, and cancer-related concerns. However, these improvements are often insignificant and sometimes contradictory. The majority of participants are women with breast cancer, and those active in online support groups tend to be younger and more highly educated than nonusers (Van Eenbergen, 2017).
 
 **Content Shared in Online Cancer Communities:**
@@ -439,10 +441,78 @@ van Eenbergen, M. C., van Engelen, H., Ezendam, N. P. M., van de Poll-Franse, L.
 
 van Eenbergen, M. C., van den Hurk, C., Mols, F., & van de Poll-Franse, L. V. (2019). Usability of an online application for reporting the burden of side effects in cancer patients. Supportive Care in Cancer, 27, 3411-3419. https://doi.org/10.1007/s00520-019-04652-0
 
+---
+
+How are patient-related outcome measures (PROMS) and PREMS used in practice? Can you identify the innovations that are used to make the patient-centered a reality in a Danish hospital?
+
+````{admonition} Watch this video from the European Commission about SmartHealth. What is the key change for the patient in their care pathway?
+```{raw} html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ClIFLrGpYV8?si=o_ATBsN3eAZBN2uq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+```
+````
+### 2. Experience
+
+#### Domains of experience: positive health diagram and fundamental needs
+
+Postiive health diagram dimensions:
+
+ADD REF Pieter Desmet the fundamental needs
+Desmet, P., & Fokkinga, S. (2020). Beyond Maslow’s pyramid: Introducing a typology of thirteen fundamental needs for human-centered design. Multimodal technologies and interaction, 4(3), 38.
+
+ADD illustrations and toolkit here: Desmet, P.M.A. &
+Fokkinga, S.F. (2020). Thirteen Fundamental Psychological Needs. Delft: Delft
+University of Technology. ISBN 978-94-6384-185-6.
 
 
-### Human awareness
-Our experience fundamentally can be described at the level of our awareness. There is an increasing amount of work being done in the field of human consciousness to explore what we feel as human beings on the experiential level of human awareness. However, the experiential level of human awareness is only beginning to be integrated into healthcare innovations.
+https://diopd.org/need-typology/
+
+https://diopd.org/wp-content/uploads/2021/05/13-fundamental-psychological-needs-screen.pdf
+
+#### Mismatch between patient experience problems and solutions?
+There is a mismatch between what patient experience and how care is delivered. As we mentioned before it may become apparant through PROMS, but that is only the tip of the iceberg.
+
+Focusing on how you make an impact on patients is essential as a recent report from OECD emphasized from the Patient-Reported Indicator Surveys that healthcare needs to deliver more for patients. ADD REF: OECD (2025), Does Healthcare Deliver?: Results from the Patient-Reported Indicator Surveys (PaRIS), OECD Publishing, Paris, https://doi.org/10.1787/c8af05a5-en. 
+
+When you are improving the STPSS it is important to take into account these three aspects to make sure you address the problems of patients:
+* Patients value time
+* Patients need personally tailored care
+* Patients need trouble-free and safe care
+
+Have a look at the key facts of the report below. Here you see how the STPSS elements are all related when and they manifest as an integrated experience from a patient perspective in their care pathway. For instance, primary care website are difficult to use, particularly for lower educated people. So how can you innovate in an inclusive way so that you make it more accessible? Often it comes down to reflecting on your unique value proposition. One point of reflection here is to think about, the necessary STPSS conditions that need to be in place to make an innovation succesful. Could your solution be that intuitive that you do not need to be a technology wizard to get it to work?
+
+```{figure} ../figures/OECD-patient-survey-insights.png
+Key Facts from OECD (2025), Does Healthcare Deliver?: Results from the Patient-Reported Indicator Surveys (PaRIS), OECD Publishing, Paris, https://doi.org/10.1787/c8af05a5-en
+```
+
+#### Integrating patient experience through experience-based collaborative design to improve care delivery
+
+patients can share their experience and highlight painpoints in that epxerience
+
+ADD REF
+Gedney, N., Sipma, W. & Søndergaard, H. Innovations in dialysis: the user’s perspective.
+Nat Rev Nephrol 16, 544–545 (2020). doi.org/10.1038/s41581-020-0292-7
+
+
+ADD REF
+Sipma WS, de Jong MFC and Ahaus KCTB (2023). “It’s My Life and It’s Now or Never”—
+Transplant Recipients Empowered From a Service-Dominant Logic Perspective.
+Transpl Int 36:12011. doi: 10.3389/ti.2023.12011
+
+see example how Kidney patients can improve the care pathwy according to their work needs: 
+
+ADD REF Development and implementation of work-oriented clinical care to empow-er patients
+with kidney disease: an adapted intervention mapping approach. H. J. de Vries, W. S.
+Sipma, R. T. Gansevoort, S. Brouwer and A. Visser, BMC Health Services Research 2023
+Vol. 23 Issue 1 Pages 329; doi.org/10.1186/s12913-023-09307-9
+
+Deeper than sharing your experience, you can try to integrate it in the care delivery. How to improve the health services for kidney donors:
+
+ADD REF
+Sipma, W. S., Van Londen, M., Visser, A., De Jong, M. F., & Ahaus, K. C. (2025). Improving healthcare services for living kidney donors: an experience-based approach in the Netherlands. Frontiers in Public Health, 13, 1512852.
+
+
+### 3. Human awareness
+Our experience fundamentally is both expressed and experienced by us at the level of our awareness. There is an increasing amount of work being done in the field of human consciousness to explore what we feel as human beings on the experiential level of human awareness. However, the experiential level of human awareness is only beginning to be integrated into healthcare innovations.
 
 ````{admonition} Watch this TED talk from Yongey Mingyur Rinpoche. What is the experiential level of awareness? How do we connect with it?
 ```{raw} html
