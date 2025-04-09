@@ -8,8 +8,13 @@
 </center>
 <br>
 
+<<<<<<< Updated upstream
 ## Why do we need to innovate healthcare innovation through entrepreneurial behavior?
 Healthcare is a sector that is constantly evolving, with daily innovations transforming the way we provide and receive care. However, despite this continuous stream of new ideas and technologies, the innovation process in healthcare is often flawed ([Collins et al., 2023](#collins)). Some innovations with great potential are never realized, while others, which are clearly not beneficial for the user and sometimes not sustainable, such as electronic medical records, are implemented. This raises the question: what is going wrong in the healthcare innovation process?
+=======
+## Why do we need to innovate healthcare through entrepreneurial behavior?
+Healthcare is a sector that is constantly evolving, with daily innovations transforming the way we provide and receive care. However, despite this continuous stream of new ideas and technologies, the innovation process in healthcare is often flawed (ADD REF: Collins, J., van Dijk, H., & Smeets, R. (2023). Why pilot projects fail: Understanding the gap between testing and scaling in healthcare innovation. Journal of Health Innovation, 6(1), 12-24). Some innovations with great potential are never realized, while others, which are clearly not beneficial for the user and sometimes not sustainable, such as electronic medical records, are implemented. This raises the question: what is going wrong in the healthcare innovation process?
+>>>>>>> Stashed changes
 
 In this book, we explore the core issues that hinder the innovation process in healthcare. We ask whether using entrepreneurial behaviors and healthcare management theories like design thinking, front-loading theory, and innovation theory could offer a solution. But it seems already all this knowledge is readily available and described in the scientific literature? So how come it is not used in practice? For instance, design thinking is in some ways already being used in healthcare, albeit not explicitly, so is it not being applied correctly?
 
@@ -50,9 +55,11 @@ Entrepreneurial behavior in healthcare is also implicitly present in the fields 
 Different Streams in entrepreneurial behavior (Wiljeana Glover, Bettina Maisch, Pieter Vandekerckhove)
 ```
 
-## Why focus on Patient-Centered Entrepreneurship?
+## Why value driven innnovation?
 
-Healthcare systems around the world are facing immense pressure to become more resilient due to unprecedented challenges. The COVID-19 pandemic has had a significant impact, and additional demands from demographic changes and technological advancements are adding to the strain. To effectively address these pressures and innovate effectively, we need information from various stakeholders. We are collecting information about health spending, financing, clinical quality, and safety of care, but we are still missing a crucial voice of patients. Ultimately this results in the insights from patients remaining tacit in health practice, recorded in self-reported outcomes or narratives and stories. They don't make it to care practice, as we are not aware how to effectively drive their insights from an idea to an integrated sustainable patient-driven solution.
+Healthcare systems around the world are facing immense pressure to become more resilient due to unprecedented challenges. The COVID-19 pandemic has had a significant impact, and additional demands from demographic changes and technological advancements are adding to the strain. To effectively address these pressures and innovate effectively, we need information from various stakeholders. We need to collaborate with stakeholders from bottom-up.
+
+We are collecting information about health spending, financing, clinical quality, and safety of care, but we are still missing a crucial voice of patients. Ultimately this results in the insights from patients remaining tacit in health practice, recorded in self-reported outcomes or narratives and stories. They don't make it to care practice, as we are not aware how to effectively drive their insights from an idea to an integrated sustainable patient-driven solution.
 
 Patient-centered care is not new, however patient-centered entrepreneurship focusing on the innovation process is new. It focuses on the transdisciplenary processes to deliver that patient-centered care, which has always been argued to be essential in healthcare. The challenge we face today is ensuring that healthcare services and innovations truly deliver their promised value to patients. Despite the focus on patient-centered care, many health services and innovations ultimately fail to meet patients' needs and expectations.
 

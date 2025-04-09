@@ -1,9 +1,9 @@
-# The value driven healthcare innovation cycle: An introduction (DRAFT VERSION)
+# Value innovation in health healthcare: An introduction (DRAFT VERSION)
 
 ```{figure} ../figures/Copilot3.jpeg
 :name: figure-example
 ```
-**Pieter Bart Marcel Vandekerckhove, Bettina Maisch, Steven Howard, Frido Smulders, Benjamin Harris, Samuel Harris, Christophe Van Neste, Wiljeana Glover**
+**Authors: Pieter Bart Marcel Vandekerckhove, Bettina Maisch, Steven Howard, Frido Smulders, Benjamin Harris, Samuel Harris, Christophe Van Neste, Wiljeana Glover**
 
 For licensing and credits see: see how to cite an use this open interactive handbook (see Credits and license  chapter)
 ## Preface
