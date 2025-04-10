@@ -8,19 +8,9 @@
 </center>
 <br>
 
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-## Why do we need to innovate healthcare innovation through entrepreneurial behavior?
-Healthcare is a sector that is constantly evolving, with daily innovations transforming the way we provide and receive care. However, despite this continuous stream of new ideas and technologies, the innovation process in healthcare is often flawed ([Collins et al., 2023](#collins)). Some innovations with great potential are never realized, while others, which are clearly not beneficial for the user and sometimes not sustainable, such as electronic medical records, are implemented. This raises the question: what is going wrong in the healthcare innovation process?
-=======
-=======
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
+
 ## Why do we need to innovate healthcare through entrepreneurial behavior?
-Healthcare is a sector that is constantly evolving, with daily innovations transforming the way we provide and receive care. However, despite this continuous stream of new ideas and technologies, the innovation process in healthcare is often flawed (ADD REF: Collins, J., van Dijk, H., & Smeets, R. (2023). Why pilot projects fail: Understanding the gap between testing and scaling in healthcare innovation. Journal of Health Innovation, 6(1), 12-24). Some innovations with great potential are never realized, while others, which are clearly not beneficial for the user and sometimes not sustainable, such as electronic medical records, are implemented. This raises the question: what is going wrong in the healthcare innovation process?
->>>>>>> Stashed changes
+Healthcare is a sector that is constantly evolving, with daily innovations transforming the way we provide and receive care. However, despite this continuous stream of new ideas and technologies, the innovation process in healthcare is often flawed ([Collins et al., 2023](#collins)). Some innovations with great potential are never realized, while others, which are clearly not beneficial for the user and sometimes not sustainable, such as electronic medical records, are implemented. This raises the question: what is going wrong in the healthcare innovation process?
 
 In this book, we explore the core issues that hinder the innovation process in healthcare. We ask whether using entrepreneurial behaviors and healthcare management theories like design thinking, front-loading theory, and innovation theory could offer a solution. But it seems already all this knowledge is readily available and described in the scientific literature? So how come it is not used in practice? For instance, design thinking is in some ways already being used in healthcare, albeit not explicitly, so is it not being applied correctly?
 
