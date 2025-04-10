@@ -1,4 +1,4 @@
-# Value innovation in health healthcare: An introduction (DRAFT VERSION)
+# Value innovation in healthcare: An introduction (DRAFT VERSION)
 
 ```{figure} ../figures/Copilot3.jpeg
 :name: figure-example
