@@ -238,9 +238,7 @@ dr. Sascha Verbruggen
 Clinician-turned entrepreneur
 (Add Wiljeana glover article)
 
-ADD REF 
-
-Hoang, H., & Perkmann, M. (2023). Physician entrepreneurship: A study of early career physicians’ founding motivations and actions. Social Science & Medicine, 339, 116393. https://doi.org/10.1016/j.socscimed.2023.116393
+[Hoang & Perkmann (2023)](#HoangPerkmann2023)
 
 #### Research perspective
 iCell fundamental researchers insights in biotech (combining insights from genetic insights and lab insights)
@@ -344,10 +342,9 @@ Data analysis table-Pieter Vandekerckhove
 			
 For more in depth research: to properly analyse the data you can use coding software like Atlas.ti or ENVIVO and more recently there are also experimental generative AI or automation tools to transcribe interviews and analyze them. This is what a startup focused on called Qaring (folded). 
 
-For methodological guidance see:
-Guest G, Bunce A, Johnson L (2006) How Many Interviews Are Enough?: An Experiment with Data Saturation and Variability. Field Methods 18:59–82
- 
-Clarke, V., & Braun, V. (2017). Thematic analysis. The journal of positive psychology, 12(3), 297-298.
+For methodological guidance see: [Guest, Bunce & Johnson (2006)](#Guest2006)
+
+[Clarke & Braun (2017)](#ClarkeBraun2017)
  
 
 
@@ -479,9 +476,6 @@ Based on the customer profile, you can create one or more personas that represen
 
 6. **Visual Representation**: Feel free to sketch or draw the persona and the scenarios where they experience the need. This visual representation can include a timeline of their day (customer journey) and the specific moments when the problem occurs.
 
-###### References
-
-- **Book Chapter**: Chen & Liu (2015). Personas: a powerful tool for designers. In M. G. Luchs, K. S. Swan, & A. Griffin (Eds.), Design thinking: new product development essentials from the PDMA (pp. 107–124). Hoboken, NJ: John Wiley & Sons, Ltd.
 
 ###### Example of a Persona
 
@@ -533,7 +527,7 @@ After you have identified a key touchpoint the aim is to brainstorm further in a
 Brainstorming is a creative process where team members generate a multitude of ideas in a short period. The goal is to tap into the collective intelligence of the group, fostering an environment where creativity thrives, and judgment is temporarily suspended. This allows for a free flow of ideas, which can later be evaluated and refined.
 
 **The Importance of Mindset in Brainstorming**
-In healthcare entrepreneurship, the mindset is crucial. Unlike other fields, healthcare entrepreneurs must navigate complex regulatory environments, ethical considerations, and the high stakes of patient outcomes. This requires a unique blend of creativity, resilience, and empathy. The C-space conceptual space,(REF CHAPTER STAKEHOLDERS), is where innovative ideas are born. It involves thinking beyond conventional boundaries and exploring uncharted territories.
+In healthcare entrepreneurship, the mindset is crucial. Unlike other fields, healthcare entrepreneurs must navigate complex regulatory environments, ethical considerations, and the high stakes of patient outcomes. This requires a unique blend of creativity, resilience, and empathy. The C-space conceptual space, ([Chapter 3](04_stakeholders.md)), is where innovative ideas are born. It involves thinking beyond conventional boundaries and exploring uncharted territories.
 
 **Key Elements of Effective Brainstorming:**
 
@@ -744,7 +738,8 @@ Your business model will be constantly in development. That is normal, especiall
 3. **Resource Identification**: Identify the materials, laboratory facilities, staff, and production and logistics chain needed for prototyping. Ensure you have access to these resources.
 
 ### Validation and Feedback strategy
-1. **Early in Practice Validation**: Begin with simple validation steps to test your prototypes. For example, you can try a feasibility study similar to the one conducted by Rolbiecki et al. (2023), which combined virtual reality and neurofeedback for the management of cancer symptoms. This study demonstrated the potential of innovative approaches in healthcare and provided valuable insights into the feasibility of such interventions.
+1. **Early in Practice Validation**: Begin with simple validation steps to test your prototypes. For example, you can try a feasibility study similar to the one conducted by [Rolbiecki et al. (2023)](#Rolbiecki2023)
+, which combined virtual reality and neurofeedback for the management of cancer symptoms. This study demonstrated the potential of innovative approaches in healthcare and provided valuable insights into the feasibility of such interventions.
 2. **Early HTA and Evidence Gathering**: Develop a strategy for early Health Technology Assessment (HTA) and evidence gathering. This involves evaluating the clinical and economic impact of your prototypes. Implement a prototyping evaluation strategy and a clinical evaluation strategy to gather robust evidence supporting your innovation. This step is crucial for gaining market access and ensuring regulatory compliance.
 
 ### Multi-Stakeholder Assessment strategy
@@ -766,11 +761,6 @@ Look for creative places in your organization, like the Create4Care lab at Erasm
 
 ### Master/Graduate Level Innovation Pathway
 Outline the key hypothesis for your project. Define the problem and the proposed solution. Identify potential risks and develop a risk mitigation strategy. 
-
-### Bibliography
-- Rolbiecki, A. J., Craig, K., Polniak, M., Smith, J., Ghosh, P., & Mehr, D. R. (2023). Virtual reality and neurofeedback for Management of Cancer Symptoms: a feasibility pilot. American Journal of Hospice and Palliative Medicine®, 40(3), 291-298.
-
-
 
 
 
@@ -878,5 +868,14 @@ How would you develop a strategy to integrate your innovation into the organizat
 | **Graduate Assessment: Reflection on a Comprehensive Innovation Strategy to Resolve a Healthcare Challenge** | Superficial reflection, limited connection to project phases and learning goals. Demonstrates limited understanding of the innovation strategy and lacks critical thinking. Reflection lacks depth and critical analysis. Limited connection to the project phases and learning goals. Superficial discussion of the strategies and outcomes. Deliverables: Provide a scientific discussion to support the strategy for the five phases of the basic innovation cycle. | Basic reflection, adequate connection to project phases and learning goals. Demonstrates satisfactory understanding of the innovation strategy with basic critical thinking. Reflection provides basic analysis and connection to the project phases and learning goals. Adequate discussion of the strategies and outcomes. Some critical insights but lacks depth. Deliverables: Provide a scientific discussion to support the strategy for the five phases of the basic innovation cycle. | Comprehensive reflection, strong connection to project phases and learning goals, scientific discussion to support strategy for five phases of basic innovation cycle. Demonstrates deep understanding of the innovation strategy with thorough critical thinking. Reflection provides comprehensive and insightful analysis. Strong connection to the project phases and learning goals. Detailed and critical discussion of the strategies and outcomes. Provides a scientific discussion to support the strategy for the five phases of the basic innovation cycle. Deliverables: Provide a scientific discussion to support the strategy for the five phases of the basic innovation cycle. |
 
 
+```{admonition} Bibliography
+:class: note 
 
-## Bibliography
+- <span id="HoangPerkmann2023"></span> **Hoang, H., & Perkmann, M. (2023).** Physician entrepreneurship: A study of early career physicians’ founding motivations and actions. *Social Science & Medicine*, 339, 116393. [https://doi.org/10.1016/j.socscimed.2023.116393](https://doi.org/10.1016/j.socscimed.2023.116393).
+- <span id="Guest2006"></span> **Guest, G., Bunce, A., & Johnson, L. (2006).** How Many Interviews Are Enough?: An Experiment with Data Saturation and Variability. *Field Methods*, 18, 59–82.
+- <span id="ClarkeBraun2017"></span> **Clarke, V., & Braun, V. (2017).** Thematic analysis. *The Journal of Positive Psychology*, 12(3), 297-298.
+- <span id="ChenLiu2015"></span> **Chen, H., & Liu, Y. (2015).** Personas: a powerful tool for designers. In M. G. Luchs, K. S. Swan, & A. Griffin (Eds.), *Design thinking: new product development essentials from the PDMA* (pp. 107–124). Hoboken, NJ: John Wiley & Sons, Ltd.
+- <span id="Rolbiecki2023"></span> **Rolbiecki, A. J., Craig, K., Polniak, M., Smith, J., Ghosh, P., & Mehr, D. R. (2023).** *Virtual reality and neurofeedback for Management of Cancer Symptoms: a feasibility pilot*. *American Journal of Hospice and Palliative Medicine®*, 40(3), 291-298.
+
+
+
