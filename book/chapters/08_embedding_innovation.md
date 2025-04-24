@@ -60,11 +60,11 @@ TA Change to case study format: Use national organizations: case from Dutch AYA 
 
 
 ## Orchestrating dedicated fuzzy conceptual spaces in a rigid knowledge organization
-In a healthcare organizations, many different stakeholders, like care professionals are often implicly being creative. Creativity is situated and a living thing as dr. Milene Goncalves describes (see Cascini, G., Nagai, Y., Georgiev, G. V., Zelaya, J., Becattini, N., Boujut, J. F., ... & Wodehouse, A. (2022). Perspectives on design creativity and innovation research: 10 years later. International Journal of Design Creativity and Innovation, 10(1), 1-30.). For example creativity is situated in care organizations as care professionals often need to look for the best treatment for the patient. Yet, often the problem is not clear and there are multiple possible diagnoses and not one treatment. In a way, it requires them often, albeit very briefly, to be creative and collaborate and share ideas, often in multidiscplenary team meetings. However, to innovate, one needs to enlarge that space and find ways to incorporate that innovative thinking more in the organization. If creativity could exist in Type 1 (quick ideas) and Type 2 (refinement and judgement), Goncalves and Cash propose that it could be better to have more iterations of the quick ideas and come up with better ideas (ADD REF Gonçalves, M., & Cash, P. (2021). The life cycle of creative ideas: Towards a dual-process theory of ideation. Design Studies, 72, 100988.). If one is aware of these tendencies in practice, it can help to develop better ideas.
+In a healthcare organizations, many different stakeholders, like care professionals are often implicly being creative. Creativity is situated and a living thing as dr. Milene Goncalves describes (see [Cascini et al., 2022](#Cascini2022)). For example creativity is situated in care organizations as care professionals often need to look for the best treatment for the patient. Yet, often the problem is not clear and there are multiple possible diagnoses and not one treatment. In a way, it requires them often, albeit very briefly, to be creative and collaborate and share ideas, often in multidiscplenary team meetings. However, to innovate, one needs to enlarge that space and find ways to incorporate that innovative thinking more in the organization. If creativity could exist in Type 1 (quick ideas) and Type 2 (refinement and judgement), Goncalves and Cash propose that it could be better to have more iterations of the quick ideas and come up with better ideas ([Gonçalves & Cash, 2021](#Goncalves2021)). If one is aware of these tendencies in practice, it can help to develop better ideas.
 
-Yet, creating that space and time in a safe way in a complex regulated organization is challenging. From a theoretical point of view the organization must make space to think beyond the existing knowledge. That means, moving from a knowledge space to a conceptual space as Hatchuel and Weil have described (REF Hatchuel, A., & Weil, B. (2003). A new approach of innovative Design: an introduction to CK theory. In DS 31: Proceedings of ICED 03, the 14th International Conference on Engineering Design, Stockholm.) 
+Yet, creating that space and time in a safe way in a complex regulated organization is challenging. From a theoretical point of view the organization must make space to think beyond the existing knowledge. That means, moving from a knowledge space to a conceptual space as Hatchuel and Weil have described ([Hatchuel & Weil, 2003](#Hatchuel2003)). 
 
-Leading health care organizations have developed an innovation spaces to experiment with new ideas outside their usual operational scope. For instance, Mayo Clinic’s Center for Innovation fosters design-driven healthcare improvements (TA Change APA REF [Yale Insights](https://insights.som.yale.edu/insights/can-design-thinking-reshape-an-esteemed-institution)). Erasmus Medical Centre has a special unit Create4Care where you can walk-in and prototype your idea and they also are growing their hospital based incubater and validation program. (ADD KEY REF). The Munich University Hospital uses a simulation space:
+Leading health care organizations have developed an innovation spaces to experiment with new ideas outside their usual operational scope. For instance, Mayo Clinic’s Center for Innovation fosters design-driven healthcare improvements ([Yale Insights, n.d.](#YaleInsights)). Erasmus Medical Centre has a special unit Create4Care where you can walk-in and prototype your idea and they also are growing their hospital based incubater and validation program. (ADD KEY REF). The Munich University Hospital uses a simulation space:
 
 ````{admonition} Watch the video by dr. Marc Lazarovici
 ```{video} https://www.youtube.com/embed/KdoySkQ7kBM?si=xZmJD_ExsyjBL0e4
@@ -72,7 +72,8 @@ Leading health care organizations have developed an innovation spaces to experim
 ````
 
 
-Some hospitals also apply these design thinking principles actively, Kaiser Permanente applies human-centered design to improve patient experiences and streamline care deliverythe specialized Rotterdam Eye Hospital also witnessed the changes of using design thinking to understand the human perspective and the personal connection to improve health care experiences (ADD REF Deichmann, D., & Van der Heijde, R. (2017). How design thinking is improving patient-caregiver conversations. Harvard Business Review.).(add also REF Roel van der Heijde https://roelrotterdam.nl/blog/how-design-thinking-is-improving-patient-caregiver-conversations/)
+Some hospitals also apply these design thinking principles actively, Kaiser Permanente applies human-centered design to improve patient experiences and streamline care deliverythe specialized Rotterdam Eye Hospital also witnessed the changes of using design thinking to understand the human perspective and the personal connection to improve health care experiences ([Deichmann & Van der Heijde, 2017](#Deichmann2017)
+; [Roel van der Heijde, n.d.](#RoelHeijde)).
 
  By embedding innovation teams within their operations, they ensure that new ideas are tested and implemented in real-world healthcare settings. However, tensions often arise between care professionals focused on traditional medical practice and those who take a more entrepreneurial or design-oriented approach. Tim Brown (IDEO) and dr. Nicholas LaRusso (Mayo Clinic) highlight the importance of bridging science, design, and healthcare through design thinking.
 
@@ -84,9 +85,10 @@ Some hospitals also apply these design thinking principles actively, Kaiser Perm
 ````
 What are the key challenges discussed in the video for healthcare organizations to use design thinking?
 
-But, how do that on an individual level? It may just be worthwile to have people do a small meditation exercise to become more creative. (see REF Schootstra, E., Deichmann, D., & Dolgova, E. (2017). Can 10 minutes of meditation make you more creative. Harvard Business Review.). For further reading see: Goleman, D., & Davidson, R. J. (2018). Altered traits: Science reveals how meditation changes your mind, brain, and body. Penguin.
+But, how do that on an individual level? It may just be worthwile to have people do a small meditation exercise to become more creative ([Schootstra, Deichmann, & Dolgova, 2017](#Schootstra2017)). For further reading see: 
+[Goleman & Davidson (2018)](#GolemanDavidson2018).
 
-For further reading about the advantages of mediation on creativity and awareness, see Goleman, D., & Davidson, R. J. (2018). Altered traits: Science reveals how meditation changes your mind, brain, and body. Penguin.
+For further reading about the advantages of mediation on creativity and awareness, see [Goleman & Davidson (2018)](#GolemanDavidson2018).
 
 What strategies would you use in your organization to create a safe space to innovate?
 
@@ -112,9 +114,7 @@ Healthcare organizations are often hierarchical, heavily regulated, and accustom
 - **Aligning with Leadership** – Securing buy-in from executives and department heads.
 
 ## Look for change leaders to champion your quest
-Once key individuals are identified, assessing their personalities and motivations is essential to identify early partners or leaders of cha
-
-nge in the organizaiton (see NEJM Catalyst ref on leading by example). Resources such as *Healthcare by Design: A User’s Guide to Healthcare Improvement* (Barry Katz et al., 2025) provide tools looking for like-minded people with the right characteristics for healthcare innovation.
+Once key individuals are identified, assessing their personalities and motivations is essential to identify early partners or leaders of change in the organizaiton (see NEJM Catalyst ref on leading by example). Resources such as *Healthcare by Design: A User’s Guide to Healthcare Improvement* ([Barry Katz et al., 2025 ](#Katz2025)) provide tools looking for like-minded people with the right characteristics for healthcare innovation.
 
 
 https://www.dropbox.com/scl/fi/kf1qftr0dn2qlsheudf4p/Discovery-Design-Worksheets_Future-Medical-Systems.pdf?rlkey=444vtb5yubxg0099oz25m2kdq&e=2&dl=0
@@ -129,13 +129,14 @@ Discovery Design Mindsets, A Tool for Reflection Individually/Team(Katz et al., 
 
 ## Communication and pitching your idea to different people in the organization
 
-Explaining the innovation mission to various stakeholders requires tailored communication strategies. Given the complex social dynamics of healthcare, innovators need sufficient resources to facilitate discussions and integrate new ideas into existing frameworks. Research suggests that fostering collaborative communication is key to successful implementation ([Smulders, Lousberg, & Dorst, 2008](https://doi.org/10.1108/17538370810883819)).
+Explaining the innovation mission to various stakeholders requires tailored communication strategies. Given the complex social dynamics of healthcare, innovators need sufficient resources to facilitate discussions and integrate new ideas into existing frameworks. Research suggests that fostering collaborative communication is key to successful implementation ([Smulders, Lousberg, & Dorst, 2008](#Smulders2008)).
 
 Different people in the organization will have different incentives to focus on innovation and changes next to their core activities. That is why it is crucial to use those 20 seconds or 1 minute ot your maximum advantage. Try to come across in a professional way. Try to practice your pitch with people or sign up with the Toastmasters platform https://www.toastmasters.org/ and join a club and you can even gain free access to a **generative AI tool Yoodli that analyzes your pitch: https://www.toastmasters.org/myhome/welcome-to-yoodli
 **
 
 ```{tip}
-Get the buy-in from the start: case study AYA Food for Care initiative needed more buy-in from management and a solid business plan: ADD REF Vandekerckhove, P., De Mul, M., De Groot, L., Elzevier, H. W., Fabels, B., Haj Mohammad, S., ... & Manten-Horst, E. (2021). Lessons for employing participatory design when developing care for young people with cancer: A qualitative multiple-case study. Journal of Adolescent and Young Adult Oncology, 10(4), 404-417.
+Get the buy-in from the start: case study AYA Food for Care initiative needed more buy-in from management and a solid business plan: [Vandekerckhove et al., (2021)](#Vandekerckhove2021)
+.
 ```
 
 case from design? box Maaike chronic diseaese management?
@@ -244,7 +245,26 @@ Develop an innovation pathway strategy report which presents convincing argument
 Master/graduate level: 
 * Develop an innovation pathway for your project, whereby you outline the key hypothesis, the risks and a risk mitigation strategy. Include that in a deck full report following the structure of basic innovation cycle to present this to the key decision makers (heads of departments, boards)
 ```
-## Bibliography
-- Barry Katz et al. (2025). *Healthcare by Design: A User’s Guide to Healthcare Improvement*.
-- Smulders, F., Lousberg, L., & Dorst, K. (2008). Towards different communication in collaborative design. International Journal of Managing Projects in Business, 1(3), 352–367. https://doi.org/10.1108/17538370810883819
-- Yale Insights. (n.d.). *Can Design Thinking Reshape an Esteemed Institution?* [Yale Insights](https://insights.som.yale.edu/insights/can-design-thinking-reshape-an-esteemed-institution).
+
+
+```{admonition} Bibliography
+:class: note 
+
+- <span id="Cascini2022"></span> **Cascini, G., Nagai, Y., Georgiev, G. V., Zelaya, J., Becattini, N., Boujut, J. F., … & Wodehouse, A. (2022).** Perspectives on design creativity and innovation research: 10 years later. *International Journal of Design Creativity and Innovation, 10*(1), 1–30.  
+- <span id="Goncalves2021"></span> **Gonçalves, M., & Cash, P. (2021).** The life cycle of creative ideas: Towards a dual-process theory of ideation. *Design Studies, 72*, 100988. 
+- <span id="Hatchuel2003"></span> **Hatchuel, A., & Weil, B. (2003).** A new approach of innovative Design: an introduction to CK theory. In *DS 31: Proceedings of ICED 03, the 14th International Conference on Engineering Design, Stockholm*.
+- <span id="YaleInsights"></span> **Yale Insights. (n.d.).** *Can Design Thinking Reshape an Esteemed Institution?* [Yale Insights](https://insights.som.yale.edu/insights/can-design-thinking-reshape-an-esteemed-institution).
+- <span id="Deichmann2017"></span> **Deichmann, D., & Van der Heijde, R. (2017).** *How design thinking is improving patient-caregiver conversations.* *Harvard Business Review*.
+- <span id="RoelHeijde"></span> **Roel van der Heijde. (n.d.).** *How design thinking is improving patient-caregiver conversations.* Retrieved from https://roelrotterdam.nl/blog/how-design-thinking-is-improving-patient-caregiver-conversations/
+- <span id="Schootstra2017"></span> **Schootstra, E., Deichmann, D., & Dolgova, E. (2017).** *Can 10 minutes of meditation make you more creative?* *Harvard Business Review*.
+- <span id="GolemanDavidson2018"></span> **Goleman, D., & Davidson, R. J. (2018).** *Altered traits: Science reveals how meditation changes your mind, brain, and body.* Penguin.
+- <span id="Katz2025"></span> **Katz, B., et al. (2025).** *Healthcare by Design: A User’s Guide to Healthcare Improvement*.
+- <span id="Smulders2008"></span> **Smulders, F., Lousberg, L., & Dorst, K. (2008).** *Towards different communication in collaborative design.* *International Journal of Managing Projects in Business*, 1(3), 352–367. https://doi.org/10.1108/17538370810883819.
+- <span id="Vandekerckhove2021"></span> **Vandekerckhove, P., De Mul, M., De Groot, L., Elzevier, H. W., Fabels, B., Haj Mohammad, S., ... & Manten-Horst, E. (2021).** *Lessons for employing participatory design when developing care for young people with cancer: A qualitative multiple-case study.* *Journal of Adolescent and Young Adult Oncology*, 10(4), 404-417.
+
+
+
+
+
+ 
+

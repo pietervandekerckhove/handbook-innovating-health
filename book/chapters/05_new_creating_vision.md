@@ -81,7 +81,7 @@ One way to develop your vision about the future of healthcare is to develop a st
 
 * Identify Core Ethical Values: Reflect on what matters most to you—equity, sustainability, patient empowerment, or accessibility?
 
-Sometimes digital technologies create ethical conflicts for example new AI tools may increase access to care, but increase inequality between different users of this technology. (ADD REF) Glover, W., Renton, M., Minaye, H., & Dabiri, O. (2025). Assessing Equitable Development and Implementation of Artificial Intelligence-Enabled Patient Engagement Technologies: A Sociotechnical Systems Approach. Mayo Clinic Proceedings: Digital Health, 3(1), 100192.
+Sometimes digital technologies create ethical conflicts for example new AI tools may increase access to care, but increase inequality between different users of this technology ([Glover et al., 2025](#glover2025)).
 
 * Observe Current Healthcare Challenges: What problems do you want to solve? What gaps exist in the current system?
 
@@ -93,7 +93,7 @@ Use Storytelling: A compelling vision is often best communicated through narrati
 
 **Sci-Fi Storyline Mapping Exercise by Lavinia Marin**
 
-A creative way to develop and refine your healthcare vision is through Sci-Fi storyline mapping. This method, developed by Lavinia Marin (TU Delft) & Gitte van Helden (TU Delft), encourages thinking about the future of healthcare through speculative fiction. It allows innovators to anticipate challenges, ethical dilemmas, and societal transformations that may arise.
+A creative way to develop and refine your healthcare vision is through Sci-Fi storyline mapping. This method, developed by Lavinia Marin (TU Delft) & Gitte van Helden (TU Delft) ([Marin & van Helden, 2025](#marin2025)), encourages thinking about the future of healthcare through speculative fiction. It allows innovators to anticipate challenges, ethical dilemmas, and societal transformations that may arise.
 
 **How to Use the Sci-Fi Storyline Mapping Exercise:**
 
@@ -149,5 +149,10 @@ A clear vision serves as the foundation for innovation in healthcare. By underst
 Usa a vision to focus your research + develop need statement 
 ```
 
-Bibliography
-REFERENCE: Lavinia Marin (TU Delft) & Gitte van Helden (TU Delft) https://edusources.nl/materials/eee79e8a-5456-403d-9e5d-fba2f9686f72/sci-fi-storyline-mapping-starting-from-writing-prompts?tab=0. 
+
+```{admonition} Bibliography
+:class: note 
+
+- <span id="glover2025"></span> **Glover, W., Renton, M., Minaye, H., & Dabiri, O. (2025).** *Assessing equitable development and implementation of artificial intelligence-enabled patient engagement technologies: A sociotechnical systems approach*. Mayo Clinic Proceedings: Digital Health, 3(1), 100192.
+- <span id="marin2025"></span> **Marin, L., & van Helden, G. (2025).** *Sci-Fi storyline mapping starting from writing prompts*. Retrieved from https://edusources.nl/materials/eee79e8a-5456-403d-9e5d-fba2f9686f72/sci-fi-storyline-mapping-starting-from-writing-prompts
+

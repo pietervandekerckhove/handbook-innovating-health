@@ -15,7 +15,7 @@ Pathways to improve the health system play a critical role to move from concept 
 
 ## A macro perspective: the traditional Biomedical Innovation Pathway 
 
-The dominant biomedical innovation pathway follows a structured, often linear, process that includes fundamental research, preclinical development, clinical trials, regulatory approval, and market introduction. This pathway has been well-established for pharmaceuticals and medical devices, ensuring safety, efficacy, and compliance with strict regulatory standards. Key steps in this process can be seen in the USA health system described with Figure 1 of this JAMA article https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2820562.
+The dominant biomedical innovation pathway follows a structured, often linear, process that includes fundamental research, preclinical development, clinical trials, regulatory approval, and market introduction. This pathway has been well-established for pharmaceuticals and medical devices, ensuring safety, efficacy, and compliance with strict regulatory standards. Key steps in this process can be seen in the USA health system described with Figure 1 of this JAMA article [Sertkaya et al., 2024](#sertkaya2024).
 
 ```{figure} ../figures/stages_drug_dev-JAMA.png
 :height: 150px
@@ -56,7 +56,7 @@ What are the key considerations about pricing negotiations one needs to consider
 ````
 
 
-While this pathway has describes key steps on the macro level for traditional medical products, it does not always accommodate the complexities of emerging innovations such as software-driven interventions (e.g., digital therapeutics like Germany's DiGA framework (**ADD REF**)) or theranostics (e.g., diabetes management integrating biomarkers and digital drug delivery). 
+While this pathway has describes key steps on the macro level for traditional medical products, it does not always accommodate the complexities of emerging innovations such as software-driven interventions (e.g., digital therapeutics like Germany's DiGA framework ([BfArM, 2024](#diga2024))) or theranostics (e.g., diabetes management integrating biomarkers and digital drug delivery). 
 
 In Germany the new digital health assessment framework is an emerging step for digital health innovations.
 
@@ -66,7 +66,7 @@ In Germany the new digital health assessment framework is an emerging step for d
 ````
 
 ## Front-loading in biomedical pathways with early Health Technology assessment
-For strategic reasons, to front-load these concernsin the field of early Health Technology Assessment, has focused on how to reduce this risk early on. These new innovations demand more flexible, iterative innovation models. Ijzerman, Koffijberg, Fenwick, and Krahn (2017) emphasize the importance of early health technology assessment in medical product development, highlighting the need for more adaptive frameworks (PharmacoEconomics, 35(7), 727–740).
+For strategic reasons, to front-load these concernsin the field of early Health Technology Assessment, has focused on how to reduce this risk early on. These new innovations demand more flexible, iterative innovation models. Ijzerman, Koffijberg, Fenwick, and Krahn (2017) emphasize the importance of early health technology assessment in medical product development, highlighting the need for more adaptive frameworks ([Ijzerman et al., 2017](#ijzerman2017)).
 
 Next, we want to examine this pathway on a micro level at the level of individual behaviors to see how these look like.
 
@@ -81,7 +81,7 @@ Innovation in healthcare now extends beyond pharmaceuticals and medical devices 
 A stronger theoretical foundation is required examine innovation processes on an individual level, especially in terms of translating ideas into care practices. Healthcare innovators must ultimately be able to reshape systems to support the adoption and sustainability of novel solutions. 
 
 
-Compton-Phillips (2024) emphasizes the importance of care delivery innovation from care professionals in achieving this transformation. Underneath we will explore a few key theories one can use to help understand key dynamics in innovation pathways.  Ultimately it requires integrating service design principles, systems thinking, early health technology assessment, and implementation science. This can than develop frameworks that better support their healthcare innovations beyond traditional pharmaceutical and medtech pathway.
+[Compton-Phillips (2024)](#comptonphillips2024) emphasizes the importance of care delivery innovation from care professionals in achieving this transformation. Underneath we will explore a few key theories one can use to help understand key dynamics in innovation pathways.  Ultimately it requires integrating service design principles, systems thinking, early health technology assessment, and implementation science. This can than develop frameworks that better support their healthcare innovations beyond traditional pharmaceutical and medtech pathway.
 
 Underneath, we briefly describe these theoretical building blocks and later we will refer back to these theories to show how we applied them.
 
@@ -91,15 +91,15 @@ Often in entrepreneurship and design methods it is mentioned to map the relevant
 
 ### Why from the start? Front-Loading theory
 
- Front-loading theory emphasizes the importance of identifying key challenges early in the innovation process. Mapping potential bottlenecks—such as regulatory hurdles, sustainability concerns, workforce integration, and ethical considerations—at the outset allows for proactive problem-solving. Dolfsma, Eijk, and Mahdi (2022) highlight that investing effort and resources early can mitigate risks and improve overall success rates in medical technology innovation. This would result in key strategic choices that need to be made about the time to involve stakeholders, the choice of stakeholders and the way they are managed.
+ Front-loading theory emphasizes the importance of identifying key challenges early in the innovation process. Mapping potential bottlenecks—such as regulatory hurdles, sustainability concerns, workforce integration, and ethical considerations—at the outset allows for proactive problem-solving. [Dolfsma, Eijk, and Mahdi (2022)](#dolfsma2022) highlight that investing effort and resources early can mitigate risks and improve overall success rates in medical technology innovation. This would result in key strategic choices that need to be made about the time to involve stakeholders, the choice of stakeholders and the way they are managed.
 
 ### When to involve stakeholders? 
 
 #### A continuous and iterative strategy: 
-Circular innovation process: Problem-Solution Co-Evolution process (REF) (see also basic innovation cycle): Innovators should iteratively refine both the problem definition and the solution approach in response to emerging insights. Therefore it is important to be adaptive and be able to involve stakeholders on a continuous basis depending on the need of your innovation.
+Circular innovation process: Problem-Solution Co-Evolution process ([Crilly, 2021](#crilly2021); [Dorst, 2019](#dorst2019)) (see also basic innovation cycle): Innovators should iteratively refine both the problem definition and the solution approach in response to emerging insights. Therefore it is important to be adaptive and be able to involve stakeholders on a continuous basis depending on the need of your innovation.
 
 #### Depending on the innovation phase and aim: IDER Model: 
-Balancing the involvement of stakeholders with knowledge of upcoming bottlenecs from multiple development streams. The IDER model: Initiation, Design, Engineering, and Realization, proposed by Smulders (2022), challenges the notion of linear innovation pathways. Instead, it presents innovation as a set of interconnected, parallel processes that evolve dynamically. This approach acknowledges that various aspects of innovation (e.g., technological development, regulatory considerations, and market readiness) progress simultaneously rather than sequentially. Understanding this non-linear structure helps innovators navigate complex innovation ecosystems effectively.
+Balancing the involvement of stakeholders with knowledge of upcoming bottlenecs from multiple development streams. The IDER model: Initiation, Design, Engineering, and Realization, proposed by [Smulders (2022)](#smulders2022), challenges the notion of linear innovation pathways. Instead, it presents innovation as a set of interconnected, parallel processes that evolve dynamically. This approach acknowledges that various aspects of innovation (e.g., technological development, regulatory considerations, and market readiness) progress simultaneously rather than sequentially. Understanding this non-linear structure helps innovators navigate complex innovation ecosystems effectively.
 
 ```{figure} ../figures/IDER-Frido.png
 :height: 150px
@@ -109,29 +109,29 @@ Smulders, F. (2022). The IDER Model: Managing Parallel Processes in Innovation.
 ```
 
    
-For example: ethical and societal Considerations may seem like a problem for market access, in the Realisation stage, but it is relevant to address early on in the Initiation phase – Incorporating ethical principles early is important to get people to want to use a new technology and governments to invest in ti, as discussed by Jeroen van den Hoven and Stefan Buijsman, ensures that innovations align with societal values and long-term sustainability (see WHO report on AI ethics: WHO AI Ethics Report and OpenWHO course: Ethics and AI).
+For example: ethical and societal Considerations may seem like a problem for market access, in the Realisation stage, but it is relevant to address early on in the Initiation phase – Incorporating ethical principles early is important to get people to want to use a new technology and governments to invest in ti, as discussed by [Jeroen van den Hoven (2021)](#denhoven2021) and Stefan Buijsman, ensures that innovations align with societal values and long-term sustainability (see WHO report on AI ethics: WHO AI Ethics Report and OpenWHO course: Ethics and AI ([WHO, 2022](#who2022))).
 
 
 ### Which stakeholders with what expertise and background?  
 
 #### A stakeholder recruitment and assembly strategy 
-(TA ADD REFS in APA from Stakeholder assembly procedure Vandekerckhove, P., Timmermans, J., de Bont, A., & de Mul, M. (2023). Diversity in stakeholder groups in generative co-design for digital health: assembly procedure and preliminary assessment. JMIR Human Factors, 10, e38350.)
 
-The stakeholder group assembly procedure amounts to the operationalization of the Sanders and Stappers [10] hypothesis that stakeholders with more diverse knowledge and ways of thinking could improve the GCD process. To involve stakeholders who meet these requirements in a GCD process, a procedure containing 3 steps was followed: snowball sampling, interviews, and assemblage of stakeholders (Figure 1).
+The stakeholder group assembly procedure amounts to the operationalization of the Sanders and Stappers hypothesis that stakeholders with more diverse knowledge and ways of thinking could improve the GCD process ([Sanders & Stappers, 2012](#sanders2012)
+). To involve stakeholders who meet these requirements in a GCD process, a procedure containing 3 steps was followed: snowball sampling, interviews, and assemblage of stakeholders (Figure 1).
 
 ##### 1. Snowball sampling
 
-First, to recruit people, one needs to identify those who are committed to addressing the problem at hand. It can be useful to sample stakeholders through relevant organizations, associations, or events [25,29]. This should help ensure their commitment to solving problems, as these people have directly or indirectly been exposed to the problems and are logically more motivated to develop a solution.
+First, to recruit people, one needs to identify those who are committed to addressing the problem at hand. It can be useful to sample stakeholders through relevant organizations, associations, or events ([Pirinen, 2016](#pirinen2016); [Vandekerckhove et al., 2021](#vandekerckhove2021)). This should help ensure their commitment to solving problems, as these people have directly or indirectly been exposed to the problems and are logically more motivated to develop a solution.
 
 ###### Choosing stakeholders based on your innovation strategy: 
 
-Herzlinger's Three Strategies, Herzlinger (2024) :
+Herzlinger's Three Strategies, [Herzlinger (2024)](#herzlinger2024):
    - Internal Development – Leveraging in-house expertise and infrastructure to refine innovation early.
    - Growth Driver Strategy – Partnering with healthcare institutions and regulatory bodies to ensure alignment with market and policy requirements.
    - External Collaboration – Engaging external stakeholders, such as academic institutions and technology firms, to integrate interdisciplinary knowledge and capabilities.
 
 ###### Managing diverse incentives and personal interests: 
-Different stakeholders, researchers, patient, managers and other experts have different incentives and personal interests. As a researcher, or manager of the innovation process you may be confronted with three different ethical challenges: (ADD REF Wittmayer, J. M., Huang, Y. S. E., Bogner, K., Boyle, E., Hölscher, K., von Wirth, T., ... & Vasques, A. (2024). Neither right nor wrong? Ethics of collaboration in transformative research for sustainable futures. Humanities and Social Sciences Communications, 11(1), 1-15.):
+Different stakeholders, researchers, patient, managers and other experts have different incentives and personal interests. As a researcher, or manager of the innovation process you may be confronted with three different ethical challenges ([Wittmayer et al., 2024](#wittmayer2024)):
 * Axiological: people may have a different view on the organizational change and innovation and the societal impact it may have, these are rooted in values about what is considered to be "good". A future where the patient is considered to be disrespected in a certain way during the innovation may not be considered "good" for certain stakeholders, depending on their values about integrity.
 * Ontological: the knowledge that is created can be used anywhere, some communities of patients may feel like people come in to ask their opinion and involvement, but they do not see the return and impact of the knowledge they helped to create
 * Epistemological: certain knowledge and methods may be preferred by a dominant research or innovation manager, without taking into account local practices, these may be cultural bound as well (e.g. global north vs global south in settings where some ways of establishing knowledge are considered to be better than others), this is an important issue as healthcare practice is often rooted in tacit knoweldge and cultural practice, which has been establisehd over decades.
@@ -141,7 +141,7 @@ It is important to map out multiple variables e.g. stakeholder jobs, personal in
 Healthcare organisations are very hierarchical and time pressured environments. This produces many changing dynamics between the stakeholders:
 
 * care professionals (caring, managing care process)
-* Patients (getting better, managing life simultaneously) (this is different from the biomedical paradigm, patients are considered to be humans: Whyte, M. B., Elias, R., & Cooke, D. (2024). Exploration of the social and philosophical underpinning of ‘the patient’—what this means for people with a long-term condition. Humanities and Social Sciences Communications, 11(1), 1-6.)
+* Patients (getting better, managing life simultaneously) (this is different from the biomedical paradigm, patients are considered to be humans: [Whyte et al., 2024](#whyte2024))
 * their families (helping patient)
 * Managers (operationalizing care processes, financial management)
 * industry parties (establishing relations, making profit)
@@ -149,11 +149,11 @@ Healthcare organisations are very hierarchical and time pressured environments. 
 
 There are different needs of the organization, personal interests, organizational goals and all these need to be seperated to come to a successful understanding and agreement to collaborate (https://www.pon.harvard.edu/daily/negotiation-skills-daily/principled-negotiation-focus-interests-create-value/). These factors create tension between stakeholders. 
 
-If you want to collaborate with these stakeholders and involve them and integrate their views representing some parts of the STPSS, one needs te be aware of these challenges. (ADD REF Verkijk, C., Tabeau, K., Ahaus, K., Gielen, M., de Wit, M. C., & van Veelen-Vincent, M. L. (2024). The challenges of involving child-patients in the development of a mobile application for their participation in pediatric brain care.) 
+If you want to collaborate with these stakeholders and involve them and integrate their views representing some parts of the STPSS, one needs te be aware of these challenges ([Verkijk et al., 2024](#verkijk2024)). 
 
 Therefore, given all these stakeholders there are different types of entrepreneurial activities needed to develop the new ideas and communicate them to the relevant stakeholder. 
 
-In the beginning one use the involvement of users (micro-level), on a higher level one needs to convince the management teams of the organization (meso-level) and at the system level one needs to look at the interaction of the organizations (macro level). (ADD REF Kulkov, I., Ivanova-Gongne, M., Bertello, A., Makkonen, H., Kulkova, J., Rohrbeck, R., & Ferraris, A. (2023). Technology entrepreneurship in healthcare: Challenges and opportunities for value creation. Journal of Innovation & Knowledge, 8(2), 100365.)
+In the beginning one use the involvement of users (micro-level), on a higher level one needs to convince the management teams of the organization (meso-level) and at the system level one needs to look at the interaction of the organizations (macro level) ([Kulkov et al., 2023](#kulkov2023)).
 
 
 ##### Where to find patients?
@@ -172,9 +172,12 @@ Include relevant stakeholders early on is crucial but highly depends on your net
 
 ##### 2. Interviews
 
-Second, individual interviews can be conducted to qualitatively assess the diversity of knowledge and ways of thinking of the potential members. To operationalize the term “knowledge,” we define 3 types of knowledge (Textbox 1) based on the work of Batens [30-32]. One key form of knowledge that is also defined in GCD research is the deeper-lying tacit knowledge [10], which we measure here as contextual certainties. In addition, there are methodological instructions and relevant statements. Each of these 3 types of knowledge was assessed during an interview on a scale of 0 to 3 (Table 1). Stakeholders with extensive knowledge regarding the relevant statements and contextual certainties will be given the maximum score (3); stakeholders who are uncertain are given a score of 2 and those who seemed to have little knowledge, or did not provide relevant information in the interview, were awarded lower scores (1 and 0, respectively).
+Second, individual interviews can be conducted to qualitatively assess the diversity of knowledge and ways of thinking of the potential members. To operationalize the term “knowledge,” we define 3 types of knowledge (Textbox 1) based on the work of Batens ([Batens, 1999](#batens1999); [Batens, 2004](#batens2004); [Batens, 2014](#batens2014)). One key form of knowledge that is also defined in GCD research is the deeper-lying tacit knowledge ([Sanders & Stappers, 2012](#sanders2012)), which we measure here as contextual certainties. In addition, there are methodological instructions and relevant statements. Each of these 3 types of knowledge was assessed during an interview on a scale of 0 to 3 (Table 1). Stakeholders with extensive knowledge regarding the relevant statements and contextual certainties will be given the maximum score (3); stakeholders who are uncertain are given a score of 2 and those who seemed to have little knowledge, or did not provide relevant information in the interview, were awarded lower scores (1 and 0, respectively).
 
-To operationalize the other component, “thinking,” we define 4 types of inferences, namely, induction, deduction, abduction-1, and abduction-2 (Textbox 1), as categorized initially by Peirce [33,37,38]. In particular, abduction-2 inferencing is expected to play an important role in the design process [33,38] and is typically attributed to how designers think. Previous experience with these types of inferences can be assessed during an interview by counting the number of times an inference is used (Table 1). Abduction-1 can be scored as the number of methodological instructions formulated as concrete solutions (eg, having an overview of one’s energy capacity after cancer treatment to continue work). Abduction-2 can be scored by looking at the use of generative heuristics as analogies or metaphors.
+To operationalize the other component, “thinking,” we define 4 types of inferences, namely, induction, deduction, abduction-1, and abduction-2 (Textbox 1), as categorized initially by Peirce (
+[Cramer-Petersen et al., 2019](#cramerpetersen2019); [Burch, 2022](#burch2022); 
+[Dorst, 2011](#dorst2011)). In particular, abduction-2 inferencing is expected to play an important role in the design process (
+[Cramer-Petersen et al., 2019](#cramerpetersen2019); [Dorst, 2011](#dorst2011)) and is typically attributed to how designers think. Previous experience with these types of inferences can be assessed during an interview by counting the number of times an inference is used (Table 1). Abduction-1 can be scored as the number of methodological instructions formulated as concrete solutions (eg, having an overview of one’s energy capacity after cancer treatment to continue work). Abduction-2 can be scored by looking at the use of generative heuristics as analogies or metaphors.
 
 ```{figure} ../figures/stakeholder-procedure.png
 :height: 150px
@@ -297,16 +300,13 @@ Third, after conducting the interviews and scoring the responses, a diverse stak
 
 This can be used to understand the importance of the mindset of stakeholders and which process the need to go through to develop a new idea in an organization. The theory also explains why it is important to involve certain stakeholders as experts from a knowledge domain and stakeholders with expertise in the conceptual domain.
 
-C-K theory introduced by Hatchuel and Weil, offers a unified design framework that distinguishes between the space of Concepts (C) and the space of Knowledge (K), modeling innovation as the co-expansion of these spaces. Unlike traditional problem-solving approaches, C-K theory defines design as the generation of new concepts that challenge and extend existing knowledge, rather than merely selecting optimal solutions. The framework identifies four key operators (C→K, K→C, C→C, K→K), forming a “design square” that captures the iterative and dynamic nature of innovation.  
-
-(ADD REF Hatchuel, A., & Weil, B. (2003). A new approach of innovative Design: an introduction to CK theory. In DS 31: Proceedings of ICED 03, the 14th International Conference on Engineering Design, Stockholm.)
-
+C-K theory introduced by Hatchuel and Weil ([Hatchuel & Weil, 2003](#hatchuel2003)), offers a unified design framework that distinguishes between the space of Concepts (C) and the space of Knowledge (K), modeling innovation as the co-expansion of these spaces. Unlike traditional problem-solving approaches, C-K theory defines design as the generation of new concepts that challenge and extend existing knowledge, rather than merely selecting optimal solutions. The framework identifies four key operators (C→K, K→C, C→C, K→K), forming a “design square” that captures the iterative and dynamic nature of innovation.  
 
 ```{figure} ../figures/dynamic-C-K-Theory.png
 :height: 350px
 :name: figure-example
 
-Hatchuel, A., & Weil, B. (2003). A new approach of innovative Design: an introduction to CK theory. In DS 31: Proceedings of ICED 03, the 14th International Conference on Engineering Design, Stockholm.)
+Hatchuel, A., & Weil, B. (2003). A new approach of innovative Design: an introduction to CK theory. In DS 31: Proceedings of ICED 03, the 14th International Conference on Engineering Design, Stockholm.
 ```
 
 The C-K theory helps one to move a team from a knowledge space domains, which are clear and decided into the uncertain and undecided conceptual domain. 
@@ -373,7 +373,8 @@ Conceptually one could use the Deweyan theory of inquiry to develop certain step
 Stompff, G., van Bruinessen, T., & Smulders, F. (2022). The generative dance of design inquiry: Exploring Dewey's pragmatism for design research. Design Studies, 83, 101136.
 ```
 
-This means that in an organization people need to be able to get outside of their routines and outside of their comfort zones. Bringing stakeholders together in a psychological safe space is quintessential. ADD Ref: Smulders, F. (2024). Design Creativity in the Belly of the Beast. Design Management Journal, 19(1), 128-140.
+This means that in an organization people need to be able to get outside of their routines and outside of their comfort zones. Bringing stakeholders together in a psychological safe space is quintessential ([Smulders, 2024](#smulders2024)
+). 
 
 ```{figure} ../figures/Frido-2024.png
 :height: 350px
@@ -384,7 +385,8 @@ Smulders, F. (2024). Design Creativity in the Belly of the Beast. Design Managem
 
 
 #### Integrating the knowledge of stakeholders: Generative co-design sessions
-In the field of human-centered design, Generative Co-Design (GCD) is considered to be especially promising as stakeholders are actively involved from the very beginning in the creation of products and services (Moore, Wilding, Gray, & Castle, 2019; Clemensen, Rothmann, Smith, Caffery, & Danbjorg, 2017; Sanders & Stappers, 2012; Langley, Wolstenholme, & Cooke, 2018; Bird et al., 2021). This approach ensures that their needs are taken into account. A key hypothesis is that involving stakeholders is crucial as they provide important knowledge about their needs, which would otherwise be overlooked. Therefore, several authors claim that since the needs of stakeholders are better expressed through a co-design process, they can be better addressed in digital health solutions. Examples of these solutions include user guidance, specific reminders, and personal tracking (Szinay, Jones, Chadborn, Brown, & Naughton, 2020; Steen, Manschot, & De Koning, 2011; Simonsen & Robertson, 2012; Trischler, Pervan, Kelly, & Scott, 2018).
+In the field of human-centered design, Generative Co-Design (GCD) is considered to be especially promising as stakeholders are actively involved from the very beginning in the creation of products and services ([Moore et al., 2019](#moore2019); [Clemensen et al., 2017](#clemensen2017); [Sanders & Stappers, 2012](#sanders2012); [Langley et al., 2018](#langley2018); [Bird et al., 2021](#bird2021)
+). This approach ensures that their needs are taken into account. A key hypothesis is that involving stakeholders is crucial as they provide important knowledge about their needs, which would otherwise be overlooked. Therefore, several authors claim that since the needs of stakeholders are better expressed through a co-design process, they can be better addressed in digital health solutions. Examples of these solutions include user guidance, specific reminders, and personal tracking ([Szinay et al., 2020](#szinay2020); [Steen et al., 2011](#steen2011); [Simonsen & Robertson, 2012](#simonsen2012); [Trischler et al., 2018](#trischler2018)).
 
 Generative co-design helps especially to make the knowledge of each stakeholder explicit and integrate it into the innovation process steps and ultimately in the solution.
 
@@ -438,7 +440,7 @@ Imagine a design team aiming to develop a new digital health platform for young 
    - Feedback from testing informs the next iteration. They discover, for instance, that users prefer video support groups over text-based forums, leading to further refinement and knowledge integration.
 
 By applying C-K theory in this way, the design team can effectively navigate the complexities and uncertainties of creating a health innovation tailored to young adults with cancer, ultimately developing a more impactful and user-centered solution.
-Research by Pieter Vandekerckhove highlights the transformative potential of generative co-design in healthcare, such as improving cardiology consultations through enhanced user experiences during the COVID-19 pandemic (Vandekerckhove et al., 2020). Generative co-design, as elaborated by Vandekerckhove et al. (2020) in their systematic literature review, is a participatory approach that involves users throughout the design process. This methodology ensures that the final product is shaped by the needs and preferences of its users, leading to more effective and user-friendly health interventions.
+Research by Pieter Vandekerckhove highlights the transformative potential of generative co-design in healthcare, such as improving cardiology consultations through enhanced user experiences during the COVID-19 pandemic ([Vandekerckhove et al., 2020](#vandekerckhove2020)). Generative co-design, as elaborated by Vandekerckhove et al. (2020) in their systematic literature review, is a participatory approach that involves users throughout the design process. This methodology ensures that the final product is shaped by the needs and preferences of its users, leading to more effective and user-friendly health interventions.
 
 
 ## Key insights from practitioners about collaboration to take into account upfront
@@ -499,33 +501,61 @@ Innovation pathways in healthcare are evolving to accommodate new technological 
 Define your challenge with stakeholder involvement strategy to front-load their knowledge
 ```
 
+```{admonition} Bibliography
+:class: note 
 
-TA check refs
+- <span id="sertkaya2024"></span> **Sertkaya, A., Beleche, T., Jessup, A., & Sommers, B. D. (2024).** *Costs of drug development and research and development intensity in the US, 2000–2018.* JAMA Network Open, 7(6), e2415445. [https://doi.org/10.1001/jamanetworkopen.2024.15445](https://doi.org/10.1001/jamanetworkopen.2024.15445)
+- <span id="ijzerman2017"></span> **Ijzerman, M. J., Koffijberg, H., Fenwick, E., & Krahn, M. (2017).** *Emerging Use of Early Health Technology Assessment in Medical Product Development: A Scoping Review of the Literature.* PharmacoEconomics, 35(7), 727–740. [https://doi.org/10.1007/S40273-017-0509-1](https://doi.org/10.1007/S40273-017-0509-1)
+- <span id="comptonphillips2024"></span> **Compton-Phillips, A. (2024).** *Care Delivery Innovation in Action.* NEJM Catalyst Innovations in Care Delivery, 5(4). 
+- <span id="dolfsma2022"></span> **Dolfsma, W., van der Eijk, R., & Mahdi, S. (2022).** *Front-Loading the Front-End of Innovation.* Journal of Modern Project Management, 10(1), 141–149. [https://doi.org/10.19255/JMPM02909](https://doi.org/10.19255/JMPM02909)
+- <span id="smulders2022"></span> **Smulders, F. (2022).** *The IDER Model: Managing Parallel Processes in Innovation.*
+- <span id="who2022"></span> **WHO (2022).** *Ethics and AI in Healthcare.* WHO Report.
+- <span id="sanders2012"></span> **Sanders, E. B., & Stappers, P. J. (2012).** *Convivial Toolbox: Generative Research for the Front End of Design.* Amsterdam, The Netherlands: BIS Publishers.
+- <span id="pirinen2016"></span> **Pirinen, A. (2016).** *The barriers and enablers of co-design for services.* International Journal of Design, 10(3), 27-42.
+- <span id="vandekerckhove2021"></span> **Vandekerckhove, P., de Mul, M., de Groot, L., Elzevier, H. W., Fabels, B., Haj Mohammad, S., et al. (2021).** *Lessons for employing participatory design when developing care for young people with cancer: a qualitative multiple-case study.* Journal of Adolescents & Young Adult Oncology, 10(4), 404-417.
+- <span id="herzlinger2024"></span> **Herzlinger, R. (2024).** *Strategic Partnerships in Healthcare Innovation.*
+- <span id="wittmayer2024"></span> **Wittmayer, J. M., Huang, Y. S. E., Bogner, K., Boyle, E., Hölscher, K., von Wirth, T., ... & Vasques, A. (2024).** *Neither right nor wrong? Ethics of collaboration in transformative research for sustainable futures.* Humanities and Social Sciences Communications, 11(1), 1-15.
+- <span id="whyte2024"></span> **Whyte, M. B., Elias, R., & Cooke, D. (2024).** *Exploration of the social and philosophical underpinning of ‘the patient’—what this means for people with a long-term condition.* Humanities and Social Sciences Communications, 11(1), 1-6.
+- <span id="verkijk2024"></span> **Verkijk, C., Tabeau, K., Ahaus, K., Gielen, M., de Wit, M. C., & van Veelen-Vincent, M. L. (2024).** *The challenges of involving child-patients in the development of a mobile application for their participation in pediatric brain care.* 
+- <span id="kulkov2023"></span> **Kulkov, I., Ivanova-Gongne, M., Bertello, A., Makkonen, H., Kulkova, J., Rohrbeck, R., & Ferraris, A. (2023).** *Technology entrepreneurship in healthcare: Challenges and opportunities for value creation.* Journal of Innovation & Knowledge, 8(2), 100365.
+- <span id="batens1999"></span> **Batens, D. (1999).** *Contextual problem solving and adaptive logics in creative processes.* Philosophica, 62(4), 7-32.
+- <span id="batens2004"></span> **Batens, D. (2004).** The need for adaptive logics in epistemology. In S. Rahman, J. Symons, D. M. Gabbay, & J. P. van Bendegem (Eds.), *Logic, Epistemology, and the Unity of Science* (pp. 459-485). Dordrecht, The Netherlands: Springer.
+- <span id="batens2014"></span> **Batens, D. (2014).** Adaptive logics as a necessary tool for relative rationality: Including a section on logical pluralism. In E. Weber, D. Wouters, & J. Meheus (Eds.), *Logic, Reasoning, and Rationality* (pp. 1-25). Dordrecht, The Netherlands: Springer.
+- <span id="hatchuel2003"></span> **Hatchuel, A., & Weil, B. (2003).** A new approach of innovative design: An introduction to CK theory. In *DS 31: Proceedings of ICED 03, the 14th International Conference on Engineering Design*, Stockholm.
+- <span id="smulders2024"></span> **Smulders, F. (2024).** Design creativity in the belly of the beast. *Design Management Journal, 19*(1), 128-140.
+- <span id="moore2019"></span> **Moore, G., Wilding, H., Gray, K., & Castle, D. (2019).** Participatory methods to engage health service users in the development of electronic health resources: Systematic review. *Journal of Participatory Medicine*. https://doi.org/10.2196/11474
+- <span id="clemensen2017"></span> **Clemensen, J., Rothmann, M. J., Smith, A. C., Caffery, L. J., & Danbjorg, D. B. (2017).** Participatory design methods in telemedicine research. *Journal of Telemedicine and Telecare*, 23(9), 780–785. https://doi.org/10.1177/1357633X16686747
+- <span id="sanders2012"></span> **Sanders, E., & Stappers, P. J. (2012).** *Convivial design toolbox: Generative research for the front end of design.* BIS. ISBN: 9063692846
+- <span id="langley2018"></span> **Langley, J., Wolstenholme, D., & Cooke, J. (2018).** “Collective making” as knowledge mobilisation: The contribution of participatory design in the co-creation of knowledge in healthcare. *BMC Health Services Research*, 18(1), 585. https://doi.org/10.1186/s12913-018-3397-y
+- <span id="bird2021"></span> **Bird, M., McGillion, M., Chambers, E. M., Dix, J., Fajardo, C. J., Gilmour, M., Levesque, K., Lim, A., Mierdel, S., Ouellette, C., Polanski, A. N., Reaume, S. V., Whitmore, C., & Carter, N. (2021).** A generative co-design framework for healthcare innovation: Development and application of an end-user engagement framework. *Research Involvement and Engagement*, 7(1), 1–12. https://doi.org/10.1186/s40900-021-00252-7/figures/1
+- <span id="szinay2020"></span> **Szinay, D., Jones, A., Chadborn, T., Brown, J., & Naughton, F. (2020).** Influences on the uptake of and engagement with health and well-being smartphone apps: Systematic review. *Journal of Medical Internet Research*, 22(5), e17572. https://www.jmir.org/2020/5/e17572. PMID: 32348255
+- <span id="steen2011"></span> **Steen, M., Manschot, M. A. J., & De Koning, N. (2011).** Benefits of co-design in service design projects. *International Journal of Design*, 5(2), 53-60. Chinese Institute of Design.
+- <span id="simonsen2012"></span> **Simonsen, J., & Robertson, T. (2012).** *Routledge International Handbook of Participatory Design*. Routledge. PMID: 17192055 ISBN: 9780203108543
+- <span id="trischler2018"></span> **Trischler, J., Pervan, S. J., Kelly, S. J., & Scott, D. R. (2018).** The value of codesign. *Journal of Service Research*, 21(1), 75–100. https://doi.org/10.1177/1094670517714060
+- <span id="diga2024"></span> **Federal Institute for Drugs and Medical Devices (BfArM). (2024).** *Digital Health Applications (DiGA).* Retrieved from https://www.bfarm.de/EN/Medical-devices/Tasks/DiGA-and-DiPA/Digital-Health-Applications/_node.html
+- <span id="crilly2021"></span> **Crilly, N. (2021).** The evolution of “Co-evolution” (Part I): Problem solving, problem finding, and their interaction in design and other creative practices. *She Ji: The Journal of Design, Economics, and Innovation, 7*(3), 309–332.
+- <span id="dorst2019"></span> **Dorst, K. (2019).** Co-evolution and emergence in design. *Design Studies, 65*, 60–77.
+- <span id="denhoven2021"></span> **Jeroen van den Hoven: World Health Organization. (2021).** *WHO issues first global report on Artificial Intelligence (AI) in health and six guiding principles for its design and use*. 
+- <span id="vandekerckhove2020"></span> **Vandekerckhove, P., Vandekerckhove, Y., Tavernier, R., De Jaegher, K., & De Mul, M. (2020).** *Leveraging user experience to improve video consultations in a cardiology practice during the COVID-19 pandemic: initial insights*. Journal of Medical Internet Research, 22(6), e19771.
+- <span id="cramerpetersen2019"></span> **Cramer-Petersen, C. L., Christensen, B. T., & Ahmed-Kristensen, S. (2019).** *Empirically analysing design reasoning patterns: abductive-deductive reasoning patterns dominate design idea generation*. Design Studies, 60, 39–70. Retrieved from https://research.cbs.dk/en/publications/empirically-analysing-design-reasoning-patterns-abductive-deducti
+- <span id="burch2022"></span> **Burch, R. (2022).** *Charles Sanders Peirce*. Stanford Encyclopedia of Philosophy (Fall 2021 Edition). Retrieved October 18, 2021, from [https://plato.stanford.edu/entries/peirce/#dia](https://plato.stanford.edu/entries/peirce/#dia)
+- <span id="dorst2011"></span> **Dorst, K. (2011).** *The core of ‘design thinking’ and its application*. Design Studies, 32(6), 521–532. Retrieved from https://www-sciencedirect-com.tudelft.idm.oclc.org/science/article/pii/S0142694X11000603
 
-## Bibliography
-
-Compton-Phillips, A. (2024). Care Delivery Innovation in Action. NEJM Catalyst Innovations in Care Delivery, 5(4).
-
-Dolfsma, W., Eijk, R., & Mahdi, S. (2022). Front-Loading the Front-End of Innovation.
-
-Herzlinger, R. (2024). Strategic Partnerships in Healthcare Innovation.
-
-Ijzerman, M. J., Koffijberg, H., Fenwick, E., & Krahn, M. (2017). Emerging Use of Early Health Technology Assessment in Medical Product Development: A Scoping Review of the Literature. PharmacoEconomics, 35(7), 727–740. https://doi.org/10.1007/S40273-017-0509-1/TABLES/2.
-
-Smulders, F. (2022). The IDER Model: Managing Parallel Processes in Innovation.
-
-WHO (2022). Ethics and AI in Healthcare. WHO Report.
 
 
-1. Moore, G., Wilding, H., Gray, K., & Castle, D. (2019). Participatory methods to engage health service users in the development of electronic health resources: Systematic review. *Journal of Participatory Medicine*. doi: 10.2196/11474
-2. Clemensen, J., Rothmann, M. J., Smith, A. C., Caffery, L. J., & Danbjorg, D. B. (2017). Participatory design methods in telemedicine research. *Journal of Telemedicine and Telecare*, 23(9), 780–785. doi: 10.1177/1357633X16686747
-3. Sanders, E., & Stappers, P. J. (2012). *Convivial design toolbox: Generative research for the front end of design*. BIS. ISBN: 9063692846
-4. Langley, J., Wolstenholme, D., & Cooke, J. (2018). “Collective making” as knowledge mobilisation: The contribution of participatory design in the co-creation of knowledge in healthcare. *BMC Health Services Research*, 18(1), 585. doi: 10.1186/s12913-018-3397-y
-5. Bird, M., McGillion, M., Chambers, E. M., Dix, J., Fajardo, C. J., Gilmour, M., Levesque, K., Lim, A., Mierdel, S., Ouellette, C., Polanski, A. N., Reaume, S. V., Whitmore, C., & Carter, N. (2021). A generative co-design framework for healthcare innovation: Development and application of an end-user engagement framework. *Research Involvement and Engagement*, 7(1), 1–12. doi: 10.1186/S40900-021-00252-7/FIGURES/1
-6. Szinay, D., Jones, A., Chadborn, T., Brown, J., & Naughton, F. (2020). Influences on the uptake of and engagement with health and well-being smartphone apps: Systematic review. *Journal of Medical Internet Research*, 22(5), e17572. https://www.jmir.org/2020/5/e17572. PMID: 32348255
-7. Steen, M., Manschot, M. A. J., & De Koning, N. (2011). Benefits of co-design in service design projects. *International Journal of Design*, 5(2), 53-60. Chinese Institute of Design.
-8. Simonsen, J., & Robertson, T. (2012). *Routledge International Handbook of Participatory Design*. Routledge. PMID: 17192055 ISBN: 9780203108543
-9. Trischler, J., Pervan, S. J., Kelly, S. J., & Scott, D. R. (2018). The value of codesign. *Journal of Service Research*, 21(1), 75–100. doi: 10.1177/1094670517714060
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

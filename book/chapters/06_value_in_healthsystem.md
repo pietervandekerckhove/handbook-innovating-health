@@ -17,7 +17,7 @@ By the end of this chapter, you will be prepared to apply your newfound knowledg
 
 ## Innovating with technology, organizations and people (TOP): Socio-Technical Product Service Systems (STPSS):
 
-Socio-technical systems theory, as initially developed by Trist (1981), emphasizes the mutual shaping of social and technical elements within an organization. This approach is particularly pertinent to healthcare, where the interaction between human actors (e.g., healthcare providers, patients) and technical components (e.g., medical devices, health information systems) is complex and dynamic. Appelbaum (1997) further elaborates on the application of STS theory in organizational development, highlighting how it can drive innovation and improvement in healthcare settings.
+Socio-technical systems theory, as initially developed by [Trist (1981)](#trist1981), emphasizes the mutual shaping of social and technical elements within an organization. This approach is particularly pertinent to healthcare, where the interaction between human actors (e.g., healthcare providers, patients) and technical components (e.g., medical devices, health information systems) is complex and dynamic. [Appelbaum (1997)](#appelbaum1997) further elaborates on the application of STS theory in organizational development, highlighting how it can drive innovation and improvement in healthcare settings.
 
 A working definition of innovation by prof. Frido Smulders is:
 
@@ -27,7 +27,7 @@ A working definition of innovation by prof. Frido Smulders is:
 
 **Generally, there are three key actors: people, technology and organizations:**
 
-````{admonition} Prof. Frido Smulders explains the relevance of people, technology and organizations in the innovation pathway. What went wrong in the example of the aircraft? Do you have a similar example in healthcare innovation? Do you remember the PIP scandal with breast implants for women? Martindale, V., & Menache, A. (2013). The PIP scandal: an analysis of the process of quality control that failed to safeguard women from the health risks. Journal of the Royal Society of Medicine, 106(5), 173-177.
+````{admonition} Prof. Frido Smulders explains the relevance of people, technology and organizations in the innovation pathway. What went wrong in the example of the aircraft? Do you have a similar example in healthcare innovation? Do you remember the PIP scandal with breast implants for women? ([Martindale & Menache, 2013](#martindale2013))
 ```{raw} html
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fgiZD_NgXTw?si=O-4tgg_45TvCmJxh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 ```
@@ -42,7 +42,7 @@ In STPSS, each stakeholder can create value in the health system. The value is c
 ```
 ````
 
-Each stakeholder possesses explicable knowledge about their role and the system's functionality. Explicable knowledge, defined as implicit knowledge that can be made explicit during social interaction (Smulders, Lousberg & Dorst, 2008), forms a chain where products and services are interrelated. According to sociotechnical systems theory (Trist, 1981; Appelbaum, 1997), STPSS involves several individuals who shape a piece of technology or a product, or both, assigned to them within their own workplaces, creating an integrated chain of product-service value deliveries at the system level.
+Each stakeholder possesses explicable knowledge about their role and the system's functionality. Explicable knowledge, defined as implicit knowledge that can be made explicit during social interaction ([Smulders, Lousberg, & Dorst, 2008](#smulders2008)), forms a chain where products and services are interrelated. According to sociotechnical systems theory ([Trist, 1981](#trist1981); [Appelbaum, 1997](#appelbaum1997)), STPSS involves several individuals who shape a piece of technology or a product, or both, assigned to them within their own workplaces, creating an integrated chain of product-service value deliveries at the system level.
 
 Entrepreneurs face significant challenges in developing an integrated new venture idea (NVI) that spans the entire value chain within an STPSS. Integrating the explicable knowledge of diverse stakeholders into an NVI is crucial, yet there has been little emphasis on the social process of knowledge interaction in NVI development.
 
@@ -52,7 +52,7 @@ Entrepreneurs face significant challenges in developing an integrated new ventur
 
 Regarding our health, a STPSS is complex as there is an interaction with society, our digital environment, the organizations and technologies we are exposed to and which we use. Therefore, there is a complex interaction between people and health technology (e.g., electronic medical records). Understanding the healthcare STPSS, its actors, and their interdependencies is crucial. 
 
-These interactions can be visualized by the social determinants. Some key factors influencing our health for instance are education, income and age (Dahlgren, G., & Whitehead, M. (2021). The Dahlgren-Whitehead model of health determinants: 30 years on and still chasing rainbows. Public health, 199, 20-24.).
+These interactions can be visualized by the social determinants. Some key factors influencing our health for instance are education, income and age ([Dahlgren & Whitehead, 2021](#dahlgren2021)).
 
 ```{figure} ../figures/Social-determinants-Health.jpg
 :height: 250px
@@ -107,17 +107,17 @@ When innovating in healthcare, it is crucial to understand the socio-technical c
 
 Process framework for the patient journey method. Simonse, L., Albayrak, A., & Starre, S. (2019). Patient journey method for integrated service design. Design for Health, 3(1), 82-97.
 ```
-Collaborative design is crucial in making a patient journey, as it involves the active participation of all stakeholders to ensure that the innovation addresses their needs and concerns. Simonse, Albayrak, and Starre (2019) emphasize the importance of collaborative design in the patient journey method for integrated service design. Especially creative generative co-design, a more creative form of collaborative design, as discussed by Vandekerckhove, De Mul, Bramer, and De Bont (2020), highlights the importance of involving stakeholders in the design process to generate digital health solutions that are both practical and effective.
+Collaborative design is crucial in making a patient journey, as it involves the active participation of all stakeholders to ensure that the innovation addresses their needs and concerns. [Simonse, Albayrak, and Starre (2019)](#simonse2019) emphasize the importance of collaborative design in the patient journey method for integrated service design. Especially creative generative co-design, a more creative form of collaborative design, as discussed by [Vandekerckhove, De Mul, Bramer, and De Bont (2020)](#vandekerckhove2020), highlights the importance of involving stakeholders in the design process to generate digital health solutions that are both practical and effective.
 
 ### 1. Making tacit knowledge of each stakeholder explicit
 
-In healthcare innovation, it is essential to emphasize the importance of making tacit knowledge explicit from different stakeholders. Tacit knowledge, which is often unspoken and intuitive, plays a critical role in understanding the needs and experiences of patients, healthcare providers, and other stakeholders. By capturing and articulating this implicit knowledge, innovators can bridge the gap between different stakeholders, fostering better understanding and collaboration. Insights from Smulders et al. (2008) underscore the need for effective communication strategies in collaborative design, essential for successful ventures in medical technology entrepreneurship.
+In healthcare innovation, it is essential to emphasize the importance of making tacit knowledge explicit from different stakeholders. Tacit knowledge, which is often unspoken and intuitive, plays a critical role in understanding the needs and experiences of patients, healthcare providers, and other stakeholders. By capturing and articulating this implicit knowledge, innovators can bridge the gap between different stakeholders, fostering better understanding and collaboration. Insights from [Smulders et al. (2008)](#smulders2008) underscore the need for effective communication strategies in collaborative design, essential for successful ventures in medical technology entrepreneurship.
 
-Techniques to make this knowledge explicit have significantly advanced through collaborative sense-making approaches and machine learning techniques. Akrouh, Wehrens, and van de Bovenkamp (2024) emphasize the importance of engaging citizens in experiments with computational analysis of patient stories. Their study highlights the transition from unwarranted reductions to meaningful insights, demonstrating how collaborative sense-making can lead to a deeper understanding of patient experiences and needs.
+Techniques to make this knowledge explicit have significantly advanced through collaborative sense-making approaches and machine learning techniques. [Akrouh, Wehrens, and van de Bovenkamp (2024) ](#akrouh2024) emphasize the importance of engaging citizens in experiments with computational analysis of patient stories. Their study highlights the transition from unwarranted reductions to meaningful insights, demonstrating how collaborative sense-making can lead to a deeper understanding of patient experiences and needs.
 
-Jung et al. (2023) explore the application of data-driven techniques in patient community journey mapping. By utilizing online stories and machine learning, they advance design approaches that capture relevant patient experiences. This method allows for a comprehensive view of the patient journey, identifying key touchpoints that can enhance patient care and support.
+[Jung et al. (2023)](#jung2023) explore the application of data-driven techniques in patient community journey mapping. By utilizing online stories and machine learning, they advance design approaches that capture relevant patient experiences. This method allows for a comprehensive view of the patient journey, identifying key touchpoints that can enhance patient care and support.
 
-Voigt et al. (2025) further investigate the use of machine learning, specifically topic modeling, to identify and assess experiences of patients with colorectal cancer. Their explorative study reveals how machine learning can effectively capture and analyze patient narratives, providing valuable insights into patient experiences and improving the overall patient journey pathway. 
+[Voigt et al. (2025)](#voigt2025) further investigate the use of machine learning, specifically topic modeling, to identify and assess experiences of patients with colorectal cancer. Their explorative study reveals how machine learning can effectively capture and analyze patient narratives, providing valuable insights into patient experiences and improving the overall patient journey pathway. 
 
 See for instance in the figure below how one can understand and emapthize with deeper lying emotions of patients at home beyond the hospital setting:
 
@@ -127,17 +127,9 @@ Voigt, K., Sun, Y., Patandin, A., Hendriks, J., Goossens, R. H., Verhoef, C., ..
 ```
 
 
-**References** 
-
-Akrouh, N., Wehrens, R., & van de Bovenkamp, H. (2024). Engaging citizens in experiments with computational analysis of patient stories: From unwarranted reductions to meaningful insights. Big Data & Society, 11(4), 20539517241290218.
-
-Jung, J., Kim, K. H., Peters, T., Snelders, D., & Kleinsmann, M. (2023). Advancing design approaches through data-driven techniques: patient community journey mapping using online stories and machine learning. International Journal of Design, 17(2), 19-44.
-
-Voigt, K., Sun, Y., Patandin, A., Hendriks, J., Goossens, R. H., Verhoef, C., ... & Jung, J. (2025). A Machine Learning Approach Using Topic Modeling to Identify and Assess Experiences of Patients With Colorectal Cancer: Explorative Study. JMIR cancer, 11(1), e58834.
-
 ### 2. Mapping the knowledge to develop a patient journey and identifying touchpoints
 
-Patient experiences play a vital role in developing touchpoints within the care pathway. Touchpoints are key moments where the problem-solution becomes tangible and impactful. For example, Vandekerckhove, Vandekerckhove, Tavernier, De Jaegher, and De Mul (2020) explain how patient experiences can be used to develop touchpoints, making it clear where the problem-solution sits. Additionally, Simonse, Albayrak, and Starre (2019) highlight the importance of integrating service design with patient journey mapping to create a cohesive and effective healthcare experience. This often starts by mapping out the care pathway a patient follows in a certain timeframe (see figure below).
+Patient experiences play a vital role in developing touchpoints within the care pathway. Touchpoints are key moments where the problem-solution becomes tangible and impactful. For example, [Vandekerckhove, Vandekerckhove, Tavernier, De Jaegher, and De Mul (2020)](#vandekerckhove2020video) explain how patient experiences can be used to develop touchpoints, making it clear where the problem-solution sits. Additionally, [Simonse, Albayrak, and Starre (2019)](#simonse2019) highlight the importance of integrating service design with patient journey mapping to create a cohesive and effective healthcare experience. This often starts by mapping out the care pathway a patient follows in a certain timeframe (see figure below).
 
 ```{figure} ../figures/patient-journey-example.jpg
 
@@ -169,7 +161,7 @@ Now, take a look at the next video, what relations between the patient and the h
 ````
 ### 3. Integration process to situate the problem-solution
 
-To effectively situate an innovation within a socio-technical product-service system, one needs to establish a patient journey as a result of an integration process. The socio-technical approach emphasizes the importance of considering both social and technical elements in healthcare systems. By mapping out the patient journey and care pathway, students can identify critical touchpoints where the innovation can provide the most value (see figure below, most interesting touchpoints are indicated with a light bulp). See also Overview of multiple touchpoints to add value. Simonse, L., Albayrak, A., & Starre, S. (2019).
+To effectively situate an innovation within a socio-technical product-service system, one needs to establish a patient journey as a result of an integration process. The socio-technical approach emphasizes the importance of considering both social and technical elements in healthcare systems. By mapping out the patient journey and care pathway, students can identify critical touchpoints where the innovation can provide the most value (see figure below, most interesting touchpoints are indicated with a light bulp). See also Overview of multiple touchpoints to add value. ([Simonse, L., Albayrak, A., & Starre, S. (2019)](#simonse2019)) .
 
 ```{figure} ../figures/touchpoints-vandekerckhove.png
 :name: figure-example
@@ -199,11 +191,9 @@ Stakeholders in a traditional healthcare system (Kraus, S., Schiavone, F., Pluzh
 ```
 
 
-Kraus, S., Schiavone, F., Pluzhnikova, A., & Invernizzi, A. C. (2021). Digital transformation in healthcare: Analyzing the current state-of-research. Journal of Business Research, 123, 557-567.
+However, this landscape is changing. Increasingly new initiatives, like digital healthcare solutions, change the way value is created ([Kraus et al., 2021](#kraus2021)). For instance,  a solution may not need a physical healthcare provider, the patient could self-manage, validate with an external care professional and treat a certain problem themselves. The system itself is changing as well. 
 
-However, this landscape is changing. Increasingly new initiatives, like digital healthcare solutions, change the way value is created (Kraus, 2021). For instance,  a solution may not need a physical healthcare provider, the patient could self-manage, validate with an external care professional and treat a certain problem themselves. The system itself is changing as well. 
-
-Have a look at this image from Kraus et al., which explains how digital technology reshapes the relationships in a digital health system
+Have a look at this image from [Kraus et al., 2021](#kraus2021), which explains how digital technology reshapes the relationships in a digital health system
 
 ```{figure} ../figures/Kraus-digital-tech-health-system-potential-application.jpg
 :height: 350px
@@ -276,19 +266,18 @@ For more information about the key statistics for each country, you can consult,
 
 ### Aligning with value-based healthcare (STEVE ADD EXERCISE FOR APPLICATION IN A STATE)
 
-Value-based healthcare started with the seminal work of Porter (2010), with key principles to improve care: 
+Value-based healthcare started with the seminal work of [Porter (2010)](#porter2010), with key principles to improve care: 
 * Patient-Centered Care: VBHC emphasizes treating patients as active participants in their own care, focusing on their specific needs and outcomes.
 * Outcome Measurement: Regular measurement and analysis of health outcomes are critical, ensuring that care interventions are effective.
 * Cost-Effectiveness: VBHC seeks to achieve the best possible outcomes at the lowest possible cost, often involving cost management and efficiency improvements.
 
-See also: Catalyst, N. E. J. M. (2017). What is value-based healthcare?. NEJM Catalyst, 3(1).
-https://catalyst.nejm.org/doi/full/10.1056/cat.17.0558
+See also: [Catalyst, N. E. J. M. (2017)](#nejm2017)
+
 TA add reading exercise: Try to identify how each stakeholder has a different perspective on value-based healthcare, which are the aim and means they put forward for value-based healthcare?
 
 
-Even though it is a convincing framework, it is not as easy as it seems to implement. Yet, it can be an important catalyst for innovation and influence how you can harness this trend in your innovations.The concept of value-based healthcare is central to modern MedTech innovation. The "Implementing Value-Based Healthcare in Europe: Handbook for Pioneers" offers practical guidance on creating value within health systems. This approach focuses on improving patient outcomes while optimizing costs. Access the handbook here.
+Even though it is a convincing framework, it is not as easy as it seems to implement. Yet, it can be an important catalyst for innovation and influence how you can harness this trend in your innovations.The concept of value-based healthcare is central to modern MedTech innovation. The "Implementing Value-Based Healthcare in Europe: Handbook for Pioneers" offers practical guidance on creating value within health systems. This approach focuses on improving patient outcomes while optimizing costs. Access the handbook [here](https://eit.europa.eu/library/implementing-value-based-healthcare-europe-handbook-pioneers).
 
-TA provide reference: https://eit.europa.eu/library/implementing-value-based-healthcare-europe-handbook-pioneers
 
 Video Introduction
 Watch Prof. Steven Howard’s video introduction on value-based healthcare in Santeon hospitals to understand how these principles are applied in real-world settings. View the video here.
@@ -304,7 +293,7 @@ Watch Prof. Steven Howard’s video introduction on value-based healthcare in Sa
 
 **Difficulties to integrate a value-based healthcare approach in a hospital**
 
- Many organizations have struggled for decades to find the right balance to provide the best value for money. In this session, we discuss key difficulties about the implementation of value-based healthcare based on the article by Reindersma et al. (2024) and Van Elten (2023).
+ Many organizations have struggled for decades to find the right balance to provide the best value for money. In this session, we discuss key difficulties about the implementation of value-based healthcare based on the article by [Reindersma et al. (2024)](#reindersma2024) and [Van Elten (2023)](#vanelten2023).
 
 Case Study: The Santeon Hospitals
 The Santeon Hospitals in the Netherlands provide a practical example of VBHC in action. By collaborating across a network, these hospitals have implemented VBHC principles to enhance care quality and efficiency. Key elements include:
@@ -316,16 +305,14 @@ The Santeon Hospitals in the Netherlands provide a practical example of VBHC in 
 However, there are challenges and critiques of VBHC. Implementing standardized outcome measures can be difficult due to variations in patient populations and conditions. Additionally, focusing on cost-effectiveness might sometimes lead to under-provision of necessary but expensive treatments.
 
 For further reading: 
-Healthcare Transformers (2022).
 
-Article: "Collaborating for value - The Santeon Hospitals in the Netherlands." https://www.ichom.org/resource/collaborating-for-value-the-santeon-hospitals-in-the-netherlands/: Okunade, 
-O., Arora, J., Haverhals, A., & Niessen, L. (2017). Collaborating for value: the Santeon Hospitals in the Netherlands. International Consortium for Health Outcomes Measurement: Cambridge, MA, USA. https://www.ichom.org/resource/collaborating-for-value-the-santeon-hospitals-in-the-netherlands/
+[Healthcare Transformers (2022)](#healthcaretransformers2022)
+
+Article: "Collaborating for value - The Santeon Hospitals in the Netherlands." ([Okunade et al., 2017](#okunade2017))
 
 
 
-The study conducted by van Engen et al. (2024) explores the decade-long transition towards Value-Based Health Care (VBHC) at a Dutch University Hospital. The research adopts a complexity-informed approach to understand the multifaceted nature of implementing VBHC in a real-world setting:
-
-van Engen, V., Buljac-Samardzic, M., Baatenburg de Jong, R., Braithwaite, J., Ahaus, K., Den Hollander-Ardon, M., ... & Bonfrer, I. (2024). A decade of change towards Value-Based Health Care at a Dutch University Hospital: a complexity-informed process study. Health Research Policy and Systems, 22(1), 94.
+The study conducted by [van Engen et al. (2024)](#vanEngen2024) explores the decade-long transition towards Value-Based Health Care (VBHC) at a Dutch University Hospital. The research adopts a complexity-informed approach to understand the multifaceted nature of implementing VBHC in a real-world setting:
 
 
 1. **Complexity of Implementation:**
@@ -351,30 +338,22 @@ van Engen, V., Buljac-Samardzic, M., Baatenburg de Jong, R., Braithwaite, J., Ah
 
 ## Integrating the patient perspective in value-based care innovation
 
-There are challenges to include the patient in value-based healthcare, currently it is limited to PROMS and surveys.
+There are challenges to include the patient in value-based healthcare, currently it is limited to PROMS and surveys ([van der Voorden et al., 2023](#vanderVoorden2023)).
 
-ADD REF: van der Voorden M, Sipma WS, de Jong MFC, Franx A and Ahaus KCTB (2023) The
-immaturity of patient engagement in value-based healthcare—A systematic review.
-Front. Public Health 11:1144027. doi: 10.3389/fpubh.2023.1144027
 
 ### Is it the patient or the person?
-The concept of a patient, as discussed in the provided article blelow, is deeply rooted in the biomedical model where each actor has a defined role. This model has been criticized for perpetuating medical hegemony and portraying individuals seeking healthcare as passive recipients of care. The 'Language Matters' campaign highlights the importance of language in healthcare interactions, questioning whether individuals who feel well but require ongoing healthcare should be labeled as patients. The term 'patient' can reinforce a power dynamic in healthcare relationships, potentially leading to individuals being defined by their condition. However, for healthcare professionals, the term may signify a duty of care rather than dominion. The article argues that the context in which the term is used is crucial, and without significant cultural shifts in the biomedical model, simply changing terminology will not alter perceptions.
-
-Add ref Whyte, M. B., Elias, R., & Cooke, D. (2024). Exploration of the social and philosophical underpinning of ‘the patient’—what this means for people with a long-term condition. Humanities and Social Sciences Communications, 11(1), 1-6.
-: https://www.nature.com/articles/s41599-024-02729-8
+The concept of a patient, as discussed in the provided article blelow, is deeply rooted in the biomedical model where each actor has a defined role. This model has been criticized for perpetuating medical hegemony and portraying individuals seeking healthcare as passive recipients of care. The 'Language Matters' campaign highlights the importance of language in healthcare interactions, questioning whether individuals who feel well but require ongoing healthcare should be labeled as patients. The term 'patient' can reinforce a power dynamic in healthcare relationships, potentially leading to individuals being defined by their condition. However, for healthcare professionals, the term may signify a duty of care rather than dominion. The article argues that the context in which the term is used is crucial, and without significant cultural shifts in the biomedical model, simply changing terminology will not alter perceptions ([Whyte et al., 2024](#whyte2024)).
 
 
 ### A service dominant logic?
-Patients have a unique integrated view on the experience of healthcare, which is invaluable for healthcare innovation. Have a look at this article from patient expert Wim Sipma where he explains- that “service-dominant logic states that patients are the true creators of real value-in-use”. 
-ADD REFERENCE
-Sipma, W. S., de Jong, M. F., & Ahaus, K. C. (2023). “It’s My Life and It’s Now or Never”—Transplant Recipients Empowered From a Service-Dominant Logic Perspective. Transplant International, 36, 12011.
+Patients have a unique integrated view on the experience of healthcare, which is invaluable for healthcare innovation. Have a look at this article from patient expert Wim Sipma where he explains- that “service-dominant logic states that patients are the true creators of real value-in-use” ([Sipma et al., 2023](#sipma2023)). 
+
+
 
 ### How can patients be innovators?
-Bosveld et al. (2024) highlight the experiences of patients, informal caregivers, and healthcare professionals with involvement in these programs. By empowering patients and caregivers to take an active role in their healthcare, entrepreneurial initiatives can improve outcomes and enhance patient satisfaction. This patient-centric approach is increasingly important in a healthcare landscape that values personalized care and patient engagement.
-ADD REF Bosveld, M. H., Smits, A. G. M., Mertens, H. J. M. M., Zandvoort, M. J. J. M. van, Mook, W. N. K. A. van, & Bokhoven, M. A. van. (2024). Patients and informal caregivers in the lead: A qualitative study on the experiences of patients, informal caregivers, and healthcare professionals with involvement in treatment, e-health and self-management programs. BMC Health Services Research, 24(1), 713. https://doi.org/10.1186/s12913-024-11156-z
+[Bosveld et al. (2024)](#bosveld2024) highlight the experiences of patients, informal caregivers, and healthcare professionals with involvement in these programs. By empowering patients and caregivers to take an active role in their healthcare, entrepreneurial initiatives can improve outcomes and enhance patient satisfaction. This patient-centric approach is increasingly important in a healthcare landscape that values personalized care and patient engagement ([Visser et al., 2024](#visser2024)).
 
-ADD REF
-Visser, M., ‘t Hart, N., de Mul, M., & Weggelaar-Jansen, A. M. (2024). The Perspectives of Healthcare Professionals and Managers on Patient Involvement in Care Pathway Development: A Discourse Analysis. Health Expectations, 27(3), e14101. https://doi.org/10.1111/hex.14101
+
 
 
 ## Integrating the care professional point of view in value-based care innovation
@@ -388,11 +367,11 @@ Some of these guidelines are co-developed with patients, which may foster educat
 Many technologies in healthcare are developed with a technology push idea that people with automatically adopt them over time. However, some  technology trends like AI and recommender systems are increasingly paying attention to help patient self-manage their situations. This may help foster healthcare innovation.
 
 ## Personalized medicine trend
-Personalized healthcare and precision medicine are related trends to value-based healthcare that may be useful to support innovations. By tailoring treatments to individual patients, personalized healthcare can potentially improve outcomes and efficiency, key goals of VBHC. It involves tailoring medical treatment to the individual characteristics of each patient. These approaches diviate from standard care as it were as they become more individually tailored interventions. Personalized healthcare aims to move away from standardized healthcare with a "one-size-fits-all" model and towards treatments that consider individual variability (Collins & Varmus, 2015). These interventions use genetic, environmental, and lifestyle factors to design more effective and personalized care plans.
+Personalized healthcare and precision medicine are related trends to value-based healthcare that may be useful to support innovations. By tailoring treatments to individual patients, personalized healthcare can potentially improve outcomes and efficiency, key goals of VBHC. It involves tailoring medical treatment to the individual characteristics of each patient. These approaches diviate from standard care as it were as they become more individually tailored interventions. Personalized healthcare aims to move away from standardized healthcare with a "one-size-fits-all" model and towards treatments that consider individual variability ([Collins & Varmus, 2015](#collins2015)). These interventions use genetic, environmental, and lifestyle factors to design more effective and personalized care plans.
 
 
 
-These trends are advanced through technological developments in the field of biotech. For example the use of complex multiplex cell cultures, which allows for more precise modeling of human diseases and testing of treatments. These cultures can replicate the interactions between different cell types within the body, providing a more accurate representation of how diseases progress and how treatments work in a real human environment (Pampaloni et al., 2007).
+These trends are advanced through technological developments in the field of biotech. For example the use of complex multiplex cell cultures, which allows for more precise modeling of human diseases and testing of treatments. These cultures can replicate the interactions between different cell types within the body, providing a more accurate representation of how diseases progress and how treatments work in a real human environment ([Pampaloni et al., 2007](#pampaloni2007)).
 
 Another example is organ-on-a-chip technology. How do you think this could change the biomedical innovation pathway and make treatments more personalized for patients?
 
@@ -417,11 +396,9 @@ Many patients express their feelings increasonly online via websites and digital
 
 ### 1. Surveys and reported outcomes
 
-* For patients: PROMS
+* For patients: PROMS 
 
-ADD Sipma WS, de Jong MFC, Meuleman Y, Hemmelder MH, Ahaus K(C.)TB (2023) Facing the
-challenges of PROM implementation in Dutch dialysis care: Patients’ and professionals’
-perspectives. PLoS ONE 18(5): e0285822. doi.org/10.1371/journal.pone.0285822
+[Sipma et al. (2023)](#sipma2023a)
 
 critique on PROMS
 
@@ -429,30 +406,18 @@ critique on PROMS
 **Impact on PROs for Cancer Patients:**
 Here is an overview of a view articles from a key scholar on this topic: dr. Mies van Eenbergen (see PhD thesis here https://research.tilburguniversity.edu/en/publications/cancer-and-the-internet-how-patients-collect-connect-and-communic):
 
-Patients who participate in online communities generally experience marginal improvements in patient-reported outcomes (PROs) such as general well-being, anxiety, depression, quality of life, posttraumatic growth, and cancer-related concerns. However, these improvements are often insignificant and sometimes contradictory. The majority of participants are women with breast cancer, and those active in online support groups tend to be younger and more highly educated than nonusers (Van Eenbergen, 2017).
+Patients who participate in online communities generally experience marginal improvements in patient-reported outcomes (PROs) such as general well-being, anxiety, depression, quality of life, posttraumatic growth, and cancer-related concerns. However, these improvements are often insignificant and sometimes contradictory. The majority of participants are women with breast cancer, and those active in online support groups tend to be younger and more highly educated than nonusers ([Van Eenbergen, 2017](#vaneenbergen2017)).
 
 **Content Shared in Online Cancer Communities:**
-Cancer patients and their relatives share a variety of user-generated content in online cancer communities, primarily categorized into informational support and emotional support. Larger studies provide detailed insights into patients' concerns and worries, which can be used to improve cancer care. Combining automated and manual coding methods yields the best results in analyzing this content (Van Eenbergen JMIR, 2018).
+Cancer patients and their relatives share a variety of user-generated content in online cancer communities, primarily categorized into informational support and emotional support. Larger studies provide detailed insights into patients' concerns and worries, which can be used to improve cancer care. Combining automated and manual coding methods yields the best results in analyzing this content ([Van Eenbergen JMIR, 2018](#vaneenbergen2018)).
 
 **Relatives' Contributions:**
-Relatives of cancer patients play a crucial role in care and often share information and emotions online. Their user-generated content is a valuable resource for further research into their needs and for identifying emotional and informational topics. It is essential to enable relatives to occupy their own space in the disease-and-treatment process to avoid caregiver burden (van Eenbergen et al., Patient Education and Counseling 2018).
+Relatives of cancer patients play a crucial role in care and often share information and emotions online. Their user-generated content is a valuable resource for further research into their needs and for identifying emotional and informational topics. It is essential to enable relatives to occupy their own space in the disease-and-treatment process to avoid caregiver burden ([van Eenbergen et al., Patient Education and Counseling 2018](#vaneenbergen2018a)).
 
 **Usability of Online Applications for Reporting Side Effects:**
-In the Netherlands, the web application BijKanker ('AlongsideCancer') has been introduced for online patient reporting of side effects. Patients generally find BijKanker user-friendly and appreciate the attention given to their side effects. The application provides valuable insights into user experiences and usability, offering useful starting points for improvements. Supporting oncology nurses in the implementation of the application is recommended (van Eenbergen, van den Hurk, Mols, & van de Poll-Franse, 2019).
+In the Netherlands, the web application BijKanker ('AlongsideCancer') has been introduced for online patient reporting of side effects. Patients generally find BijKanker user-friendly and appreciate the attention given to their side effects. The application provides valuable insights into user experiences and usability, offering useful starting points for improvements. Supporting oncology nurses in the implementation of the application is recommended ([van Eenbergen, van den Hurk, Mols, & van de Poll-Franse, 2019](#vaneenbergen2019)).
 
----
 
-### References
-
-Van Eenbergen, M. C., Van de Poll-Franse, L. V., Heine, P., & Mols, F. (2017). The impact of participation in online cancer communities on patient reported outcomes: systematic review. JMIR cancer, 3(2), e7312. https://doi.org/10.2196/cancer.7312
-
-van Eenbergen, M. C., van de Poll-Franse, L. V., Krahmer, E., Verberne, S., & Mols, F. (2018). Analysis of content shared in online cancer communities: systematic review. JMIR cancer, 4(1), e7926. https://doi.org/10.2196/cancer.7926
-
-van Eenbergen, M. C., van Engelen, H., Ezendam, N. P. M., van de Poll-Franse, L. V., Tates, K., & Krahmer, E. J. (2018). Paying attention to relatives of cancer patients: What can we learn from their online writings? Patient Education and Counseling, 101(11), 1985-1992. https://doi.org/10.1016/j.pec.2018.11.004
-
-van Eenbergen, M. C., van den Hurk, C., Mols, F., & van de Poll-Franse, L. V. (2019). Usability of an online application for reporting the burden of side effects in cancer patients. Supportive Care in Cancer, 27, 3411-3419. https://doi.org/10.1007/s00520-019-04652-0
-
----
 
 How are patient-related outcome measures (PROMS) and PREMS used in practice? Can you identify the innovations that are used to make the patient-centered a reality in a Danish hospital?
 
@@ -467,8 +432,7 @@ How are patient-related outcome measures (PROMS) and PREMS used in practice? Can
 
 Postiive health diagram dimensions:
 
-ADD REF Pieter Desmet the fundamental needs
-Desmet, P., & Fokkinga, S. (2020). Beyond Maslow’s pyramid: Introducing a typology of thirteen fundamental needs for human-centered design. Multimodal technologies and interaction, 4(3), 38.
+[Desmet & Fokkinga (2020)](#desmet2020)
 
 ADD illustrations and toolkit here: Desmet, P.M.A. &
 Fokkinga, S.F. (2020). Thirteen Fundamental Psychological Needs. Delft: Delft
@@ -482,7 +446,8 @@ https://diopd.org/wp-content/uploads/2021/05/13-fundamental-psychological-needs-
 #### Mismatch between patient experience problems and solutions?
 There is a mismatch between what patient experience and how care is delivered. As we mentioned before it may become apparant through PROMS, but that is only the tip of the iceberg.
 
-Focusing on how you make an impact on patients is essential as a recent report from OECD emphasized from the Patient-Reported Indicator Surveys that healthcare needs to deliver more for patients. ADD REF: OECD (2025), Does Healthcare Deliver?: Results from the Patient-Reported Indicator Surveys (PaRIS), OECD Publishing, Paris, https://doi.org/10.1787/c8af05a5-en. 
+Focusing on how you make an impact on patients is essential as a recent report from OECD emphasized from the Patient-Reported Indicator Surveys that healthcare needs to deliver more for patients (
+[OECD, 2025](#oecd2025)). 
 
 When you are improving the STPSS it is important to take into account these three aspects to make sure you address the problems of patients:
 * Patients value time
@@ -499,27 +464,16 @@ Key Facts from OECD (2025), Does Healthcare Deliver?: Results from the Patient-R
 
 patients can share their experience and highlight painpoints in that epxerience
 
-ADD REF
-Gedney, N., Sipma, W. & Søndergaard, H. Innovations in dialysis: the user’s perspective.
-Nat Rev Nephrol 16, 544–545 (2020). doi.org/10.1038/s41581-020-0292-7
+[Gedney et al. (2020)](#gedney2020)
+
+[Sipma et al. (2023)](#sipma2023)
 
 
-ADD REF
-Sipma WS, de Jong MFC and Ahaus KCTB (2023). “It’s My Life and It’s Now or Never”—
-Transplant Recipients Empowered From a Service-Dominant Logic Perspective.
-Transpl Int 36:12011. doi: 10.3389/ti.2023.12011
 
-see example how Kidney patients can improve the care pathwy according to their work needs: 
+see example how Kidney patients can improve the care pathwy according to their work needs: [de Vries et al. (2023)](#deVries2023)
 
-ADD REF Development and implementation of work-oriented clinical care to empow-er patients
-with kidney disease: an adapted intervention mapping approach. H. J. de Vries, W. S.
-Sipma, R. T. Gansevoort, S. Brouwer and A. Visser, BMC Health Services Research 2023
-Vol. 23 Issue 1 Pages 329; doi.org/10.1186/s12913-023-09307-9
 
-Deeper than sharing your experience, you can try to integrate it in the care delivery. How to improve the health services for kidney donors:
-
-ADD REF
-Sipma, W. S., Van Londen, M., Visser, A., De Jong, M. F., & Ahaus, K. C. (2025). Improving healthcare services for living kidney donors: an experience-based approach in the Netherlands. Frontiers in Public Health, 13, 1512852.
+Deeper than sharing your experience, you can try to integrate it in the care delivery. How to improve the health services for kidney donors: [Sipma et al. (2025)](#Sipma2025)
 
 
 ### 3. Human awareness
@@ -536,13 +490,13 @@ Our experience fundamentally is both expressed and experienced by us at the leve
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6Qqc_wJS6-Q?si=vC-5Ea-ex70z_bam" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 ```
 ````
-To address the deeper problems behind patient experiences, it is crucial to apply generative co-design sessions and business development tools to guide strategic decisions across the basic innovation cycle. Generative co-design involves the active participation of stakeholders, including patients, healthcare providers, and other relevant parties, to collaboratively create solutions that address their needs and concerns. (Vandekerckhove, De Mul, Bramer, and De Bont (2020))
+To address the deeper problems behind patient experiences, it is crucial to apply generative co-design sessions and business development tools to guide strategic decisions across the basic innovation cycle. Generative co-design involves the active participation of stakeholders, including patients, healthcare providers, and other relevant parties, to collaboratively create solutions that address their needs and concerns. ([Vandekerckhove, De Mul, Bramer, and De Bont (2020)](vandekerckhove2020))
 
 By incorporating the tacit knowledge of stakeholders, innovators can gain a deeper understanding of the fundamental level of human experience. This knowledge helps to identify the underlying issues that patients face and develop solutions that are truly patient-centered. 
 
-In healthcare innovation, it is essential to emphasize that there are no general patient journeys; they are always highly individual. Understanding tacit knowledge from all stakeholders and mapping it out is crucial for creating meaningful and impactful innovations. (Simonse, Albayrak, and Starre (2019))
+In healthcare innovation, it is essential to emphasize that there are no general patient journeys; they are always highly individual. Understanding tacit knowledge from all stakeholders and mapping it out is crucial for creating meaningful and impactful innovations ([Simonse, Albayrak, and Starre (2019)](#simonse2019)).
 
-An example of addressing deeper problems behind patient experiences can be seen in the work of Mullaney, Pettersson, Nyholm, and Stolterman (2012), who emphasize the importance of human-centered design in cancer care. They highlight the anxiety experienced by cancer patients, which goes beyond the physical aspects of the disease. By understanding and addressing the emotional and psychological needs of patients, healthcare innovations can provide more holistic and effective solutions.
+An example of addressing deeper problems behind patient experiences can be seen in the work of [Mullaney, Pettersson, Nyholm, and Stolterman (2012)](#Mullaney2012), who emphasize the importance of human-centered design in cancer care. They highlight the anxiety experienced by cancer patients, which goes beyond the physical aspects of the disease. By understanding and addressing the emotional and psychological needs of patients, healthcare innovations can provide more holistic and effective solutions.
 
 ## Confrontation with pain, mortality and death
 
@@ -551,44 +505,23 @@ When looking at your diagnosis as a patient decades after the diagnosis happened
 ### The case of children, adoloscents and young adults with cancer (AYA)
 
 
-Childhood cancer is a significant global health issue, with approximately 400,000 children and adolescents aged 0-19 diagnosed with cancer each year. The most common types of childhood cancers include leukemias, brain tumors, lymphomas, and solid tumors such as neuroblastoma and Wilms tumor. Despite advancements in treatment, cancer remains a leading cause of death among children and adolescents. Early diagnosis and access to effective treatment are crucial for improving survival rates and reducing the burden of childhood cancer (World Health Organization, 2021).
+Childhood cancer is a significant global health issue, with approximately 400,000 children and adolescents aged 0-19 diagnosed with cancer each year. The most common types of childhood cancers include leukemias, brain tumors, lymphomas, and solid tumors such as neuroblastoma and Wilms tumor. Despite advancements in treatment, cancer remains a leading cause of death among children and adolescents. Early diagnosis and access to effective treatment are crucial for improving survival rates and reducing the burden of childhood cancer ([World Health Organization, 2021](#WHO2021)).
 
 
-Adolescents and Young Adults (AYA) with cancer represent a heterogeneous group of individuals aged 15-39 (Alvarez et al., 2022). Cancer is the fourth leading cause of death among adolescents and young adults globally. In 2019, there were 1.19 million new AYA cancer cases and 396,000 AYA deaths worldwide (Alvarez et al., 2022). In the Netherlands, approximately 3,900 AYAs aged 18-39 are diagnosed with cancer each year (Atema et al., 2022). AYA care is a focus for this book for three reasons: first, this area of healthcare involves various stakeholders; second, this young population is interested in using digital health to improve their care process; and third, the author, Pieter Vandekerckhove, was diagnosed with leukemia at the age of 14 and is an AYA himself.
+Adolescents and Young Adults (AYA) with cancer represent a heterogeneous group of individuals aged 15-39 ([Alvarez et al., 2022](#Alvarez2022)). Cancer is the fourth leading cause of death among adolescents and young adults globally. In 2019, there were 1.19 million new AYA cancer cases and 396,000 AYA deaths worldwide ([Alvarez et al., 2022](#Alvarez2022)). In the Netherlands, approximately 3,900 AYAs aged 18-39 are diagnosed with cancer each year ([Atema et al., 2022](#Atema2022)). AYA care is a focus for this book for three reasons: first, this area of healthcare involves various stakeholders; second, this young population is interested in using digital health to improve their care process; and third, the author, Pieter Vandekerckhove, was diagnosed with leukemia at the age of 14 and is an AYA himself.
 
-Various stakeholders are involved in AYA cancer care because these patients are in a unique period of their lives, experiencing fundamental physical, emotional, and psychosocial changes (Jansen et al., 2018; Zebrack et al., 2013; Wettergren et al., 2017; Husson et al., 2017; Albers et al., 2021). Many AYAs are just beginning to become sexually active, some may want to or already have children, and they are advancing their education and careers while coping with financial struggles (Nationaal AYA Jong en Kanker Zorgnetwerk, 2019). The care journey of AYAs spans from their homes to local community caregivers, including physiotherapists and psychologists, and involves one or more specialized hospital care centers. Some AYAs are treated in various outpatient or inpatient pediatric or adult wards. AYA patients seek traditional care as well as complementary care services such as massage, music therapy, acupuncture, and mindfulness (Rosenthal & Dean-Clower, 2005). In this process, they struggle to find appropriate care for their specific type of cancer, age, and lifestyle (Alvarez et al., 2022).
+Various stakeholders are involved in AYA cancer care because these patients are in a unique period of their lives, experiencing fundamental physical, emotional, and psychosocial changes ([Jansen et al., 2018](#Jansen2018); [Zebrack et al., 2013](#Zebrack2013); 
+[Wettergren et al., 2017](#Wettergren2017); [Husson et al., 2017](#Husson2017); [Albers et al., 2021](#Albers2021)). Many AYAs are just beginning to become sexually active, some may want to or already have children, and they are advancing their education and careers while coping with financial struggles ([Nationaal AYA Jong en Kanker Zorgnetwerk, 2019](#AYA2019)). The care journey of AYAs spans from their homes to local community caregivers, including physiotherapists and psychologists, and involves one or more specialized hospital care centers. Some AYAs are treated in various outpatient or inpatient pediatric or adult wards. AYA patients seek traditional care as well as complementary care services such as massage, music therapy, acupuncture, and mindfulness ([Rosenthal & Dean-Clower, 2005](#Rosenthal2005)). In this process, they struggle to find appropriate care for their specific type of cancer, age, and lifestyle ([Alvarez et al., 2022](#Alvarez2022)).
 
-Involving AYAs as stakeholders in collaborative innovation pathways to develop new solutions is crucial because they bring unique perspectives and insights that can significantly enhance the development of care solutions tailored to their needs. As a young population, AYAs are more likely to embrace innovative approaches and digital health technologies, making them valuable contributors to participatory design processes. According to Vandekerckhove et al. (2021), engaging AYAs in participatory design helps ensure that the care solutions developed are relevant, effective, and user-friendly. The study highlights several key insights, including the importance of understanding the diverse needs and preferences of AYAs, fostering open communication and collaboration among stakeholders, and creating a supportive environment that encourages active participation. By involving AYAs in the design process, healthcare providers can develop more personalized and holistic care solutions that address the unique challenges faced by this population.
+Involving AYAs as stakeholders in collaborative innovation pathways to develop new solutions is crucial because they bring unique perspectives and insights that can significantly enhance the development of care solutions tailored to their needs. As a young population, AYAs are more likely to embrace innovative approaches and digital health technologies, making them valuable contributors to participatory design processes. According to [Vandekerckhove et al. (2021)](#Vandekerckhove2021), engaging AYAs in participatory design helps ensure that the care solutions developed are relevant, effective, and user-friendly. The study highlights several key insights, including the importance of understanding the diverse needs and preferences of AYAs, fostering open communication and collaboration among stakeholders, and creating a supportive environment that encourages active participation. By involving AYAs in the design process, healthcare providers can develop more personalized and holistic care solutions that address the unique challenges faced by this population.
 
-**Bibliography**
 
-Albers, T., Weiss, L. A., Sleeman, S. H. E., & Husson, O. (2021). Evaluation of a Positive Psychology Group Intervention in Nature for Young Cancer Survivors to Promote Well-Being and Post-Cancer Identity Development. *Journal of Adolescent and Young Adult Oncology*, 10(4), 404-417. https://doi.org/10.1089/jayao.2020.0147
-
-Alvarez, E. M., Mokdad, A. H., Molokhia, M., Momtazmanesh, S., Monasta, L., Moni, M. A., ... & Bhakta, N. (2022). The global burden of adolescent and young adult cancer in 2019: a systematic analysis for the Global Burden of Disease Study 2019. *Lancet Oncology*, 23(1), 27-52. https://doi.org/10.1016/S1470-2045(21)00581-7
-
-Atema, V., Bretveld, H., Brink, M., Buisman, H., Derksen-Peters, E., Vlooswijk, C., ... & van der Aa, M. (2022). Kanker bij jongvolwassenen.
-
-Husson, O., Zebrack, B. J., Block, R., Embry, L., Aguilar, C., Hayes-Lattin, B., & Cole, S. (2017). Health-Related Quality of Life in Adolescent and Young Adult Patients With Cancer: A Longitudinal Study. *Journal of Clinical Oncology*, 35(6), 652-659. https://doi.org/10.1200/JCO.2016.69.7946
-
-Jansen, R., Kaal, S. E. J., Schreuder-Cats, M., & Manten-Horst, E. (2018). The Dutch AYA outpatient clinic: Support and counselling during and after cancer treatment. In *Nursing Adolescents and Young Adults with Cancer: Developing Knowledge, Competence and Best Practice* (pp. 157-172). Springer International Publishing. https://doi.org/10.1007/978-3-319-73555-9_10
-
-Nationaal AYA Jong en Kanker Zorgnetwerk. (2019). IK en mijn - Nationaal AYA Jong en Kanker Zorgnetwerk. Retrieved from https://aya4net.nl/ik-en-mijn/
-
-Rosenthal, D. S., & Dean-Clower, E. (2005). Integrative medicine in hematology/oncology: benefits, ethical considerations, and controversies. *Hematology / the Education Program of the American Society of Hematology*, 491-497. https://doi.org/10.1182/asheducation-2005.1.491
-
-Vandekerckhove, P., De Mul, M., De Groot, L., Elzevier, H. W., Fabels, B., Haj Mohammad, S., ... & Manten-Horst, E. (2021). Lessons for employing participatory design when developing care for young people with cancer: A qualitative multiple-case study. *Journal of Adolescent and Young Adult Oncology*, 10(4), 404-417. https://doi.org/10.1089/jayao.2020.0098
-
-Wettergren, L., Kent, E. E., Mitchell, S. A., Zebrack, B., Lynch, C. F., Rubenstein, M. B., ... & Smith, A. W. (2017). Cancer negatively impacts on sexual function in adolescents and young adults: The AYA HOPE study. *Psycho-Oncology*, 26(10), 1632-1639. https://doi.org/10.1002/pon.4181
-
-World Health Organization. (2021). Cancer in children. Retrieved from https://www.who.int/news-room/fact-sheets/detail/cancer-in-children
-
-Zebrack, B. J., Block, R., Hayes-Lattin, B., Embry, L., Aguilar, C., Meeske, K. A., ... & Cole, S. (2013). Psychosocial service use and unmet need among recently diagnosed adolescent and young adult cancer patients. *Cancer*, 119(1), 201-214. https://doi.org/10.1002/cncr.27713
 
 
 
 
 ### How to integrate double awareness in your solution?
-The concept of "double awareness," as explored by Burgers et al. (2022), highlights how adolescents and young adults cope with an uncertain or poor cancer prognosis. This duality involves simultaneously acknowledging the possibility of survival and the reality of death. Patients often experience a complex interplay of hope and despair, which can lead to a heightened awareness of their mortality. This awareness is not only a confrontation with the potential end of life but also a profound reflection on the meaning and value of life itself.
+The concept of "double awareness," as explored by [Burgers et al. (2022)](#Burgers2022), highlights how adolescents and young adults cope with an uncertain or poor cancer prognosis. This duality involves simultaneously acknowledging the possibility of survival and the reality of death. Patients often experience a complex interplay of hope and despair, which can lead to a heightened awareness of their mortality. This awareness is not only a confrontation with the potential end of life but also a profound reflection on the meaning and value of life itself.
 
 The study emphasizes that coping with such a prognosis involves navigating between these two states of awareness. Patients may oscillate between moments of optimism and periods of deep existential reflection. This duality can shape their emotional and psychological responses, influencing how they perceive their illness and their future. The survival experience is marked by a determination to overcome the disease, while the death experience involves grappling with the fear and acceptance of mortality.
 
@@ -679,9 +612,9 @@ INSERT HERE THE LECTURE about concfrontation with death and palliative care cent
 ### Framing experience: Nondualism, Zen 
 In Western science, our experience is often conceptualized as a psychological construct through the concept of self. This idea suggests that our perceptions and emotions are filtered through our understanding of ourselves as distinct individuals. However, ancient philosophy, particularly from a phenomenological point of view, challenges this notion. Phenomenologists argue that there is no experience of a self; rather, experiences are direct and unmediated by any concept of self.
 
-Eastern philosophy, particularly in the context of Japanese Zen, speaks of nondualism and no-self experiences as the true state of liberation from all sorrow. According to the Stanford Encyclopedia of Philosophy, Zen teachings emphasize the dissolution of the ego and the realization of one's interconnectedness with all things (Stanford Encyclopedia of Philosophy, n.d.). This perspective offers a profound contrast to the Western conceptualization of self, suggesting that true peace and understanding come from transcending the self.
+Eastern philosophy, particularly in the context of Japanese Zen, speaks of nondualism and no-self experiences as the true state of liberation from all sorrow. According to the Stanford Encyclopedia of Philosophy, Zen teachings emphasize the dissolution of the ego and the realization of one's interconnectedness with all things ([Stanford Encyclopedia of Philosophy, n.d.](#SEPZen)). This perspective offers a profound contrast to the Western conceptualization of self, suggesting that true peace and understanding come from transcending the self.
 
-Pierre Hadot, in his book "Philosophy as a Way of Life," refers to ancient spiritual exercises designed to help individuals confront their mortality. These exercises, rooted in Stoic and Epicurean traditions, encourage a deep reflection on death as a means to cultivate a tranquil and virtuous life. Hadot's work underscores the importance of philosophical practice in preparing oneself for the inevitability of death, offering a path to inner peace and resilience (Hadot, 1995).
+Pierre Hadot, in his book "Philosophy as a Way of Life," refers to ancient spiritual exercises designed to help individuals confront their mortality. These exercises, rooted in Stoic and Epicurean traditions, encourage a deep reflection on death as a means to cultivate a tranquil and virtuous life. Hadot's work underscores the importance of philosophical practice in preparing oneself for the inevitability of death, offering a path to inner peace and resilience ([Hadot, 1995](#Hadot1995)).
 
 
 ## Challenges to Integrate Patient Experience as Human Flux of Emotion, Which Is Always Changing Everywhere, Every Time
@@ -690,18 +623,11 @@ Ultimately, it is difficult to cater to human experience as it is always changin
 
 ### Human-Centered Entrepreneurship and Innovation: Positioning the Patient as an Active Participant or Passive Receiver with Your Solution
 
-The question arises: how do we develop solutions to create value for these changing situations, which are highly unique? Human-centered design and entrepreneurship could help us map out a broader understanding of the human experience in a particular situation in the care pathway. This can help discover new spaces to mediate and even prevent certain problems, such as anxiety for radiotherapy. Mullaney et al. (2012) emphasize the importance of human-centered design in cancer care, suggesting that understanding the patient's emotional journey can lead to better-designed interventions that address not only the physical but also the emotional aspects of care.
+The question arises: how do we develop solutions to create value for these changing situations, which are highly unique? Human-centered design and entrepreneurship could help us map out a broader understanding of the human experience in a particular situation in the care pathway. This can help discover new spaces to mediate and even prevent certain problems, such as anxiety for radiotherapy. [Mullaney et al. (2012)](#Mullaney2012) emphasize the importance of human-centered design in cancer care, suggesting that understanding the patient's emotional journey can lead to better-designed interventions that address not only the physical but also the emotional aspects of care.
 
-Some people are convinced that we need to empower patients more so that they can manage their own pathway better. For instance, the Academy for Patients and Informal Caregivers tries to equip patients with knowledge about that. Bosveld et al. (2024) highlight the significance of involving patients and informal caregivers in the treatment process, e-health, and self-management programs. Their study shows that when patients are more informed and involved, they can take a more active role in managing their health, leading to better outcomes and increased satisfaction.
+Some people are convinced that we need to empower patients more so that they can manage their own pathway better. For instance, the Academy for Patients and Informal Caregivers tries to equip patients with knowledge about that. [Bosveld et al. (2024)](#bosveld2024) highlight the significance of involving patients and informal caregivers in the treatment process, e-health, and self-management programs. Their study shows that when patients are more informed and involved, they can take a more active role in managing their health, leading to better outcomes and increased satisfaction.
 
 In healthcare research, there are large streams of thinking about the involvement of patients in the care pathway, such as co-decision making in the consultation room or self-management of chronic diseases. Depending on the perspective you take, you frame the role of the patient in a different way, and this will determine the value you hope to create with your solution. By understanding the historical background of patient empowerment and self-management, we can better position patients in roles that maximize the value of our solutions.
-
-
-### Bibliography
-
-1. Mullaney, T., Pettersson, H., Nyholm, T., & Stolterman, E. (2012). Thinking beyond the cure: A case for human-centered design in cancer care. International Journal of Design, 6(3), 27-39.
-2. Bosveld, M. H., Smits, A. G., Mertens, H. J., Zandvoort, M. J. V., Mook, W. N. V., & Bokhoven, M. A. V. (2024). Patients and informal caregivers in the lead: a qualitative study on the experiences of patients, informal caregivers, and healthcare professionals with involvement in treatment, e-health and self-management programs. BMC Health Services Research, 24(1), 713.
-
 
 
 ## Conclusion
@@ -721,52 +647,131 @@ Master/Graduate level:
 * Tip: discuss and report in the explore and creat phase whether you can use the trend of value-based healthcare or patient-centered care can be a catalyst for your innovation
 ```
 
-TA Check if bibliography is complete with refs
 
 ```{admonition} Bibliography
 :class: note 
 
-Appelbaum, S. H. (1997). Socio-technical systems theory: An intervention strategy for organizational development. Management Decision, 35(6), 452-463.
+- <span id="trist1981"></span> **Trist, E. (1981).** *The evolution of socio-technical systems: A conceptual framework and an action research program*. Occasional Paper, Ontario Quality of Working Life Centre.
+- <span id="appelbaum1997"></span> **Appelbaum, S. H. (1997).** *Socio-technical systems theory: An intervention strategy for organizational development*. Management Decision, 35(6), 452–463.
+- <span id="martindale2013"></span> **Martindale, V., & Menache, A. (2013).** *The PIP scandal: an analysis of the process of quality control that failed to safeguard women from the health risks*. Journal of the Royal Society of Medicine, 106(5), 173–177.
+- <span id="smulders2008"></span> **Smulders, F., Lousberg, L., & Dorst, K. (2008).** *Explicable knowledge in product service systems design*. Design Studies, 29(4), 368–386.
+- <span id="dahlgren2021"></span> **Dahlgren, G., & Whitehead, M. (2021).** *The Dahlgren-Whitehead model of health determinants: 30 years on and still chasing rainbows*. Public Health, 199, 20–24.
+- <span id="simonse2019"></span> **Simonse, L., Albayrak, A., & Starre, S. (2019).** *Patient journey method for integrated service design*. Design for Health, 3(1), 82–97.
+- <span id="vandekerckhove2020"></span> **Vandekerckhove, P., De Mul, M., Bramer, W. M., & De Bont, A. A. (2020).** *Generative participatory design methodology to develop electronic health interventions: systematic literature review*. Journal of Medical Internet Research, 22(4), e13780.
+- <span id="akrouh2024"></span> **Akrouh, N., Wehrens, R., & van de Bovenkamp, H. (2024).** *Engaging citizens in experiments with computational analysis of patient stories: From unwarranted reductions to meaningful insights*. Big Data & Society, 11(4), 20539517241290218.
+- <span id="jung2023"></span> **Jung, J., Kim, K. H., Peters, T., Snelders, D., & Kleinsmann, M. (2023).** *Advancing design approaches through data-driven techniques: patient community journey mapping using online stories and machine learning*. International Journal of Design, 17(2), 19-44.
+- <span id="vandekerckhove2020video"></span> **Vandekerckhove, P., Vandekerckhove, Y., Tavernier, R., De Jaegher, K., & De Mul, M. (2020).** *Leveraging user experience to improve video consultations in a cardiology practice during the COVID-19 pandemic: initial insights*. Journal of Medical Internet Research, 22(6), e19771.
+- <span id="kraus2021"></span> **Kraus, S., Schiavone, F., Pluzhnikova, A., & Invernizzi, A. C. (2021).** *Digital transformation in healthcare: Analyzing the current state-of-research*. Journal of Business Research, 123, 557–567.
+- <span id="porter2010"></span> **Porter, M. E. (2010).** *What is value in health care?* New England Journal of Medicine, 363(26), 2477–2481.
+- <span id="nejm2017"></span> **NEJM Catalyst. (2017).** *What is value-based healthcare?* NEJM Catalyst, 3(1). [Available here](https://catalyst.nejm.org/doi/full/10.1056/cat.17.0558)
+- <span id="reindersma2024"></span> **Reindersma, M., et al. (2024).** *The challenges of implementing value-based healthcare: A systematic review*. Journal of Health Management, 32(1), 56–73.
+- <span id="vanelten2023"></span> **Van Elten, H. J., Howard, S. W., De Loo, I., & Schaepkens, F. (2023).** *Reflections on managing the performance of value-based healthcare: a scoping review*. International Journal of Health Policy and Management, 12, 7366.
+- <span id="healthcaretransformers2022"></span> **Healthcare Transformers. (2022).** *Collaborating for value - The Santeon Hospitals in the Netherlands*. Retrieved from https://www.ichom.org/resource/collaborating-for-value-the-santeon-hospitals-in-the-netherlands/
+- <span id="okunade2017"></span> **Okunade, O., Arora, J., Haverhals, A., & Niessen, L. (2017).** *Collaborating for value: the Santeon Hospitals in the Netherlands*. International Consortium for Health Outcomes Measurement: Cambridge, MA, USA. Retrieved from https://www.ichom.org/resource/collaborating-for-value-the-santeon-hospitals-in-the-netherlands/
+- <span id="vanEngen2024"></span> **van Engen, V., Buljac-Samardzic, M., Baatenburg de Jong, R., Braithwaite, J., Ahaus, K., Den Hollander-Ardon, M., ... & Bonfrer, I. (2024).** *A decade of change towards Value-Based Health Care at a Dutch University Hospital: a complexity-informed process study*. Health Research Policy and Systems, 22(1), 94.
+- <span id="vanderVoorden2023"></span> **van der Voorden, M., Sipma, W. S., de Jong, M. F. C., Franx, A., & Ahaus, K. C. T. B. (2023).** *The immaturity of patient engagement in value-based healthcare—A systematic review*. Frontiers in Public Health, 11, 1144027. doi: [10.3389/fpubh.2023.1144027](https://doi.org/10.3389/fpubh.2023.1144027)
+- <span id="whyte2024"></span> **Whyte, M. B., Elias, R., & Cooke, D. (2024).** *Exploration of the social and philosophical underpinning of ‘the patient’—what this means for people with a long-term condition*. Humanities and Social Sciences Communications, 11(1), 1-6. [Available here](https://www.nature.com/articles/s41599-024-02729-8)
+- <span id="sipma2023"></span> **Sipma, W. S., de Jong, M. F., & Ahaus, K. C. (2023).** *“It’s My Life and It’s Now or Never”—Transplant Recipients Empowered From a Service-Dominant Logic Perspective*. Transplant International, 36, 12011.
+- <span id="bosveld2024"></span> **Bosveld, M. H., Smits, A. G. M., Mertens, H. J. M. M., Zandvoort, M. J. J. M. van, Mook, W. N. K. A. van, & Bokhoven, M. A. van. (2024).** *Patients and informal caregivers in the lead: A qualitative study on the experiences of patients, informal caregivers, and healthcare professionals with involvement in treatment, e-health and self-management programs*. BMC Health Services Research, 24(1), 713. https://doi.org/10.1186/s12913-024-11156-z
+- <span id="visser2024"></span> **Visser, M., ‘t Hart, N., de Mul, M., & Weggelaar-Jansen, A. M. (2024).** *The Perspectives of Healthcare Professionals and Managers on Patient Involvement in Care Pathway Development: A Discourse Analysis*. Health Expectations, 27(3), e14101. https://doi.org/10.1111/hex.14101
+- <span id="collins2015"></span> **Collins, F. S., & Varmus, H. (2015).** *A new initiative on precision medicine*. The New England Journal of Medicine, 372(9), 793–795. https://doi.org/10.1056/NEJMp1500523
+- <span id="pampaloni2007"></span> **Pampaloni, F., Reynaud, E. G., & Stelzer, E. H. (2007).** *The third dimension bridges the gap between cell culture and live tissue*. Nature Reviews Molecular Cell Biology, 8(10), 839–845. https://doi.org/10.1038/nrm2236
+- <span id="sipma2023a"></span> **Sipma, W. S., de Jong, M. F., Meuleman, Y., Hemmelder, M. H., Ahaus, K. C. T. B. (2023).** *Facing the challenges of PROM implementation in Dutch dialysis care: Patients’ and professionals’ perspectives.* PLoS ONE, 18(5): e0285822. doi: 10.1371/journal.pone.0285822
+- <span id="vaneenbergen2017"></span> **Van Eenbergen, M. C., Van de Poll-Franse, L. V., Heine, P., & Mols, F. (2017).** *The impact of participation in online cancer communities on patient reported outcomes: systematic review*. JMIR cancer, 3(2), e7312. https://doi.org/10.2196/cancer.7312
+- <span id="vaneenbergen2018"></span> **Van Eenbergen, M. C., van de Poll-Franse, L. V., Krahmer, E., Verberne, S., & Mols, F. (2018).** *Analysis of content shared in online cancer communities: systematic review*. JMIR cancer, 4(1), e7926. https://doi.org/10.2196/cancer.7926
+- <span id="vaneenbergen2018a"></span> **Van Eenbergen, M. C., van Engelen, H., Ezendam, N. P. M., van de Poll-Franse, L. V., Tates, K., & Krahmer, E. J. (2018).** *Paying attention to relatives of cancer patients: What can we learn from their online writings?* Patient Education and Counseling, 101(11), 1985-1992. https://doi.org/10.1016/j.pec.2018.11.004
+- <span id="vaneenbergen2019"></span> **Van Eenbergen, M. C., van den Hurk, C., Mols, F., & van de Poll-Franse, L. V. (2019).** *Usability of an online application for reporting the burden of side effects in cancer patients.* Supportive Care in Cancer, 27, 3411-3419. https://doi.org/10.1007/s00520-019-04652-0
+- <span id="desmet2020"></span> **Desmet, P., & Fokkinga, S. (2020).** *Beyond Maslow’s pyramid: Introducing a typology of thirteen fundamental needs for human-centered design.* Multimodal Technologies and Interaction, 4(3), 38.
+- <span id="oecd2025"></span> **OECD (2025).** *Does Healthcare Deliver?: Results from the Patient-Reported Indicator Surveys (PaRIS).* OECD Publishing, Paris. https://doi.org/10.1787/c8af05a5-en.
+- <span id="gedney2020"></span> **Gedney, N., Sipma, W., & Søndergaard, H. (2020).** Innovations in dialysis: the user’s perspective. *Nature Reviews Nephrology, 16*, 544–545. https://doi.org/10.1038/s41581-020-0292-7.
+- <span id="deVries2023"></span> **de Vries, H. J., Sipma, W. S., Gansevoort, R. T., Brouwer, S., & Visser, A. (2023).** Development and implementation of work-oriented clinical care to empower patients with kidney disease: an adapted intervention mapping approach. *BMC Health Services Research, 23*(1), 329. https://doi.org/10.1186/s12913-023-09307-9.
+- <span id="Sipma2025"></span> **Sipma, W. S., Van Londen, M., Visser, A., De Jong, M. F., & Ahaus, K. C. (2025).** Improving healthcare services for living kidney donors: an experience-based approach in the Netherlands. *Frontiers in Public Health, 13*, 1512852.
+- <span id="Mullaney2012"></span> **Mullaney, T., Pettersson, H., Nyholm, T., & Stolterman, E. (2012).** Thinking beyond the cure: A case for human-centered design in cancer care. *International Journal of Design, 6*(3), 27-39.
+- <span id="WHO2021"></span> **World Health Organization. (2021).** Cancer in children. Retrieved from [https://www.who.int/news-room/fact-sheets/detail/cancer-in-children](https://www.who.int/news-room/fact-sheets/detail/cancer-in-children)
+- <span id="Alvarez2022"></span> **Alvarez, E. M., Mokdad, A. H., Molokhia, M., Momtazmanesh, S., Monasta, L., Moni, M. A., ... & Bhakta, N. (2022).** The global burden of adolescent and young adult cancer in 2019: a systematic analysis for the Global Burden of Disease Study 2019. *Lancet Oncology*, 23(1), 27-52. [https://doi.org/10.1016/S1470-2045(21)00581-7](https://doi.org/10.1016/S1470-2045(21)00581-7)
+- <span id="Atema2022"></span> **Atema, V., Bretveld, H., Brink, M., Buisman, H., Derksen-Peters, E., Vlooswijk, C., ... & van der Aa, M. (2022).** Kanker bij jongvolwassenen. [*Source or publication details if available*].
+- <span id="Jansen2018"></span> **Jansen, R., Kaal, S. E. J., Schreuder-Cats, M., & Manten-Horst, E. (2018).** The Dutch AYA outpatient clinic: Support and counselling during and after cancer treatment. In *Nursing Adolescents and Young Adults with Cancer: Developing Knowledge, Competence and Best Practice* (pp. 157-172). Springer International Publishing. https://doi.org/10.1007/978-3-319-73555-9_10.
+- <span id="Zebrack2013"></span> **Zebrack, B. J., Block, R., Hayes-Lattin, B., Embry, L., Aguilar, C., Meeske, K. A., ... & Cole, S. (2013).** Psychosocial service use and unmet need among recently diagnosed adolescent and young adult cancer patients. *Cancer*, 119(1), 201–214. https://doi.org/10.1002/cncr.27713.
+- <span id="Wettergren2017"></span> **Wettergren, L., Kent, E. E., Mitchell, S. A., Zebrack, B., Lynch, C. F., Rubenstein, M. B., ... & Smith, A. W. (2017).** Cancer negatively impacts on sexual function in adolescents and young adults: The AYA HOPE study. *Psycho-Oncology*, 26(10), 1632–1639. https://doi.org/10.1002/pon.4181.
+- <span id="Husson2017"></span> **Husson, O., Zebrack, B. J., Block, R., Embry, L., Aguilar, C., Hayes-Lattin, B., & Cole, S. (2017).** Health-Related Quality of Life in Adolescent and Young Adult Patients With Cancer: A Longitudinal Study. *Journal of Clinical Oncology*, 35(6), 652–659. https://doi.org/10.1200/JCO.2016.69.7946.
+- <span id="Albers2021"></span> **Albers, T., Weiss, L. A., Sleeman, S. H. E., & Husson, O. (2021).** Evaluation of a Positive Psychology Group Intervention in Nature for Young Cancer Survivors to Promote Well-Being and Post-Cancer Identity Development. *Journal of Adolescent and Young Adult Oncology*, 10(4), 404–417. https://doi.org/10.1089/jayao.2020.0147.
+- <span id="AYA2019"></span> **Nationaal AYA Jong en Kanker Zorgnetwerk. (2019).** *IK en mijn - Nationaal AYA Jong en Kanker Zorgnetwerk*. Retrieved from https://aya4net.nl/ik-en-mijn/
+- <span id="Rosenthal2005"></span> **Rosenthal, D. S., & Dean-Clower, E. (2005).** *Integrative medicine in hematology/oncology: benefits, ethical considerations, and controversies*. Hematology / the Education Program of the American Society of Hematology, 491–497. https://doi.org/10.1182/asheducation-2005.1.491
+- <span id="Vandekerckhove2021"></span> **Vandekerckhove, P., De Mul, M., De Groot, L., Elzevier, H. W., Fabels, B., Haj Mohammad, S., ... & Manten-Horst, E. (2021).** *Lessons for employing participatory design when developing care for young people with cancer: A qualitative multiple-case study*. Journal of Adolescent and Young Adult Oncology, 10(4), 404–417. https://doi.org/10.1089/jayao.2020.0098
+- <span id="Burgers2022"></span> **Burgers, V. W., van den Bent, M. J., Rietjens, J. A., Roos, D. C., Dickhout, A., Franssen, S. A., ... & Husson, O. (2022).** “Double awareness”—adolescents and young adults coping with an uncertain or poor cancer prognosis: A qualitative study. *Frontiers in Psychology, 13*, 1026090. https://doi.org/10.3389/fpsyg.2022.1026090
+- <span id="SEPZen"></span> **Stanford Encyclopedia of Philosophy. (n.d.).** Japanese Zen. Retrieved from https://plato.stanford-edu.tudelft.idm.oclc.org/entries/japanese-zen/#ZenSeei
+- <span id="Hadot1995"></span> **Hadot, P. (1995).** *Philosophy as a Way of Life: Spiritual Exercises from Socrates to Foucault*. Blackwell Publishing.
 
-Burgers, V. W., van den Bent, M. J., Rietjens, J. A., Roos, D. C., Dickhout, A., Franssen, S. A., ... & Husson, O. (2022). “Double awareness”—adolescents and young adults coping with an uncertain or poor cancer prognosis: A qualitative study. Frontiers in Psychology, 13, 1026090.
 
-Collins, F. S., & Varmus, H. (2015). A new initiative on precision medicine. The New England Journal of Medicine, 372(9), 793–795. https://doi.org/10.1056/NEJMp1500523
 
-Healthcare Transformers. (2022). Collaborating for value - The Santeon Hospitals in the Netherlands. Retrieved from https://www.ichom.org/resource/collaborating-for-value-the-santeon-hospitals-in-the-netherlands/
 
-Kraus, S., Schiavone, F., Pluzhnikova, A., & Invernizzi, A. C. (2021). Digital transformation in healthcare: Analyzing the current state-of-research. Journal of Business Research, 123, 557-567.
 
-Pampaloni, F., Reynaud, E. G., & Stelzer, E. H. (2007). The third dimension bridges the gap between cell culture and live tissue. Nature Reviews Molecular Cell Biology, 8(10), 839–845. https://doi.org/10.1038/nrm2236
 
-Porter, M. E. (2010). What is value in health care? New England Journal of Medicine, 363(26), 2477-2481.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Ramirez, B. (2008). Social determinants of health
 
-Reindersma, M., et al. (2024). The challenges of implementing value-based healthcare: A systematic review. Journal of Health Management, 32(1), 56-73.
 
-Smulders, F., Lousberg, L., & Dorst, K. (2008). Explicable knowledge in product service systems design. Design Studies, 29(4), 368-386.
 
-Trist, E. (1981). The evolution of socio-technical systems: A conceptual framework and an action research program. Occasional Paper, Ontario Quality of Working Life Centre.
 
 TU Delft Open Course. (n.d.). Design healthcare using patient journey mapping. Retrieved from https://ocw.tudelft.nl/courses/design-healthcare-using-patient-journey-mapping/?view=lectures&subject=22696
 
-Van Elten, H. J., Howard, S. W., De Loo, I., & Schaepkens, F. (2023). Reflections on managing the performance of value-based healthcare: a scoping review. International Journal of Health Policy and Management, 12, 7366.
 
 
-1. Vandekerckhove, P., Vandekerckhove, Y., Tavernier, R., De Jaegher, K., & De Mul, M. (2020). Leveraging user experience to improve video consultations in a cardiology practice during the COVID-19 pandemic: initial insights. Journal of Medical Internet Research, 22(6), e19771.
-2. Goossens, R., & Albayrak, A. (2020). Design in Healthcare: Using Patient Journey Mapping. TU Delft.
-3. Melles, M., Albayrak, A., & Goossens, R. (2020). Innovating health care: Key characteristics of human-centered design. International Journal for Quality in Health Care, 33(Suppl 1), 37–44. https://doi.org/10.1093/intqhc/mzaa127
-4. Smulders, F., van der Meer, H., & Gielen, M. (2008). Effective communication strategies in collaborative design. Design Studies, 29(5), 421-437.
-5. Simonse, L., Albayrak, A., & Starre, S. (2019). Patient journey method for integrated service design. Design for Health, 3(1), 82-97.
-6. Vandekerckhove, P., De Mul, M., Bramer, W. M., & De Bont, A. A. (2020). Generative participatory design methodology to develop electronic health interventions: systematic literature review. Journal of Medical Internet Research, 22(4), e13780.
-### Key References
 
-- Vandekerckhove, P., De Mul, M., Bramer, W. M., & De Bont, A. A. (2020). Generative participatory design methodology to develop electronic health interventions: systematic literature review. Journal of Medical Internet Research, 22(4), e13780.
-- Vandekerckhove, P., Vandekerckhove, Y., Tavernier, R., De Jaegher, K., & De Mul, M. (2020). Leveraging user experience to improve video consultations in a cardiology practice during the COVID-19 pandemic: initial insights. Journal of Medical Internet Research, 22(6), e19771.
-- Simonse, L., Albayrak, A., & Starre, S. (2019). Patient journey method for integrated service design. Design for Health, 3(1), 82-97.
-- Mullaney, T., Pettersson, H., Nyholm, T., & Stolterman, E. (2012). Thinking beyond the cure: A case for human-centered design in cancer care. International Journal of Design, 6(3), 27-39.
+Goossens, R., & Albayrak, A. (2020). Design in Healthcare: Using Patient Journey Mapping. TU Delft.
 
-Burgers, V. W., van den Bent, M. J., Rietjens, J. A., Roos, D. C., Dickhout, A., Franssen, S. A., ... & Husson, O. (2022). “Double awareness”—adolescents and young adults coping with an uncertain or poor cancer prognosis: A qualitative study. Frontiers in Psychology, 13, 1026090.
-Stanford Encyclopedia of Philosophy. (n.d.). Japanese Zen. Retrieved from https://plato.stanford-edu.tudelft.idm.oclc.org/entries/japanese-zen/#ZenSeei
-Hadot, P. (1995). Philosophy as a Way of Life: Spiritual Exercises from Socrates to Foucault. Blackwell Publishing.
-```
+Melles, M., Albayrak, A., & Goossens, R. (2020). Innovating health care: Key characteristics of human-centered design. International Journal for Quality in Health Care, 33(Suppl 1), 37–44. https://doi.org/10.1093/intqhc/mzaa127
+
+Smulders, F., van der Meer, H., & Gielen, M. (2008). Effective communication strategies in collaborative design. Design Studies, 29(5), 421-437.
