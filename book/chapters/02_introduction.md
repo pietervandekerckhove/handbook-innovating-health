@@ -3,7 +3,7 @@
 <center>
   <div style="padding: 10px; background-color: #00BBC8; border-radius: 10px; display: inline-block; font-weight: bold; font-size: 16px; color: #000; position: relative;">
     <span style="background-color: white; color: #00BBC8; border-radius: 50%; padding: 5px 10px; font-size: 15px; font-weight: bold; margin-right: 8px; display: inline-block;">Learning goal</span>
-  Be able to provide 3 key arguments why a patient-centered healthcare entrepreneurship is different from traditional entrepreneurship and health services management
+  Be able to provide 3 key arguments why healthcare entrepreneurship is different from traditional entrepreneurship and health services management
   </div>
 </center>
 <br>
