@@ -317,6 +317,11 @@ Ideally, connect with one or two key stakeholders in the field. Look for friends
 Research tools to prepare a qualitative interview: check out the generative AI tool called the Autonomous customer inteviewer made by prof Dries Faems: https://automaticinterviewerpublic-owoskccwim2h9e5nynhsix.streamlit.app/ 
 ```
 
+````{admonition} Watch this video by prof. Dries Faems where he explains the AI tools you can use to develop and test interviews:
+```{video} https://youtube.com/watch?v=eIaTCcU-bQs&si=ZWKzF26l6WDGOcrh
+```
+````
+
 
 **Observation:**
 Find a relevant place, such as a healthcare organization you have access to. Be as unobtrusive as possible—try to blend in like a plant in the corner. Be in the middle of the action where the problem may occur, but in a spot where you are unnoticed. Ensure you have permission to be there and are not infringing on anyone's privacy.
