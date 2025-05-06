@@ -67,7 +67,7 @@ Research questions and ventures:
             * Case study about integration output for a new planning system in oncology (data collection planned 2025, PhD student SUSTAIN)
 
 ## Chapter 4: What is the impact of a mission on patient-centered care
-* How does a sustainability mission influence the innovation pathways for medical devices and robotics? (Collaboration Bart Verstraten, Tim Horeman)
+* How does a sustainability mission influence the innovation pathways for medical devices and robotics? (Collaboration Bart Verstraten, Tim Horeman)(check idea PhD Martijn de Vries, steerable needle, UMC Innovation manager)
 
 ## Chapter 5: Defining the value of a problem-solution in a care pathway
 *  How to define the problem-solution in a care pathway?
@@ -75,6 +75,9 @@ Research questions and ventures:
 
 * What human experience from young cancer patients can be used for patient-centered innovation?
     * A Framework for integrating young adult cancer patient experience in innovations early on: (interviews with patients conducted and data collection in progress)
+    
+        * Master thesis: Danielle: double awareness of cancer patients experience and how new technologies can tackle these deeper lying experiences
+
 
 
 ## Chapter 6: Developing and engineering a prototyping pipeline in line with a financial strategy
