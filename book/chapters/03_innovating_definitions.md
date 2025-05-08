@@ -182,6 +182,10 @@ Initiation phase:
 Choose a challenge, apply the entrepreneurial behaviors to map out the roles and tasks of the team members, develop a team name
 ```
 
+## Test your knowledge
+```{h5p} https://tudelft.h5p.com/content/1292580858819030717/embed
+```
+
 
 ```{admonition} Bibliography
 :class: note 
