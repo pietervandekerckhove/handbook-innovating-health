@@ -647,6 +647,9 @@ Master/Graduate level:
 * Tip: discuss and report in the explore and creat phase whether you can use the trend of value-based healthcare or patient-centered care can be a catalyst for your innovation
 ```
 
+## Test your knowledge
+```{h5p} https://tudelft.h5p.com/content/1292586819517102137/embed
+```
 
 ```{admonition} Bibliography
 :class: note 

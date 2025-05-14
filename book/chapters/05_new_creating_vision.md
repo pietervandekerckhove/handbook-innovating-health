@@ -149,6 +149,9 @@ A clear vision serves as the foundation for innovation in healthcare. By underst
 Usa a vision to focus your research + develop need statement 
 ```
 
+## Test your knowledge
+```{h5p} https://tudelft.h5p.com/content/1292586813167449847/embed
+```
 
 ```{admonition} Bibliography
 :class: note 
