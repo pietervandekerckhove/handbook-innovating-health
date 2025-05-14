@@ -8,16 +8,21 @@
 </center>
 <br>
 
-````{admonition} This is an experimental podcast developed by Google's NotebookLM based on this chapter.
+````{admonition} This is an experimental podcast developed by Google's NotebookLM based on this chapter. This is an AI tool in development and needs to be used with caution.
 
-```<iframe src="https://notebooklm.google.com/notebook/0b64989a-6606-4fe2-899f-8a705f69466a/audio" width="400" height="100" frameborder="0"></iframe>
-```
+<audio controls>
+  <source src="/Users/pvandekerckhov/Documents/GitHub/handbook-innovating-health/book/audio/Open handbook Value Innovation in healthcare_ an introduction-Pieter Vandekerckhove.wav" type="audio/wav">
+  <source src="book/audio/Open handbook Value Innovation in healthcare_ an introduction-Pieter Vandekerckhove.wav" type="audio/wav">
+Your browser does not support the audio element.
+</audio>
 ````
 
-<iframe src="https://notebooklm.google.com/notebook/0b64989a-6606-4fe2-899f-8a705f69466a/audio" width="400" height="100" frameborder="0"></iframe>
 
-```{iframe} <https://notebooklm.google.com/notebook/0b64989a-6606-4fe2-899f-8a705f69466a/audio>
-```
+<audio controls>
+  <source src="/Users/pvandekerckhov/Documents/GitHub/handbook-innovating-health/book/audio/Open handbook Value Innovation in healthcare_ an introduction-Pieter Vandekerckhove.wav" type="audio/wav">
+  <source src="book/audio/Open handbook Value Innovation in healthcare_ an introduction-Pieter Vandekerckhove.wav" type="audio/wav">
+Your browser does not support the audio element.
+</audio>
 
 
 
