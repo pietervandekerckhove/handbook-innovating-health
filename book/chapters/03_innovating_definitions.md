@@ -14,6 +14,25 @@ Photo/Julien Tromeur:https://unsplash.com/photos/a-3d-image-of-a-human-with-a-re
 </center>
 <br>
 
+
+````{admonition} This is an experimental podcast developed by Google's NotebookLM based on this chapter. This is an AI tool in development and needs to be used with caution.
+
+<audio controls>
+  <source src="/Users/pvandekerckhov/Documents/GitHub/handbook-innovating-health/book/audio/Podcast chapter definitions.wav" type="audio/wav">
+  <source src="/Users/pvandekerckhov/Documents/GitHub/handbook-innovating-health/book/audio/Podcast chapter definitions.wav" type="audio/wav">
+Your browser does not support the audio element.
+</audio>
+````
+
+
+<audio controls>
+  <source src="/Users/pvandekerckhov/Documents/GitHub/handbook-innovating-health/book/audio/Podcast chapter definitions.wav" type="audio/wav">
+  <source src="/Users/pvandekerckhov/Documents/GitHub/handbook-innovating-health/book/audio/Podcast chapter definitions.wav" type="audio/wav">
+Your browser does not support the audio element.
+</audio>
+
+
+
 ## Introduction
 In the dynamic landscape of health organizations, innovation and entrepreneurship at the individual level are crucial for driving progress and fostering continuous improvement. This chapter explores how individuals can harness their creativity, skills, and passion to make a meaningful impact in healthcare.
 

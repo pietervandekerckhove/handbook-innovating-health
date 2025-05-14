@@ -25,6 +25,7 @@ Your browser does not support the audio element.
 </audio>
 
 
+<iframe title="Introduction to the handbook by Google NotebookLM" allowtransparency="true" height="150" width="100%" style="border: none; min-width: min(100%, 430px);height:150px;" scrolling="no" data-name="pb-iframe-player" src="https://www.podbean.com/player-v2/?i=aarwv-18aaeed-pb&from=pb6admin&share=1&download=1&rtl=0&fonts=Arial&skin=1&font-color=auto&logo_link=episode_page&btn-skin=7" loading="lazy"></iframe>
 
 
 ## Why do we need to innovate healthcare through entrepreneurial behavior?
