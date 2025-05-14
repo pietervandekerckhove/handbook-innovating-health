@@ -32,6 +32,7 @@ Your browser does not support the audio element.
 </audio>
 
 
+<iframe title="Defining Innovating by Google NotebookLM" allowtransparency="true" height="150" width="100%" style="border: none; min-width: min(100%, 430px);height:150px;" scrolling="no" data-name="pb-iframe-player" src="https://www.podbean.com/player-v2/?i=89sz3-18aaf05-pb&from=pb6admin&share=1&download=1&rtl=0&fonts=Arial&skin=1&font-color=auto&logo_link=episode_page&btn-skin=7" loading="lazy"></iframe>
 
 ## Introduction
 In the dynamic landscape of health organizations, innovation and entrepreneurship at the individual level are crucial for driving progress and fostering continuous improvement. This chapter explores how individuals can harness their creativity, skills, and passion to make a meaningful impact in healthcare.
