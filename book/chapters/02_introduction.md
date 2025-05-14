@@ -8,6 +8,15 @@
 </center>
 <br>
 
+````{admonition} This is an experimental podcast developed by Google's NotebookLM based on this chapter.
+
+```<iframe src="https://notebooklm.google.com/notebook/0b64989a-6606-4fe2-899f-8a705f69466a/audio" width="400" height="100" frameborder="0" allow="autoplay"></iframe>
+```
+````
+
+<iframe src="https://notebooklm.google.com/notebook/0b64989a-6606-4fe2-899f-8a705f69466a/audio" width="400" height="100" frameborder="0" allow="autoplay"></iframe>
+
+
 
 ## Why do we need to innovate healthcare through entrepreneurial behavior?
 Healthcare is a sector that is constantly evolving, with daily innovations transforming the way we provide and receive care. However, despite this continuous stream of new ideas and technologies, the innovation process in healthcare is often flawed ([Collins et al., 2023](#collins)). Some innovations with great potential are never realized, while others, which are clearly not beneficial for the user and sometimes not sustainable, such as electronic medical records, are implemented. This raises the question: what is going wrong in the healthcare innovation process?
