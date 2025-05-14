@@ -10,11 +10,15 @@
 
 ````{admonition} This is an experimental podcast developed by Google's NotebookLM based on this chapter.
 
-```<iframe src="https://notebooklm.google.com/notebook/0b64989a-6606-4fe2-899f-8a705f69466a/audio" width="400" height="100" frameborder="0" allow="autoplay"></iframe>
+```<iframe src="https://notebooklm.google.com/notebook/0b64989a-6606-4fe2-899f-8a705f69466a/audio" width="400" height="100" frameborder="0"></iframe>
 ```
 ````
 
-<iframe src="https://notebooklm.google.com/notebook/0b64989a-6606-4fe2-899f-8a705f69466a/audio" width="400" height="100" frameborder="0" allow="autoplay"></iframe>
+<iframe src="https://notebooklm.google.com/notebook/0b64989a-6606-4fe2-899f-8a705f69466a/audio" width="400" height="100" frameborder="0"></iframe>
+
+```{iframe} <https://notebooklm.google.com/notebook/0b64989a-6606-4fe2-899f-8a705f69466a/audio>
+```
+
 
 
 
