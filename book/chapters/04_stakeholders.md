@@ -506,6 +506,10 @@ Innovation pathways in healthcare are evolving to accommodate new technological 
 Define your challenge with stakeholder involvement strategy to front-load their knowledge
 ```
 
+## Test your knowledge
+```{h5p} https://tudelft.h5p.com/content/1292586809648579677/embed
+```
+
 ```{admonition} Bibliography
 :class: note 
 

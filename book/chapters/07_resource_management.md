@@ -151,5 +151,10 @@ Master/Graduate level:
 * Tip: Calculate a financial strategy for 2 years and 5 years, showing basic elements in your balance sheet and taking into account alternative payment models and complex revenue streams
 ```
 
+## Test your knowledge
+```{h5p} https://tudelft.h5p.com/content/1292586822984235077/embed
+```
+
+
 ```{admonition} Bibliography
 :class: note 
