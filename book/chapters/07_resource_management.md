@@ -8,6 +8,15 @@
 </center>
 <br>
 
+```{admonition} This is an experimental podcast developed by Google's NotebookLM based on this chapter. This is an AI tool in development and needs to be used with caution.
+
+<audio controls>
+  <source src="../audio/podcast_chapter_7.mp3" type="audio/mp3">
+  <source src="../audio/podcast_chapter_7.mp3" type="audio/mp3">
+Your browser does not support the audio element.
+</audio>
+````
+
 ## Introduction
 
 Understanding the types of resources and funds required for survival and the structure of financial revenue streams is crucial for healthcare innovation. This chapter will guide you through mapping out different revenue streams at various levels, including care organizations, regional networks, and national organizations. This will help you to strategically assess how to develop your prototype from a paper sketch to functional minimum viable product with a financial plan underlying your prototype development.

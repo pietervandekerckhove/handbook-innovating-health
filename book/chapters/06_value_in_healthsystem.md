@@ -8,6 +8,15 @@
 </center>
 <br>
 
+```{admonition} This is an experimental podcast developed by Google's NotebookLM based on this chapter. This is an AI tool in development and needs to be used with caution.
+
+<audio controls>
+  <source src="../audio/podcast_chapter_6.mp3" type="audio/mp3">
+  <source src="../audio/podcast_chapter_6.mp3" type="audio/mp3">
+Your browser does not support the audio element.
+</audio>
+````
+
 ## Introduction
 Welcome to this chapter on understanding how differences between socio-technical product service systems at various levels impact the health innovation pathway. In today's rapidly evolving healthcare landscape, it is crucial to recognize the interplay between technology, services, and societal factors. This chapter aims to equip you with the knowledge to navigate these complexities and drive meaningful innovations in health.
 
