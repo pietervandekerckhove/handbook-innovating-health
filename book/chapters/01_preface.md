@@ -7,7 +7,7 @@
 
 For licensing and credits see: see how to cite an use this open interactive handbook (see Credits and license  chapter)
 
-```{admonition} This is an experimental podcast developed by Google's NotebookLM based on this chapter. This is an AI tool in development and needs to be used with caution.
+```{admonition} This is an experimental podcast developed by Google's NotebookLM based on this book. This is an AI tool in development and needs to be used with caution.
 
 <audio controls>
   <source src="../audio/podcast_overview.wav" type="audio/mp3">
