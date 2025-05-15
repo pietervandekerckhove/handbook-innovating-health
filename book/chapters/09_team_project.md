@@ -8,6 +8,15 @@
 </center>
 <br>
 
+```{admonition} This is an experimental podcast developed by Google's NotebookLM based on this chapter. This is an AI tool in development and needs to be used with caution.
+
+<audio controls>
+  <source src="../audio/podcast_chapter_8.mp3" type="audio/mp3">
+  <source src="../audio/podcast_chapter_8.mp3" type="audio/mp3">
+Your browser does not support the audio element.
+</audio>
+````
+
 
 ## Introduction
 In this chapter we will explain the team project with the aim to apply generative co-design sessions and business development tools to guide strategic decisions across the basic innovation cycle with a team challenge. In this process you will follow the steps of the IDER model, but instead of doing every process in paralel, you need to go through the process in a linear way with the basic innovation cycle.
@@ -41,7 +50,7 @@ develop a sustainable revenue strategy to prevent financial risk
 ### Assemble your team
 Get Everyone on Board: The first step in any successful project is assembling a team that is committed and enthusiastic about the project's goals. Ensure that each team member understands the vision and objectives, fostering a sense of shared purpose and collaboration.
 
-In case you do not have a team yet go through the stakeholder assembly procedure in chapter 5 (add link). In case you have been assigned a team, skip the recruitment step and map out the knowledge domains and skills of every team member.
+In case you do not have a team yet go through the stakeholder assembly procedure in chapter 5 (add link book/chapters/04_stakeholders.md). In case you have been assigned a team, skip the recruitment step and map out the knowledge domains and skills of every team member.
 
 ### Project management
 1. Develop a Team Name: Creating a team name can help build identity and unity. A team name fosters a sense of belonging and can be a fun way to encourage team spirit and camaraderie.
