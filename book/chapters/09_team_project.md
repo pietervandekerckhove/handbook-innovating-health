@@ -11,8 +11,8 @@
 ```{admonition} This is an experimental podcast developed by Google's NotebookLM based on this chapter. This is an AI tool in development and needs to be used with caution.
 
 <audio controls>
-  <source src="../audio/podcast_chapter_8.mp3" type="audio/mp3">
-  <source src="../audio/podcast_chapter_8.mp3" type="audio/mp3">
+  <source src="../audio/podcast_chapter_9.mp3" type="audio/mp3">
+  <source src="../audio/podcast_chapter_9.mp3" type="audio/mp3">
 Your browser does not support the audio element.
 </audio>
 ````
