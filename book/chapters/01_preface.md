@@ -6,9 +6,17 @@
 **Authors: Pieter Bart Marcel Vandekerckhove, Bettina Maisch, Steven Howard, Frido Smulders, Benjamin Harris, Samuel Harris, Christophe Van Neste, Wiljeana Glover**
 
 For licensing and credits see: see how to cite an use this open interactive handbook (see Credits and license  chapter)
+
+```{admonition} This is an experimental podcast developed by Google's NotebookLM based on this chapter. This is an AI tool in development and needs to be used with caution.
+
+<audio controls>
+  <source src="../audio/podcast_overview.wav" type="audio/mp3">
+  <source src="../audio/podcast_overview.wav" type="audio/mp3">
+Your browser does not support the audio element.
+</audio>
+````
+
 ## Preface
-
-
 Healthcare innovation holds immense potential to improve lives, yet many promising ideas never reach the patients who need them most. As an educator and researcher at TU Delft, I have seen how technical breakthroughs often struggle to scale beyond prototypes, failing to integrate into hospital systems or national healthcare policies. This challenge is not just technical, it is fundamentally entrepreneurial.
 
 This realization led me to develop and teach a course on healthcare entrepreneurship, aimed at equipping students with the knowledge and skills to navigate this complex landscape. Over the years, I have seen how a multidisciplinary, interactive approach fosters a deeper understanding of what it takes to bring healthcare innovations to market. However, I also recognized the limitations of traditional classroom teaching. I wanted to extend this learning experience to a much wider audience, both at TU Delft and beyond.
