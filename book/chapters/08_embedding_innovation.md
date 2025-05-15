@@ -7,6 +7,16 @@
   </div>
 </center>
 
+```{admonition} This is an experimental podcast developed by Google's NotebookLM based on this chapter. This is an AI tool in development and needs to be used with caution.
+
+<audio controls>
+  <source src="../audio/podcast_chapter_8.mp3" type="audio/mp3">
+  <source src="../audio/podcast_chapter_8.mp3" type="audio/mp3">
+Your browser does not support the audio element.
+</audio>
+````
+
+
 ## Introduction
 
 In the rapidly evolving field of healthcare entrepreneurship, the ability to integrate innovation sustainably within an organization and scale it across other healthcare organizations is crucial. You may not expect this, but by now you have probably realised that developing a delightful and excellent product that perfectly fist the market needs is not enough to gain traction in STPSS health systems. This chapter aims to help you start to develop a strategy for embedding innovation processes and developing a plan with key innovation pathway steps towards long-term sustainability and impact. By understanding and applying these strategies, you can ensure that your innovative ideas are effectively integrated into your organization, fostering a culture of continuous improvement and growth.
