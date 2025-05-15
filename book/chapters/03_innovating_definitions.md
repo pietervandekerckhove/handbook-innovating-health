@@ -15,11 +15,11 @@ Photo/Julien Tromeur:https://unsplash.com/photos/a-3d-image-of-a-human-with-a-re
 <br>
 
 
-````{admonition} This is an experimental podcast developed by Google's NotebookLM based on this chapter. This is an AI tool in development and needs to be used with caution.
+```{admonition} This is an experimental podcast developed by Google's NotebookLM based on this chapter. This is an AI tool in development and needs to be used with caution.
 
 <audio controls>
-  <source src="/Users/pvandekerckhov/Documents/GitHub/handbook-innovating-health/book/audio/Podcast chapter definitions.wav" type="audio/wav">
-  <source src="/Users/pvandekerckhov/Documents/GitHub/handbook-innovating-health/book/audio/Podcast chapter definitions.wav" type="audio/wav">
+  <source src="../audio/podcast_chapter_3.mp3" type="audio/mp3">
+  <source src="../audio/podcast_chapter_3.mp3" type="audio/mp3">
 Your browser does not support the audio element.
 </audio>
 ````

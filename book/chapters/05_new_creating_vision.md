@@ -9,6 +9,15 @@
 </center>
 <br>
 
+```{admonition} This is an experimental podcast developed by Google's NotebookLM based on this chapter. This is an AI tool in development and needs to be used with caution.
+
+<audio controls>
+  <source src="../audio/podcast_chapter_5.mp3" type="audio/mp3">
+  <source src="../audio/podcast_chapter_5.mp3" type="audio/mp3">
+Your browser does not support the audio element.
+</audio>
+````
+
 ## Introduction
 
 In the rapidly evolving field of healthcare innovation, having a clear and compelling vision is crucial. A vision serves as a guiding star, illuminating the path towards transformative advancements and ensuring that efforts are aligned with overarching goals. This chapter aims to deepen your understanding of the role of a vision in healthcare innovation and to equip you with the skills to identify the underlying ethical values embedded within it.

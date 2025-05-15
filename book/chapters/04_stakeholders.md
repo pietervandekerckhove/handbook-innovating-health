@@ -14,6 +14,15 @@
 <iframe title="Podcast chapter Front-loading Stakeholders by Google NotebookLM" allowtransparency="true" height="150" width="100%" style="border: none; min-width: min(100%, 430px);height:150px;" scrolling="no" data-name="pb-iframe-player" src="https://www.podbean.com/player-v2/?i=2hjaf-18aaff7-pb&from=pb6admin&share=1&download=1&rtl=0&fonts=Arial&skin=1&font-color=auto&logo_link=episode_page&btn-skin=7" loading="lazy"></iframe>
 ````
 
+```{admonition} This is an experimental podcast developed by Google's NotebookLM based on this chapter. This is an AI tool in development and needs to be used with caution.
+
+<audio controls>
+  <source src="../audio/podcast_chapter_4.mp3" type="audio/mp3">
+  <source src="../audio/podcast_chapter_4.mp3" type="audio/mp3">
+Your browser does not support the audio element.
+</audio>
+````
+
 ## Introduction
 
 Pathways to improve the health system play a critical role to move from concept to implementation. Understanding these pathways allows innovators to design effective strategies, anticipate challenges, and optimize the development process. This chapter explores the relevance of innovation pathways, outlines the traditional biomedical innovation model, highlights the need for improvements in digital health and service-based innovations, and introduces key theories such as the IDER model and front-loading theory to enhance innovation strategies.
