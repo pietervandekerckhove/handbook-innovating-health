@@ -105,6 +105,9 @@
 * <span id="GolemanDavidson2018"></span> **Goleman, D., & Davidson, R. J. (2018).** *Altered traits: Science reveals how meditation changes your mind, brain, and body.* Penguin.
 
 * <span id="Goncalves2021"></span> **Gonçalves, M., & Cash, P. (2021).** The life cycle of creative ideas: Towards a dual-process theory of ideation. *Design Studies, 72*, 100988.
+
+* <span id="GoossensAlbayrak2020"></span> Goossens, R., & Albayrak, A. (2020). Design in Healthcare: Using Patient Journey Mapping. TU Delft.
+
 - <span id="Guest2006"></span> **Guest, G., Bunce, A., & Johnson, L. (2006).** How Many Interviews Are Enough?: An Experiment with Data Saturation and Variability. *Field Methods*, 18, 59–82.
 
 
@@ -166,6 +169,8 @@
 
 - <span id="mavlab"></span> **MAVLab. (2023).** *Fully autonomous drones safely integrated into medical transport.* TU Delft.
 
+* <span id="MellesAlbayrakGoossens2020"></span> Melles, M., Albayrak, A., & Goossens, R. (2020). Innovating health care: Key characteristics of human-centered design. International Journal for Quality in Health Care, 33(Suppl 1), 37–44. https://doi.org/10.1093/intqhc/mzaa127
+
 - <span id="moore2019"></span> **Moore, G., Wilding, H., Gray, K., & Castle, D. (2019).** Participatory methods to engage health service users in the development of electronic health resources: Systematic review. *Journal of Participatory Medicine*. https://doi.org/10.2196/11474
 
 
@@ -201,6 +206,9 @@
 
 
 
+
+* <span id="Ramirez2008"></span> Ramirez, B. (2008). Social determinants of health.
+
 * <span id="reindersma2024"></span> **Reindersma, M., et al. (2024).** *The challenges of implementing value-based healthcare: A systematic review*. Journal of Health Management, 32(1), 56–73.
 
 * <span id="RoelHeijde"></span> **Roel van der Heijde. (n.d.).** *How design thinking is improving patient-caregiver conversations.* Retrieved from [https://roelrotterdam.nl/blog/how-design-thinking-is-improving-patient-caregiver-conversations/](https://roelrotterdam.nl/blog/how-design-thinking-is-improving-patient-caregiver-conversations/)
@@ -231,6 +239,8 @@
 * <span id="sipma2023"></span> **Sipma, W. S., de Jong, M. F., & Ahaus, K. C. (2023).** *“It’s My Life and It’s Now or Never”—Transplant Recipients Empowered From a Service-Dominant Logic Perspective*. Transplant International, 36, 12011.
 
 * <span id="sipma2023a"></span> **Sipma, W. S., de Jong, M. F., Meuleman, Y., Hemmelder, M. H., Ahaus, K. C. T. B. (2023).** *Facing the challenges of PROM implementation in Dutch dialysis care: Patients’ and professionals’ perspectives.* PLoS ONE, 18(5): e0285822. doi: 10.1371/journal.pone.0285822
+
+* <span id="SmuldersMeerGielen2008"></span> Smulders, F., van der Meer, H., & Gielen, M. (2008). Effective communication strategies in collaborative design. Design Studies, 29(5), 421–437.
 
 * <span id="smulders2008"></span> **Smulders, F., Lousberg, L., & Dorst, K. (2008).** *Explicable knowledge in product service systems design*. Design Studies, 29(4), 368–386.
 
@@ -272,6 +282,8 @@
 * <span id="trist1981"></span> **Trist, E. (1981).** *The evolution of socio-technical systems: A conceptual framework and an action research program*. Occasional Paper, Ontario Quality of Working Life Centre.
 
 - <span id="tudelft"></span> **TU Delft. (2023).** *A new air traffic puzzle: Autonomous drones in healthcare logistics.* Retrieved from [https://www.tudelft.nl](https://www.tudelft.nl)
+
+- <span id="TUdelftOpenCourse"></span> TU Delft Open Course. (n.d.). Design healthcare using patient journey mapping. Retrieved from https://ocw.tudelft.nl/courses/design-healthcare-using-patient-journey-mapping/?view=lectures&subject=22696
 
 
 
@@ -339,6 +351,11 @@
 
 
 * <span id="YaleInsights"></span> **Yale Insights. (n.d.).** *Can Design Thinking Reshape an Esteemed Institution?* [Yale Insights](https://insights.som.yale.edu/insights/can-design-thinking-reshape-an-esteemed-institution).
+
+
+
+
+
 
 
 

@@ -576,7 +576,7 @@ Absolutely! Here's a refined, alphabetically ordered version of the reference li
 
 - <span id="szinay2020"></span> **Szinay, D., Jones, A., Chadborn, T., Brown, J., & Naughton, F. (2020).** Influences on the uptake of and engagement with health and well-being smartphone apps: Systematic review. *Journal of Medical Internet Research, 22*(5), e17572. [https://www.jmir.org/2020/5/e17572](https://www.jmir.org/2020/5/e17572). PMID: 32348255
 
-. <span id="trischler2018"></span> **Trischler, J., Pervan, S. J., Kelly, S. J., & Scott, D. R. (2018).** The value of codesign. *Journal of Service Research, 21*(1), 75–100. [https://doi.org/10.1177/1094670517714060](https://doi.org/10.1177/1094670517714060)
+- <span id="trischler2018"></span> **Trischler, J., Pervan, S. J., Kelly, S. J., & Scott, D. R. (2018).** The value of codesign. *Journal of Service Research, 21*(1), 75–100. [https://doi.org/10.1177/1094670517714060](https://doi.org/10.1177/1094670517714060)
 
 - <span id="vandekerckhove2021"></span> **Vandekerckhove, P., de Mul, M., de Groot, L., Elzevier, H. W., Fabels, B., Haj Mohammad, S., et al. (2021).** Lessons for employing participatory design when developing care for young people with cancer: A qualitative multiple-case study. *Journal of Adolescents & Young Adult Oncology, 10*(4), 404-417.
 
