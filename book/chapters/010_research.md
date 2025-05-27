@@ -95,11 +95,9 @@ Research questions and ventures:
 ```{admonition} Bibliography
 :class: note 
 
-- <span id="Vandekerckhove2020"></span> **Vandekerckhove, P., De Mul, M., Bramer, W. M., & De Bont, A. A. (2020).** Generative participatory design methodology to develop electronic health interventions: systematic literature review. *Journal of Medical Internet Research*, 22(4), e13780.
-- <span id="Vandekerckhove2023"></span> **Vandekerckhove, P., Timmermans, J., de Bont, A., & de Mul, M. (2023).** Diversity in stakeholder groups in generative co-design for digital health: assembly procedure and preliminary assessment. *JMIR Human Factors*, 10, e38350.
-- <span id="Wittmayer2024"></span> **Wittmayer, J. M., Huang, Y. S. E., Bogner, K., Boyle, E., Hölscher, K., von Wirth, T., ... & Vasques, A. (2024).** Neither right nor wrong? Ethics of collaboration in transformative research for sustainable futures. *Humanities and Social Sciences Communications*, 11(1), 1–15.
-- <span id="Vandekerckhove2020b"></span> **Vandekerckhove, P., Vandekerckhove, Y., Tavernier, R., De Jaegher, K., & de Mul, M. (2020).** Leveraging user experience to improve video consultations in a cardiology practice during the COVID-19 pandemic: initial insights. *Journal of Medical Internet Research*, 22(6), e19771.
-- <span id="Vandekerckhove2021"></span> **Vandekerckhove, P., De Mul, M., De Groot, L., Elzevier, H. W., Fabels, B., Haj Mohammad, S., ... & Manten-Horst, E. (2021).** Lessons for employing participatory design when developing care for young people with cancer: A qualitative multiple-case study. *Journal of Adolescent and Young Adult Oncology*, 10(4), 404–417.
-
-
+* <span id="Vandekerckhove2020"></span> **Vandekerckhove, P., De Mul, M., Bramer, W. M., & De Bont, A. A. (2020).** Generative participatory design methodology to develop electronic health interventions: systematic literature review. *Journal of Medical Internet Research*, 22(4), e13780.
+* <span id="Vandekerckhove2020b"></span> **Vandekerckhove, P., Vandekerckhove, Y., Tavernier, R., De Jaegher, K., & de Mul, M. (2020).** Leveraging user experience to improve video consultations in a cardiology practice during the COVID-19 pandemic: initial insights. *Journal of Medical Internet Research*, 22(6), e19771.
+* <span id="Vandekerckhove2021"></span> **Vandekerckhove, P., De Mul, M., De Groot, L., Elzevier, H. W., Fabels, B., Haj Mohammad, S., ... & Manten-Horst, E. (2021).** Lessons for employing participatory design when developing care for young people with cancer: A qualitative multiple-case study. *Journal of Adolescent and Young Adult Oncology*, 10(4), 404–417.
+* <span id="Vandekerckhove2023"></span> **Vandekerckhove, P., Timmermans, J., de Bont, A., & de Mul, M. (2023).** Diversity in stakeholder groups in generative co-design for digital health: assembly procedure and preliminary assessment. *JMIR Human Factors*, 10, e38350.
+* <span id="Wittmayer2024"></span> **Wittmayer, J. M., Huang, Y. S. E., Bogner, K., Boyle, E., Hölscher, K., von Wirth, T., ... & Vasques, A. (2024).** Neither right nor wrong? Ethics of collaboration in transformative research for sustainable futures. *Humanities and Social Sciences Communications*, 11(1), 1–15.
 

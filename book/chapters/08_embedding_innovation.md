@@ -260,17 +260,17 @@ Master/graduate level:
 ```{admonition} Bibliography
 :class: note 
 
-- <span id="Cascini2022"></span> **Cascini, G., Nagai, Y., Georgiev, G. V., Zelaya, J., Becattini, N., Boujut, J. F., … & Wodehouse, A. (2022).** Perspectives on design creativity and innovation research: 10 years later. *International Journal of Design Creativity and Innovation, 10*(1), 1–30.  
-- <span id="Goncalves2021"></span> **Gonçalves, M., & Cash, P. (2021).** The life cycle of creative ideas: Towards a dual-process theory of ideation. *Design Studies, 72*, 100988. 
-- <span id="Hatchuel2003"></span> **Hatchuel, A., & Weil, B. (2003).** A new approach of innovative Design: an introduction to CK theory. In *DS 31: Proceedings of ICED 03, the 14th International Conference on Engineering Design, Stockholm*.
-- <span id="YaleInsights"></span> **Yale Insights. (n.d.).** *Can Design Thinking Reshape an Esteemed Institution?* [Yale Insights](https://insights.som.yale.edu/insights/can-design-thinking-reshape-an-esteemed-institution).
-- <span id="Deichmann2017"></span> **Deichmann, D., & Van der Heijde, R. (2017).** *How design thinking is improving patient-caregiver conversations.* *Harvard Business Review*.
-- <span id="RoelHeijde"></span> **Roel van der Heijde. (n.d.).** *How design thinking is improving patient-caregiver conversations.* Retrieved from https://roelrotterdam.nl/blog/how-design-thinking-is-improving-patient-caregiver-conversations/
-- <span id="Schootstra2017"></span> **Schootstra, E., Deichmann, D., & Dolgova, E. (2017).** *Can 10 minutes of meditation make you more creative?* *Harvard Business Review*.
-- <span id="GolemanDavidson2018"></span> **Goleman, D., & Davidson, R. J. (2018).** *Altered traits: Science reveals how meditation changes your mind, brain, and body.* Penguin.
-- <span id="Katz2025"></span> **Katz, B., et al. (2025).** *Healthcare by Design: A User’s Guide to Healthcare Improvement*.
-- <span id="Smulders2008"></span> **Smulders, F., Lousberg, L., & Dorst, K. (2008).** *Towards different communication in collaborative design.* *International Journal of Managing Projects in Business*, 1(3), 352–367. https://doi.org/10.1108/17538370810883819.
-- <span id="Vandekerckhove2021"></span> **Vandekerckhove, P., De Mul, M., De Groot, L., Elzevier, H. W., Fabels, B., Haj Mohammad, S., ... & Manten-Horst, E. (2021).** *Lessons for employing participatory design when developing care for young people with cancer: A qualitative multiple-case study.* *Journal of Adolescent and Young Adult Oncology*, 10(4), 404-417.
+* <span id="Cascini2022"></span> **Cascini, G., Nagai, Y., Georgiev, G. V., Zelaya, J., Becattini, N., Boujut, J. F., … & Wodehouse, A. (2022).** Perspectives on design creativity and innovation research: 10 years later. *International Journal of Design Creativity and Innovation, 10*(1), 1–30.
+* <span id="Deichmann2017"></span> **Deichmann, D., & Van der Heijde, R. (2017).** *How design thinking is improving patient-caregiver conversations.* *Harvard Business Review*.
+* <span id="GolemanDavidson2018"></span> **Goleman, D., & Davidson, R. J. (2018).** *Altered traits: Science reveals how meditation changes your mind, brain, and body.* Penguin.
+* <span id="Goncalves2021"></span> **Gonçalves, M., & Cash, P. (2021).** The life cycle of creative ideas: Towards a dual-process theory of ideation. *Design Studies, 72*, 100988.
+* <span id="Hatchuel2003"></span> **Hatchuel, A., & Weil, B. (2003).** A new approach of innovative Design: an introduction to CK theory. In *DS 31: Proceedings of ICED 03, the 14th International Conference on Engineering Design, Stockholm*.
+* <span id="Katz2025"></span> **Katz, B., et al. (2025).** *Healthcare by Design: A User’s Guide to Healthcare Improvement*.
+* <span id="RoelHeijde"></span> **Roel van der Heijde. (n.d.).** *How design thinking is improving patient-caregiver conversations.* Retrieved from [https://roelrotterdam.nl/blog/how-design-thinking-is-improving-patient-caregiver-conversations/](https://roelrotterdam.nl/blog/how-design-thinking-is-improving-patient-caregiver-conversations/)
+* <span id="Smulders2008"></span> **Smulders, F., Lousberg, L., & Dorst, K. (2008).** *Towards different communication in collaborative design.* *International Journal of Managing Projects in Business*, 1(3), 352–367. [https://doi.org/10.1108/17538370810883819](https://doi.org/10.1108/17538370810883819).
+* <span id="Schootstra2017"></span> **Schootstra, E., Deichmann, D., & Dolgova, E. (2017).** *Can 10 minutes of meditation make you more creative?* *Harvard Business Review*.
+* <span id="Vandekerckhove2021"></span> **Vandekerckhove, P., De Mul, M., De Groot, L., Elzevier, H. W., Fabels, B., Haj Mohammad, S., ... & Manten-Horst, E. (2021).** *Lessons for employing participatory design when developing care for young people with cancer: A qualitative multiple-case study.* *Journal of Adolescent and Young Adult Oncology*, 10(4), 404-417.
+* <span id="YaleInsights"></span> **Yale Insights. (n.d.).** *Can Design Thinking Reshape an Esteemed Institution?* [Yale Insights](https://insights.som.yale.edu/insights/can-design-thinking-reshape-an-esteemed-institution).
 
 
 
