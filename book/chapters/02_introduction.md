@@ -182,47 +182,46 @@ Introduce yourself to other people to form a team, assess your strenghts and wea
 ```{admonition} Bibliography
 :class: note
 
-- <span id="collins"></span> **Collins, J., van Dijk, H., & Smeets, R. (2023).** *Why pilot projects fail: Understanding the gap between testing and scaling in healthcare innovation.* *Journal of Health Innovation, 6*(1), 12–24.
-
-- <span id="euram"></span> **EURAM. (2025).** *Symposium.* Retrieved from [https://conferences.euram.academy/2025conference/symposia/#toggle-id-6](https://conferences.euram.academy/2025conference/symposia/#toggle-id-6)
-
-- <span id="glover"></span> **Glover, W. J., Crocker, A., & Brush, C. G. (2024).** *Healthcare entrepreneurship: An integrative framework for future research.* Journal of Business Venturing Insights, 22, e00476.
-
-- <span id="wilden"></span> **Wilden, R., Garbuio, M., Angeli, F., & Mascia, D. (2018).** *Entrepreneurship in healthcare.* Routledge.
-
 - <span id="burns"></span> **Burns, L. R. (Ed.). (2012).** *The business of healthcare innovation.* Cambridge University Press.
 
-- <span id="oecd"></span> **OECD. (2025).** *Does healthcare deliver?: Results from the patient-reported indicator surveys (PaRIS).* OECD Publishing. [https://doi.org/10.1787/c8af05a5-en](https://doi.org/10.1787/c8af05a5-en)
+- <span id="chakraborty"></span> **Chakraborty, S., Drews, P., & Schirmer, I. (2021).** *Navigating healthcare innovation: Regulatory barriers and enablers.* Health Policy & Technology, 10(2), 55–71.
 
-- <span id="fassbender"></span> **Fassbender, A., Donde, S., Silva, M., Friganovic, A., Stievano, A., Costa, E., ... & van Vugt, J. (2024).** *Adoption of Digital Therapeutics in Europe.* Therapeutics and Clinical Risk Management, 939-954.
-
-- <span id="glover"></span> **Glover, W. J., Crocker, A., & Brush, C. G. (2024).** *Healthcare entrepreneurship: An integrative framework for future research.* Journal of Business Venturing Insights, 22, e00476.
-
-- <span id="mavlab"></span> **MAVLab. (2023).** *Fully autonomous drones safely integrated into medical transport.* TU Delft.
-
-- <span id="helicus"></span> **Helicus. (2023).** *First medical transport by passenger drone in EU.* Retrieved from [https://helicus.com](https://helicus.com)
-
-- <span id="tudelft"></span> **TU Delft. (2023).** *A new air traffic puzzle: Autonomous drones in healthcare logistics.* Retrieved from [https://www.tudelft.nl](https://www.tudelft.nl)
-
-- <span id="tam"></span> **Tam, E. K., & Dong, X. (2021).** *Survey of Residency Directors’ Views on Entrepreneurship.* JMIR Medical Education, 7(2), e19079.
-
-- <span id="hacamo"></span> **Hacamo, I., & Kleiner, K. (2024).** *No experience necessary: the peer effects of intended entrepreneurs.* Review of Finance, 28(4), 1311–1344.
-
-- <span id="friend"></span> **Friend, P., Gupta, R., & Tan, Z. (2023).** *Digital health in the next decade: Trends and predictions.* Global Health Tech Journal, 15(3), 22–39.
-
-- <span id="weimar"></span> **Weimar, B., Huber, J., & Rosenthal, A. (2024).** *The role of AI in the future of digital health.* Journal of Digital Health Policy, 9(1), 18–29.
-
-- <span id="technology"></span> **Technology Foresight - The Future of Human Health. (n.d.).** Retrieved from [https://www.foresight.health](https://www.foresight.health)
-
-- <span id="lee"></span> **Lee, T., Smith, M., & Patel, J. (2021).** *Barriers to digital healthcare adoption: A multi-country analysis.* Health Informatics Journal, 27(1), 44–67.
-
-- <span id="kraus"></span> **Kraus, S., Jones, P., & Kailer, N. (2021).** *Digital transformation in healthcare: A systematic review.* International Journal of Medical Informatics, 150, 104–117.
+- <span id="collins"></span> **Collins, J., van Dijk, H., & Smeets, R. (2023).** *Why pilot projects fail: Understanding the gap between testing and scaling in healthcare innovation.* *Journal of Health Innovation, 6*(1), 12–24.
 
 - <span id="compton"></span> **Compton-Phillips, A. (2024).** *The slow road to digital transformation in healthcare.* Harvard Business Review.
 
+- <span id="euram"></span> **EURAM. (2025).** *Symposium.* Retrieved from [https://conferences.euram.academy/2025conference/symposia/#toggle-id-6](https://conferences.euram.academy/2025conference/symposia/#toggle-id-6)
+
+- <span id="fassbender"></span> **Fassbender, A., Donde, S., Silva, M., Friganovic, A., Stievano, A., Costa, E., ... & van Vugt, J. (2024).** *Adoption of Digital Therapeutics in Europe.* Therapeutics and Clinical Risk Management, 939-954.
+
+- <span id="friend"></span> **Friend, P., Gupta, R., & Tan, Z. (2023).** *Digital health in the next decade: Trends and predictions.* Global Health Tech Journal, 15(3), 22–39.
+
+- <span id="glover"></span> **Glover, W. J., Crocker, A., & Brush, C. G. (2024).** *Healthcare entrepreneurship: An integrative framework for future research.* Journal of Business Venturing Insights, 22, e00476.
+
+- <span id="hacamo"></span> **Hacamo, I., & Kleiner, K. (2024).** *No experience necessary: the peer effects of intended entrepreneurs.* Review of Finance, 28(4), 1311–1344.
+
+- <span id="helicus"></span> **Helicus. (2023).** *First medical transport by passenger drone in EU.* Retrieved from [https://helicus.com](https://helicus.com)
+
+- <span id="kraus"></span> **Kraus, S., Jones, P., & Kailer, N. (2021).** *Digital transformation in healthcare: A systematic review.* International Journal of Medical Informatics, 150, 104–117.
+
+- <span id="lee"></span> **Lee, T., Smith, M., & Patel, J. (2021).** *Barriers to digital healthcare adoption: A multi-country analysis.* Health Informatics Journal, 27(1), 44–67.
+
+- <span id="mavlab"></span> **MAVLab. (2023).** *Fully autonomous drones safely integrated into medical transport.* TU Delft.
+
+- <span id="oecd"></span> **OECD. (2025).** *Does healthcare deliver?: Results from the patient-reported indicator surveys (PaRIS).* OECD Publishing. [https://doi.org/10.1787/c8af05a5-en](https://doi.org/10.1787/c8af05a5-en)
+
 - <span id="smulders"></span> **Smulders, F., Brombacher, A., & den Ouden, E. (2019).** *From invention to integration: Teaching innovation at technical universities.* Design & Innovation Education Review, 5(2), 33–50.
 
-- <span id="chakraborty"></span> **Chakraborty, S., Drews, P., & Schirmer, I. (2021).** *Navigating healthcare innovation: Regulatory barriers and enablers.* Health Policy & Technology, 10(2), 55–71.
+- <span id="tam"></span> **Tam, E. K., & Dong, X. (2021).** *Survey of Residency Directors’ Views on Entrepreneurship.* JMIR Medical Education, 7(2), e19079.
+
+- <span id="technology"></span> **Technology Foresight - The Future of Human Health. (n.d.).** Retrieved from [https://www.foresight.health](https://www.foresight.health)
+
+- <span id="tudelft"></span> **TU Delft. (2023).** *A new air traffic puzzle: Autonomous drones in healthcare logistics.* Retrieved from [https://www.tudelft.nl](https://www.tudelft.nl)
+
+- <span id="weimar"></span> **Weimar, B., Huber, J., & Rosenthal, A. (2024).** *The role of AI in the future of digital health.* Journal of Digital Health Policy, 9(1), 18–29.
+
+- <span id="wilden"></span> **Wilden, R., Garbuio, M., Angeli, F., & Mascia, D. (2018).** *Entrepreneurship in healthcare.* Routledge.
+
 
 
 
