@@ -207,9 +207,12 @@ Choose a challenge, apply the entrepreneurial behaviors to map out the roles and
 ```{admonition} Bibliography
 :class: note 
 
-- <span id="entrecomp"></span> **European Commission Joint Research Centre. (n.d.).** *EntreComp: The Entrepreneurship Competence Framework – Competence areas and learning progression.* Retrieved from [https://joint-research-centre.ec.europa.eu/entrecomp-entrepreneurship-competence-framework/competence-areas-and-learning-progress_en](https://joint-research-centre.ec.europa.eu/entrecomp-entrepreneurship-competence-framework/competence-areas-and-learning-progress_en)
-- <span id="who2020"></span> **World Health Organization. (2020).** *Global Strategy on Digital Health 2020–2025.* Retrieved from [https://www.who.int/publications/i/item/9789240020924](https://www.who.int/publications/i/item/9789240020924)
-- <span id="polimi"></span> **Politecnico di Milano. (n.d.).** *Technology Foresight: Health.* Retrieved from [https://www.foresight.polimi.it/health/1/](https://www.foresight.polimi.it/health/1/)
 - <span id="banschick2021"></span> **Banschick, B. (2021).** *VRx: How Virtual Therapeutics Will Revolutionize Medicine.* HBR Press.
+
+- <span id="entrecomp"></span> **European Commission Joint Research Centre. (n.d.).** *EntreComp: The Entrepreneurship Competence Framework – Competence areas and learning progression.* Retrieved from [https://joint-research-centre.ec.europa.eu/entrecomp-entrepreneurship-competence-framework/competence-areas-and-learning-progress_en](https://joint-research-centre.ec.europa.eu/entrecomp-entrepreneurship-competence-framework/competence-areas-and-learning-progress_en)
+
 - <span id="herzlinger"></span> **Herzlinger, R. E. (2006).** *Why innovation in health care is so hard.* Harvard Business Review, 84(5), 58.
 
+- <span id="polimi"></span> **Politecnico di Milano. (n.d.).** *Technology Foresight: Health.* Retrieved from [https://www.foresight.polimi.it/health/1/](https://www.foresight.polimi.it/health/1/)
+
+- <span id="who2020"></span> **World Health Organization. (2020).** *Global Strategy on Digital Health 2020–2025.* Retrieved from [https://www.who.int/publications/i/item/9789240020924](https://www.who.int/publications/i/item/9789240020924)
