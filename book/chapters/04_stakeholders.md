@@ -550,7 +550,7 @@ Absolutely! Here's a refined, alphabetically ordered version of the reference li
 
 - <span id="hatchuel2003"></span> **Hatchuel, A., & Weil, B. (2003).** A new approach of innovative design: An introduction to CK theory. In *DS 31: Proceedings of ICED 03, the 14th International Conference on Engineering Design*, Stockholm.
 
-- <span id="herzlinger2024"></span> **Herzlinger, R. (2024).** Strategic Partnerships in Healthcare Innovation.
+- <span id="herzlinger2024"></span> **Herzlinger, R. (2024).** Middle Path to Innovation. Harvard Business Review. https://hbr.org/2024/07/the-middle-path-to-innovation.
 
 - <span id="ijzerman2017"></span> **Ijzerman, M. J., Koffijberg, H., Fenwick, E., & Krahn, M. (2017).** Emerging Use of Early Health Technology Assessment in Medical Product Development: A Scoping Review of the Literature. *PharmacoEconomics, 35*(7), 727–740. [https://doi.org/10.1007/S40273-017-0509-1](https://doi.org/10.1007/S40273-017-0509-1)
 
