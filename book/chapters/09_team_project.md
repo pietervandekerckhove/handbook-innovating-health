@@ -885,11 +885,8 @@ How would you develop a strategy to integrate your innovation into the organizat
 ```{admonition} Bibliography
 :class: note 
 
-- <span id="HoangPerkmann2023"></span> **Hoang, H., & Perkmann, M. (2023).** Physician entrepreneurship: A study of early career physicians’ founding motivations and actions. *Social Science & Medicine*, 339, 116393. [https://doi.org/10.1016/j.socscimed.2023.116393](https://doi.org/10.1016/j.socscimed.2023.116393).
-- <span id="Guest2006"></span> **Guest, G., Bunce, A., & Johnson, L. (2006).** How Many Interviews Are Enough?: An Experiment with Data Saturation and Variability. *Field Methods*, 18, 59–82.
-- <span id="ClarkeBraun2017"></span> **Clarke, V., & Braun, V. (2017).** Thematic analysis. *The Journal of Positive Psychology*, 12(3), 297-298.
-- <span id="ChenLiu2015"></span> **Chen, H., & Liu, Y. (2015).** Personas: a powerful tool for designers. In M. G. Luchs, K. S. Swan, & A. Griffin (Eds.), *Design thinking: new product development essentials from the PDMA* (pp. 107–124). Hoboken, NJ: John Wiley & Sons, Ltd.
-- <span id="Rolbiecki2023"></span> **Rolbiecki, A. J., Craig, K., Polniak, M., Smith, J., Ghosh, P., & Mehr, D. R. (2023).** *Virtual reality and neurofeedback for Management of Cancer Symptoms: a feasibility pilot*. *American Journal of Hospice and Palliative Medicine®*, 40(3), 291-298.
-
-
-
+* <span id="ChenLiu2015"></span> **Chen, H., & Liu, Y. (2015).** Personas: a powerful tool for designers. In M. G. Luchs, K. S. Swan, & A. Griffin (Eds.), *Design thinking: new product development essentials from the PDMA* (pp. 107–124). Hoboken, NJ: John Wiley & Sons, Ltd.
+* <span id="ClarkeBraun2017"></span> **Clarke, V., & Braun, V. (2017).** Thematic analysis. *The Journal of Positive Psychology*, 12(3), 297-298.
+* <span id="Guest2006"></span> **Guest, G., Bunce, A., & Johnson, L. (2006).** How Many Interviews Are Enough?: An Experiment with Data Saturation and Variability. *Field Methods*, 18, 59–82.
+* <span id="HoangPerkmann2023"></span> **Hoang, H., & Perkmann, M. (2023).** Physician entrepreneurship: A study of early career physicians’ founding motivations and actions. *Social Science & Medicine*, 339, 116393. [https://doi.org/10.1016/j.socscimed.2023.116393](https://doi.org/10.1016/j.socscimed.2023.116393).
+* <span id="Rolbiecki2023"></span> **Rolbiecki, A. J., Craig, K., Polniak, M., Smith, J., Ghosh, P., & Mehr, D. R. (2023).** *Virtual reality and neurofeedback for Management of Cancer Symptoms: a feasibility pilot*. *American Journal of Hospice and Palliative Medicine®*, 40(3), 291-298.
