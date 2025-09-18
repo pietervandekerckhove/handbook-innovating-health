@@ -1,4 +1,4 @@
-# Value innovation in healthcare: An introduction (DRAFT VERSION)
+# Value sensitive innovation and entrepreneurship in healthcare: An introduction (DRAFT VERSION)
 
 ```{figure} ../figures/Copilot3.jpeg
 :name: figure-example
