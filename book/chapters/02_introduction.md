@@ -204,7 +204,7 @@ Introduce yourself to other people to form a team, assess your strenghts and wea
 
 - <span id="kraus"></span> **Kraus, S., Jones, P., & Kailer, N. (2021).** *Digital transformation in healthcare: A systematic review.* International Journal of Medical Informatics, 150, 104–117.
 
-- <span id="lee"></span> **Lee, T., Smith, M., & Patel, J. (2021).** *Barriers to digital healthcare adoption: A multi-country analysis.* Health Informatics Journal, 27(1), 44–67.
+- <span id="lee"></span> **Lee, S. G., Blood, A., Gordon, W., & Scirica, B. (2021). Disruptive and sustaining innovation in telemedicine: a strategic roadmap. NEJM Catalyst Innovations in Care Delivery, 2(6).
 
 - <span id="mavlab"></span> **MAVLab. (2023).** *Fully autonomous drones safely integrated into medical transport.* TU Delft.
 
