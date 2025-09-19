@@ -186,7 +186,7 @@ Introduce yourself to other people to form a team, assess your strenghts and wea
 
 - <span id="chakraborty"></span> **Chakraborty, S., Drews, P., & Schirmer, I. (2021).** *Navigating healthcare innovation: Regulatory barriers and enablers.* Health Policy & Technology, 10(2), 55–71.
 
-- <span id="collins"></span> **Collins, J., van Dijk, H., & Smeets, R. (2023).** *Why pilot projects fail: Understanding the gap between testing and scaling in healthcare innovation.* *Journal of Health Innovation, 6*(1), 12–24.
+- <span id="collins"></span> **Collins, T. E., Akselrod, S., Altymysheva, A., Nga, P. T. Q., Banatvala, N., & Berlina, D. (2023).** *The promise of digital health technologies for integrated care for maternal and child health and non-communicable diseases.* *BMJ, 381.
 
 - <span id="compton"></span> **Compton-Phillips, A. (2024).** *The slow road to digital transformation in healthcare.* Harvard Business Review.
 
