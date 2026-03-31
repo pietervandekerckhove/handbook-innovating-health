@@ -384,7 +384,7 @@ Conceptually one could use the Deweyan theory of inquiry to develop certain step
 :height: 350px
 :name: figure-example
 
-Stompff, G., van Bruinessen, T., & Smulders, F. (2022). The generative dance of design inquiry: Exploring Dewey's pragmatism for design research. Design Studies, 83, 101136.
+Stompff, G., van Bruinessen, T., & Smulders, F. (2022). The generative dance of design inquiry: Exploring Dewey's pragmatism for design research. Design Studies, 83, 101136. CC BY-NC-ND 4.0
 ```
 
 This means that in an organization people need to be able to get outside of their routines and outside of their comfort zones. Bringing stakeholders together in a psychological safe space is quintessential ([Smulders, 2024](#smulders2024)
@@ -394,7 +394,7 @@ This means that in an organization people need to be able to get outside of thei
 :height: 350px
 :name: figure-example
 
-Smulders, F. (2024). Design Creativity in the Belly of the Beast. Design Management Journal, 19(1), 128-140.
+Smulders, F. (2024). Design Creativity in the Belly of the Beast. Design Management Journal, 19(1), 128-140. 
 ```
 
 
