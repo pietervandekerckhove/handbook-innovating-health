@@ -1,5 +1,7 @@
 # 6. Developing and engineering a prototyping pipeline in line with a financial strategy
-
+```{figure} ../figures/funding_discussion.jpg
+Photo by [Thirdman](https://www.pexels.com/@thirdman) on [Pexels](https://www.pexels.com/photo/colleagues-brainstorming-with-a-whiteboard-7181112/)
+```
 <center>
   <div style="padding: 10px; background-color: #00BBC8; border-radius: 10px; display: inline-block; font-weight: bold; font-size: 16px; color: #000; position: relative;">
     <span style="background-color: white; color: #00BBC8; border-radius: 50%; padding: 5px 10px; font-size: 15px; font-weight: bold; margin-right: 8px; display: inline-block;">Learning Goal</span>

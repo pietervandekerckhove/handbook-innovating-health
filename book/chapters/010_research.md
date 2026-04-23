@@ -1,6 +1,8 @@
 # 9. An open evidence-driven approach
 (author: Dr. Pieter Vandekerckhove)
-
+```{figure} ../figures/library.jpg
+Photo by [Maxence Werp](https://unsplash.com/@maxencewerp) on [Unsplash](https://unsplash.com/photos/a-large-building-with-a-dome-on-top-and-trees-in-the-back-Q_gt3Z0a7DI)
+```
 This book is driven and supported by research, but it also stimulates new research questions and new research initiatives. Here is an overview of the research that I have conducted; research in progress and new research questions I am exploring. All of this research came to fruition through great collaborations with fantastic colleagues. Please reach out to me if you would like to collaborate on these topics.
 
 Below you find a brief overview of the research per chapter.

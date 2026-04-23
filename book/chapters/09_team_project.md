@@ -1,5 +1,7 @@
 # 8. The patient-centered innovation cycle: Initiate & explore, Design & create, Engineer & robustinize, Realize & contexutalize
-
+```{figure} ../figures/co-design.jpg
+Photo by [EVG Kowalievska](https://www.pexels.com/@evg-kowalievska-1173609) on [Pexels](https://www.pexels.com/photo/three-person-looking-at-x-ray-result-1170979/)
+```
 <center>
   <div style="padding: 10px; background-color: #00BBC8; border-radius: 10px; display: inline-block; font-weight: bold; font-size: 16px; color: #000; position: relative;">
     <span style="background-color: white; color: #00BBC8; border-radius: 50%; padding: 5px 10px; font-size: 15px; font-weight: bold; margin-right: 8px; display: inline-block;">Learning goal</span>
