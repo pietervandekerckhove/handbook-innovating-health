@@ -1,8 +1,8 @@
 # Patient centered innovation and entrepreneurship in healthcare: An introduction (DRAFT VERSION)
-## test kp
-### Experimenting 
+
 ```{figure} ../figures/Copilot3.jpeg
 :name: figure-example
+Image generated with Microsoft Copilot.
 ```
 **Authors: Pieter Bart Marcel Vandekerckhove, Bettina Maisch, Steven Howard, Frido Smulders, Benjamin Harris, Samuel Harris, Christophe Van Neste, Wiljeana Glover**
 

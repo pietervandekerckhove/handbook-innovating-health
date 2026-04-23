@@ -330,7 +330,7 @@ The C-K theory helps one to move a team from a knowledge space domains, which ar
 :height: 350px
 :name: figure-example
 
-Frido Smulders, Figure A, https://www.tudelft.nl/en/innovation-impact/pioneering-tech/articles/innovation-is-about-behaviour-not-technology?utm_medium=email&utm_source=pt_newsletter_feb&utm_campaign=always_on#&gid=1&pid=1
+Figure A by Frido Smulders. Source: [Innovation is about behaviour, not technology](https://www.tudelft.nl/en/innovation-impact/pioneering-tech/articles/innovation-is-about-behaviour-not-technology), TU Delft.
 ```
 
 
@@ -347,7 +347,7 @@ Conceptually, a team can move from the knowledge space to the C space and back. 
 :height: 150px
 :name: figure-example
 
-Frido Smulders, https://www.tudelft.nl/en/innovation-impact/pioneering-tech/articles/innovation-is-about-behaviour-not-technology?utm_medium=email&utm_source=pt_newsletter_feb&utm_campaign=always_on#&gid=1&pid=1
+Figure by Frido Smulders. Source: [Innovation is about behaviour, not technology](https://www.tudelft.nl/en/innovation-impact/pioneering-tech/articles/innovation-is-about-behaviour-not-technology), TU Delft.
 ```
 
 
