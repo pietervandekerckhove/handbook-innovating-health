@@ -1,8 +1,8 @@
 format: jb-book
 root: chapters/01_preface.md
-
 parts:
-  - caption: Contents
+  - caption: Chapters
+    numbered: true
     chapters:
       - file: chapters/02_introduction.md
       - file: chapters/03_innovating_definitions.md
@@ -13,6 +13,8 @@ parts:
       - file: chapters/08_embedding_innovation.md
       - file: chapters/09_team_project.md
       - file: chapters/010_research.md
+  - caption: More Information
+    chapters:
       - file: chapters/authors.md
       - file: chapters/references.md
       - file: credits.md
