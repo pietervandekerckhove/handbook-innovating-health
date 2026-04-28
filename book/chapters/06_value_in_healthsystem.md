@@ -1,4 +1,4 @@
-# 5. Defining the value of a problem-solution in a care pathway
+# Defining the value of a problem-solution in a care pathway
 ```{figure} ../figures/ch06leadingimage.jpg
 Photo by [Vitaly Gariev](https://unsplash.com/@vigariev) on [Unsplash](https://unsplash.com/photos/doctor-shows-patient-brain-scans-on-tablet-X_tBkG0U9yM)
 ```

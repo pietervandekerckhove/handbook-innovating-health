@@ -1,4 +1,4 @@
-# 8. The patient-centered innovation cycle: Initiate & explore, Design & create, Engineer & robustinize, Realize & contexutalize
+# The patient-centered innovation cycle: Initiate & explore, Design & create, Engineer & robustinize, Realize & contexutalize
 ```{figure} ../figures/co-design.jpg
 Photo by [EVG Kowalievska](https://www.pexels.com/@evg-kowalievska-1173609) on [Pexels](https://www.pexels.com/photo/three-person-looking-at-x-ray-result-1170979/)
 ```

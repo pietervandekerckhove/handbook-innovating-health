@@ -1,4 +1,4 @@
-# 9. An open evidence-driven approach
+# An open evidence-driven approach
 (author: Dr. Pieter Vandekerckhove)
 ```{figure} ../figures/library.jpg
 Photo by [Maxence Werp](https://unsplash.com/@maxencewerp) on [Unsplash](https://unsplash.com/photos/a-large-building-with-a-dome-on-top-and-trees-in-the-back-Q_gt3Z0a7DI)

@@ -1,4 +1,4 @@
-# 6. Developing and engineering a prototyping pipeline in line with a financial strategy
+# Developing and engineering a prototyping pipeline in line with a financial strategy
 ```{figure} ../figures/funding_discussion.jpg
 Photo by [Thirdman](https://www.pexels.com/@thirdman) on [Pexels](https://www.pexels.com/photo/colleagues-brainstorming-with-a-whiteboard-7181112/)
 ```

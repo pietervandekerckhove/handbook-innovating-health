@@ -1,5 +1,5 @@
-# 4. Creating a valuable vision
-## chapter 4 
+# Creating a valuable vision
+
 ```{figure} ../figures/healthcare_vision.jpg
 Photo by [Michael Berdyugin](https://www.pexels.com/@michael-berdyugin) on [Pexels](https://www.pexels.com/photo/woman-in-white-coat-wearing-blue-and-black-vr-goggles-8704147/)
 ```

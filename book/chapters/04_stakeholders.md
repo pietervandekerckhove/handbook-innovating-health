@@ -1,4 +1,4 @@
-# 3. Front-loading stakeholders
+# Front-loading stakeholders
 
 ```{figure} ../figures/medicalprof_talking.jpg
 Photo by [Tima Miroshnichenko](https://www.pexels.com/@tima-miroshnichenko) on [Pexels](https://www.pexels.com/photo/medical-professionals-talking-together-5452190/)

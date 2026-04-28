@@ -1,4 +1,4 @@
-# 1. Introduction
+# Introduction
 ## adding source image
 ```{figure} ../figures/care-professional.jpg
 Photo by [Online Marketing](https://unsplash.com/@impulsq) on [Unsplash](https://unsplash.com/photos/doctor-holding-red-stethoscope-hIgeoQjS_iE)

@@ -1,4 +1,4 @@
-# 2. Defining innovating and entrepreneuring on an individual level in health organizations
+# Defining innovating and entrepreneuring on an individual level in health organizations
 
 
 ```{figure} ../figures/julien-tromeur-XChsbHDigQM-unsplash.jpg

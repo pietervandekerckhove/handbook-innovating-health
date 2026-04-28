@@ -1,4 +1,4 @@
-# 7. Realizing sustainable integration
+# Realizing sustainable integration
 ```{figure} ../figures/innovation_embedded.jpg
 Photo by [Pavel Danilyuk](https://www.pexels.com/@pavel-danilyuk) on [Pexels](https://www.pexels.com/photo/scientists-in-a-laboratory-8442110/)
 ```
