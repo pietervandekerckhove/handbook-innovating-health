@@ -2,6 +2,7 @@
 
 ```{figure} ../figures/Copilot3.jpeg
 :name: figure-example
+Image generated with Microsoft Copilot.
 ```
 **Authors: Pieter Bart Marcel Vandekerckhove, Bettina Maisch, Steven Howard, Frido Smulders, Benjamin Harris, Samuel Harris, Christophe Van Neste, Wiljeana Glover**
 
@@ -15,7 +16,6 @@ For licensing and credits see: see how to cite an use this open interactive hand
 Your browser does not support the audio element.
 </audio>
 ````
-
 ## Preface
 Healthcare innovation holds immense potential to improve lives, yet many promising ideas never reach the patients who need them most. As an educator and researcher at TU Delft, I have seen how technical breakthroughs often struggle to scale beyond prototypes, failing to integrate into hospital systems or national healthcare policies. This challenge is not just technical, it is fundamentally entrepreneurial.
 

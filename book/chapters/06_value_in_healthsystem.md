@@ -1,5 +1,7 @@
-# 5. Defining the value of a problem-solution in a care pathway
-
+# Defining the value of a problem-solution in a care pathway
+```{figure} ../figures/ch06leadingimage.jpg
+Photo by [Vitaly Gariev](https://unsplash.com/@vigariev) on [Unsplash](https://unsplash.com/photos/doctor-shows-patient-brain-scans-on-tablet-X_tBkG0U9yM)
+```
 <center>
   <div style="padding: 10px; background-color: #00BBC8; border-radius: 10px; display: inline-block; font-weight: bold; font-size: 16px; color: #000; position: relative;">
     <span style="background-color: white; color: #00BBC8; border-radius: 50%; padding: 5px 10px; font-size: 15px; font-weight: bold; margin-right: 8px; display: inline-block;">Learning goal</span>
