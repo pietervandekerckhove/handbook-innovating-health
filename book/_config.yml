@@ -42,6 +42,7 @@ sphinx:
     - sphinx.ext.extlinks
     - sphinx_image_inverter
     - sphinx_iframes
+    - sphinx_apa_references
 
 bibtex_bibfiles: 
   - references.bib
