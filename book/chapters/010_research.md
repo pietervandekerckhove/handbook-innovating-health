@@ -46,14 +46,14 @@ Research questions and ventures:
 * How does front-loading look like in the innovation pathway for patient-centered innovations on a nano level, at the level of daily healthcare practice?
 
     * Why is front-loading stakeholders important?
-        * Key publication: [Vandekerckhove et al. (2020)](#Vandekerckhove2020)
+        * Key publication: {cite}`Vandekerckhove2020b`
         * A theoretical framework to explain the epistemological reasons why stakeholder collaboration is important in generative collaborative design (in review)   
 
     * When to involve stakeholders in this pathway?
 
     * Which stakeholders?
-        * Key publication: Stakeholder assembly procedure Vandekerckhove, [Vandekerckhove et al. (2023)](#Vandekerckhove2023)
-        * Key publication about ethical dillema's to choose stakeholders based on their interest: [Wittmayer et al. (2024)](#Wittmayer2024)
+        * Key publication: Stakeholder assembly procedure Vandekerckhove, {cite}`Vandekerckhove2023`
+        * Key publication about ethical dillema's to choose stakeholders based on their interest: 	{cite}`wittmayer2024`
 
     * How to manage stakeholders along the innovation process?
 
@@ -73,7 +73,7 @@ Research questions and ventures:
 
 ## Chapter 5: Defining the value of a problem-solution in a care pathway
 *  How to define the problem-solution in a care pathway?
-    * key publication:  [Vandekerckhove et al. (2020)](#Vandekerckhove2020b)
+    * key publication:  {cite}`Vandekerckhove2020b`
 
 * What human experience from young cancer patients can be used for patient-centered innovation?
     * A Framework for integrating young adult cancer patient experience in innovations early on: (interviews with patients conducted and data collection in progress)
@@ -87,7 +87,7 @@ Research questions and ventures:
 
 ## 7. Realizing sustainable integration
 * How to front-load key consideration for business model innovations upfront?
-    * Key publication: [Vandekerckhove et al. (2021)](#Vandekerckhove2021)
+    * Key publication: {cite}`vandekerckhove2021`
     * paper accepted JMIR Fromative research (AYA): front-loading key stakeholders to provide sustainable reveneu streams early on embedded in system
     * How to front-load an integration strategy in a clinical pilot for a patient centered innovation? 
         * Study Glimp clinical integration pilot (grant proposal started)

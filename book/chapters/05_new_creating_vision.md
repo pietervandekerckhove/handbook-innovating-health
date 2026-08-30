@@ -93,7 +93,7 @@ One way to develop your vision about the future of healthcare is to develop a st
 
 * Identify Core Ethical Values: Reflect on what matters most to you—equity, sustainability, patient empowerment, or accessibility?
 
-Sometimes digital technologies create ethical conflicts for example new AI tools may increase access to care, but increase inequality between different users of this technology ([Glover et al., 2025](#glover2025)).
+Sometimes digital technologies create ethical conflicts for example new AI tools may increase access to care, but increase inequality between different users of this technology {cite}`glover2025`.
 
 * Observe Current Healthcare Challenges: What problems do you want to solve? What gaps exist in the current system?
 

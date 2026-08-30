@@ -249,7 +249,7 @@ dr. Sascha Verbruggen
 Clinician-turned entrepreneur
 (Add Wiljeana glover article)
 
-[Hoang & Perkmann (2023)](#HoangPerkmann2023)
+{cite}`HoangPerkmann2023`
 
 #### Research perspective
 iCell fundamental researchers insights in biotech (combining insights from genetic insights and lab insights)
@@ -358,9 +358,8 @@ Data analysis table-Pieter Vandekerckhove
 			
 For more in depth research: to properly analyse the data you can use coding software like Atlas.ti or ENVIVO and more recently there are also experimental generative AI or automation tools to transcribe interviews and analyze them. This is what a startup focused on called Qaring (folded). 
 
-For methodological guidance see: [Guest, Bunce & Johnson (2006)](#Guest2006)
-
-[Clarke & Braun (2017)](#ClarkeBraun2017)
+For methodological guidance see: {cite}`Guest2006`
+{cite}`ClarkeBraun2017`
  
 
 
@@ -754,7 +753,7 @@ Your business model will be constantly in development. That is normal, especiall
 3. **Resource Identification**: Identify the materials, laboratory facilities, staff, and production and logistics chain needed for prototyping. Ensure you have access to these resources.
 
 ### Validation and Feedback strategy
-1. **Early in Practice Validation**: Begin with simple validation steps to test your prototypes. For example, you can try a feasibility study similar to the one conducted by [Rolbiecki et al. (2023)](#Rolbiecki2023)
+1. **Early in Practice Validation**: Begin with simple validation steps to test your prototypes. For example, you can try a feasibility study similar to the one conducted by {cite}`Rolbiecki2023`
 , which combined virtual reality and neurofeedback for the management of cancer symptoms. This study demonstrated the potential of innovative approaches in healthcare and provided valuable insights into the feasibility of such interventions.
 2. **Early HTA and Evidence Gathering**: Develop a strategy for early Health Technology Assessment (HTA) and evidence gathering. This involves evaluating the clinical and economic impact of your prototypes. Implement a prototyping evaluation strategy and a clinical evaluation strategy to gather robust evidence supporting your innovation. This step is crucial for gaining market access and ensuring regulatory compliance.
 

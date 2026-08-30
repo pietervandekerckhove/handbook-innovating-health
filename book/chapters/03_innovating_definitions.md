@@ -60,7 +60,7 @@ Different stakeholders in the health system can be entrepreneurial and many of t
 
 Fundamentally it is about the mindset of people looking for the problem of people (in a preventive or curative setting) and wanting to do something about that. This is a very fuzzy concept to define, but you can notice when care professionals are going beyond their comfort zone to look for the best treatment there is for patients they are connecting ideas, people and the organization and move that to a new context, which changes and incorporates that change. 
 
-More abstractly, in line with the Entrecomp framework ([European Commission Joint Research Centre, n.d.](#entrecomp)):
+More abstractly, in line with the Entrecomp framework {cite}`entrecomp`:
 
 ```{figure} ../figures/entrecomp.png
 :height: 250px
@@ -97,7 +97,7 @@ Therefore it becomes key to learn how to use these behaviors in the innovation p
 
 ## Defining Healthcare Technology (STEVE ADD MACRO POLICY AND MARKET TRENDS)
 
-According to the WHO's "Global Strategy on Digital Health 2020-2025", digital health, leverages technology to enhance healthcare delivery systems globally. This includes wearable health monitors, diagnostic imaging systems, robotic surgery, and digital health applications ([World Health Organization, 2020](#who2020)). This includes a broad range of product-service systems. For example: devices, medicines, vaccines, procedures, and systems developed to solve health problems and improve quality of life. These technologies facilitate the prevention, diagnosis, treatment, and monitoring of diseases. Healthcare technology integrates advancements from various fields, including biotechnology, information technology, and medical devices, to enhance patient outcomes and streamline healthcare operations.
+According to the WHO's "Global Strategy on Digital Health 2020-2025", digital health, leverages technology to enhance healthcare delivery systems globally. This includes wearable health monitors, diagnostic imaging systems, robotic surgery, and digital health applications {cite}`who2020`. This includes a broad range of product-service systems. For example: devices, medicines, vaccines, procedures, and systems developed to solve health problems and improve quality of life. These technologies facilitate the prevention, diagnosis, treatment, and monitoring of diseases. Healthcare technology integrates advancements from various fields, including biotechnology, information technology, and medical devices, to enhance patient outcomes and streamline healthcare operations.
 
 
 
@@ -109,9 +109,9 @@ According to the WHO's "Global Strategy on Digital Health 2020-2025", digital he
 
 **Trends in Health Technology** (Steve to add policy and state specific trends)
 
-The Politecnico di Milano's Technology Foresight report ([Politecnico di Milano, n.d.](#polimi)) provides insights into future trends and innovations in healthcare technology. This foresight is critical for anticipating and preparing for upcoming challenges and opportunities in MedTech. Emerging trends include AI-driven diagnostics, precision medicine, telehealth expansion, and the integration of blockchain for secure health data management. These advancements drive efficiency, accessibility, and personalized care, paving the way for transformative changes in the healthcare industry. 
+The Politecnico di Milano's Technology Foresight report {cite}`polimi` provides insights into future trends and innovations in healthcare technology. This foresight is critical for anticipating and preparing for upcoming challenges and opportunities in MedTech. Emerging trends include AI-driven diagnostics, precision medicine, telehealth expansion, and the integration of blockchain for secure health data management. These advancements drive efficiency, accessibility, and personalized care, paving the way for transformative changes in the healthcare industry. 
 
-See also [Banschick (2021)](#banschick2021).
+See also {cite}`banschick2021`.
 
 ```{admonition} Trends in The Netherlands
 :class: tip
@@ -128,7 +128,7 @@ https://www.rivm.nl/publicaties/e-healthmonitor-2023-stand-van-zaken-digitale-zo
 
 **Strategic alignment of stakeholder incentives upfront**
 
-Healthcare innovation is notoriously challenging due to multiple structural, regulatory, and behavioral barriers. As outlined by [Herzlinger (2006)](#herzlinger) in "Why Innovation in Health Care Is So Hard", several factors contribute to this difficulty. 
+Healthcare innovation is notoriously challenging due to multiple structural, regulatory, and behavioral barriers. As outlined by {cite}`herzlinger2006` in "Why Innovation in Health Care Is So Hard", several factors contribute to this difficulty. 
 
 Please read the article: "Why Innovation in Health Care Is So Hard": In this seminal article, Herzlinger identifies several systemic barriers that make healthcare innovation particularly difficult. She argues that the complexity of healthcare systems, coupled with regulatory constraints, misaligned incentives, and risk-averse stakeholders, creates a challenging environment for new innovations to thrive. The article highlights key factors contributing to these difficulties, such as fragmented healthcare markets, resistance to disruptive change, and the challenge of balancing scientific rigor with market-driven entrepreneurial strategies. Herzlinger emphasizes the need for strategic alignment between policymakers, investors, and healthcare providers to foster an ecosystem conducive to sustainable innovation.
 
